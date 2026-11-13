@@ -1,0 +1,13 @@
+{
+  "operation": "web__run exact-ID search",
+  "date": "2026-10-09",
+  "queries": [
+    "\"7684470051759541531\" \"发布时间\"",
+    "\"7675332702165339446\" \"发布时间\"",
+    "\"7688377427998854450\" \"发布时间\"",
+    "\"7686419309731548470\" \"发布时间\""
+  ],
+  "returned_result": "Empty search results; No results were found for the provided queries",
+  "new_acceptable_dates": 0,
+  "interpretation": "精确原页本轮仍无可接受日期；补充检索也未取得日期。不推断视频永久不可访问，不从ID、收录或上传时间猜填。"
+}

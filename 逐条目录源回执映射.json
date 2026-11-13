@@ -1,0 +1,4600 @@
+[
+  {
+    "video_id": "7685352868332817707",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[0]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI改稿千万别再说“帮我优化一下” 这次把常用的7条改稿指令整理出来了#AI #AI办公 #提示词 #职场效率 #人工智能",
+    "local_title": "AI改稿千万别再说“帮我优化一下” 这次把常用的7条改稿指令整理出来了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7693156653553683763",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[1]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI写口播稿，4步去掉“念稿感” #AI写作 #AI办公 #口播文案 #自媒体 #AI提效",
+    "local_title": "AI写口播稿，4步去掉“念稿感”",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7692779502711180595",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[2]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "让AI读资料，别只会让它总结 #AI #AI工具 #AI提示词 #职场效率 #办公效率",
+    "local_title": "让AI读资料，别只会让它总结",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7692413519664303400",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[3]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI整理会议纪要，别只会总结 #AI #AI工具 #AI提示词 #职场效率 #会议纪要",
+    "local_title": "AI整理会议纪要，别只会总结",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7692006549526547727",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[4]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "用AI起标题，别只跟它说“帮我想10个” #AI #AI工具 #AI提示词 #自媒体 #内容创作",
+    "local_title": "用AI起标题，别只跟它说“帮我想10个”",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7691674337455230217",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[5]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "领导让你做方案，先把这4句话丢给AI #AI #人工智能 #AI工具 #AI办公 #职场效率",
+    "local_title": "领导让你做方案，先把这4句话丢给AI",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7691298708675169563",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[6]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "2026最后3个月，建议把这30个问题认真回答一遍 #个人成长 #人生复盘 #目标管理 #AI #自我提升",
+    "local_title": "2026最后3个月，建议把这30个问题认真回答一遍",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7690926428967144730",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[7]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI做PPT，先把汇报逻辑搭出来 #AI #AI做PPT #PPT #AI办公 #职场效率",
+    "local_title": "AI做PPT，先把汇报逻辑搭出来",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7690544610229161242",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[8]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI反向提问法，把AI变成你的战略顾问 #AI #提示词 #AI指令 #ChatGPT #职场效率",
+    "local_title": "AI反向提问法，把AI变成你的战略顾问",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7690167561530461503",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[9]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI写东西别只说“去掉AI味”，这7条更好用 #AI #AI写作 #AI指令 #提示词 #职场效率",
+    "local_title": "AI写东西别只说“去掉AI味”，这7条更好用",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7689767526577835305",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[10]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI改图总是越改越乱？记住这7条指令 #AI改图 #AI指令 #AI工具 #提示词 #AI实用技巧",
+    "local_title": "AI改图总是越改越乱？记住这7条指令",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7689382819998485801",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[11]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "当人人都有一个聪明的AI以后，人与人的差距还剩什么？ #人工智能 #AI #黄仁勋 #AI时代 #认知提升",
+    "local_title": "当人人都有一个聪明的AI以后，人与人的差距还剩什么？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7689111016508050742",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[12]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "现在做漫剧这么简单了吗 #AI漫剧 #AI",
+    "local_title": "现在做漫剧这么简单了吗",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7688661808160279817",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[13]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI为什么会一本正经地瞎编？这就是“AI幻觉” #AI #AI幻觉#人工智能#AI工具#ChatGPT",
+    "local_title": "AI为什么会一本正经地瞎编？这就是“AI幻觉”",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7688371473337027883",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[14]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "当AI真的开始“自己想办法”，问题可能就不只是它有多聪明了。 #AI #人工智能 #Agent #OpenAI #科技",
+    "local_title": "当AI真的开始“自己想办法”，问题可能就不只是它有多聪明了。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7687961830458740003",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[15]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI名字越来越多，但其实先分清模型、应用和Agent这三层 #AI模型 #ChatGPT #DeepSeek #豆包 #Agent",
+    "local_title": "AI名字越来越多，但其实先分清模型、应用和Agent这三层",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7686506064203894062",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[16]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "写周报，别一上来就让AI直接写 #AI办公 #工作周报 #AI提示词 #职场干货 #工作效率",
+    "local_title": "写周报，别一上来就让AI直接写",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7686459514798886184",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[17]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI下一阶段，可能不再拼谁更聪明，而是谁更能干活 #人工智能 #AI趋势 #Agent #AI工具 #工作效率",
+    "local_title": "AI下一阶段，可能不再拼谁更聪明，而是谁更能干活",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7686092149917601059",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[18]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "一条提示词，把流水账周报改成成果汇报 #AI办公 #工作周报 #职场干货 #AI提示词 #工作效率",
+    "local_title": "一条提示词，把流水账周报改成成果汇报",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7686089417747959074",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[19]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "把你的工作经历丢给AI，它可能会发现你没意识到的机会 #人工智能 #AI工具 #职场成长 #副业 #个人成长",
+    "local_title": "把你的工作经历丢给AI，它可能会发现你没意识到的机会",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7685734364553989419",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[20]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "现在还自己一页一页做PPT，真的太浪费时间了 完整提示词我已经整理好了。#AI #PPT #AI办公 #职场效率 #提示词",
+    "local_title": "现在还自己一页一页做PPT，真的太浪费时间了 完整提示词我已经整理好了。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7684228240709274931",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[21]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI写工作总结，第一句话千万别这么说 完整8类AI写材料指令已经整理好了。#AI #工作总结 #AI办公 #职场效率 #提示词",
+    "local_title": "AI写工作总结，第一句话千万别这么说 完整8类AI写材料指令已经整理好了。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7683889655497968939",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[22]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "开完会别只让AI总结 昨天开了一个多小时的会，导出来28页会议记录。飞书总结已经不错，但我发现真正有用的是：把自己的身份、目标、当前问题一起告诉AI，让它直接筛出“这场会对我有什么用、下一步该干什么”。我把这次实测过的提示词也放在视频里了，需要的暂停截图就行#AI #会议纪要 #AI办公 #职场效率 #人工智能",
+    "local_title": "开完会别只让AI总结 昨天开了一个多小时的会，导出来28页会议记录。飞书总结已经不错，但我发现真正有用的是：把自己的身份、目标、当前问题一起告诉AI，让它直接筛出“这场会对我有什么用、下一步该干什么”。我把这次实测过的提示词也放在视频里了，需要的暂停截图就行",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7683103713891831092",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[23]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "做AI账号快一个月，我决定换一种方式了 #AI #人工智能 #个人IP #自媒体 #超级个体",
+    "local_title": "做AI账号快一个月，我决定换一种方式了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7682715455454186790",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[24]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "现在做漫剧这么简单了吗 #AI漫剧 #AI",
+    "local_title": "现在做漫剧这么简单了吗",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681519978285223183",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[25]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "5套AI提示词帮你做谷票分析 #AI提示词 #炒股技巧 #AI工具 #理财干货",
+    "local_title": "5套AI提示词帮你做谷票分析",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681517730649951526",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[26]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "别再自己写提示词了，这句指令就够了 #AI提示词 #AI技巧 #万能指令 #效率工具 #职场必备",
+    "local_title": "别再自己写提示词了，这句指令就够了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681514720217648390",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[27]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "4个AI提示词，搞定你的周报 建议收藏#AI提示词 #办公技巧 #打工人周报 #职场干货",
+    "local_title": "4个AI提示词，搞定你的周报 建议收藏",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681284402537712950",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[28]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "用AI总没效果？这段提示词直接让AI变专属顾问 #AI提示词 #AI技巧 #AI #效率工具 #职场必备",
+    "local_title": "用AI总没效果？这段提示词直接让AI变专属顾问",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7680924972725980451",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[29]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "一条指令，让AI不再瞎编 #AI工具 #AI使用技巧 #自媒体工具 #办公技巧",
+    "local_title": "一条指令，让AI不再瞎编",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7680510584764239145",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[30]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "不管在哪上班，都要记住这6个手段 #职场 #职场干货 #写材料 #AI工具 #会议",
+    "local_title": "不管在哪上班，都要记住这6个手段",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7680177709267340553",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[31]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "打工人一定要悄悄收藏好这四个AI指令 #办公技巧 #职场 #AI",
+    "local_title": "打工人一定要悄悄收藏好这四个AI指令",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7679812558240386344",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[32]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "让豆包成为你的搞米高手，5条直接抄的提示词指令 #AI自媒体 #豆包使用技巧 #搞钱思路 #AI提示词 #AI工具",
+    "local_title": "让豆包成为你的搞米高手，5条直接抄的提示词指令",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7679401583641218331",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[33]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "把这四句话发给AI，零基础也能快速入门任意新领域！ #AI提示词 #高效学习 #普通人玩转A I #自我提升 #学习工具",
+    "local_title": "把这四句话发给AI，零基础也能快速入门任意新领域！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7679034464034919529",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[34]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "把这四句提示词发给AI，自动补充实例数据、删掉空话套话，长短句优化，改完直接能用，职场人建议收藏。 #职场干货 #AI提示词 #打工人必备 #职场干货 #如何用好ai",
+    "local_title": "把这四句提示词发给AI，自动补充实例数据、删掉空话套话，长短句优化，改完直接能用，职场人建议收藏。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7678677534011149614",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[35]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "用AI做PPT一条指令搞定 #AI工具 #PPT技巧 #职场干货 #AI提示词 #办公效率",
+    "local_title": "用AI做PPT一条指令搞定",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7678313346587774251",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[36]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "一个含金量炸裂的AI提示词 #AI提示词 #AI玩法 #普通人玩转AI #大模型 #干货分享",
+    "local_title": "一个含金量炸裂的AI提示词",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7677944215208332590",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[37]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI客服成\"拦路墙\"！喊破喉咙也转不了人工，是谁的问题？ #AI客服 #AI客服为何挡路 #科技吐槽 #人工智能 #社会热点",
+    "local_title": "AI客服成\"拦路墙\"！喊破喉咙也转不了人工，是谁的问题？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7677614527676042511",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[38]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "用AI写材料，90%的人都用错了 AI不是全自动写手，是你的文字秘书，教你人机协作写材料的正确思路。#AI #AI指令 #AI办公 #职场 #知识分享",
+    "local_title": "用AI写材料，90%的人都用错了 AI不是全自动写手，是你的文字秘书，教你人机协作写材料的正确思路。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7677193736392117555",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[39]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI老板开除真人员工，你愿意让AI当你老板吗 #AI #大模型 #人工智能 #科技改变生活",
+    "local_title": "AI老板开除真人员工，你愿意让AI当你老板吗",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7676814505564818723",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[40]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "三句话去除AI味，让生成的文章更有活人感 #AI #AI提示词 #职场 #AI写作 #AI指令",
+    "local_title": "三句话去除AI味，让生成的文章更有活人感",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7676454232060398857",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[41]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "做重要决策前，先让AI全力反驳你一次！ #AI提示词 #AI指令 #实用小技巧",
+    "local_title": "做重要决策前，先让AI全力反驳你一次！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7676081471161093403",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[42]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "AI做PPT，几条指令，快速提高生产力，快来试试吧 #AI #AI办公 #AI指令 #职场 #真实生活分享计划",
+    "local_title": "AI做PPT，几条指令，快速提高生产力，快来试试吧",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7675711697117580582",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[43]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "Ai写材料千万别说“润色一下”了 #Ai #Ai指令 #Ai写作 #知识分享 #真实生活分享计划",
+    "local_title": "Ai写材料千万别说“润色一下”了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7675333317377428736",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[44]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "目前为止用过最惊艳的提示词，让Ai理清背景和需求 #Ai #Ai工具 #人工智能 #知识分享 #ai提示词",
+    "local_title": "目前为止用过最惊艳的提示词，让Ai理清背景和需求",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674990194566729003",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[45]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "90%的人都用错AI，吃透这3个思维，从此告别熬夜改材料 #Ai #Ai写作 #职场 #知识分享",
+    "local_title": "90%的人都用错AI，吃透这3个思维，从此告别熬夜改材料",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674623106060799247",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[46]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "Ai改稿，别再说“优化一下”了！七大指令来帮忙 #ai写作工具 #ai #ai指令 #新媒体运营",
+    "local_title": "Ai改稿，别再说“优化一下”了！七大指令来帮忙",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674242822328962331",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[47]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "别再盲目换Al模型！2个提示词直接拉满输出质量 #AI #人工智能#Al提效 #Ai指令#Al使用技巧",
+    "local_title": "别再盲目换Al模型！2个提示词直接拉满输出质量",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7673835835849985289",
+    "author": "AI超能力老马",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_0bbac9ff438941069d0fdad36eac432e",
+      "output_jsonl_line": 118,
+      "content_block_index": 1,
+      "source_section": "lmDirectory[48]",
+      "source_block_sha256": "e5301dfa0720f35750876c4b491632b41f3b4e936e3558d33750538ae7fadbd7",
+      "timestamp": "2026-10-07T02:49:51.211Z"
+    },
+    "source_title": "33岁辞职在家，我决定用AI把自己重养一遍 #AI重养自己 #普通人学AI #辞职后的生活 #超级个体OPC",
+    "local_title": "33岁辞职在家，我决定用AI把自己重养一遍",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7631156732495924495",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[0]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "让这几个AI替我上班, 卷疯同事早下班2小时! #办公神器 #效率神器 #打工人效率神器 #AI工具 #青年创作者成长计划",
+    "local_title": "让这几个AI替我上班, 卷疯同事早下班2小时!",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7613370565042130211",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[1]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "2025🆚2026！10类AI工具汇总，20秒看懂！！ #AI工具 #AI设计 #AI编程 #学习 #青年创作者成长计划",
+    "local_title": "2025🆚2026！10类AI工具汇总，20秒看懂！！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7521342122201599272",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[2]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "3C充电宝也不能带上飞机了？快收下这份新自查指南 #充电宝 #电芯 #召回 #充电宝爆炸 #3C标识",
+    "local_title": "3C充电宝也不能带上飞机了？快收下这份新自查指南",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7690812098695751345",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[3]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "真没想到00后出海卖拖鞋都用Agent 拿着这双3D打印拖鞋，我突然脑子里冒出来一个问题，要是这鞋真要出海，我该先做什么？我又能做什么？ 我把手上能用的Agent全都试了一遍。 ✨ 第一步 先询问同类鞋的相关信息，还有买家在意的各个要点，让Agent把整理好的线索做成图表和网页 ✨ 第二步 写下我想要的颜色、样品要求，逐一把对应的材料、工时、损耗全部列出来 ✨ 第三步 接着生成鞋款图片和页面草稿 最后设计图和页面出来的时候，呈现的效果还挺有画面感的。 #ai学习指南 #ai实战技巧 #实用ai技能 #我在抖音学AI #我的长长长假",
+    "local_title": "真没想到00后出海卖拖鞋都用Agent 拿着这双3D打印拖鞋，我突然脑子里冒出来一个问题，要是这鞋真要出海，我该先做什么？我又能做什么？ 我把手上能用的Agent全都试了一遍。",
+    "title_projection": "shortened prefix; full source title retained here",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": false,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7688734921733371621",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[4]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "0基础文科生做出高级网站滚动特效 #交互设计 #普通人如何用ai #我在抖音学ai #vibecoding #我的长长长假",
+    "local_title": "0基础文科生做出高级网站滚动特效",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7688012570679473529",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[5]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "在创作者大会抓了九个大佬， 分享他们学习AI的经验！创作者大会好玩，明年还来！ #在抖音触发生活的彩蛋 #抖音创作者大会 #普通人如何用ai #我将认真品鉴aigc届的权威 #ai属于每个普通人",
+    "local_title": "在创作者大会抓了九个大佬， 分享他们学习AI的经验！创作者大会好玩，明年还来！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7687968896745309425",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[6]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "0代码全自动建模做3D可互动个人网站， 四步学会！ #3D建模 #分享我的ai工作流 #普通人在ai时代 #我在抖音学ai #普通人如何用ai",
+    "local_title": "0代码全自动建模做3D可互动个人网站， 四步学会！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7686467838543228645",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[7]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "我用GPT6复现哈利波特巫师棋3D版！ 手机上也能玩！！ #gpt6 #3d建模 #我将认真品鉴aigc届的权威 #分享我的AI工作流 #普通人如何用ai",
+    "local_title": "我用GPT6复现哈利波特巫师棋3D版！ 手机上也能玩！！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7685721668543828389",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[8]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "找到了gpt6做3D的正确打开方式 #我在抖音学ai #离不开ai之人 #ai属于每个普通人 #3d建模 #空间设计",
+    "local_title": "找到了gpt6做3D的正确打开方式",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7684964806038639995",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[9]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "AI超现实演唱会vlog, Yuri实体出乎我意料！ #虚拟偶像 #普通人在ai时代 #我在抖音学ai #数字人#aigc审美积累",
+    "local_title": "AI超现实演唱会vlog, Yuri实体出乎我意料！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7682731402208002937",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[10]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "2分钟看懂，howto一句话把爆款短剧重制出海 #我在抖音学ai #把你的经验做成skill #干货满满超实用 #ai视频 #ai短剧",
+    "local_title": "2分钟看懂，howto一句话把爆款短剧重制出海",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681267902200652473",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[11]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "这9个大🔥Skill婚纱照修图审美在我之上！ #普通人的ai学习指南 #我在抖音学ai #复古婚纱照 #高审美婚纱照 #情侣",
+    "local_title": "这9个大🔥Skill婚纱照修图审美在我之上！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7679038187008828261",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[12]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "5个案例看懂AI商用成片！（带提示语） 最近用了不少视频模型，又有点小心得 #ai圈来了位天才 #我在抖音学ai #天塌下来有我的ai顶着 #AI视频 #AI新星计划",
+    "local_title": "5个案例看懂AI商用成片！（带提示语） 最近用了不少视频模型，又有点小心得",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7678677334375395173",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[13]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "现在的AI音乐一点儿不AI了！ #AI写歌 #聊天记录唱歌 #AI歌曲 #天塌下来有我的AI顶着 #我在抖音学ai",
+    "local_title": "现在的AI音乐一点儿不AI了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7677840163334202021",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[14]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "我说白了谁看到这台个人机器人能忍得住啊！ #人形机器人加速落地 #个人机器人 #国产机器人崛起 #普通人的ai时代 #人形机器人量产",
+    "local_title": "我说白了谁看到这台个人机器人能忍得住啊！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7676448141454280805",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[15]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "靠AI跨平台做电商，1人管理5店。#电商 #电商创业 #AI电商 #普通人的AI时代 #AI新星计划",
+    "local_title": "靠AI跨平台做电商，1人管理5店。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7675733178816146533",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[16]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一定要大量的频繁的记录自己！ 这直接替代了我的AI眼镜👓 #普通人在ai时代 #AI新星计划 #ai接管了我的乱七八糟 #我在抖音学AI #AI硬件",
+    "local_title": "一定要大量的频繁的记录自己！ 这直接替代了我的AI眼镜👓",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7675712436825066793",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[17]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "谁说P人旅行不靠谱啊！ #旅行 #p人旅游 #旅行攻略 #普通人的ai时代 #AI新星计划",
+    "local_title": "谁说P人旅行不靠谱啊！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674224670610412987",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[18]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "9万积分横测三大AI模型，量产性价比我选它 #普通人怎么用ai #人类驯服ai大赏 #AI视频 #AI玩法 #普通人如何入门AI",
+    "local_title": "9万积分横测三大AI模型，量产性价比我选它",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7670115877458677033",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[19]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "3招学会高效用Seedance2.5，前后对比。 #遇事不决用ai #开启ai时代 #普通人怎么用ai #AI视频 #AI工具",
+    "local_title": "3招学会高效用Seedance2.5，前后对比。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7664615945948537829",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[20]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "逛了3天WAIC，明年我想带着“一人公司”回来 #我给waic划重点 #waic线上接头点 #抖音前沿科技首发计划 #WAIC2026 #普通人的ai时代",
+    "local_title": "逛了3天WAIC，明年我想带着“一人公司”回来",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7663471511341020133",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[21]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "从夯到拉锐评10个高分科研Skill！ #我在抖音聊科技 #我的ai开窍了 #想学ai先做起来 #AI新星计划 #拆解ai新玩法",
+    "local_title": "从夯到拉锐评10个高分科研Skill！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7657159815734652154",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[22]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "8种热门插画AI提示语，30秒一次性看懂！ 什么？！现在才刷到啊！！#设计干货分享 #抖音前沿科技首发计划 #AI新星计划 #手搓万物 #拆解ai新玩法",
+    "local_title": "8种热门插画AI提示语，30秒一次性看懂！ 什么？！现在才刷到啊！！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7656765884686497765",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[23]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "重启2026，我用主动型Agent重建个人知识库！ 知识库这块我卷卷卷！ #抖音前沿科技首发计划 #vibecoding大赏 #AI新星计划 #手搓万物 #AI工具",
+    "local_title": "重启2026，我用主动型Agent重建个人知识库！",
+    "title_projection": "shortened prefix; full source title retained here",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": false,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7655284108465893733",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[24]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "实用提示语分享🔥卷疯同事早下班两小时 #设计干货分享 #抖音前沿科技首发计划 #vibecoding大赏 #AI新星计划 #手搓万物",
+    "local_title": "实用提示语分享🔥卷疯同事早下班两小时",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7654922329579518885",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[25]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！ #抖音前沿科技首发计划 #vibecoding大赏 #AI新星计划 #手搓万物 #ai工具",
+    "local_title": "Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7652722632979412665",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[26]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "不写提示语，我让300个AI Agent预测世界杯，结果。。 #抖音前沿科技首发计划 #vibecoding #AI新星计划 #手搓万物 #skills",
+    "local_title": "不写提示语，我让300个AI Agent预测世界杯，结果。。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7652227241678586106",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[27]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "谁懂啊，Agent都开始明码标价接单了。。。 新新新劳动力啊！#AI新星计划 #vibecoding大赏 #Agent #提示语 #开源项目",
+    "local_title": "谁懂啊，Agent都开始明码标价接单了。。。 新新新劳动力啊！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7651551098453054713",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: kpData.rows[28]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "谁是数学天才？13个AI决战高考数学，结果… #高考数学 #ai高考 #人工智能 #2026高考 #青年创作者成长计划",
+    "local_title": "谁是数学天才？13个AI决战高考数学，结果…",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7650067930188680486",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 1; video_id=7650067930188680486; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "国内用Codex的10个进阶用法｜普通人入门教程",
+    "local_title": "国内用Codex的10个进阶用法｜普通人入门教程",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7647755135346560291",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 2; video_id=7647755135346560291; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道Codex和ClaudeCode可以一起用了？",
+    "local_title": "你怎么知道Codex和ClaudeCode可以一起用了？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7645298262123007275",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 3; video_id=7645298262123007275; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Skill+团队经验包才是多Agent协作的下一步！",
+    "local_title": "Skill+团队经验包才是多Agent协作的下一步！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644900317791882537",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 4; video_id=7644900317791882537; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "居然有家视频Agent把工作流开源成了24个Skill！",
+    "local_title": "居然有家视频Agent把工作流开源成了24个Skill！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644583712067259691",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 5; video_id=7644583712067259691; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "住手啊，你们都给AI调成啥了！ 我蚌埠住了啊！",
+    "local_title": "住手啊，你们都给AI调成啥了！ 我蚌埠住了啊！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644128056763878708",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 6; video_id=7644128056763878708; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "我把Andrej Karpathy这三年， 做成了15个skills！",
+    "local_title": "我把Andrej Karpathy这三年， 做成了15个skills！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7642670745717801658",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 7; video_id=7642670745717801658; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道这5个skills能做好看可编辑的HTML PPT 做的HTML PPT可算不是只有文字了，中看不中用了！",
+    "local_title": "你怎么知道这5个skills能做好看可编辑的HTML PPT 做的HTML PPT可算不是只有文字了，中看不中用了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7642309214290906418",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 8; video_id=7642309214290906418; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "卷疯同事，我用一个文档把5个办公软件取代了",
+    "local_title": "卷疯同事，我用一个文档把5个办公软件取代了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7639348300004625704",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 9; video_id=7639348300004625704; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道我有7x24小时自动做视频的方法！",
+    "local_title": "你怎么知道我有7x24小时自动做视频的方法！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7638972606162504998",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 10; video_id=7638972606162504998; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "谁能拒绝Image 2画出来的3D世界呢！ 无意中发现的新玩法耶",
+    "local_title": "谁能拒绝Image 2画出来的3D世界呢！ 无意中发现的新玩法耶",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7633787896285220131",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 11; video_id=7633787896285220131; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道我100+就让马斯克帮我带Team啊",
+    "local_title": "你怎么知道我100+就让马斯克帮我带Team啊",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7631545640668957998",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 12; video_id=7631545640668957998; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道我有复刻大片感网站的方法？",
+    "local_title": "你怎么知道我有复刻大片感网站的方法？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7630799904943770915",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 13; video_id=7630799904943770915; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "卷疯同事，这几个AI帮我上班｜早下班2小时",
+    "local_title": "卷疯同事，这几个AI帮我上班｜早下班2小时",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7630071003615366435",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 14; video_id=7630071003615366435; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "卷疯同事，60秒用AI搞定【可编辑高质感】PPT",
+    "local_title": "卷疯同事，60秒用AI搞定【可编辑高质感】PPT",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7628979480756800768",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 15; video_id=7628979480756800768; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道？！147个AI员工我一键部署了",
+    "local_title": "你怎么知道？！147个AI员工我一键部署了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7628594549060914467",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 16; video_id=7628594549060914467; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "你怎么知道DESIGN.md里藏了60个大厂设计语言！",
+    "local_title": "你怎么知道DESIGN.md里藏了60个大厂设计语言！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7625635622681693492",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 17; video_id=7625635622681693492; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "短剧效率天花板！banana和seedance能一站式用了",
+    "local_title": "短剧效率天花板！banana和seedance能一站式用了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7623744757646249267",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 18; video_id=7623744757646249267; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "一句话让虾接管我的工作，skills就用这几个！",
+    "local_title": "一句话让虾接管我的工作，skills就用这几个！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7623004935449349427",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 19; video_id=7623004935449349427; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "让AI更有电影感的打光秘诀，60秒看懂！",
+    "local_title": "让AI更有电影感的打光秘诀，60秒看懂！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7621183005171731722",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 20; video_id=7621183005171731722; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "2026了，谁还在说AI视频不可控？",
+    "local_title": "2026了，谁还在说AI视频不可控？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7620788994699267378",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 21; video_id=7620788994699267378; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "都2026了，打车就让AI全托管了吧",
+    "local_title": "都2026了，打车就让AI全托管了吧",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7618181288893140274",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 22; video_id=7618181288893140274; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "一键部署OpenClaw，一分钟看懂！",
+    "local_title": "一键部署OpenClaw，一分钟看懂！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7617803735980428570",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 23; video_id=7617803735980428570; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "设计师最期待的功能，AI能出psd源文件了！",
+    "local_title": "设计师最期待的功能，AI能出psd源文件了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7617698953701641510",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 24; video_id=7617698953701641510; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "金三银四，卷疯同事！AI办公小技巧们！",
+    "local_title": "金三银四，卷疯同事！AI办公小技巧们！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7616237412196388102",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 25; video_id=7616237412196388102; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "OpenClaw5大超实用玩法，自进化，第二大脑，创意去重",
+    "local_title": "OpenClaw5大超实用玩法，自进化，第二大脑，创意去重",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7615624383465351013",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 26; video_id=7615624383465351013; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "删前速看！现在轮到AI花我的钱雇别人干活了",
+    "local_title": "删前速看！现在轮到AI花我的钱雇别人干活了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7613722027542727951",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 27; video_id=7613722027542727951; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "2025vs2026｜10类AI工具大推荐！20秒看懂！",
+    "local_title": "2025vs2026｜10类AI工具大推荐！20秒看懂！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7612972919748119848",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 28; video_id=7612972919748119848; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "别找了！2分钟看懂9种AI视频的创意玩法",
+    "local_title": "别找了！2分钟看懂9种AI视频的创意玩法",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7611074474712124714",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 29; video_id=7611074474712124714; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒看懂，我私藏的卡点AI产品广告工作流",
+    "local_title": "60秒看懂，我私藏的卡点AI产品广告工作流",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7606568038476893503",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 30; video_id=7606568038476893503; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "文科生学AI｜如何挑便宜大碗还好用的大模型",
+    "local_title": "文科生学AI｜如何挑便宜大碗还好用的大模型",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7604820129662176558",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 31; video_id=7604820129662176558; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "3个技巧让你的视频拍出电影感，去掉AI味！",
+    "local_title": "3个技巧让你的视频拍出电影感，去掉AI味！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7604683144771423514",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 32; video_id=7604683144771423514; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Tim失去的不只是声音，还有他的下半张脸。。。 昨天看了影视飓风发的视频，听了Tim说的话试了一下，发现真的有点恐怖了。。。。",
+    "local_title": "Tim失去的不只是声音，还有他的下半张脸。。。 昨天看了影视飓风发的视频，听了Tim说的话试了一下，发现真的有点恐怖了。。。。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7604470583551642922",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 33; video_id=7604470583551642922; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒看懂，AI有了大导演的分镜思维会有多强",
+    "local_title": "60秒看懂，AI有了大导演的分镜思维会有多强",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7603363958384299305",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 34; video_id=7603363958384299305; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Windows 用户，终于等来了自己的桌面级Agent",
+    "local_title": "Windows 用户，终于等来了自己的桌面级Agent",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7603013076908051754",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 35; video_id=7603013076908051754; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "文科生学AI｜Clawdbot改变你的8小时工作流",
+    "local_title": "文科生学AI｜Clawdbot改变你的8小时工作流",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7601134096869281030",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 36; video_id=7601134096869281030; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒用AI搞定「纯妹妹」同款风格MV音乐制作",
+    "local_title": "30秒用AI搞定「纯妹妹」同款风格MV音乐制作",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7601033371921304895",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 37; video_id=7601033371921304895; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "比gemini3还要好的「抄」UI界面详细教程，带提示语",
+    "local_title": "比gemini3还要好的「抄」UI界面详细教程，带提示语",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7600407253132381483",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 38; video_id=7600407253132381483; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒复刻任何你想要的特效，提示语随便写",
+    "local_title": "30秒复刻任何你想要的特效，提示语随便写",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7599663516555021574",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 39; video_id=7599663516555021574; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "这款国产ClaudeCowork太牛了，还支持Skills",
+    "local_title": "这款国产ClaudeCowork太牛了，还支持Skills",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7599266237713075510",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 40; video_id=7599266237713075510; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Skill复刻DanKoe一百萬刀文章,有手就行",
+    "local_title": "Skill复刻DanKoe一百萬刀文章,有手就行",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7598413197380472114",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 41; video_id=7598413197380472114; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "现实世界宝可梦图鉴来了！用AI【抓】鸟！",
+    "local_title": "现实世界宝可梦图鉴来了！用AI【抓】鸟！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7597048316391656713",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 42; video_id=7597048316391656713; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "AI求职新招！2步生成动态人脉卡，HR主动找上门",
+    "local_title": "AI求职新招！2步生成动态人脉卡，HR主动找上门",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7595566751081958675",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 43; video_id=7595566751081958675; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒看懂AI视频全新玩法，能实时交互了？",
+    "local_title": "60秒看懂AI视频全新玩法，能实时交互了？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7595204391716654355",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 44; video_id=7595204391716654355; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂，用AI把别人的知识库变成可编辑PPT！",
+    "local_title": "30秒看懂，用AI把别人的知识库变成可编辑PPT！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7594462060688264490",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 45; video_id=7594462060688264490; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "别再说AI难控了，空间感才是商业广告变高级的秘密",
+    "local_title": "别再说AI难控了，空间感才是商业广告变高级的秘密",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7593626070377631012",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 46; video_id=7593626070377631012; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "锐评下CES上特斯拉新对手，阶跃车载智能体",
+    "local_title": "锐评下CES上特斯拉新对手，阶跃车载智能体",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7592629305679645979",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 47; video_id=7592629305679645979; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂，AI复刻爆笑影视名场面（有教程",
+    "local_title": "30秒看懂，AI复刻爆笑影视名场面（有教程",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7592217926040571162",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 48; video_id=7592217926040571162; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "1000年后，沉浸式清洁我废弃的童年",
+    "local_title": "1000年后，沉浸式清洁我废弃的童年",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7590394781840003249",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 49; video_id=7590394781840003249; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "年轻人第1个机器人来了，稚晖君出品！ 小到能塞书包里，还可以骑着狗出行",
+    "local_title": "年轻人第1个机器人来了，稚晖君出品！ 小到能塞书包里，还可以骑着狗出行",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7589663302800706816",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 50; video_id=7589663302800706816; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "想买机器狗当宠物的，看完这 45 秒再决定",
+    "local_title": "想买机器狗当宠物的，看完这 45 秒再决定",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7588125273464327430",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 51; video_id=7588125273464327430; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "挑战！不用Gemini，国产模型也可以做手势互动游戏了！",
+    "local_title": "挑战！不用Gemini，国产模型也可以做手势互动游戏了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7587752096271846662",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 52; video_id=7587752096271846662; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "AI生成游戏世界？2026的游戏行业要变天了！",
+    "local_title": "AI生成游戏世界？2026的游戏行业要变天了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7587434475966024996",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 53; video_id=7587434475966024996; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "下班学AI｜如何轻松解决拖延症（附提示语",
+    "local_title": "下班学AI｜如何轻松解决拖延症（附提示语",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7586665943263104296",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 54; video_id=7586665943263104296; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "普通人做AI漫剧，短剧有多简单？（工作流分享）",
+    "local_title": "普通人做AI漫剧，短剧有多简单？（工作流分享）",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7585171407584169216",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 55; video_id=7585171407584169216; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "下班学AI｜如何高效整理碎片知识（附知识体系 so easy^_^",
+    "local_title": "下班学AI｜如何高效整理碎片知识（附知识体系 so easy^_^",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7582940234946497830",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 56; video_id=7582940234946497830; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "2步直出带分镜的AI产品广告，附工作流",
+    "local_title": "2步直出带分镜的AI产品广告，附工作流",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7582476459994926355",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 57; video_id=7582476459994926355; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "2分钟看懂，5年闲置老手机0成本爆改豆包AI手机",
+    "local_title": "2分钟看懂，5年闲置老手机0成本爆改豆包AI手机",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7581834978569293119",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 58; video_id=7581834978569293119; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "一句话生成AI应用，0代码小白友好",
+    "local_title": "一句话生成AI应用，0代码小白友好",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7581485066757393718",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 59; video_id=7581485066757393718; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "50秒看懂，爆火AI巨人效果视频怎么做",
+    "local_title": "50秒看懂，爆火AI巨人效果视频怎么做",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7580726126029344006",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 60; video_id=7580726126029344006; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "得罪设计师我也要说！亚马逊套图一句话搞定",
+    "local_title": "得罪设计师我也要说！亚马逊套图一句话搞定",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7580319673380523305",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 61; video_id=7580319673380523305; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂，如何低成本做AI视频❗️",
+    "local_title": "30秒看懂，如何低成本做AI视频❗️",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7579608495134166307",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 62; video_id=7579608495134166307; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "编辑视频现在比P图还简单，我看不懂AI了",
+    "local_title": "编辑视频现在比P图还简单，我看不懂AI了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7579217666712325376",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 63; video_id=7579217666712325376; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Help！AI把我送进了疯狂动物城。。。",
+    "local_title": "Help！AI把我送进了疯狂动物城。。。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7579141220572630272",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 64; video_id=7579141220572630272; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "文科生学AI，任何时候开始都不晚 告别ai信息焦虑，文科生学AI可以从code做起",
+    "local_title": "文科生学AI，任何时候开始都不晚 告别ai信息焦虑，文科生学AI可以从code做起",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7577385469319662883",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 65; video_id=7577385469319662883; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "这些高一致的AI海报都是怎么做的，60秒看懂",
+    "local_title": "这些高一致的AI海报都是怎么做的，60秒看懂",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7577016945342450996",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 66; video_id=7577016945342450996; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂700种Nano Bnanan2玩法",
+    "local_title": "30秒看懂700种Nano Bnanan2玩法",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7576640982343617832",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 67; video_id=7576640982343617832; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "快用它给你的丑PPT，Word，Excel去去AI味儿",
+    "local_title": "快用它给你的丑PPT，Word，Excel去去AI味儿",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7576166446259129615",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 68; video_id=7576166446259129615; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "1分钟用上Nano Banana2国产版！ 7个设计师必学的偷懒神招",
+    "local_title": "1分钟用上Nano Banana2国产版！ 7个设计师必学的偷懒神招",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7574694910515793152",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 69; video_id=7574694910515793152; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Gemini3同款的全模态AI在手机上用有多惊艳，90秒看懂",
+    "local_title": "Gemini3同款的全模态AI在手机上用有多惊艳，90秒看懂",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7574411761814670644",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 70; video_id=7574411761814670644; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "给大家来个短小精悍的Gemini 3.0 Pro教程!",
+    "local_title": "给大家来个短小精悍的Gemini 3.0 Pro教程!",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7573673006162119988",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 71; video_id=7573673006162119988; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "阿里千问app的5种神级玩法，90秒看懂",
+    "local_title": "阿里千问app的5种神级玩法，90秒看懂",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7572936049614130432",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 72; video_id=7572936049614130432; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "tx都出手了，AI浏览器到底有啥魔力啊？",
+    "local_title": "tx都出手了，AI浏览器到底有啥魔力啊？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7572799883179052328",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 73; video_id=7572799883179052328; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "关注这5个海外大神，帮你快速上手AI， 还能用OpenAI浏览器Atlas实现每日追更！",
+    "local_title": "关注这5个海外大神，帮你快速上手AI， 还能用OpenAI浏览器Atlas实现每日追更！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7571441039165246720",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 74; video_id=7571441039165246720; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒看懂，AI复刻百万产品广告",
+    "local_title": "60秒看懂，AI复刻百万产品广告",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7571069789825748276",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 75; video_id=7571069789825748276; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "Claude消失后，我们还有AI模型能用吗？",
+    "local_title": "Claude消失后，我们还有AI模型能用吗？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7570288872865729827",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 76; video_id=7570288872865729827; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒用AI复刻东京电影节同款画面！",
+    "local_title": "60秒用AI复刻东京电影节同款画面！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7569603749493214504",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 77; video_id=7569603749493214504; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂AI特效怎么做，不用写提示语！",
+    "local_title": "30秒看懂AI特效怎么做，不用写提示语！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7569215575273114920",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 78; video_id=7569215575273114920; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "智能体帮我做实盘？如何让口袋安安全全",
+    "local_title": "智能体帮我做实盘？如何让口袋安安全全",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7567335348569804058",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 79; video_id=7567335348569804058; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "60秒教你玩转丝滑首尾帧，小白进",
+    "local_title": "60秒教你玩转丝滑首尾帧，小白进",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7566983174824250670",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 80; video_id=7566983174824250670; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "打工人别看！5个让你准时下班的AI用法",
+    "local_title": "打工人别看！5个让你准时下班的AI用法",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7565110478993624339",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 81; video_id=7565110478993624339; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "一天开会8小时，靠这个“铁片”还能按时下班！",
+    "local_title": "一天开会8小时，靠这个“铁片”还能按时下班！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7564791674396888371",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 82; video_id=7564791674396888371; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "2025了，可算有AI能解读看病报告了",
+    "local_title": "2025了，可算有AI能解读看病报告了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7564422441200553225",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 83; video_id=7564422441200553225; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "这些好玩的AI效果，原来是它们做的！",
+    "local_title": "这些好玩的AI效果，原来是它们做的！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7564007320137649446",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 84; video_id=7564007320137649446; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "DeepSeek和PaddleOCR-VL 让我看到AI新的可能",
+    "local_title": "DeepSeek和PaddleOCR-VL 让我看到AI新的可能",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7563674092134518066",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 85; video_id=7563674092134518066; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "30秒看懂，多人同屏口型同步效果是这样做的。",
+    "local_title": "30秒看懂，多人同屏口型同步效果是这样做的。",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7563167181899336969",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 86; video_id=7563167181899336969; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "换人物、做特效、换声音背景...好用AI工具合集",
+    "local_title": "换人物、做特效、换声音背景...好用AI工具合集",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7561449682723999003",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 87; video_id=7561449682723999003; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "这谁分得清？ DeepSeek V3.2 PK 蚂蚁新开源的Ring-1T",
+    "local_title": "这谁分得清？ DeepSeek V3.2 PK 蚂蚁新开源的Ring-1T",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7560722005188775218",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 88; video_id=7560722005188775218; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "AI视频演技已经好到这样了？30秒教你怎么做",
+    "local_title": "AI视频演技已经好到这样了？30秒教你怎么做",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7558475514853330236",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 89; video_id=7558475514853330236; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "宅家照出片！全网选出7️⃣个豆包神级指令 原图基础，P图就不基础 出图就像呼吸般简单",
+    "local_title": "宅家照出片！全网选出7️⃣个豆包神级指令 原图基础，P图就不基础 出图就像呼吸般简单",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7555734124430986506",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 90; video_id=7555734124430986506; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "90秒看懂，如何用AI做会推理的高密度信息海报",
+    "local_title": "90秒看懂，如何用AI做会推理的高密度信息海报",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7555112535762980147",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 91; video_id=7555112535762980147; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "进来听，你能分得清哪些音乐是AI吗",
+    "local_title": "进来听，你能分得清哪些音乐是AI吗",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7554345136726183219",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 92; video_id=7554345136726183219; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "90秒学会，用中文做出音画同步的电影级镜头！",
+    "local_title": "90秒学会，用中文做出音画同步的电影级镜头！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7554020627221466394",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 93; video_id=7554020627221466394; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "90秒学会，AI完成电影级情绪表演！",
+    "local_title": "90秒学会，AI完成电影级情绪表演！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7551960911708245306",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 94; video_id=7551960911708245306; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "学AI就喝丝瓜汤，做长视频就用Seko",
+    "local_title": "学AI就喝丝瓜汤，做长视频就用Seko",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7551065999114603810",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 95; video_id=7551065999114603810; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "关注这6个海外大神，帮你快速上手AI， 还能用Agent浏览器Fellou CE实现每日追更！",
+    "local_title": "关注这6个海外大神，帮你快速上手AI， 还能用Agent浏览器Fellou CE实现每日追更！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7550656581646486824",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 96; video_id=7550656581646486824; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "AI邪修做创意广告有多快...1分钟讲清",
+    "local_title": "AI邪修做创意广告有多快...1分钟讲清",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7550285379863629116",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 97; video_id=7550285379863629116; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "程序员沉默了，AI编程原来小白也能用",
+    "local_title": "程序员沉默了，AI编程原来小白也能用",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7549944643783593273",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 98; video_id=7549944643783593273; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "帮我看看我用一小时做的MV效果咋样？",
+    "local_title": "帮我看看我用一小时做的MV效果咋样？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7549542947461811514",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 99; video_id=7549542947461811514; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "我用它给iPhone17丑橙色设计了一整套物料！",
+    "local_title": "我用它给iPhone17丑橙色设计了一整套物料！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7549207128931274041",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 100; video_id=7549207128931274041; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "文心X1.1凭啥追上GPT5啊？",
+    "local_title": "文心X1.1凭啥追上GPT5啊？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7548068587240525075",
+    "author": "卡尔的AI沃茨",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_9951aaea6845468bac9395bef8f07617",
+      "output_jsonl_line": 273,
+      "content_block_index": 1,
+      "source_section": "TSV row 101; video_id=7548068587240525075; exclude adjacent count output",
+      "source_block_sha256": "2d839ab327c5e0a807c869f59dd7382ff86eae73350a70adec99baa4747d57ca",
+      "timestamp": "2026-10-07T02:56:31.408Z"
+    },
+    "source_title": "我离那艺娜就差一个AI美音了！",
+    "local_title": "我离那艺娜就差一个AI美音了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674081798107926115",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[0]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一招教你量产ai电商图 #电商运营 #干货 #ai工具",
+    "local_title": "一招教你量产ai电商图",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7671189642053952936",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[1]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "仿真机器人离我们还有多远 #仿真机器人 #AI #人形机器人",
+    "local_title": "仿真机器人离我们还有多远",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7683435284305874085",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[2]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "大一新生必看！豆包 Agent 帮你理顺 #AI#AI科普#豆包agent #豆包工作",
+    "local_title": "大一新生必看！豆包 Agent 帮你理顺",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7681570266534792490",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[3]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "豆包 Agent 帮你整理备考资料，效率拉满#AI#AI科普#豆包agent #豆包工作",
+    "local_title": "豆包 Agent 帮你整理备考资料，效率拉满",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7680862002092294632",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[4]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "豆包 Agent 太懂打工人！ 下班躺沙发用手机就能改完 PPT#AI#AI科普#豆包agent #豆包工作",
+    "local_title": "豆包 Agent 太懂打工人！ 下班躺沙发用手机就能改完 PPT",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7680455057002823080",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[5]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "职场人必学的豆包Agent pc客户端所有用户，不限新老，送30天会员#AI#AI科普#豆包agent #豆包工作",
+    "local_title": "职场人必学的豆包Agent pc客户端所有用户，不限新老，送30天会员",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7674945631789839808",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[6]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一招教会你用AI做立体特效 #AI #AIGC #特效",
+    "local_title": "一招教会你用AI做立体特效",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7673791443156219045",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[7]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "ChatGpt居然还能制订饮食计划 #AI #AI用法 #chatgpt4",
+    "local_title": "ChatGpt居然还能制订饮食计划",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7673027347301339491",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[8]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一招教你产出爆款视频 #ai #aigc #ai漫剧 #大数据上热搜",
+    "local_title": "一招教你产出爆款视频",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7672313593246124451",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[9]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一条视频教会你超火的AI特效 #AI#AI特效",
+    "local_title": "一条视频教会你超火的AI特效",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7672303620955887680",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[10]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "PPT一键直出——AI居然已经发展到这个程度了 #AI #AI办公 #AIPPT",
+    "local_title": "PPT一键直出——AI居然已经发展到这个程度了",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7671969297027699961",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[11]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "一句话就能当导演？ #ai #aigc #ai短剧生成工具",
+    "local_title": "一句话就能当导演？",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7670501763410078144",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[12]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "AI创意——让建筑动起来 #AI #AI创意 #AIGC",
+    "local_title": "AI创意——让建筑动起来",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7668610752106551168",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[13]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "全员Skill的时代来了！ #遇事不决问豆包 #人类对豆包的开发不足百分之一 #拆解爆款视频#ai漫剧#ai短剧",
+    "local_title": "全员Skill的时代来了！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7667182589472346063",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[14]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "阔镜新生 #手机 #tapnow #aigc #ai奇妙夜 #ai生成",
+    "local_title": "阔镜新生",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7654124296378287464",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[15]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "不断突破，冲冲冲！ #足球 #aigc #AI奇妙物语 #热点 #运动",
+    "local_title": "不断突破，冲冲冲！",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7651507475464694351",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[16]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "以晶石寄意 #aigc #tapnow #ai奇妙物语 #数码科技",
+    "local_title": "以晶石寄意",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7648097775217524687",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[17]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "AI耳机新物种，出场❗️ #耳机 #AI奇妙物语 #aigc #ai创作 #数码",
+    "local_title": "AI耳机新物种，出场❗️",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7645132710020659407",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[18]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "上古海神，随形而至 #汽车 #aigc #ai创作 #神话",
+    "local_title": "上古海神，随形而至",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644782535563077007",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[19]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "三国实力派偶像合影教程 #治愈系风景 #ai #aigc #脑洞 #手机",
+    "local_title": "三国实力派偶像合影教程",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644492259598133090",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[20]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "小红帽大战大灰狼 #一起看电影🎬 #脑洞 #动画 #ai #aigc",
+    "local_title": "小红帽大战大灰狼",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7644139269262972303",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[21]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "和我一起回到梦幻城堡吧 #公主登场 #ai #aigc #动画",
+    "local_title": "和我一起回到梦幻城堡吧",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7643675289009138612",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[22]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "看看谁的马更快 #ai创作 #汽车 #脑洞 #aigc",
+    "local_title": "看看谁的马更快",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7642278686888801920",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[23]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "清洁之王大战萌宠 #aigc #ai #萌宠 #它好像知道自己很可爱 #有些猫天生就是主角",
+    "local_title": "清洁之王大战萌宠",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7642241638923810536",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[24]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "受任于败军之际，奉命于危难之间 #三国名场面 #超燃漫剪 #ai #tapnow",
+    "local_title": "受任于败军之际，奉命于危难之间",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7641897010854354792",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[25]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "12点钟声敲响，会发生什么呢❓ #aigc #蒙娜丽莎 #脑洞 #tapnow #原图直出",
+    "local_title": "12点钟声敲响，会发生什么呢❓",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7641869138316027456",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[26]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "穿越到古代，看我给木兰送外卖 #tapnow #aigc #ai #脑洞",
+    "local_title": "穿越到古代，看我给木兰送外卖",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7640781996202059176",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[27]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "选对空调，夏天实现空调自由🍻#空调 #夏天该有的样子 #ai #科技改变生活 #aigc",
+    "local_title": "选对空调，夏天实现空调自由🍻",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7640322004718140879",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[28]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "选对好的精华居然这么滋润❗️❗️❗️ #ai #aigc #豆包 #创作者扶持计划 #sk-ii",
+    "local_title": "选对好的精华居然这么滋润❗️❗️❗️",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  },
+  {
+    "video_id": "7640099698175884195",
+    "author": "蓝点Ai",
+    "source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "JSON object bpData/kpData: bpData.rows[29]",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "source_title": "来杯咖啡，提提神❗️❗️❗️ #aigc #AI #打工人 #豆包",
+    "local_title": "来杯咖啡，提提神❗️❗️❗️",
+    "title_projection": "exact normalized",
+    "checks": {
+      "like_display_match": true,
+      "title_normalized_match": true,
+      "title_prefix_projection_match": true
+    },
+    "read_layer": "directory only; no audiovisual coverage"
+  }
+]

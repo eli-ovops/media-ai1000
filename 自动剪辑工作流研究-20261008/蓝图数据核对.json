@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-08",
+  "validation": "TEXT_AND_SYNTHETIC_DATA_ONLY",
+  "json_parse": true,
+  "cut_range_and_time_map_arithmetic": true,
+  "frame_count": true,
+  "caption_time_mapping": true,
+  "graphic_ranges": true,
+  "all_examples_draft_and_unexecuted": true,
+  "real_media_input_used": false,
+  "video_rendered": false,
+  "real_cut_precision": "UNKNOWN",
+  "human_continuous_review": "NOT_PERFORMED"
+}

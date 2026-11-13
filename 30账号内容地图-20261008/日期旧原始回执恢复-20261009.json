@@ -1,0 +1,682 @@
+[
+  {
+    "video_id": "7692006549526547727",
+    "url": "https://www.douyin.com/video/7692006549526547727",
+    "raw_date_text": "发布时间： 2026-10-02 18:37",
+    "published_at": "2026-10-02 18:37",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T04:13:06.621Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 2021,
+      "call_id": "call_Pg0QjShcsllAUBlu7XwXhipD",
+      "timestamp": "2026-10-07T04:13:06.621Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "AX current-page URL and 发布时间"
+  },
+  {
+    "video_id": "7692006549526547727",
+    "url": "https://www.douyin.com/video/7692006549526547727",
+    "raw_date_text": "发布时间： 2026-10-02 18:37",
+    "published_at": "2026-10-02 18:37",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T04:13:06.655Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 2022,
+      "call_id": "call_Pg0QjShcsllAUBlu7XwXhipD",
+      "timestamp": "2026-10-07T04:13:06.655Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "AX current-page URL and 发布时间"
+  },
+  {
+    "video_id": "7676003922847608945",
+    "url": "https://www.douyin.com/video/7676003922847608945",
+    "raw_date_text": "发布时间：2026-08-20 18:22",
+    "published_at": "2026-08-20 18:22",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:28:32.156Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3478,
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "timestamp": "2026-10-07T06:28:32.156Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7672277266874172785",
+    "url": "https://www.douyin.com/video/7672277266874172785",
+    "raw_date_text": "发布时间：2026-08-10 15:14",
+    "published_at": "2026-08-10 15:14",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:28:32.156Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3478,
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "timestamp": "2026-10-07T06:28:32.156Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7676003922847608945",
+    "url": "https://www.douyin.com/video/7676003922847608945",
+    "raw_date_text": "发布时间：2026-08-20 18:22",
+    "published_at": "2026-08-20 18:22",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:28:35.797Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3480,
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "timestamp": "2026-10-07T06:28:35.797Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7672277266874172785",
+    "url": "https://www.douyin.com/video/7672277266874172785",
+    "raw_date_text": "发布时间：2026-08-10 15:14",
+    "published_at": "2026-08-10 15:14",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:28:35.797Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3480,
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "timestamp": "2026-10-07T06:28:35.797Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7673059940270219697",
+    "url": "https://www.douyin.com/video/7673059940270219697",
+    "raw_date_text": "发布时间：2026-08-12 16:31",
+    "published_at": "2026-08-12 16:31",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:54:21.467Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3647,
+      "call_id": "call_PGUbhHMnr0lF98HBSl2WfsoH",
+      "timestamp": "2026-10-07T06:54:21.467Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7681308885337481137",
+    "url": "https://www.douyin.com/video/7681308885337481137",
+    "raw_date_text": "发布时间：2026-09-03 23:41",
+    "published_at": "2026-09-03 23:41",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:54:21.467Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3647,
+      "call_id": "call_PGUbhHMnr0lF98HBSl2WfsoH",
+      "timestamp": "2026-10-07T06:54:21.467Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7673059940270219697",
+    "url": "https://www.douyin.com/video/7673059940270219697",
+    "raw_date_text": "发布时间：2026-08-12 16:31",
+    "published_at": "2026-08-12 16:31",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:54:21.469Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3648,
+      "call_id": "call_PGUbhHMnr0lF98HBSl2WfsoH",
+      "timestamp": "2026-10-07T06:54:21.469Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7681308885337481137",
+    "url": "https://www.douyin.com/video/7681308885337481137",
+    "raw_date_text": "发布时间：2026-09-03 23:41",
+    "published_at": "2026-09-03 23:41",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T06:54:21.469Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 3648,
+      "call_id": "call_PGUbhHMnr0lF98HBSl2WfsoH",
+      "timestamp": "2026-10-07T06:54:21.469Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "page paired with exact video URL"
+  },
+  {
+    "video_id": "7685196022947056911",
+    "url": "https://www.douyin.com/video/7685196022947056911",
+    "raw_date_text": "发布时间：2026-09-14 09:25",
+    "published_at": "2026-09-14 09:25",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:44:08.379Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5830,
+      "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+      "timestamp": "2026-10-07T10:44:08.379Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7685196022947056911",
+    "url": "https://www.douyin.com/video/7685196022947056911",
+    "raw_date_text": "发布时间：2026-09-14 09:25",
+    "published_at": "2026-09-14 09:25",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:44:08.382Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5831,
+      "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+      "timestamp": "2026-10-07T10:44:08.382Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7690297713681796393",
+    "url": "https://www.douyin.com/video/7690297713681796393",
+    "raw_date_text": "发布时间：2026-09-28 12:25",
+    "published_at": "2026-09-28 12:25",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.610Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5867,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.610Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7688617760657509651",
+    "url": "https://www.douyin.com/video/7688617760657509651",
+    "raw_date_text": "发布时间：2026-09-23 16:32",
+    "published_at": "2026-09-23 16:32",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.610Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5867,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.610Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7687223099644742975",
+    "url": "https://www.douyin.com/video/7687223099644742975",
+    "raw_date_text": "发布时间：2026-09-19 20:31",
+    "published_at": "2026-09-19 20:31",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.610Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5867,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.610Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7690297713681796393",
+    "url": "https://www.douyin.com/video/7690297713681796393",
+    "raw_date_text": "发布时间：2026-09-28 12:25",
+    "published_at": "2026-09-28 12:25",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.618Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5868,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.618Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7688617760657509651",
+    "url": "https://www.douyin.com/video/7688617760657509651",
+    "raw_date_text": "发布时间：2026-09-23 16:32",
+    "published_at": "2026-09-23 16:32",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.618Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5868,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.618Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7687223099644742975",
+    "url": "https://www.douyin.com/video/7687223099644742975",
+    "raw_date_text": "发布时间：2026-09-19 20:31",
+    "published_at": "2026-09-19 20:31",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:04.618Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5868,
+      "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+      "timestamp": "2026-10-07T10:46:04.618Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7686592375963012393",
+    "url": "https://www.douyin.com/video/7686592375963012393",
+    "raw_date_text": "发布时间：2026-09-18 08:01",
+    "published_at": "2026-09-18 08:01",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:41.016Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5880,
+      "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+      "timestamp": "2026-10-07T10:46:41.016Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7686005693291171112",
+    "url": "https://www.douyin.com/video/7686005693291171112",
+    "raw_date_text": "发布时间：2026-09-16 17:41",
+    "published_at": "2026-09-16 17:41",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:41.016Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5880,
+      "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+      "timestamp": "2026-10-07T10:46:41.016Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7686592375963012393",
+    "url": "https://www.douyin.com/video/7686592375963012393",
+    "raw_date_text": "发布时间：2026-09-18 08:01",
+    "published_at": "2026-09-18 08:01",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:41.027Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5881,
+      "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+      "timestamp": "2026-10-07T10:46:41.027Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7686005693291171112",
+    "url": "https://www.douyin.com/video/7686005693291171112",
+    "raw_date_text": "发布时间：2026-09-16 17:41",
+    "published_at": "2026-09-16 17:41",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:46:41.027Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 5881,
+      "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+      "timestamp": "2026-10-07T10:46:41.027Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7691390692584672538",
+    "url": "https://www.douyin.com/video/7691390692584672538",
+    "raw_date_text": "发布时间：2026-10-01 07:57",
+    "published_at": "2026-10-01 07:57",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:55:01.370Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 6026,
+      "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+      "timestamp": "2026-10-07T10:55:01.370Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7691390692584672538",
+    "url": "https://www.douyin.com/video/7691390692584672538",
+    "raw_date_text": "发布时间：2026-10-01 07:57",
+    "published_at": "2026-10-01 07:57",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:55:01.372Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 6027,
+      "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+      "timestamp": "2026-10-07T10:55:01.372Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7690958652961770794",
+    "url": "https://www.douyin.com/video/7690958652961770794",
+    "raw_date_text": "发布时间：2026-09-29 22:07",
+    "published_at": "2026-09-29 22:07",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:55:17.411Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 6031,
+      "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+      "timestamp": "2026-10-07T10:55:17.411Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7690958652961770794",
+    "url": "https://www.douyin.com/video/7690958652961770794",
+    "raw_date_text": "发布时间：2026-09-29 22:07",
+    "published_at": "2026-09-29 22:07",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-07T10:55:17.414Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 6032,
+      "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+      "timestamp": "2026-10-07T10:55:17.414Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "snapshot paired with exact video URL"
+  },
+  {
+    "video_id": "7693156653553683763",
+    "url": "https://www.douyin.com/video/7693156653553683763",
+    "raw_date_text": "发布时间：2026-10-05 20:17",
+    "published_at": "2026-10-05 20:17",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:34:30.849Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7560,
+      "call_id": "call_d4933236edd846c7b051b961303977f0",
+      "timestamp": "2026-10-08T15:34:30.849Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "published"
+  },
+  {
+    "video_id": "7693156653553683763",
+    "url": "https://www.douyin.com/video/7693156653553683763",
+    "raw_date_text": "发布时间：2026-10-05 20:17",
+    "published_at": "2026-10-05 20:17",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:34:30.859Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7561,
+      "call_id": "call_d4933236edd846c7b051b961303977f0",
+      "timestamp": "2026-10-08T15:34:30.859Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "published"
+  },
+  {
+    "video_id": "7693156653553683763",
+    "url": "https://www.douyin.com/video/7693156653553683763",
+    "raw_date_text": "发布时间：2026-10-05 20:17",
+    "published_at": "2026-10-05 20:17",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:37:48.273Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7630,
+      "call_id": "call_d64dc49b10ac404c81816ba6ed6a9950",
+      "timestamp": "2026-10-08T15:37:48.273Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7693156653553683763",
+    "url": "https://www.douyin.com/video/7693156653553683763",
+    "raw_date_text": "发布时间：2026-10-05 20:17",
+    "published_at": "2026-10-05 20:17",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:37:48.279Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7631,
+      "call_id": "call_d64dc49b10ac404c81816ba6ed6a9950",
+      "timestamp": "2026-10-08T15:37:48.279Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692779502711180595",
+    "url": "https://www.douyin.com/video/7692779502711180595",
+    "raw_date_text": "发布时间：2026-10-04 19:53",
+    "published_at": "2026-10-04 19:53",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.781Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7637,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.781Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692413519664303400",
+    "url": "https://www.douyin.com/video/7692413519664303400",
+    "raw_date_text": "发布时间：2026-10-03 20:13",
+    "published_at": "2026-10-03 20:13",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.781Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7637,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.781Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692006549526547727",
+    "url": "https://www.douyin.com/video/7692006549526547727",
+    "raw_date_text": "发布时间：2026-10-02 18:37",
+    "published_at": "2026-10-02 18:37",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.781Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7637,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.781Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7691674337455230217",
+    "url": "https://www.douyin.com/video/7691674337455230217",
+    "raw_date_text": "发布时间：2026-10-01 20:24",
+    "published_at": "2026-10-01 20:24",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.781Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7637,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.781Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7691298708675169563",
+    "url": "https://www.douyin.com/video/7691298708675169563",
+    "raw_date_text": "发布时间：2026-09-30 20:07",
+    "published_at": "2026-09-30 20:07",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.781Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7637,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.781Z",
+      "tool": "cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692779502711180595",
+    "url": "https://www.douyin.com/video/7692779502711180595",
+    "raw_date_text": "发布时间：2026-10-04 19:53",
+    "published_at": "2026-10-04 19:53",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.784Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7638,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.784Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692413519664303400",
+    "url": "https://www.douyin.com/video/7692413519664303400",
+    "raw_date_text": "发布时间：2026-10-03 20:13",
+    "published_at": "2026-10-03 20:13",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.784Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7638,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.784Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7692006549526547727",
+    "url": "https://www.douyin.com/video/7692006549526547727",
+    "raw_date_text": "发布时间：2026-10-02 18:37",
+    "published_at": "2026-10-02 18:37",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.784Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7638,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.784Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7691674337455230217",
+    "url": "https://www.douyin.com/video/7691674337455230217",
+    "raw_date_text": "发布时间：2026-10-01 20:24",
+    "published_at": "2026-10-01 20:24",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.784Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7638,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.784Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  },
+  {
+    "video_id": "7691298708675169563",
+    "url": "https://www.douyin.com/video/7691298708675169563",
+    "raw_date_text": "发布时间：2026-09-30 20:07",
+    "published_at": "2026-09-30 20:07",
+    "precision": "minute",
+    "timezone": "UNKNOWN: page did not explicitly label timezone",
+    "checked_at_utc": "2026-10-08T15:38:27.784Z",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 7638,
+      "call_id": "call_7f321920583c42f1b3faece7e8b1c869",
+      "timestamp": "2026-10-08T15:38:27.784Z",
+      "tool": "mcp__cua_repl.js"
+    },
+    "source_field": "metadata paired with exact video URL"
+  }
+]

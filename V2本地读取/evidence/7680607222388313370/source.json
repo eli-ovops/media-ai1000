@@ -1,0 +1,38 @@
+{
+  "video_id": "7680607222388313370",
+  "url": "https://www.douyin.com/video/7680607222388313370",
+  "source_export": "/Users/USER/Downloads/download (35).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7680607222388313370.mp4",
+  "sha256": "5118ff982b7c4bdd0bcdd552c810c93ecf381df46418546e3fd43bb02b7bb67d",
+  "bytes": 65823395,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_10a9d2c1642e4157b7f5d4e0183369ed",
+      "input_jsonl_line": 4304,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_b6832db748db479cbfc5591d26c9035c",
+      "input_jsonl_line": 4344,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_f1014f233103482288c54b49fd65ebea",
+      "input_jsonl_line": 4351,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "author": "柱子哥TzFilm",
+    "account_id": "21397448654",
+    "published_at": "2026-09-02 07:05",
+    "likes_display": "5178",
+    "comments_display": "214",
+    "favorites_display": "2701",
+    "shares_display": "1276",
+    "plays": "UNKNOWN",
+    "source": "Own current CUA h1/body outputs; browser_calls contain original calls"
+  }
+}

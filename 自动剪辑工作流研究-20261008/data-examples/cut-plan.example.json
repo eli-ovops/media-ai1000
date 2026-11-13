@@ -1,0 +1,34 @@
+{
+  "synthetic": true,
+  "status": "DRAFT_NOT_APPROVED",
+  "executed": false,
+  "stage_permission": "NOT_GRANTED_FOR_EDITING_THIS_EXAMPLE",
+  "source": {
+    "path": "conceptual/derived/working-cfr.mp4",
+    "sha256": null,
+    "durationSec": 20.0,
+    "fps": 30,
+    "timeOrigin": "normalized-working-file-t0",
+    "originalMappingVerified": false
+  },
+  "review": {
+    "approved": false,
+    "reviewer": null,
+    "wordBoundaryChecked": false,
+    "continuousAudioVisualChecked": false
+  },
+  "keeps": [
+    {"id": "k1", "sourceInSec": 1.2, "sourceOutSec": 9.2, "outputInSec": 0.0, "outputOutSec": 8.0},
+    {"id": "k2", "sourceInSec": 11.2, "sourceOutSec": 19.2, "outputInSec": 8.0, "outputOutSec": 16.0}
+  ],
+  "candidateDeletion": {
+    "sourceInSec": 9.2,
+    "sourceOutSec": 11.2,
+    "reason": "Fictional repeated sentence; no real-media evidence",
+    "approved": false
+  },
+  "outputDurationSec": 16.0,
+  "outputDurationFrames": 480,
+  "protectedMeaning": ["negation", "uncertainty", "numbers", "quotation-attribution"],
+  "note": "Not a cut instruction for the existing19.7746875s private trial."
+}

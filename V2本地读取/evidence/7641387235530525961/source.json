@@ -1,0 +1,27 @@
+{
+  "video_id": "7641387235530525961",
+  "url": "https://www.douyin.com/video/7641387235530525961",
+  "source_export": "/Users/USER/Downloads/download (1).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7641387235530525961.mp4",
+  "sha256": "450ee71eaf02cbc48468196be29d29ea5de7cd6872bf0294d324f2204a13b8c7",
+  "bytes": 43133998,
+  "date": "2026-10-08",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_bc216a5c02d740b6ad847b31235ed2ce",
+      "input_jsonl_line": 6379,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_01fcb6a25d3e438aa1eafdd38b00358e",
+      "input_jsonl_line": 6400,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_699b8596c1f94f73873c77e0a4026d6a",
+      "input_jsonl_line": 6405,
+      "tool": "js"
+    }
+  ]
+}

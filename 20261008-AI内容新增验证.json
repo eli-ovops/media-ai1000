@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-08",
+  "rows": [
+    {
+      "video_id": "7670305314608008457",
+      "analysis": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/柱子哥TzFilm全量专项-20261007/内容分析/7670305314608008457.md",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7670305314608008457/coverage.json",
+      "source_date": "2026-10-08",
+      "segments": 173,
+      "images": 90,
+      "status": "SUBMITTED_PENDING_PMO"
+    },
+    {
+      "video_id": "7641387235530525961",
+      "analysis": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/柱子哥TzFilm全量专项-20261007/内容分析/7641387235530525961.md",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7641387235530525961/coverage.json",
+      "source_date": "2026-10-08",
+      "segments": 202,
+      "images": 90,
+      "status": "SUBMITTED_PENDING_PMO"
+    },
+    {
+      "video_id": "7657727877504437538",
+      "analysis": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/柱子哥TzFilm全量专项-20261007/内容分析/7657727877504437538.md",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7657727877504437538/coverage.json",
+      "source_date": "2026-10-08",
+      "segments": 278,
+      "images": 120,
+      "status": "SUBMITTED_PENDING_PMO"
+    }
+  ],
+  "unique_ids": 3,
+  "all13_sections": true,
+  "new_asr_segments": 653,
+  "new_images_actually_read": 300,
+  "no_installation": true,
+  "no_cleanup": true,
+  "final_qualified": 0
+}

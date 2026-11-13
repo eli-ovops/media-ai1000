@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-08",
+  "content_id": "ai-content-benchmarks-30-20261008",
+  "stage": "01",
+  "owner_thread": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "gate_check": {"allowed": true, "exit_code": 0},
+  "status": "RESEARCH_IN_PROGRESS",
+  "goal": "30不同账号内容地图、300以内目录、15代表深读、热点与可拍选题、减错清单、完播测试",
+  "baseline": "首条用户确认11平台发布，06定位10站；抖音早期数据不作因果结论；旧1000研究未完成，本轮不全量续跑",
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "rule_versions": ["ROUTING-2026-09-30-v3", "HANDOFF-2026-10-06-v1", "BLOCKERS-2026-09-23-v1"],
+  "next": "直接执行已释放的账号目录和内容研究，交待PMO验收，不自行推进02",
+  "boundary": "本目录写入；公开资料与获准公开媒体本地处理；2GiB总缓存；无安装付费发布互动私片上传删除、共享文件修改或子agent",
+  "files_retained": ["README.md", "接收回执.json"],
+  "unverified": ["实际路由", "账号当前规模与近期目录尚待逐一核实", "完整动态听看不能由ASR/采样替代"]
+}

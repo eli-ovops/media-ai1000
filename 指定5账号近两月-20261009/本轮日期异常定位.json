@@ -1,0 +1,29 @@
+{
+  "raw_errors": [
+    {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10702,
+      "call_id": "call_ab6515e7d00b491cbbe2f3e92420b67a",
+      "timestamp": "2026-10-09T07:48:51.352Z",
+      "error_lines": [
+        "Timed out waiting for tab 2 to navigate to https://www.douyin.com/video/7668532764426047866."
+      ]
+    },
+    {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10726,
+      "call_id": "call_b833c50d0000446abec38fc08646aa78",
+      "timestamp": "2026-10-09T07:49:34.671Z",
+      "error_lines": [
+        "TypeError: Cannot read properties of null (reading 'innerText')"
+      ]
+    }
+  ],
+  "unconfirmed_navigation_video_id": "7668532764426047866",
+  "not_replayed_after_timeout": [
+    "7667531311506734073",
+    "7666753927677766395"
+  ],
+  "wrong_tab_receipts_accepted": false,
+  "interpretation": "Loading and redirect failures do not prove deletion; mismatched actual IDs are excluded from dates."
+}

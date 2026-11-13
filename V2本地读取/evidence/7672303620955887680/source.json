@@ -1,0 +1,40 @@
+{
+  "video_id": "7672303620955887680",
+  "url": "https://www.douyin.com/video/7672303620955887680",
+  "source_export": "/Users/USER/Downloads/download (18).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7672303620955887680.mp4",
+  "sha256": "bd79d714ba44d69a71ffddd53aeb330ebc6af7f32d35ce4c2d4bec964aec833b",
+  "bytes": 10993329,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "蓝点Ai",
+    "account_id": "1233488477nn",
+    "title": "PPT一键直出——AI居然已经发展到这个程度了",
+    "published_at": "2026-08-10 15:36",
+    "likes_display": "2.0万",
+    "comments": 59,
+    "favorites": 106,
+    "shares": 173,
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07",
+    "browser": "IAB 2 current successful page read and download; exact call_id UNKNOWN"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_1ad29a278e7542d9a36b8a1656ccee53",
+      "input_jsonl_line": 2390,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_6868a65ca7064ee98aae71e49bd833d2",
+      "input_jsonl_line": 2401,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_3992238b3e804ba29d3a59a370741eda",
+      "input_jsonl_line": 2410,
+      "tool": "js"
+    }
+  ]
+}

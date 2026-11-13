@@ -1,0 +1,43 @@
+{
+  "video_id": "7668610752106551168",
+  "url": "https://www.douyin.com/video/7668610752106551168",
+  "source_export": "/Users/USER/Downloads/download (8).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7668610752106551168.mp4",
+  "sha256": "93a37730eab8221337ac3f28468727ced39fa3f6606d3436911f1d7263a009b8",
+  "bytes": 11456910,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_yHGWCh2ye84yrshzO3sgPVfk",
+      "input_jsonl_line": 1339,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_vKDagQJhciNsrJxhxVUszEW6",
+      "input_jsonl_line": 1354,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_IetuqyioNfujPRJL5rZf8mi6",
+      "input_jsonl_line": 1362,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_Tw2Q3STPy2CmrhDko4DJxBc6",
+      "input_jsonl_line": 1602,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "title": "全员Skill的时代来了！",
+    "author": "蓝点Ai",
+    "account_id": "1233488477nn",
+    "likes_display": "3.0万",
+    "favorites": "396",
+    "comments": "119",
+    "shares": "321",
+    "published_at": "2026-07-31 16:46"
+  },
+  "current_page_metrics_same_as_original_snapshot": true
+}

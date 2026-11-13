@@ -1,0 +1,31 @@
+{
+  "allRejected": true,
+  "checks": [
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media-manifest.json",
+      "rejected": true,
+      "receipt": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Error: Media path is outside the explicit allowlist"
+          }
+        ],
+        "isError": true
+      }
+    },
+    {
+      "source": "https://example.com/video.mp4",
+      "rejected": true,
+      "receipt": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Error: Network media input disabled in this local-only build"
+          }
+        ],
+        "isError": true
+      }
+    }
+  ]
+}

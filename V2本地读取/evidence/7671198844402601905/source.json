@@ -1,0 +1,46 @@
+{
+  "video_id": "7671198844402601905",
+  "url": "https://www.douyin.com/video/7671198844402601905",
+  "source_export": "/Users/USER/Downloads/download (32).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7671198844402601905.mp4",
+  "sha256": "3382ea631b3b77815cda6c8106648e31c006b543dc15b2ab990790e3687263b5",
+  "bytes": 19804382,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_5PdClwrzkXjHcoosEaS7SfEE",
+      "input_jsonl_line": 3959,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_8JNXTdLGgcKz29eTKtStncuD",
+      "input_jsonl_line": 3970,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_XETHsE1PsdNH3f8AOG2YXZZd",
+      "input_jsonl_line": 3975,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "不开剪辑也能做变装视频？这个模型让我服了！#ai#ai原生能力#ai短剧#MiniMaxH3 #MiniMaxH3开源",
+    "published_at": "2026-08-07 16:09",
+    "likes_display": "3.3万",
+    "comments_display": "269",
+    "favorites_display": "2654",
+    "shares_display": "1428"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_2f17ae0e217d4eb0b053285e04ae66f8",
+    "input_jsonl_line": 3204,
+    "output_jsonl_line": 3207,
+    "content_block_index": 1,
+    "text_offset": 597,
+    "timestamp_utc": "2026-10-07T05:53:21.083Z"
+  }
+}

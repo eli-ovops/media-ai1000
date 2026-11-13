@@ -1,0 +1,18 @@
+{
+  "synthetic": true,
+  "executed": false,
+  "approved": false,
+  "clock": "final-output-frames",
+  "fps": 30,
+  "canvas": {"width": 720, "height": 1280, "fontVerified": false},
+  "durationInFrames": 480,
+  "graphics": [
+    {"id": "title1", "type": "title-card", "fromFrame": 0, "durationInFrames": 45, "text": "口播稿 → 剪辑计划", "source": "original explanatory text", "animation": "planned fade and translate, not rendered"},
+    {"id": "step2", "type": "step-card", "fromFrame": 240, "durationInFrames": 60, "text": "第二步：核切点", "source": "original explanatory text", "animation": "planned fade, not rendered"}
+  ],
+  "baseVideo": "conceptual/derived/base-cut-v001.mp4",
+  "baseAudio": "original voice from approved working-copy ranges",
+  "brollAudioMutedByDefault": true,
+  "externalAssets": [],
+  "meaning": "Textual timeline example, not generated animation/media."
+}

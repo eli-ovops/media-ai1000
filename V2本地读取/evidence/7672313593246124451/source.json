@@ -1,0 +1,40 @@
+{
+  "video_id": "7672313593246124451",
+  "url": "https://www.douyin.com/video/7672313593246124451",
+  "source_export": "/Users/USER/Downloads/download (17).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7672313593246124451.mp4",
+  "sha256": "beb333e695025281d3fd6460da4249c8c7dc1c1e85a3e6d28c7e3c8c1d9536a6",
+  "bytes": 6117997,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "蓝点Ai",
+    "account_id": "1233488477nn",
+    "title": "一条视频教会你超火的AI特效",
+    "published_at": "2026-08-10 16:15",
+    "likes_display": "2.2万",
+    "comments": 93,
+    "favorites": 124,
+    "shares": 130,
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07",
+    "browser": "IAB 2 current successful page read and download; exact call_id UNKNOWN"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_9L7RLE7f5UB8HGkHiOGzEJKP",
+      "input_jsonl_line": 2327,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_h9yYljs3jJ6wTERYKmhM3Ebs",
+      "input_jsonl_line": 2337,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_rGHfSFUtSrQUdTvdepJzRIAf",
+      "input_jsonl_line": 2342,
+      "tool": "js"
+    }
+  ]
+}

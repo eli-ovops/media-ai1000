@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-08",
+  "document_data_check": "PASS",
+  "account_count": 30,
+  "unique_profile_ids": 30,
+  "directory_rows": 237,
+  "unique_video_ids": 237,
+  "date_known": 25,
+  "representative_cards": 15,
+  "prior_pmo_accepted": 9,
+  "invalid_json": [],
+  "missing_source_files": [],
+  "business_acceptance": "PENDING_PMO_WITH_GAPS",
+  "media_or_continuous_audiovisual_verification": false,
+  "limitation": "syntax, counts, uniqueness and source-path existence only; not creator suitability or content acceptance",
+  "final_json_syntax_errors": [],
+  "checked_at_utc": "2026-10-08T15:53:14.262128+00:00",
+  "publication_date_validation_20261009": {
+    "checked_at": "2026-10-09T07:45:15.101616+00:00",
+    "total": 237,
+    "known": 233,
+    "unknown": 4,
+    "added_since_dispatch": 208,
+    "same_order_and_ids": true,
+    "non_date_fields_unchanged": true,
+    "csv_json_equal": true,
+    "known_rows_have_evidence": true,
+    "date_conflicts": 0,
+    "research_complete": false,
+    "pmo_acceptance": "PENDING"
+  }
+}

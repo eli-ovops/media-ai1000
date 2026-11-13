@@ -1,0 +1,39 @@
+{
+  "video_id": "7617803735980428570",
+  "url": "https://www.douyin.com/video/7617803735980428570",
+  "source_export": "/Users/USER/Downloads/download (20).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7617803735980428570.mp4",
+  "sha256": "97a770fefef62d66cf50ae8cbfa0b29745201a2d8692eed4ca345bf109139e3f",
+  "bytes": 4330787,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "卡尔的AI沃茨",
+    "title": "第237集 | 设计师最期待的功能，AI能出psd源文件了！",
+    "published_at": "2026-03-16 18:49",
+    "likes_display": "3018",
+    "comments_display": "68",
+    "favorites_display": "2483",
+    "shares_display": "765",
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_0bcd76eaeac54435bd5ff6c40b64769c",
+      "input_jsonl_line": 2573,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_6f59cbedc71549889971ee863ff097ac",
+      "input_jsonl_line": 2588,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_0e1b3c335baa4dafb39c2ac852d6acd5",
+      "input_jsonl_line": 2593,
+      "tool": "js"
+    }
+  ],
+  "source_call_correction": "Removed earlier other-video calls inherited by reused tab handle; original media and data unchanged"
+}

@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    {
+      "id": "O1",
+      "url": "https://github.com/remotion-dev/template-tiktok",
+      "kind": "official repository README",
+      "verified_boundary": "local-file captioning entry; no semantic auto-cut proof",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": "UNKNOWN"
+    },
+    {
+      "id": "O2",
+      "url": "https://github.com/remotion-dev/template-tiktok/blob/main/sub.mjs",
+      "kind": "official source code",
+      "verified_boundary": "video to16kHz WAV toWhisper toCaption JSON; also install/download/cleanup, not executed",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": "UNKNOWN"
+    },
+    {
+      "id": "O3",
+      "url": "https://github.com/remotion-dev/template-tiktok/blob/main/whisper-config.mjs",
+      "kind": "official source config",
+      "verified_boundary": "Whisper1.6.0 medium.en/en, different from local Chinese base",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": "UNKNOWN"
+    },
+    {
+      "id": "O4",
+      "url": "https://github.com/remotion-dev/template-tiktok/blob/main/package.json",
+      "kind": "official source package metadata",
+      "verified_boundary": "^4.0.0 ranges and UNLICENSED package, not a pinned verified environment",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": "UNKNOWN"
+    },
+    {
+      "id": "O5",
+      "url": "https://www.remotion.dev/docs/captions/displaying",
+      "kind": "official API guide",
+      "verified_boundary": "Caption data pages and time-based display, alignment correctness not guaranteed",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O6",
+      "url": "https://www.remotion.dev/docs/offthreadvideo",
+      "kind": "official API guide",
+      "verified_boundary": "trim/range capabilities, durationInFrames version4.0.530 and deprecated old props",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O7",
+      "url": "https://www.remotion.dev/docs/cli/render",
+      "kind": "official API guide",
+      "verified_boundary": "entry/composition/output/props render contract, not locally run",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O8",
+      "url": "https://www.remotion.dev/license",
+      "kind": "official license",
+      "verified_boundary": "eligibility and use conditions, implementation licensing still to check",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O9",
+      "url": "https://ffmpeg.org/ffmpeg-filters.html",
+      "kind": "official filter reference",
+      "verified_boundary": "detect/trim/atrim/concat/PTS; local binary only listed filters",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O10",
+      "url": "https://helpx.adobe.com/after-effects/using/scripts.html",
+      "kind": "official Adobe guide",
+      "verified_boundary": "ExtendScript and permission requirements, not permission authorization",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O11",
+      "url": "https://helpx.adobe.com/after-effects/desktop/render-and-export/automate-rendering/automated-rendering-network-rendering.html",
+      "kind": "official Adobe guide",
+      "verified_boundary": "aerender renders existing project/composition; not content-decision engine",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "O12",
+      "url": "https://www.adobe.com/products/aftereffects/plans.html",
+      "kind": "official pricing page",
+      "verified_boundary": "direct page Korean KRW30800/month inclVAT annual billed monthly; US search snapshot differs; actual user price UNKNOWN",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": null
+    },
+    {
+      "id": "C1",
+      "url": "https://github.com/23d1/after-effects-mcp/blob/main/README.md",
+      "kind": "community author source",
+      "verified_boundary": "JSX bridge/result JSON; not creator identity or Adobe official native MCP; not run",
+      "read_date": "2026-10-08",
+      "local_execution": false,
+      "commit_sha": "UNKNOWN"
+    }
+  ],
+  "existing_public_frames_revisited": [
+    {
+      "video_id": "7691390692584672538",
+      "nominal_sec": 260,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/709e3ecba7bb34dc/burst/frame_0023.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7691390692584672538",
+      "nominal_sec": 300,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/8c76c292a27bcdcf/burst/frame_0001.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7690958652961770794",
+      "nominal_sec": 68,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/f5f0702a71f2b435/interval/frame_0018.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7690958652961770794",
+      "nominal_sec": 130.33333333333331,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/e1230ea6495a3511/burst/frame_0024.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7690958652961770794",
+      "nominal_sec": 164.33333333333331,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/e1230ea6495a3511/burst/frame_0030.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7638387584661540134",
+      "nominal_sec": 146.66666666666669,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/2737707cf22c35e3/burst/frame_0023.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    },
+    {
+      "video_id": "7638387584661540134",
+      "nominal_sec": 166.66666666666669,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/2737707cf22c35e3/burst/frame_0026.jpg",
+      "viewed_existing_image": true,
+      "new_generated": false
+    }
+  ],
+  "private_trial_derived_results_only": {
+    "directory": "/Volumes/EXTERNAL/Tools/Whisper/transcripts/20261007-153539-a6666f",
+    "read": [
+      "transcript.srt",
+      "transcript.json",
+      "audio.wav header only"
+    ],
+    "duration_sec": 19.7746875,
+    "original_video_read": false,
+    "audio_listened": false
+  },
+  "failed_url": "https://github.com/remotion-dev/template-tiktok/tree/main/src",
+  "failed_url_status": "restricted URL; no bypass",
+  "creator_full_project": "NOT_LOCATED; not a claim it was never published",
+  "raw_call_index": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/自动剪辑工作流研究-20261008/原工具调用索引.json"
+}

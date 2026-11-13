@@ -1,0 +1,2795 @@
+{
+  "date": "2026-10-07",
+  "scope": "AI_RELATED candidates only; pending/excluded outside active ranking",
+  "candidate_count": 73,
+  "rankings": {
+    "likes": [
+      {
+        "video_id": "7657727877504437538",
+        "url": "https://www.douyin.com/video/7657727877504437538",
+        "title": "趁Ai真正的爆发期还没有到来，努力成为那万分之四吧 #Ai新星计划#抖音前沿科技首发计划",
+        "display": "12.4万",
+        "approx_value": 124000.0,
+        "visible_rank": 1,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_aaWQAlcJrUF6hIg4Y1usDJLn",
+          "input_jsonl_line": 5731,
+          "output_jsonl_line": 5734
+        },
+        "ai_scope_rank": 1
+      },
+      {
+        "video_id": "7641387235530525961",
+        "url": "https://www.douyin.com/video/7641387235530525961",
+        "title": "第16集 | 风口：Ai智能体赛道！主播是真的眼馋 #青年创作者成长计划",
+        "display": "9.3万",
+        "approx_value": 93000.0,
+        "visible_rank": 4,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_35bce7f3fc844098866c41ca7ab9992a",
+          "input_jsonl_line": 5756,
+          "output_jsonl_line": 5759,
+          "content_block_index": 1,
+          "text_offset": 2837,
+          "timestamp_utc": "2026-10-07T10:41:19.990Z"
+        },
+        "ai_scope_rank": 2
+      },
+      {
+        "video_id": "7646665973897973043",
+        "url": "https://www.douyin.com/video/7646665973897973043",
+        "title": "第23集 | VibeCoding变现指南：从开发，获客到交付全链路讲解 #青年创作者成长计划 #vibecoding大赏 #Ai新星计划",
+        "display": "7.1万",
+        "approx_value": 71000.0,
+        "visible_rank": 5,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 359,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 3
+      },
+      {
+        "video_id": "7656027238931942697",
+        "url": "https://www.douyin.com/video/7656027238931942697",
+        "title": "第38集 | vivo X Fold6 首发体验！让一人成军的 AI 搭子 #vivoxfold6 #originos6 #AI轻办公神器 #人类对折叠屏开发不足百分之一 #Ai搭子",
+        "display": "4.5万",
+        "approx_value": 45000.0,
+        "visible_rank": 6,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_69d66d8c902641f0a2ff59839bd32827",
+          "input_jsonl_line": 5791,
+          "output_jsonl_line": 5794,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:42:38.465Z"
+        },
+        "ai_scope_rank": 4
+      },
+      {
+        "video_id": "7620229921666846002",
+        "url": "https://www.douyin.com/video/7620229921666846002",
+        "title": "Token出海是骗局吗？ #商业 #算力 #人工智能 #掘金计划2026 #燃起来了大国重器",
+        "display": "4.3万",
+        "approx_value": 43000.0,
+        "visible_rank": 7,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_69d66d8c902641f0a2ff59839bd32827",
+          "input_jsonl_line": 5791,
+          "output_jsonl_line": 5794,
+          "content_block_index": 1,
+          "text_offset": 2564,
+          "timestamp_utc": "2026-10-07T10:42:38.465Z"
+        },
+        "ai_scope_rank": 5
+      },
+      {
+        "video_id": "7644347037009366326",
+        "url": "https://www.douyin.com/video/7644347037009366326",
+        "title": "第20集 | 让Ai全链路接管你的自媒体频道！我把自用的Skill开源了 #青年创作者成长计划#VibeCoding大赏 #Ai新星计划 @抖音科技",
+        "display": "3.2万",
+        "approx_value": 32000.0,
+        "visible_rank": 10,
+        "content_status": "ACCEPTED_PMO_CONTENT",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 6
+      },
+      {
+        "video_id": "7652859606326119699",
+        "url": "https://www.douyin.com/video/7652859606326119699",
+        "title": "第34集 | 不要漏掉每一个聊天记录！从现在开始做好数据备份和知识库搭建 Ai时代这些都会是珍贵的数字资产，准备迎接你的第二大脑#青年创作者成长计划",
+        "display": "2.8万",
+        "approx_value": 28000.0,
+        "visible_rank": 11,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+          "input_jsonl_line": 5828,
+          "output_jsonl_line": 5831,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:44:07.963Z"
+        },
+        "ai_scope_rank": 7
+      },
+      {
+        "video_id": "7685196022947056911",
+        "url": "https://www.douyin.com/video/7685196022947056911",
+        "title": "第63集 | 初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮#青年创作者成长计划 #AI新星计划 #抖音精选App征稿中 #抖音前沿科技首发计划",
+        "display": "2.3万",
+        "approx_value": 23000.0,
+        "visible_rank": 13,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+          "input_jsonl_line": 5828,
+          "output_jsonl_line": 5831,
+          "content_block_index": 1,
+          "text_offset": 2549,
+          "timestamp_utc": "2026-10-07T10:44:07.963Z"
+        },
+        "ai_scope_rank": 8
+      },
+      {
+        "video_id": "7670305314608008457",
+        "url": "https://www.douyin.com/video/7670305314608008457",
+        "title": "第52集 | 最近沉浸在AiGC中，今天聊聊此类账号的工作流和变现思路 #抖音前沿科技首发计划 #Aigc",
+        "display": "2.2万",
+        "approx_value": 22000.0,
+        "visible_rank": 14,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fd585c972df3465aa78348d0eda5fed1",
+          "input_jsonl_line": 5850,
+          "output_jsonl_line": 5853,
+          "content_block_index": 1,
+          "text_offset": 2524,
+          "timestamp_utc": "2026-10-07T10:45:12.278Z"
+        },
+        "ai_scope_rank": 9
+      },
+      {
+        "video_id": "7648778898376854818",
+        "url": "https://www.douyin.com/video/7648778898376854818",
+        "title": "第26集 | Ai圈接下来10年的铁饭碗！全面拆解FDE前沿部署工程师 #青年创作者成长计划",
+        "display": "1.8万",
+        "approx_value": 18000.0,
+        "visible_rank": 16,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 1004,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 10
+      },
+      {
+        "video_id": "7677754141896117530",
+        "url": "https://www.douyin.com/video/7677754141896117530",
+        "title": "第57集 | 国内的数据标注时薪有300-3000？AI训练师第三弹来了！ #抖音前沿科技首发计划 #抖音精选App征稿中 #Ai新星计划 #青年创作者成长计划",
+        "display": "1.7万",
+        "approx_value": 17000.0,
+        "visible_rank": 18,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 667,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 11
+      },
+      {
+        "video_id": "7690958652961770794",
+        "url": "https://www.douyin.com/video/7690958652961770794",
+        "title": "第69集 | Opus5.5+Ae！为了这套新工作流，我买了台五万多的电脑 #抖音精选app征稿中 #抖音前沿科技首发计划",
+        "display": "1.6万",
+        "approx_value": 16000.0,
+        "visible_rank": 19,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 12
+      },
+      {
+        "video_id": "7649358180140535080",
+        "url": "https://www.douyin.com/video/7649358180140535080",
+        "title": "第28集 | 祝上岸！AI现在可以帮你报高考志愿 #青年创作者成长计划 #高考志愿 #千问#千问上线高考志愿Agent",
+        "display": "1.6万",
+        "approx_value": 16000.0,
+        "visible_rank": 19,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 352,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 12
+      },
+      {
+        "video_id": "7675033195020029219",
+        "url": "https://www.douyin.com/video/7675033195020029219",
+        "title": "第55集 | 我说白了很多Ai博主生成视频压根儿不用自己掏钱买积分 #抖音前沿科技首发计划 #Ai新星计划 #Ai",
+        "display": "1.5万",
+        "approx_value": 15000.0,
+        "visible_rank": 21,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 14
+      },
+      {
+        "video_id": "7637698039943089462",
+        "url": "https://www.douyin.com/video/7637698039943089462",
+        "title": "第10集 | 中文区最强的Ai信源搜集Skill，我爆款视频的选题全靠它 @数字生命卡兹克 #青年创作者成长计划",
+        "display": "1.5万",
+        "approx_value": 15000.0,
+        "visible_rank": 21,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 14
+      },
+      {
+        "video_id": "7637292476620950825",
+        "url": "https://www.douyin.com/video/7637292476620950825",
+        "title": "第9集 | 本科毕业就能干，如何上手时薪700的Ai大模型训练师？ #青年创作者成长计划",
+        "display": "1.5万",
+        "approx_value": 15000.0,
+        "visible_rank": 21,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 334,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 14
+      },
+      {
+        "video_id": "7638759938881342729",
+        "url": "https://www.douyin.com/video/7638759938881342729",
+        "title": "第12集 | 风口：开源项目U盘化，Ai时代的家电下乡！会用豆包就能做.. #青年创作者成长计划",
+        "display": "1.4万",
+        "approx_value": 14000.0,
+        "visible_rank": 27,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 17
+      },
+      {
+        "video_id": "7649973320758152474",
+        "url": "https://www.douyin.com/video/7649973320758152474",
+        "title": "第29集 | TraeWork是怎么帮我实现多维打分并建立选题库的 #TRAE #TRAEWork#vibecoding大赏 #TRAEAI创造力大赛 #全民都在比赛用AI造东西",
+        "display": "1.3万",
+        "approx_value": 13000.0,
+        "visible_rank": 28,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 334,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 18
+      },
+      {
+        "video_id": "7636162735721565478",
+        "url": "https://www.douyin.com/video/7636162735721565478",
+        "title": "第7集 | 2026最新风口：用户和Ai间的对话数据会是各巨头争抢的资产 #青年创作者成长计划",
+        "display": "1.3万",
+        "approx_value": 13000.0,
+        "visible_rank": 28,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 994,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 18
+      },
+      {
+        "video_id": "7654389102657178920",
+        "url": "https://www.douyin.com/video/7654389102657178920",
+        "title": "第36集 | 小白Ai入门教学！5分钟就能搞定的事儿为啥非得去报课呢 #青年创作者成长计划",
+        "display": "1.2万",
+        "approx_value": 12000.0,
+        "visible_rank": 30,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 20
+      },
+      {
+        "video_id": "7639501466603900206",
+        "url": "https://www.douyin.com/video/7639501466603900206",
+        "title": "第13集 | Ai时代OPC一人公司到底有何机会？全网最通俗易懂的拆解来了 #青年创作者成长计划",
+        "display": "1.2万",
+        "approx_value": 12000.0,
+        "visible_rank": 30,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 1030,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 20
+      },
+      {
+        "video_id": "7636548062072032518",
+        "url": "https://www.douyin.com/video/7636548062072032518",
+        "title": "第8集 | 主流Ai工具和模型个人使用深度心得，从拉到夯帮你避坑！ #青年创作者成长计划",
+        "display": "1.2万",
+        "approx_value": 12000.0,
+        "visible_rank": 30,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 663,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 20
+      },
+      {
+        "video_id": "7688617760657509651",
+        "url": "https://www.douyin.com/video/7688617760657509651",
+        "title": "第67集 | 什么是PersonalAgent的终极形态？千问给出了方向 #千问 #云栖大会",
+        "display": "1.1万",
+        "approx_value": 11000.0,
+        "visible_rank": 33,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+          "input_jsonl_line": 5865,
+          "output_jsonl_line": 5868,
+          "content_block_index": 1,
+          "text_offset": 1889,
+          "timestamp_utc": "2026-10-07T10:45:57.600Z"
+        },
+        "ai_scope_rank": 23
+      },
+      {
+        "video_id": "7673386754019249454",
+        "url": "https://www.douyin.com/video/7673386754019249454",
+        "title": "第54集 | 我花了三天三夜，终于帮你们把所有主流的视频模型都测了一遍 锐评环节开始！！#Aigc #抖音前沿科技首发计划",
+        "display": "1.1万",
+        "approx_value": 11000.0,
+        "visible_rank": 33,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 346,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 23
+      },
+      {
+        "video_id": "7606952189660026255",
+        "url": "https://www.douyin.com/video/7606952189660026255",
+        "title": "第5集 | 黄仁勋撤资，DeepSeek降维打击，OpenAi还能翻盘吗 #ai #商业 #科技",
+        "display": "1.1万",
+        "approx_value": 11000.0,
+        "visible_rank": 33,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bdD7F3FRSyFOTN7Q7vdhPBi9",
+          "input_jsonl_line": 6004,
+          "output_jsonl_line": 6007,
+          "content_block_index": 1,
+          "text_offset": 1148,
+          "timestamp_utc": "2026-10-07T10:53:52.015Z"
+        },
+        "ai_scope_rank": 23
+      },
+      {
+        "video_id": "7667482825116880163",
+        "url": "https://www.douyin.com/video/7667482825116880163",
+        "title": "第51集 | 启元Q1，我今年看过最聪明的一次“炫技”！ #启元机器人 #启元Q1探索者版 #你的第一个个人机器人 #上纬新材 #RobotJoy",
+        "display": "9731",
+        "approx_value": 9731.0,
+        "visible_rank": 36,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 1048,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 26
+      },
+      {
+        "video_id": "7647717028643556627",
+        "url": "https://www.douyin.com/video/7647717028643556627",
+        "title": "第24集 | 更新迭代太快了！盘点分析26年Q2中美Ai前沿态势 #青年创作者成长计划",
+        "display": "9162",
+        "approx_value": 9162.0,
+        "visible_rank": 37,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 315,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 27
+      },
+      {
+        "video_id": "7650267641566743846",
+        "url": "https://www.douyin.com/video/7650267641566743846",
+        "title": "第30集 | 墨西哥真的2:0南非了！我开源了世界杯Ai预测Skill #青年创作者成长计划 #vibecoding大赏",
+        "display": "8990",
+        "approx_value": 8990.0,
+        "visible_rank": 38,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 28
+      },
+      {
+        "video_id": "7593609966410321152",
+        "url": "https://www.douyin.com/video/7593609966410321152",
+        "title": "第1集 | CES2026，黄仁勋亮剑！英伟达凭这三大技术垄断未来 老黄在2026年CES上的这场演讲太震撼了！ 从Jetson芯片到Omniverse仿真，再到Project Groot，英伟达用12年的布局告诉我们：物理机器人的未来已来！这期视频知识点比较密集，节奏比较快，感谢大家耐心看完 #CES2026 #人工智能 #机器人 #黄仁勋 #青年创作者成长计划",
+        "display": "8397",
+        "approx_value": 8397.0,
+        "visible_rank": 40,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_0bifRQBmToSdrdZX9WZB811o",
+          "input_jsonl_line": 6009,
+          "output_jsonl_line": 6012,
+          "content_block_index": 1,
+          "text_offset": 881,
+          "timestamp_utc": "2026-10-07T10:54:09.359Z"
+        },
+        "ai_scope_rank": 29
+      },
+      {
+        "video_id": "7682676511991696655",
+        "url": "https://www.douyin.com/video/7682676511991696655",
+        "title": "第62集 | 3.14亿播放的AI视频，今天把整条生产线开源了 #⼀句话开启创作#⼀键拆解爆款#跳跃视界 #AiGC",
+        "display": "8230",
+        "approx_value": 8230.0,
+        "visible_rank": 41,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 734,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 30
+      },
+      {
+        "video_id": "7690297713681796393",
+        "url": "https://www.douyin.com/video/7690297713681796393",
+        "title": "第68集 | 刘慈欣当顾问、550 万奖金池，新手怎么一边薅算力一边参赛？ MiniMax H3 RH Enhanced 限时免费#全球aigc长片创作大赛#ai视频#ai长片#局部重拍",
+        "display": "7799",
+        "approx_value": 7799.0,
+        "visible_rank": 43,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+          "input_jsonl_line": 5865,
+          "output_jsonl_line": 5868,
+          "content_block_index": 1,
+          "text_offset": 799,
+          "timestamp_utc": "2026-10-07T10:45:57.600Z"
+        },
+        "ai_scope_rank": 31
+      },
+      {
+        "video_id": "7686005693291171112",
+        "url": "https://www.douyin.com/video/7686005693291171112",
+        "title": "第64集 | 一场发布会，让我看懂Ai是怎么帮传统软件放大十倍能力的 #像素系列发布会 #像素蛋糕预设 #像素助手 #抖音精选App征稿中 #抖音前沿科技首发计划",
+        "display": "6676",
+        "approx_value": 6676.0,
+        "visible_rank": 44,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 366,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 32
+      },
+      {
+        "video_id": "7676255357856992531",
+        "url": "https://www.douyin.com/video/7676255357856992531",
+        "title": "第56集 | 顶级Ai应用案例分享：修一张图敢收5毛钱？像素蛋糕你牛大了 #抖音前沿科技首发计划 #抖音精选App征稿中 #Ai新星计划#青年创作者成长计划",
+        "display": "6625",
+        "approx_value": 6625.0,
+        "visible_rank": 45,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 1032,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 33
+      },
+      {
+        "video_id": "7651032527284571398",
+        "url": "https://www.douyin.com/video/7651032527284571398",
+        "title": "第31集 | 打开一下思路说说怎么赚回Ai会员费",
+        "display": "6214",
+        "approx_value": 6214.0,
+        "visible_rank": 46,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 1006,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 34
+      },
+      {
+        "video_id": "7640285192405437702",
+        "url": "https://www.douyin.com/video/7640285192405437702",
+        "title": "第15集 | 你的专属Ai管家，全网最易懂Hermes入门教程来了 #青年创作者成长计划",
+        "display": "6041",
+        "approx_value": 6041.0,
+        "visible_rank": 47,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 693,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 35
+      },
+      {
+        "video_id": "7657040269149326638",
+        "url": "https://www.douyin.com/video/7657040269149326638",
+        "title": "第40集 | 我开源了自媒体Ai自审智能体！能够帮助大家合规地创作视频啦 #Ai新星计划 #Vibecoding大赏",
+        "display": "5720",
+        "approx_value": 5720.0,
+        "visible_rank": 48,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 687,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 36
+      },
+      {
+        "video_id": "7679827228313537802",
+        "url": "https://www.douyin.com/video/7679827228313537802",
+        "title": "第59集 | Skill，数据库，知识库，终于可以上架变现了！ #Ai新星计划 #抖音前沿科技首发计划 #青年创作者成长计划 #UUMIT",
+        "display": "5692",
+        "approx_value": 5692.0,
+        "visible_rank": 49,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 1084,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 37
+      },
+      {
+        "video_id": "7672068562046946569",
+        "url": "https://www.douyin.com/video/7672068562046946569",
+        "title": "第53集 | 古风Ai视频工业化流水线，实操教程它来了 #Flovaai#SD25 #国风 #AiGC#FlovaSD25创作季",
+        "display": "5569",
+        "approx_value": 5569.0,
+        "visible_rank": 50,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 695,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 38
+      },
+      {
+        "video_id": "7653723086478511414",
+        "url": "https://www.douyin.com/video/7653723086478511414",
+        "title": "第35集 | 如何能让Ai主动推荐你？全面拆解GEO生成式引擎优化产业！ #青年创作者成长计划",
+        "display": "5461",
+        "approx_value": 5461.0,
+        "visible_rank": 51,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 39
+      },
+      {
+        "video_id": "7652154408414792987",
+        "url": "https://www.douyin.com/video/7652154408414792987",
+        "title": "第33集 | 蒸馏群聊Skill，妈妈再也不用担心我错过群聊的重要信息啦 #青年创作者成长计划致谢@月明水清深",
+        "display": "5455",
+        "approx_value": 5455.0,
+        "visible_rank": 52,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 337,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 40
+      },
+      {
+        "video_id": "7638387584661540134",
+        "url": "https://www.douyin.com/video/7638387584661540134",
+        "title": "第11集 | 五万粉里程碑达成！我用Ai运营自媒体的三个心法 #青年创作者成长计划",
+        "display": "5423",
+        "approx_value": 5423.0,
+        "visible_rank": 53,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 1042,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 41
+      },
+      {
+        "video_id": "7680607222388313370",
+        "url": "https://www.douyin.com/video/7680607222388313370",
+        "title": "第60集 | 20万粉心得分享：我是利用这些数据帮助我提升播放量的 #青年创作者成长计划",
+        "display": "5181",
+        "approx_value": 5181.0,
+        "visible_rank": 54,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 659,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 42
+      },
+      {
+        "video_id": "7659237915909786934",
+        "url": "https://www.douyin.com/video/7659237915909786934",
+        "title": "第43集 | 5个问题就得消耗一瓶水？Ai能耗并没有这么夸张 #Ai新星计划#抖音前沿科技首发计划",
+        "display": "4802",
+        "approx_value": 4802.0,
+        "visible_rank": 56,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 43
+      },
+      {
+        "video_id": "7642858757134880026",
+        "url": "https://www.douyin.com/video/7642858757134880026",
+        "title": "第18集 | MiniMax王炸功能发布，8分钟复刻影视飓风同款数据仪表盘 #青年创作者成长计划 #Minimax",
+        "display": "4609",
+        "approx_value": 4609.0,
+        "visible_rank": 58,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 44
+      },
+      {
+        "video_id": "7659951806855875892",
+        "url": "https://www.douyin.com/video/7659951806855875892",
+        "title": "第44集 | 未来5年，只有这三种Ai应用企业能活到最后 #Ai新星计划 #抖音前沿科技首发计划",
+        "display": "4214",
+        "approx_value": 4214.0,
+        "visible_rank": 59,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 1039,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 45
+      },
+      {
+        "video_id": "7660684705892814114",
+        "url": "https://www.douyin.com/video/7660684705892814114",
+        "title": "第45集 | 如何对抗Ai带来的潜在失业潮，是全球主要经济体都将面临的课题 #Ai新星计划 #抖音前沿科技首发计划",
+        "display": "4052",
+        "approx_value": 4052.0,
+        "visible_rank": 60,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 691,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 46
+      },
+      {
+        "video_id": "7665543600142404864",
+        "url": "https://www.douyin.com/video/7665543600142404864",
+        "title": "第50集 | 一个北海道农民竟通过VibeCoding实现了500万营收 #抖音前沿科技首发计划 #vibecoding大赏",
+        "display": "3980",
+        "approx_value": 3980.0,
+        "visible_rank": 61,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7ea45aa5d3e84ff8890c6798bfc82205",
+          "input_jsonl_line": 5918,
+          "output_jsonl_line": 5921,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:49:26.045Z"
+        },
+        "ai_scope_rank": 47
+      },
+      {
+        "video_id": "7640636073336507683",
+        "url": "https://www.douyin.com/video/7640636073336507683",
+        "title": "第14集 | 用Ai写作“人机感”一直很强？我去除Ai味的终极方法 #青年创作者成长计划",
+        "display": "3666",
+        "approx_value": 3666.0,
+        "visible_rank": 62,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 708,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 48
+      },
+      {
+        "video_id": "7691390692584672538",
+        "url": "https://www.douyin.com/video/7691390692584672538",
+        "title": "第70集 | 商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划",
+        "display": "3538",
+        "approx_value": 3538.0,
+        "visible_rank": 63,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 1048,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 49
+      },
+      {
+        "video_id": "7658456760469966115",
+        "url": "https://www.douyin.com/video/7658456760469966115",
+        "title": "第42集 | 新手入门AI该怎么选电脑，有必要花大几万去配置本地模型吗？ #Ai新星计划#抖音前沿科技首发计划",
+        "display": "3536",
+        "approx_value": 3536.0,
+        "visible_rank": 64,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 340,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 50
+      },
+      {
+        "video_id": "7646187098134859034",
+        "url": "https://www.douyin.com/video/7646187098134859034",
+        "title": "第22集 | Ai越泛滥我就越独特！月涨粉率600%，0粉创作者的机会来了 #青年创作者成长计划",
+        "display": "3138",
+        "approx_value": 3138.0,
+        "visible_rank": 67,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 648,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 51
+      },
+      {
+        "video_id": "7618868422776032539",
+        "url": "https://www.douyin.com/video/7618868422776032539",
+        "title": "第12集 | 电力，铜，核能，储能！10分钟盘清楚Ai产业背后的基建赛道 当你以为 AI 只是代码和芯片的战争时，物理世界的“硬壁垒”已经悄然降临！ 为什么说采购 1 美元的芯片，要在后端投入 4-5 美元的能源基建？ 本期视频带你拆解 2026 年 AI 投资的四大核心赛道：从电力的“心脏病”到铜矿的“结构性赤字”，再到科技巨头的“核能救赎”和储能产业。 别再只盯着软件公司了，真正的财富锚点可能藏在这些“重资产”里！#商业 #科普 #人工智能 #掘金计划2026 #燃起来了大国重器 @抖音创作小助手 哥我想进精选",
+        "display": "3100",
+        "approx_value": 3100.0,
+        "visible_rank": 68,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7a473228ff5349ddb39c7a80352a5cce",
+          "input_jsonl_line": 5990,
+          "output_jsonl_line": 5993,
+          "content_block_index": 1,
+          "text_offset": 1377,
+          "timestamp_utc": "2026-10-07T10:53:09.093Z"
+        },
+        "ai_scope_rank": 52
+      },
+      {
+        "video_id": "7643616375575022891",
+        "url": "https://www.douyin.com/video/7643616375575022891",
+        "title": "第19集 | 风口：不懂Ai你就去卖书！Ai赋能纸质书，出版社直接咸鱼翻身 #青年创作者成长计划",
+        "display": "3052",
+        "approx_value": 3052.0,
+        "visible_rank": 69,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 986,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 53
+      },
+      {
+        "video_id": "7686592375963012393",
+        "url": "https://www.douyin.com/video/7686592375963012393",
+        "title": "第65集 | 摸清Ai和人脑的8个共性后，我砍掉了所有无意义的社交 #Ai新星计划 #抖音精选app征稿中 #抖音前沿科技首发计划 #青年创作者成长计划",
+        "display": "2966",
+        "approx_value": 2966.0,
+        "visible_rank": 70,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 54
+      },
+      {
+        "video_id": "7591150981573785076",
+        "url": "https://www.douyin.com/video/7591150981573785076",
+        "title": "第2集 | 我用5分钟做出一款小游戏，两分钟入门Cursor！ #自媒体创业 #一分钟干货教学 #Ai",
+        "display": "2780",
+        "approx_value": 2780.0,
+        "visible_rank": 71,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 653,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 55
+      },
+      {
+        "video_id": "7682457030732401974",
+        "url": "https://www.douyin.com/video/7682457030732401974",
+        "title": "第61集 | 什么职业受Ai影响为0？",
+        "display": "2742",
+        "approx_value": 2742.0,
+        "visible_rank": 72,
+        "content_status": "NOT_READ_EXPORT_TIMEOUT",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 350,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 56
+      },
+      {
+        "video_id": "7642516443459751220",
+        "url": "https://www.douyin.com/video/7642516443459751220",
+        "title": "第17集 | 新手扫盲教程！用大白话解释今年10个最火的Ai专业词汇 #青年创作者成长计划 #抖音前沿科技首发计划",
+        "display": "2467",
+        "approx_value": 2467.0,
+        "visible_rank": 73,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 348,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 57
+      },
+      {
+        "video_id": "7660869437800680739",
+        "url": "https://www.douyin.com/video/7660869437800680739",
+        "title": "第46集 | 英语老师对不起！GPT-Live实在是太好用了 #AI新星计划 #抖音前沿科技首发计划",
+        "display": "2144",
+        "approx_value": 2144.0,
+        "visible_rank": 75,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 349,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 58
+      },
+      {
+        "video_id": "7614028038887492874",
+        "url": "https://www.douyin.com/video/7614028038887492874",
+        "title": "第10集 | 99%国人都不知道的国产手机，在非洲靠给黑人美肤做到全球前三 在国内大厂“卷”生“卷”死的时候，传音早就靠着“深耕非洲”拿下了全球出海王牌！从解决黑人兄弟的拍照痛点、硬核四卡四待，到如今强势布局高端化、满血接入开源大模型DeepSeek，带你拆解这个隐秘巨头600亿营收背后的商业护城河与反击战。普通人也能学到的降维打击思维，全在视频里了！#科技 #商业 #知识分享 #掘金计划2026 #燃起来了大国重器 @抖音创作小助手 哥我想进精选",
+        "display": "2095",
+        "approx_value": 2095.0,
+        "visible_rank": 76,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8e47a453bbed4a0b865549c3472fc6a1",
+          "input_jsonl_line": 5999,
+          "output_jsonl_line": 6002,
+          "content_block_index": 1,
+          "text_offset": 503,
+          "timestamp_utc": "2026-10-07T10:53:34.295Z"
+        },
+        "ai_scope_rank": 59
+      },
+      {
+        "video_id": "7661889297863281970",
+        "url": "https://www.douyin.com/video/7661889297863281970",
+        "title": "第48集 | 豆包办公版是怎么帮我降低学习成本的 #豆包",
+        "display": "2040",
+        "approx_value": 2040.0,
+        "visible_rank": 77,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7ea45aa5d3e84ff8890c6798bfc82205",
+          "input_jsonl_line": 5918,
+          "output_jsonl_line": 5921,
+          "content_block_index": 1,
+          "text_offset": 996,
+          "timestamp_utc": "2026-10-07T10:49:26.045Z"
+        },
+        "ai_scope_rank": 60
+      },
+      {
+        "video_id": "7679022828976442650",
+        "url": "https://www.douyin.com/video/7679022828976442650",
+        "title": "第58集 | AI应用最隐蔽的一笔成本，被阿里云打掉了90% #阿里云 #OSS向量Bucket #向量存储 #Ai新星计划 #Ai开发",
+        "display": "1943",
+        "approx_value": 1943.0,
+        "visible_rank": 78,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 61
+      },
+      {
+        "video_id": "7607633689456282703",
+        "url": "https://www.douyin.com/video/7607633689456282703",
+        "title": "开箱18万的宇树机器人 #大年初一 #机器人",
+        "display": "1626",
+        "approx_value": 1626.0,
+        "visible_rank": 81,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bdD7F3FRSyFOTN7Q7vdhPBi9",
+          "input_jsonl_line": 6004,
+          "output_jsonl_line": 6007,
+          "content_block_index": 1,
+          "text_offset": 838,
+          "timestamp_utc": "2026-10-07T10:53:52.015Z"
+        },
+        "ai_scope_rank": 62
+      },
+      {
+        "video_id": "7632478618660179263",
+        "url": "https://www.douyin.com/video/7632478618660179263",
+        "title": "第4集 | Deepseek V4上线发布，有哪些亮点值得关注？ #青年创作者成长计划",
+        "display": "1599",
+        "approx_value": 1599.0,
+        "visible_rank": 82,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 664,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 63
+      },
+      {
+        "video_id": "7630650541562924351",
+        "url": "https://www.douyin.com/video/7630650541562924351",
+        "title": "第2集 | 怒花1400开通了Claude顶配会员，新手入门&使用心得 心得就是最贵的反而是最省钱的，下午开了以后疯狂Coding，进度条根本不动！相反如果我是用cursor调用API去做的话现在账单估计早就100刀以上了，没吹牛逼，这一周cursor消耗了240刀的ClaudeAPI直接给我干到付费层级3了。真正意义上Token自由了，好爽，这个钱真不建议大家省，我也是通过Grok一直给我建议对比，得出以我的用量，每年开会员能比不开会员省一万美金！#青年创作者成长计划",
+        "display": "1382",
+        "approx_value": 1382.0,
+        "visible_rank": 83,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 340,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 64
+      },
+      {
+        "video_id": "7654558681752702258",
+        "url": "https://www.douyin.com/video/7654558681752702258",
+        "title": "第37集 | 我Chovy群聊被蒸馏变黑暗森林了",
+        "display": "1343",
+        "approx_value": 1343.0,
+        "visible_rank": 84,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 996,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 65
+      },
+      {
+        "video_id": "7630724164843834630",
+        "url": "https://www.douyin.com/video/7630724164843834630",
+        "title": "第3集 | 开箱Claude Design！设计师真的要失业了 看完会和我一样震惊#青年创作者成长计划",
+        "display": "568",
+        "approx_value": 568.0,
+        "visible_rank": 88,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 66
+      },
+      {
+        "video_id": "7617013879721200930",
+        "url": "https://www.douyin.com/video/7617013879721200930",
+        "title": "第11集 | 人工智能万亿财富大分配下，是谁在闷声大发财？ 2026年，AI早已不是泡沫，而是一场万亿级的财富重构！当英伟达在卖液冷、微软在重启核电站时，大模型公司却深陷“推理成本陷阱”年亏百亿？底层逻辑变了：软件不再按人头卖，而是按“结果”收费！本期视频带你拆解AI产业链最核心的五层收入模型，看清谁在疯狂掘金，谁又在破产边缘！ #人工智能 #掘金计划2026 #燃起来了大国重器 #一人公司 #商业故事 @抖音创作小助手 哥我想进精选",
+        "display": "533",
+        "approx_value": 533.0,
+        "visible_rank": 89,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8e47a453bbed4a0b865549c3472fc6a1",
+          "input_jsonl_line": 5999,
+          "output_jsonl_line": 6002,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:53:34.295Z"
+        },
+        "ai_scope_rank": 67
+      },
+      {
+        "video_id": "7619598715401096458",
+        "url": "https://www.douyin.com/video/7619598715401096458",
+        "title": "第1集 | 账号运营心得，这期视频拆开卖课能卖万八千。我没吹牛嗷 [00:01] 现状： 抖音流量崩盘，决定拍长视频走心交流。• [01:33] 踩坑： 砸10万模仿“大片”失败，领悟高成本风险。• [02:47] 洞察： 口播吸粉快但没价值，必须做高质量垂直内容。• [04:54] 转型： 戒掉 Web3，死磕**“阳光、可持续”**的 AI 商业赛道。• [08:05] 抖音： 拆解“伙伴计划”分成收益与官方扶持门槛。• [15:39] 油管： 频道意外开通收益，验证长效内容价值。• [17:11] 排行： YouTube(最稳) > 抖音(最赚) > 小红书(高净值) > B站(易出圈)。• [21:26] 核心： 详解为何 YouTube 是自媒体人的终极避风港。• [26:08] 锐评： 吐槽 B 站运营拉胯，但它是博主成名的摇篮。",
+        "display": "524",
+        "approx_value": 524.0,
+        "visible_rank": 91,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7a473228ff5349ddb39c7a80352a5cce",
+          "input_jsonl_line": 5990,
+          "output_jsonl_line": 5993,
+          "content_block_index": 1,
+          "text_offset": 711,
+          "timestamp_utc": "2026-10-07T10:53:09.093Z"
+        },
+        "ai_scope_rank": 68
+      },
+      {
+        "video_id": "7634710782399368482",
+        "url": "https://www.douyin.com/video/7634710782399368482",
+        "title": "第6集 | 马斯克向OpenAi索赔$1300亿！Ai世纪官司正式开打 #青年创作者成长计划",
+        "display": "469",
+        "approx_value": 469.0,
+        "visible_rank": 92,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 69
+      },
+      {
+        "video_id": "7634302698023619881",
+        "url": "https://www.douyin.com/video/7634302698023619881",
+        "title": "第5集 | 谷歌怒砸400亿布局Claude，Gemini真要被放弃了吗 #青年创作者成长计划",
+        "display": "443",
+        "approx_value": 443.0,
+        "visible_rank": 93,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 333,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 70
+      },
+      {
+        "video_id": "7597271409433398555",
+        "url": "https://www.douyin.com/video/7597271409433398555",
+        "title": "Ai时代，我是如何获取一手信息源的？ #播客 #科技",
+        "display": "421",
+        "approx_value": 421.0,
+        "visible_rank": 95,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 341,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 71
+      },
+      {
+        "video_id": "7629907381829438952",
+        "url": "https://www.douyin.com/video/7629907381829438952",
+        "title": "第1集 | 事实：如果你的产品好，就算价格高使用难度大也没人会说你割韭菜 真没招了一周烧了我145刀#claude #Opus4.7 #青年创作者成长计划",
+        "display": "272",
+        "approx_value": 272.0,
+        "visible_rank": 97,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 865,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 72
+      },
+      {
+        "video_id": "7629282791091358986",
+        "url": "https://www.douyin.com/video/7629282791091358986",
+        "title": "第20集 | Ai模型能有多烧钱？起底OpenAi紧急下架Sora真实原因 #青年创作者成长计划 #掘金计划2026 #燃起来了大国重器",
+        "display": "58",
+        "approx_value": 58.0,
+        "visible_rank": 101,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 1229,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 73
+      }
+    ],
+    "favorites": [
+      {
+        "video_id": "7641387235530525961",
+        "url": "https://www.douyin.com/video/7641387235530525961",
+        "title": "第16集 | 风口：Ai智能体赛道！主播是真的眼馋 #青年创作者成长计划",
+        "display": "7.4万",
+        "approx_value": 74000.0,
+        "visible_rank": 2,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_35bce7f3fc844098866c41ca7ab9992a",
+          "input_jsonl_line": 5756,
+          "output_jsonl_line": 5759,
+          "content_block_index": 1,
+          "text_offset": 2837,
+          "timestamp_utc": "2026-10-07T10:41:19.990Z"
+        },
+        "ai_scope_rank": 1
+      },
+      {
+        "video_id": "7657727877504437538",
+        "url": "https://www.douyin.com/video/7657727877504437538",
+        "title": "趁Ai真正的爆发期还没有到来，努力成为那万分之四吧 #Ai新星计划#抖音前沿科技首发计划",
+        "display": "5.8万",
+        "approx_value": 58000.0,
+        "visible_rank": 3,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_aaWQAlcJrUF6hIg4Y1usDJLn",
+          "input_jsonl_line": 5731,
+          "output_jsonl_line": 5734
+        },
+        "ai_scope_rank": 2
+      },
+      {
+        "video_id": "7646665973897973043",
+        "url": "https://www.douyin.com/video/7646665973897973043",
+        "title": "第23集 | VibeCoding变现指南：从开发，获客到交付全链路讲解 #青年创作者成长计划 #vibecoding大赏 #Ai新星计划",
+        "display": "4.9万",
+        "approx_value": 49000.0,
+        "visible_rank": 4,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 359,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 3
+      },
+      {
+        "video_id": "7644347037009366326",
+        "url": "https://www.douyin.com/video/7644347037009366326",
+        "title": "第20集 | 让Ai全链路接管你的自媒体频道！我把自用的Skill开源了 #青年创作者成长计划#VibeCoding大赏 #Ai新星计划 @抖音科技",
+        "display": "2.2万",
+        "approx_value": 22000.0,
+        "visible_rank": 5,
+        "content_status": "ACCEPTED_PMO_CONTENT",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 4
+      },
+      {
+        "video_id": "7620229921666846002",
+        "url": "https://www.douyin.com/video/7620229921666846002",
+        "title": "Token出海是骗局吗？ #商业 #算力 #人工智能 #掘金计划2026 #燃起来了大国重器",
+        "display": "2.1万",
+        "approx_value": 21000.0,
+        "visible_rank": 6,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_69d66d8c902641f0a2ff59839bd32827",
+          "input_jsonl_line": 5791,
+          "output_jsonl_line": 5794,
+          "content_block_index": 1,
+          "text_offset": 2564,
+          "timestamp_utc": "2026-10-07T10:42:38.465Z"
+        },
+        "ai_scope_rank": 5
+      },
+      {
+        "video_id": "7652859606326119699",
+        "url": "https://www.douyin.com/video/7652859606326119699",
+        "title": "第34集 | 不要漏掉每一个聊天记录！从现在开始做好数据备份和知识库搭建 Ai时代这些都会是珍贵的数字资产，准备迎接你的第二大脑#青年创作者成长计划",
+        "display": "1.6万",
+        "approx_value": 16000.0,
+        "visible_rank": 7,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+          "input_jsonl_line": 5828,
+          "output_jsonl_line": 5831,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:44:07.963Z"
+        },
+        "ai_scope_rank": 6
+      },
+      {
+        "video_id": "7637698039943089462",
+        "url": "https://www.douyin.com/video/7637698039943089462",
+        "title": "第10集 | 中文区最强的Ai信源搜集Skill，我爆款视频的选题全靠它 @数字生命卡兹克 #青年创作者成长计划",
+        "display": "1.5万",
+        "approx_value": 15000.0,
+        "visible_rank": 8,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 7
+      },
+      {
+        "video_id": "7685196022947056911",
+        "url": "https://www.douyin.com/video/7685196022947056911",
+        "title": "第63集 | 初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮#青年创作者成长计划 #AI新星计划 #抖音精选App征稿中 #抖音前沿科技首发计划",
+        "display": "1.4万",
+        "approx_value": 14000.0,
+        "visible_rank": 9,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a36d6796d83042eb9c366aae865e6372",
+          "input_jsonl_line": 5828,
+          "output_jsonl_line": 5831,
+          "content_block_index": 1,
+          "text_offset": 2549,
+          "timestamp_utc": "2026-10-07T10:44:07.963Z"
+        },
+        "ai_scope_rank": 8
+      },
+      {
+        "video_id": "7677754141896117530",
+        "url": "https://www.douyin.com/video/7677754141896117530",
+        "title": "第57集 | 国内的数据标注时薪有300-3000？AI训练师第三弹来了！ #抖音前沿科技首发计划 #抖音精选App征稿中 #Ai新星计划 #青年创作者成长计划",
+        "display": "1.3万",
+        "approx_value": 13000.0,
+        "visible_rank": 10,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 667,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 9
+      },
+      {
+        "video_id": "7670305314608008457",
+        "url": "https://www.douyin.com/video/7670305314608008457",
+        "title": "第52集 | 最近沉浸在AiGC中，今天聊聊此类账号的工作流和变现思路 #抖音前沿科技首发计划 #Aigc",
+        "display": "1.2万",
+        "approx_value": 12000.0,
+        "visible_rank": 11,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fd585c972df3465aa78348d0eda5fed1",
+          "input_jsonl_line": 5850,
+          "output_jsonl_line": 5853,
+          "content_block_index": 1,
+          "text_offset": 2524,
+          "timestamp_utc": "2026-10-07T10:45:12.278Z"
+        },
+        "ai_scope_rank": 10
+      },
+      {
+        "video_id": "7648778898376854818",
+        "url": "https://www.douyin.com/video/7648778898376854818",
+        "title": "第26集 | Ai圈接下来10年的铁饭碗！全面拆解FDE前沿部署工程师 #青年创作者成长计划",
+        "display": "1.1万",
+        "approx_value": 11000.0,
+        "visible_rank": 12,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 1004,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 11
+      },
+      {
+        "video_id": "7637292476620950825",
+        "url": "https://www.douyin.com/video/7637292476620950825",
+        "title": "第9集 | 本科毕业就能干，如何上手时薪700的Ai大模型训练师？ #青年创作者成长计划",
+        "display": "1.1万",
+        "approx_value": 11000.0,
+        "visible_rank": 12,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 334,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 11
+      },
+      {
+        "video_id": "7638759938881342729",
+        "url": "https://www.douyin.com/video/7638759938881342729",
+        "title": "第12集 | 风口：开源项目U盘化，Ai时代的家电下乡！会用豆包就能做.. #青年创作者成长计划",
+        "display": "9282",
+        "approx_value": 9282.0,
+        "visible_rank": 15,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 13
+      },
+      {
+        "video_id": "7675033195020029219",
+        "url": "https://www.douyin.com/video/7675033195020029219",
+        "title": "第55集 | 我说白了很多Ai博主生成视频压根儿不用自己掏钱买积分 #抖音前沿科技首发计划 #Ai新星计划 #Ai",
+        "display": "8535",
+        "approx_value": 8535.0,
+        "visible_rank": 16,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 14
+      },
+      {
+        "video_id": "7673386754019249454",
+        "url": "https://www.douyin.com/video/7673386754019249454",
+        "title": "第54集 | 我花了三天三夜，终于帮你们把所有主流的视频模型都测了一遍 锐评环节开始！！#Aigc #抖音前沿科技首发计划",
+        "display": "8055",
+        "approx_value": 8055.0,
+        "visible_rank": 17,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 346,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 15
+      },
+      {
+        "video_id": "7654389102657178920",
+        "url": "https://www.douyin.com/video/7654389102657178920",
+        "title": "第36集 | 小白Ai入门教学！5分钟就能搞定的事儿为啥非得去报课呢 #青年创作者成长计划",
+        "display": "8008",
+        "approx_value": 8008.0,
+        "visible_rank": 18,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 16
+      },
+      {
+        "video_id": "7639501466603900206",
+        "url": "https://www.douyin.com/video/7639501466603900206",
+        "title": "第13集 | Ai时代OPC一人公司到底有何机会？全网最通俗易懂的拆解来了 #青年创作者成长计划",
+        "display": "7438",
+        "approx_value": 7438.0,
+        "visible_rank": 19,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 1030,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 17
+      },
+      {
+        "video_id": "7636162735721565478",
+        "url": "https://www.douyin.com/video/7636162735721565478",
+        "title": "第7集 | 2026最新风口：用户和Ai间的对话数据会是各巨头争抢的资产 #青年创作者成长计划",
+        "display": "7405",
+        "approx_value": 7405.0,
+        "visible_rank": 20,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 994,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 18
+      },
+      {
+        "video_id": "7656027238931942697",
+        "url": "https://www.douyin.com/video/7656027238931942697",
+        "title": "第38集 | vivo X Fold6 首发体验！让一人成军的 AI 搭子 #vivoxfold6 #originos6 #AI轻办公神器 #人类对折叠屏开发不足百分之一 #Ai搭子",
+        "display": "6641",
+        "approx_value": 6641.0,
+        "visible_rank": 23,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_69d66d8c902641f0a2ff59839bd32827",
+          "input_jsonl_line": 5791,
+          "output_jsonl_line": 5794,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:42:38.465Z"
+        },
+        "ai_scope_rank": 19
+      },
+      {
+        "video_id": "7636548062072032518",
+        "url": "https://www.douyin.com/video/7636548062072032518",
+        "title": "第8集 | 主流Ai工具和模型个人使用深度心得，从拉到夯帮你避坑！ #青年创作者成长计划",
+        "display": "6400",
+        "approx_value": 6400.0,
+        "visible_rank": 24,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_tZbpgEqVk3fr0sS1EAQPmw7y",
+          "input_jsonl_line": 5966,
+          "output_jsonl_line": 5969,
+          "content_block_index": 1,
+          "text_offset": 663,
+          "timestamp_utc": "2026-10-07T10:51:46.438Z"
+        },
+        "ai_scope_rank": 20
+      },
+      {
+        "video_id": "7640285192405437702",
+        "url": "https://www.douyin.com/video/7640285192405437702",
+        "title": "第15集 | 你的专属Ai管家，全网最易懂Hermes入门教程来了 #青年创作者成长计划",
+        "display": "5096",
+        "approx_value": 5096.0,
+        "visible_rank": 26,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 693,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 21
+      },
+      {
+        "video_id": "7690958652961770794",
+        "url": "https://www.douyin.com/video/7690958652961770794",
+        "title": "第69集 | Opus5.5+Ae！为了这套新工作流，我买了台五万多的电脑 #抖音精选app征稿中 #抖音前沿科技首发计划",
+        "display": "4825",
+        "approx_value": 4825.0,
+        "visible_rank": 27,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 22
+      },
+      {
+        "video_id": "7657040269149326638",
+        "url": "https://www.douyin.com/video/7657040269149326638",
+        "title": "第40集 | 我开源了自媒体Ai自审智能体！能够帮助大家合规地创作视频啦 #Ai新星计划 #Vibecoding大赏",
+        "display": "3585",
+        "approx_value": 3585.0,
+        "visible_rank": 29,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 687,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 23
+      },
+      {
+        "video_id": "7638387584661540134",
+        "url": "https://www.douyin.com/video/7638387584661540134",
+        "title": "第11集 | 五万粉里程碑达成！我用Ai运营自媒体的三个心法 #青年创作者成长计划",
+        "display": "3531",
+        "approx_value": 3531.0,
+        "visible_rank": 30,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 1042,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 24
+      },
+      {
+        "video_id": "7640636073336507683",
+        "url": "https://www.douyin.com/video/7640636073336507683",
+        "title": "第14集 | 用Ai写作“人机感”一直很强？我去除Ai味的终极方法 #青年创作者成长计划",
+        "display": "3046",
+        "approx_value": 3046.0,
+        "visible_rank": 31,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 708,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 25
+      },
+      {
+        "video_id": "7649973320758152474",
+        "url": "https://www.douyin.com/video/7649973320758152474",
+        "title": "第29集 | TraeWork是怎么帮我实现多维打分并建立选题库的 #TRAE #TRAEWork#vibecoding大赏 #TRAEAI创造力大赛 #全民都在比赛用AI造东西",
+        "display": "2904",
+        "approx_value": 2904.0,
+        "visible_rank": 32,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_Go6g9M4jkphbRfF7btLBfYOr",
+          "input_jsonl_line": 6034,
+          "output_jsonl_line": 6037,
+          "content_block_index": 1,
+          "text_offset": 334,
+          "timestamp_utc": "2026-10-07T10:55:27.949Z"
+        },
+        "ai_scope_rank": 26
+      },
+      {
+        "video_id": "7680607222388313370",
+        "url": "https://www.douyin.com/video/7680607222388313370",
+        "title": "第60集 | 20万粉心得分享：我是利用这些数据帮助我提升播放量的 #青年创作者成长计划",
+        "display": "2701",
+        "approx_value": 2701.0,
+        "visible_rank": 33,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 659,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 27
+      },
+      {
+        "video_id": "7653723086478511414",
+        "url": "https://www.douyin.com/video/7653723086478511414",
+        "title": "第35集 | 如何能让Ai主动推荐你？全面拆解GEO生成式引擎优化产业！ #青年创作者成长计划",
+        "display": "2677",
+        "approx_value": 2677.0,
+        "visible_rank": 34,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 28
+      },
+      {
+        "video_id": "7679827228313537802",
+        "url": "https://www.douyin.com/video/7679827228313537802",
+        "title": "第59集 | Skill，数据库，知识库，终于可以上架变现了！ #Ai新星计划 #抖音前沿科技首发计划 #青年创作者成长计划 #UUMIT",
+        "display": "2650",
+        "approx_value": 2650.0,
+        "visible_rank": 35,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 1084,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 29
+      },
+      {
+        "video_id": "7676255357856992531",
+        "url": "https://www.douyin.com/video/7676255357856992531",
+        "title": "第56集 | 顶级Ai应用案例分享：修一张图敢收5毛钱？像素蛋糕你牛大了 #抖音前沿科技首发计划 #抖音精选App征稿中 #Ai新星计划#青年创作者成长计划",
+        "display": "2561",
+        "approx_value": 2561.0,
+        "visible_rank": 36,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 1032,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 30
+      },
+      {
+        "video_id": "7651032527284571398",
+        "url": "https://www.douyin.com/video/7651032527284571398",
+        "title": "第31集 | 打开一下思路说说怎么赚回Ai会员费",
+        "display": "2349",
+        "approx_value": 2349.0,
+        "visible_rank": 37,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 1006,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 31
+      },
+      {
+        "video_id": "7647717028643556627",
+        "url": "https://www.douyin.com/video/7647717028643556627",
+        "title": "第24集 | 更新迭代太快了！盘点分析26年Q2中美Ai前沿态势 #青年创作者成长计划",
+        "display": "2299",
+        "approx_value": 2299.0,
+        "visible_rank": 38,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 315,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 32
+      },
+      {
+        "video_id": "7591150981573785076",
+        "url": "https://www.douyin.com/video/7591150981573785076",
+        "title": "第2集 | 我用5分钟做出一款小游戏，两分钟入门Cursor！ #自媒体创业 #一分钟干货教学 #Ai",
+        "display": "2292",
+        "approx_value": 2292.0,
+        "visible_rank": 39,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 653,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 33
+      },
+      {
+        "video_id": "7650267641566743846",
+        "url": "https://www.douyin.com/video/7650267641566743846",
+        "title": "第30集 | 墨西哥真的2:0南非了！我开源了世界杯Ai预测Skill #青年创作者成长计划 #vibecoding大赏",
+        "display": "2148",
+        "approx_value": 2148.0,
+        "visible_rank": 41,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 34
+      },
+      {
+        "video_id": "7672068562046946569",
+        "url": "https://www.douyin.com/video/7672068562046946569",
+        "title": "第53集 | 古风Ai视频工业化流水线，实操教程它来了 #Flovaai#SD25 #国风 #AiGC#FlovaSD25创作季",
+        "display": "2029",
+        "approx_value": 2029.0,
+        "visible_rank": 42,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 695,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 35
+      },
+      {
+        "video_id": "7593609966410321152",
+        "url": "https://www.douyin.com/video/7593609966410321152",
+        "title": "第1集 | CES2026，黄仁勋亮剑！英伟达凭这三大技术垄断未来 老黄在2026年CES上的这场演讲太震撼了！ 从Jetson芯片到Omniverse仿真，再到Project Groot，英伟达用12年的布局告诉我们：物理机器人的未来已来！这期视频知识点比较密集，节奏比较快，感谢大家耐心看完 #CES2026 #人工智能 #机器人 #黄仁勋 #青年创作者成长计划",
+        "display": "2003",
+        "approx_value": 2003.0,
+        "visible_rank": 43,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_0bifRQBmToSdrdZX9WZB811o",
+          "input_jsonl_line": 6009,
+          "output_jsonl_line": 6012,
+          "content_block_index": 1,
+          "text_offset": 881,
+          "timestamp_utc": "2026-10-07T10:54:09.359Z"
+        },
+        "ai_scope_rank": 36
+      },
+      {
+        "video_id": "7665543600142404864",
+        "url": "https://www.douyin.com/video/7665543600142404864",
+        "title": "第50集 | 一个北海道农民竟通过VibeCoding实现了500万营收 #抖音前沿科技首发计划 #vibecoding大赏",
+        "display": "1922",
+        "approx_value": 1922.0,
+        "visible_rank": 44,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7ea45aa5d3e84ff8890c6798bfc82205",
+          "input_jsonl_line": 5918,
+          "output_jsonl_line": 5921,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:49:26.045Z"
+        },
+        "ai_scope_rank": 37
+      },
+      {
+        "video_id": "7691390692584672538",
+        "url": "https://www.douyin.com/video/7691390692584672538",
+        "title": "第70集 | 商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划",
+        "display": "1901",
+        "approx_value": 1901.0,
+        "visible_rank": 45,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_4081cd78d3d24810b12e9fae449231eb",
+          "input_jsonl_line": 6024,
+          "output_jsonl_line": 6027,
+          "content_block_index": 1,
+          "text_offset": 1048,
+          "timestamp_utc": "2026-10-07T10:54:54.672Z"
+        },
+        "ai_scope_rank": 38
+      },
+      {
+        "video_id": "7649358180140535080",
+        "url": "https://www.douyin.com/video/7649358180140535080",
+        "title": "第28集 | 祝上岸！AI现在可以帮你报高考志愿 #青年创作者成长计划 #高考志愿 #千问#千问上线高考志愿Agent",
+        "display": "1865",
+        "approx_value": 1865.0,
+        "visible_rank": 46,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_23CG3mnmoVkp21QF8y1hKZgf",
+          "input_jsonl_line": 5942,
+          "output_jsonl_line": 5945,
+          "content_block_index": 1,
+          "text_offset": 352,
+          "timestamp_utc": "2026-10-07T10:50:41.497Z"
+        },
+        "ai_scope_rank": 39
+      },
+      {
+        "video_id": "7682676511991696655",
+        "url": "https://www.douyin.com/video/7682676511991696655",
+        "title": "第62集 | 3.14亿播放的AI视频，今天把整条生产线开源了 #⼀句话开启创作#⼀键拆解爆款#跳跃视界 #AiGC",
+        "display": "1792",
+        "approx_value": 1792.0,
+        "visible_rank": 47,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 734,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 40
+      },
+      {
+        "video_id": "7659951806855875892",
+        "url": "https://www.douyin.com/video/7659951806855875892",
+        "title": "第44集 | 未来5年，只有这三种Ai应用企业能活到最后 #Ai新星计划 #抖音前沿科技首发计划",
+        "display": "1757",
+        "approx_value": 1757.0,
+        "visible_rank": 48,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 1039,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 41
+      },
+      {
+        "video_id": "7658456760469966115",
+        "url": "https://www.douyin.com/video/7658456760469966115",
+        "title": "第42集 | 新手入门AI该怎么选电脑，有必要花大几万去配置本地模型吗？ #Ai新星计划#抖音前沿科技首发计划",
+        "display": "1743",
+        "approx_value": 1743.0,
+        "visible_rank": 49,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 340,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 42
+      },
+      {
+        "video_id": "7690297713681796393",
+        "url": "https://www.douyin.com/video/7690297713681796393",
+        "title": "第68集 | 刘慈欣当顾问、550 万奖金池，新手怎么一边薅算力一边参赛？ MiniMax H3 RH Enhanced 限时免费#全球aigc长片创作大赛#ai视频#ai长片#局部重拍",
+        "display": "1695",
+        "approx_value": 1695.0,
+        "visible_rank": 50,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+          "input_jsonl_line": 5865,
+          "output_jsonl_line": 5868,
+          "content_block_index": 1,
+          "text_offset": 799,
+          "timestamp_utc": "2026-10-07T10:45:57.600Z"
+        },
+        "ai_scope_rank": 43
+      },
+      {
+        "video_id": "7642858757134880026",
+        "url": "https://www.douyin.com/video/7642858757134880026",
+        "title": "第18集 | MiniMax王炸功能发布，8分钟复刻影视飓风同款数据仪表盘 #青年创作者成长计划 #Minimax",
+        "display": "1327",
+        "approx_value": 1327.0,
+        "visible_rank": 55,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 44
+      },
+      {
+        "video_id": "7652154408414792987",
+        "url": "https://www.douyin.com/video/7652154408414792987",
+        "title": "第33集 | 蒸馏群聊Skill，妈妈再也不用担心我错过群聊的重要信息啦 #青年创作者成长计划致谢@月明水清深",
+        "display": "1253",
+        "approx_value": 1253.0,
+        "visible_rank": 56,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_QMB2if5Eh6XsU0ZGAITDbIxT",
+          "input_jsonl_line": 5935,
+          "output_jsonl_line": 5938,
+          "content_block_index": 1,
+          "text_offset": 337,
+          "timestamp_utc": "2026-10-07T10:50:22.247Z"
+        },
+        "ai_scope_rank": 45
+      },
+      {
+        "video_id": "7642516443459751220",
+        "url": "https://www.douyin.com/video/7642516443459751220",
+        "title": "第17集 | 新手扫盲教程！用大白话解释今年10个最火的Ai专业词汇 #青年创作者成长计划 #抖音前沿科技首发计划",
+        "display": "1161",
+        "approx_value": 1161.0,
+        "visible_rank": 57,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_04735ad366d749fea7e2f620e72f0cb6",
+          "input_jsonl_line": 5961,
+          "output_jsonl_line": 5964,
+          "content_block_index": 1,
+          "text_offset": 348,
+          "timestamp_utc": "2026-10-07T10:51:29.727Z"
+        },
+        "ai_scope_rank": 46
+      },
+      {
+        "video_id": "7643616375575022891",
+        "url": "https://www.douyin.com/video/7643616375575022891",
+        "title": "第19集 | 风口：不懂Ai你就去卖书！Ai赋能纸质书，出版社直接咸鱼翻身 #青年创作者成长计划",
+        "display": "1099",
+        "approx_value": 1099.0,
+        "visible_rank": 59,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 986,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 47
+      },
+      {
+        "video_id": "7646187098134859034",
+        "url": "https://www.douyin.com/video/7646187098134859034",
+        "title": "第22集 | Ai越泛滥我就越独特！月涨粉率600%，0粉创作者的机会来了 #青年创作者成长计划",
+        "display": "952",
+        "approx_value": 952.0,
+        "visible_rank": 60,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_CoALm8WDjFMWYs1769ckJTiy",
+          "input_jsonl_line": 5947,
+          "output_jsonl_line": 5950,
+          "content_block_index": 1,
+          "text_offset": 648,
+          "timestamp_utc": "2026-10-07T10:50:58.806Z"
+        },
+        "ai_scope_rank": 48
+      },
+      {
+        "video_id": "7686005693291171112",
+        "url": "https://www.douyin.com/video/7686005693291171112",
+        "title": "第64集 | 一场发布会，让我看懂Ai是怎么帮传统软件放大十倍能力的 #像素系列发布会 #像素蛋糕预设 #像素助手 #抖音精选App征稿中 #抖音前沿科技首发计划",
+        "display": "930",
+        "approx_value": 930.0,
+        "visible_rank": 62,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 366,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 49
+      },
+      {
+        "video_id": "7688617760657509651",
+        "url": "https://www.douyin.com/video/7688617760657509651",
+        "title": "第67集 | 什么是PersonalAgent的终极形态？千问给出了方向 #千问 #云栖大会",
+        "display": "753",
+        "approx_value": 753.0,
+        "visible_rank": 64,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_535109d38cdc460ebac302bdc2baeb91",
+          "input_jsonl_line": 5865,
+          "output_jsonl_line": 5868,
+          "content_block_index": 1,
+          "text_offset": 1889,
+          "timestamp_utc": "2026-10-07T10:45:57.600Z"
+        },
+        "ai_scope_rank": 50
+      },
+      {
+        "video_id": "7686592375963012393",
+        "url": "https://www.douyin.com/video/7686592375963012393",
+        "title": "第65集 | 摸清Ai和人脑的8个共性后，我砍掉了所有无意义的社交 #Ai新星计划 #抖音精选app征稿中 #抖音前沿科技首发计划 #青年创作者成长计划",
+        "display": "714",
+        "approx_value": 714.0,
+        "visible_rank": 65,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8pBsQNCXncBd0Ih0gplFlhc0",
+          "input_jsonl_line": 5878,
+          "output_jsonl_line": 5881,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:46:33.884Z"
+        },
+        "ai_scope_rank": 51
+      },
+      {
+        "video_id": "7660684705892814114",
+        "url": "https://www.douyin.com/video/7660684705892814114",
+        "title": "第45集 | 如何对抗Ai带来的潜在失业潮，是全球主要经济体都将面临的课题 #Ai新星计划 #抖音前沿科技首发计划",
+        "display": "698",
+        "approx_value": 698.0,
+        "visible_rank": 66,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 691,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 52
+      },
+      {
+        "video_id": "7660869437800680739",
+        "url": "https://www.douyin.com/video/7660869437800680739",
+        "title": "第46集 | 英语老师对不起！GPT-Live实在是太好用了 #AI新星计划 #抖音前沿科技首发计划",
+        "display": "687",
+        "approx_value": 687.0,
+        "visible_rank": 67,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7aef5af1617d490a8b81fc4b080049e6",
+          "input_jsonl_line": 5923,
+          "output_jsonl_line": 5926,
+          "content_block_index": 1,
+          "text_offset": 349,
+          "timestamp_utc": "2026-10-07T10:49:45.518Z"
+        },
+        "ai_scope_rank": 53
+      },
+      {
+        "video_id": "7630650541562924351",
+        "url": "https://www.douyin.com/video/7630650541562924351",
+        "title": "第2集 | 怒花1400开通了Claude顶配会员，新手入门&使用心得 心得就是最贵的反而是最省钱的，下午开了以后疯狂Coding，进度条根本不动！相反如果我是用cursor调用API去做的话现在账单估计早就100刀以上了，没吹牛逼，这一周cursor消耗了240刀的ClaudeAPI直接给我干到付费层级3了。真正意义上Token自由了，好爽，这个钱真不建议大家省，我也是通过Grok一直给我建议对比，得出以我的用量，每年开会员能比不开会员省一万美金！#青年创作者成长计划",
+        "display": "570",
+        "approx_value": 570.0,
+        "visible_rank": 68,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 340,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 54
+      },
+      {
+        "video_id": "7679022828976442650",
+        "url": "https://www.douyin.com/video/7679022828976442650",
+        "title": "第58集 | AI应用最隐蔽的一笔成本，被阿里云打掉了90% #阿里云 #OSS向量Bucket #向量存储 #Ai新星计划 #Ai开发",
+        "display": "415",
+        "approx_value": 415.0,
+        "visible_rank": 69,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1d97bb32b2334a45ad0a016871b8a770",
+          "input_jsonl_line": 5885,
+          "output_jsonl_line": 5888,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:46:52.317Z"
+        },
+        "ai_scope_rank": 55
+      },
+      {
+        "video_id": "7630724164843834630",
+        "url": "https://www.douyin.com/video/7630724164843834630",
+        "title": "第3集 | 开箱Claude Design！设计师真的要失业了 看完会和我一样震惊#青年创作者成长计划",
+        "display": "380",
+        "approx_value": 380.0,
+        "visible_rank": 71,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 56
+      },
+      {
+        "video_id": "7682457030732401974",
+        "url": "https://www.douyin.com/video/7682457030732401974",
+        "title": "第61集 | 什么职业受Ai影响为0？",
+        "display": "370",
+        "approx_value": 370.0,
+        "visible_rank": 72,
+        "content_status": "NOT_READ_EXPORT_TIMEOUT",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 350,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 57
+      },
+      {
+        "video_id": "7661889297863281970",
+        "url": "https://www.douyin.com/video/7661889297863281970",
+        "title": "第48集 | 豆包办公版是怎么帮我降低学习成本的 #豆包",
+        "display": "351",
+        "approx_value": 351.0,
+        "visible_rank": 73,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7ea45aa5d3e84ff8890c6798bfc82205",
+          "input_jsonl_line": 5918,
+          "output_jsonl_line": 5921,
+          "content_block_index": 1,
+          "text_offset": 996,
+          "timestamp_utc": "2026-10-07T10:49:26.045Z"
+        },
+        "ai_scope_rank": 58
+      },
+      {
+        "video_id": "7606952189660026255",
+        "url": "https://www.douyin.com/video/7606952189660026255",
+        "title": "第5集 | 黄仁勋撤资，DeepSeek降维打击，OpenAi还能翻盘吗 #ai #商业 #科技",
+        "display": "323",
+        "approx_value": 323.0,
+        "visible_rank": 74,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bdD7F3FRSyFOTN7Q7vdhPBi9",
+          "input_jsonl_line": 6004,
+          "output_jsonl_line": 6007,
+          "content_block_index": 1,
+          "text_offset": 1148,
+          "timestamp_utc": "2026-10-07T10:53:52.015Z"
+        },
+        "ai_scope_rank": 59
+      },
+      {
+        "video_id": "7607633689456282703",
+        "url": "https://www.douyin.com/video/7607633689456282703",
+        "title": "开箱18万的宇树机器人 #大年初一 #机器人",
+        "display": "314",
+        "approx_value": 314.0,
+        "visible_rank": 75,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bdD7F3FRSyFOTN7Q7vdhPBi9",
+          "input_jsonl_line": 6004,
+          "output_jsonl_line": 6007,
+          "content_block_index": 1,
+          "text_offset": 838,
+          "timestamp_utc": "2026-10-07T10:53:52.015Z"
+        },
+        "ai_scope_rank": 60
+      },
+      {
+        "video_id": "7619598715401096458",
+        "url": "https://www.douyin.com/video/7619598715401096458",
+        "title": "第1集 | 账号运营心得，这期视频拆开卖课能卖万八千。我没吹牛嗷 [00:01] 现状： 抖音流量崩盘，决定拍长视频走心交流。• [01:33] 踩坑： 砸10万模仿“大片”失败，领悟高成本风险。• [02:47] 洞察： 口播吸粉快但没价值，必须做高质量垂直内容。• [04:54] 转型： 戒掉 Web3，死磕**“阳光、可持续”**的 AI 商业赛道。• [08:05] 抖音： 拆解“伙伴计划”分成收益与官方扶持门槛。• [15:39] 油管： 频道意外开通收益，验证长效内容价值。• [17:11] 排行： YouTube(最稳) > 抖音(最赚) > 小红书(高净值) > B站(易出圈)。• [21:26] 核心： 详解为何 YouTube 是自媒体人的终极避风港。• [26:08] 锐评： 吐槽 B 站运营拉胯，但它是博主成名的摇篮。",
+        "display": "312",
+        "approx_value": 312.0,
+        "visible_rank": 77,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7a473228ff5349ddb39c7a80352a5cce",
+          "input_jsonl_line": 5990,
+          "output_jsonl_line": 5993,
+          "content_block_index": 1,
+          "text_offset": 711,
+          "timestamp_utc": "2026-10-07T10:53:09.093Z"
+        },
+        "ai_scope_rank": 61
+      },
+      {
+        "video_id": "7654558681752702258",
+        "url": "https://www.douyin.com/video/7654558681752702258",
+        "title": "第37集 | 我Chovy群聊被蒸馏变黑暗森林了",
+        "display": "307",
+        "approx_value": 307.0,
+        "visible_rank": 78,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_fL3nchdu5W7nxHu5clrm34F0",
+          "input_jsonl_line": 6029,
+          "output_jsonl_line": 6032,
+          "content_block_index": 1,
+          "text_offset": 996,
+          "timestamp_utc": "2026-10-07T10:55:10.629Z"
+        },
+        "ai_scope_rank": 62
+      },
+      {
+        "video_id": "7618868422776032539",
+        "url": "https://www.douyin.com/video/7618868422776032539",
+        "title": "第12集 | 电力，铜，核能，储能！10分钟盘清楚Ai产业背后的基建赛道 当你以为 AI 只是代码和芯片的战争时，物理世界的“硬壁垒”已经悄然降临！ 为什么说采购 1 美元的芯片，要在后端投入 4-5 美元的能源基建？ 本期视频带你拆解 2026 年 AI 投资的四大核心赛道：从电力的“心脏病”到铜矿的“结构性赤字”，再到科技巨头的“核能救赎”和储能产业。 别再只盯着软件公司了，真正的财富锚点可能藏在这些“重资产”里！#商业 #科普 #人工智能 #掘金计划2026 #燃起来了大国重器 @抖音创作小助手 哥我想进精选",
+        "display": "290",
+        "approx_value": 290.0,
+        "visible_rank": 79,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_7a473228ff5349ddb39c7a80352a5cce",
+          "input_jsonl_line": 5990,
+          "output_jsonl_line": 5993,
+          "content_block_index": 1,
+          "text_offset": 1377,
+          "timestamp_utc": "2026-10-07T10:53:09.093Z"
+        },
+        "ai_scope_rank": 63
+      },
+      {
+        "video_id": "7659237915909786934",
+        "url": "https://www.douyin.com/video/7659237915909786934",
+        "title": "第43集 | 5个问题就得消耗一瓶水？Ai能耗并没有这么夸张 #Ai新星计划#抖音前沿科技首发计划",
+        "display": "263",
+        "approx_value": 263.0,
+        "visible_rank": 80,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_9d3bbdd379264aa29e46b9b0f82fc163",
+          "input_jsonl_line": 5928,
+          "output_jsonl_line": 5931,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:50:03.722Z"
+        },
+        "ai_scope_rank": 64
+      },
+      {
+        "video_id": "7632478618660179263",
+        "url": "https://www.douyin.com/video/7632478618660179263",
+        "title": "第4集 | Deepseek V4上线发布，有哪些亮点值得关注？ #青年创作者成长计划",
+        "display": "229",
+        "approx_value": 229.0,
+        "visible_rank": 82,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 664,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 65
+      },
+      {
+        "video_id": "7667482825116880163",
+        "url": "https://www.douyin.com/video/7667482825116880163",
+        "title": "第51集 | 启元Q1，我今年看过最聪明的一次“炫技”！ #启元机器人 #启元Q1探索者版 #你的第一个个人机器人 #上纬新材 #RobotJoy",
+        "display": "164",
+        "approx_value": 164.0,
+        "visible_rank": 87,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_bxUUvMKKhSWuvTnYcFyi5cZ3",
+          "input_jsonl_line": 5892,
+          "output_jsonl_line": 5895,
+          "content_block_index": 1,
+          "text_offset": 1048,
+          "timestamp_utc": "2026-10-07T10:47:13.568Z"
+        },
+        "ai_scope_rank": 66
+      },
+      {
+        "video_id": "7597271409433398555",
+        "url": "https://www.douyin.com/video/7597271409433398555",
+        "title": "Ai时代，我是如何获取一手信息源的？ #播客 #科技",
+        "display": "99",
+        "approx_value": 99.0,
+        "visible_rank": 89,
+        "content_status": "V2_SUBMITTED_PENDING_PMO",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_b5850d45e60a49ceafb5a4ff32881152",
+          "input_jsonl_line": 6041,
+          "output_jsonl_line": 6044,
+          "content_block_index": 1,
+          "text_offset": 341,
+          "timestamp_utc": "2026-10-07T10:55:47.442Z"
+        },
+        "ai_scope_rank": 67
+      },
+      {
+        "video_id": "7634302698023619881",
+        "url": "https://www.douyin.com/video/7634302698023619881",
+        "title": "第5集 | 谷歌怒砸400亿布局Claude，Gemini真要被放弃了吗 #青年创作者成长计划",
+        "display": "95",
+        "approx_value": 95.0,
+        "visible_rank": 90,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 333,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 68
+      },
+      {
+        "video_id": "7634710782399368482",
+        "url": "https://www.douyin.com/video/7634710782399368482",
+        "title": "第6集 | 马斯克向OpenAi索赔$1300亿！Ai世纪官司正式开打 #青年创作者成长计划",
+        "display": "89",
+        "approx_value": 89.0,
+        "visible_rank": 91,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_a37e7b8ea458486a900349b24dee3533",
+          "input_jsonl_line": 5971,
+          "output_jsonl_line": 5974,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:52:09.062Z"
+        },
+        "ai_scope_rank": 69
+      },
+      {
+        "video_id": "7617013879721200930",
+        "url": "https://www.douyin.com/video/7617013879721200930",
+        "title": "第11集 | 人工智能万亿财富大分配下，是谁在闷声大发财？ 2026年，AI早已不是泡沫，而是一场万亿级的财富重构！当英伟达在卖液冷、微软在重启核电站时，大模型公司却深陷“推理成本陷阱”年亏百亿？底层逻辑变了：软件不再按人头卖，而是按“结果”收费！本期视频带你拆解AI产业链最核心的五层收入模型，看清谁在疯狂掘金，谁又在破产边缘！ #人工智能 #掘金计划2026 #燃起来了大国重器 #一人公司 #商业故事 @抖音创作小助手 哥我想进精选",
+        "display": "89",
+        "approx_value": 89.0,
+        "visible_rank": 91,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8e47a453bbed4a0b865549c3472fc6a1",
+          "input_jsonl_line": 5999,
+          "output_jsonl_line": 6002,
+          "content_block_index": 1,
+          "text_offset": 0,
+          "timestamp_utc": "2026-10-07T10:53:34.295Z"
+        },
+        "ai_scope_rank": 69
+      },
+      {
+        "video_id": "7629907381829438952",
+        "url": "https://www.douyin.com/video/7629907381829438952",
+        "title": "第1集 | 事实：如果你的产品好，就算价格高使用难度大也没人会说你割韭菜 真没招了一周烧了我145刀#claude #Opus4.7 #青年创作者成长计划",
+        "display": "85",
+        "approx_value": 85.0,
+        "visible_rank": 93,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 865,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 71
+      },
+      {
+        "video_id": "7614028038887492874",
+        "url": "https://www.douyin.com/video/7614028038887492874",
+        "title": "第10集 | 99%国人都不知道的国产手机，在非洲靠给黑人美肤做到全球前三 在国内大厂“卷”生“卷”死的时候，传音早就靠着“深耕非洲”拿下了全球出海王牌！从解决黑人兄弟的拍照痛点、硬核四卡四待，到如今强势布局高端化、满血接入开源大模型DeepSeek，带你拆解这个隐秘巨头600亿营收背后的商业护城河与反击战。普通人也能学到的降维打击思维，全在视频里了！#科技 #商业 #知识分享 #掘金计划2026 #燃起来了大国重器 @抖音创作小助手 哥我想进精选",
+        "display": "80",
+        "approx_value": 80.0,
+        "visible_rank": 94,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_8e47a453bbed4a0b865549c3472fc6a1",
+          "input_jsonl_line": 5999,
+          "output_jsonl_line": 6002,
+          "content_block_index": 1,
+          "text_offset": 503,
+          "timestamp_utc": "2026-10-07T10:53:34.295Z"
+        },
+        "ai_scope_rank": 72
+      },
+      {
+        "video_id": "7629282791091358986",
+        "url": "https://www.douyin.com/video/7629282791091358986",
+        "title": "第20集 | Ai模型能有多烧钱？起底OpenAi紧急下架Sora真实原因 #青年创作者成长计划 #掘金计划2026 #燃起来了大国重器",
+        "display": "16",
+        "approx_value": 16.0,
+        "visible_rank": 100,
+        "content_status": "NOT_READ",
+        "source": {
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "call_id": "call_1e449a8f6f0c4c5e8b5dc36435b75f90",
+          "input_jsonl_line": 5976,
+          "output_jsonl_line": 5979,
+          "content_block_index": 1,
+          "text_offset": 1229,
+          "timestamp_utc": "2026-10-07T10:52:28.715Z"
+        },
+        "ai_scope_rank": 73
+      }
+    ]
+  },
+  "top10_union_ids": [
+    "7620229921666846002",
+    "7637698039943089462",
+    "7641387235530525961",
+    "7644347037009366326",
+    "7646665973897973043",
+    "7648778898376854818",
+    "7652859606326119699",
+    "7656027238931942697",
+    "7657727877504437538",
+    "7670305314608008457",
+    "7677754141896117530",
+    "7685196022947056911"
+  ],
+  "final_qualified": false,
+  "plays": "UNKNOWN"
+}

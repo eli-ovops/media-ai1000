@@ -1,0 +1,26 @@
+{
+  "scope": "publication_dates_only",
+  "date": "2026-10-09",
+  "total": 237,
+  "known": 233,
+  "unknown": 4,
+  "added_this_batch": 7,
+  "unchanged_id_set": true,
+  "non_date_fields_unchanged": true,
+  "conflicts": 0,
+  "other_gaps": "DEFERRED_BY_USER",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "pmo_acceptance": "PENDING",
+  "status": "DATE_PARTIAL_BLOCKED",
+  "added_since_dispatch": 208,
+  "goal_complete": false,
+  "remaining_ids": [
+    "7684470051759541531",
+    "7675332702165339446",
+    "7688377427998854450",
+    "7686419309731548470"
+  ],
+  "blocker": "4条精确原页有限复核仍无可接受日期；导航超时、重定向或未呈现发布时间。浏览器当前已恢复，不推断作品永久不可用。"
+}

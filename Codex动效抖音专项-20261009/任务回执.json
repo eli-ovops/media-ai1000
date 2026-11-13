@@ -1,0 +1,31 @@
+{
+  "status": "DELIVERED_PENDING_PMO",
+  "owner": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "pmo_acceptance": "PENDING",
+  "started_at": "2026-10-09T21:01:22+08:00",
+  "closed_at": "2026-10-09T21:58:07.624684+08:00",
+  "external_top_level_calls": 13,
+  "max_calls": 30,
+  "max_minutes": 60,
+  "initial_screened": 11,
+  "breakdowns": 6,
+  "full_asr_visual_cases": 5,
+  "visual_case_unusable_asr": 1,
+  "authors": 4,
+  "new_unique_viewed_frames": 100,
+  "continuous_playback": "NONE",
+  "direct_audio_listening": "NONE",
+  "production": "NOT_EXECUTED",
+  "sample_plan": "18sec PLAN_ONLY",
+  "actual_model_effort_speed": "UNKNOWN",
+  "research_media_cache_bytes": 2042258670,
+  "cache_limit_bytes": 3221225472,
+  "cache_measurement_scope": "Research root media/cache paths; current Downloads duplicates deleted; old Downloads not rescanned",
+  "shared_state_changed": false,
+  "known_gaps": [
+    "Motion continuity and SFX timing unverified",
+    "Kid ASR unusable as tutorial narration",
+    "Native FCPXML import unverified",
+    "No local reproduction of author projects"
+  ]
+}

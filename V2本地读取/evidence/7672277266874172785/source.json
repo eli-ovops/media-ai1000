@@ -1,0 +1,46 @@
+{
+  "video_id": "7672277266874172785",
+  "url": "https://www.douyin.com/video/7672277266874172785",
+  "source_export": "/Users/USER/Downloads/download (27).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7672277266874172785.mp4",
+  "sha256": "f3691459656b9dcbc320204f097aba4a03d90a95742f610ca772e99f2c301b46",
+  "bytes": 8367823,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "AI办公时代是真的来了！！#TraeWork#TRAE#AI#办公",
+    "published_at": "2026-08-10 15:14",
+    "likes_display": "4.5万",
+    "comments_display": "336",
+    "favorites_display": "3033",
+    "shares_display": "1407"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_e33279621f3b4a70825250578a03a7b9",
+    "input_jsonl_line": 3196,
+    "output_jsonl_line": 3199,
+    "content_block_index": 1,
+    "text_offset": 636,
+    "timestamp_utc": "2026-10-07T05:52:46.342Z"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_c642614575f64a4399fd33aa40c28fc9",
+      "input_jsonl_line": 3468,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "input_jsonl_line": 3477,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_42a3a6beae824df297567449f12d7749",
+      "input_jsonl_line": 3484,
+      "tool": "js"
+    }
+  ]
+}

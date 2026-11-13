@@ -1,0 +1,46 @@
+{
+  "video_id": "7676003922847608945",
+  "url": "https://www.douyin.com/video/7676003922847608945",
+  "source_export": "/Users/USER/Downloads/download (26).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7676003922847608945.mp4",
+  "sha256": "d58de9b2b8597f920966dd00abed199d56588f99cc2383ebb39b7e15809c4693",
+  "bytes": 19913018,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "第11集 | TraeWork | AI＋服装设计 用AI一小时就能做服装独立站？！#ai#trae #traework#设计#复杂工作就用traework",
+    "published_at": "2026-08-20 18:22",
+    "likes_display": "5.0万",
+    "comments_display": "320",
+    "favorites_display": "2282",
+    "shares_display": "1708"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_e33279621f3b4a70825250578a03a7b9",
+    "input_jsonl_line": 3196,
+    "output_jsonl_line": 3199,
+    "content_block_index": 1,
+    "text_offset": 313,
+    "timestamp_utc": "2026-10-07T05:52:46.342Z"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_c642614575f64a4399fd33aa40c28fc9",
+      "input_jsonl_line": 3468,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_47e91f485ebb4c3eb8ee246ed3a82312",
+      "input_jsonl_line": 3477,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_42a3a6beae824df297567449f12d7749",
+      "input_jsonl_line": 3484,
+      "tool": "js"
+    }
+  ]
+}

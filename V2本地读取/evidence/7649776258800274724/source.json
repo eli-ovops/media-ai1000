@@ -1,0 +1,39 @@
+{
+  "video_id": "7649776258800274724",
+  "url": "https://www.douyin.com/video/7649776258800274724",
+  "source_export": "/Users/USER/Downloads/download (21).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7649776258800274724.mp4",
+  "sha256": "c9c024b520abbf2d0017e1dede53d0e5b619e58650e8e80a6e6ded7bf93bafd0",
+  "bytes": 36035708,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "秋芝2046",
+    "title": "Excel别手搓！AI搞定表格全流程～【职场必备】",
+    "published_at": "2026-06-11 11:49",
+    "likes_display": "50.1万",
+    "comments_display": "1.1万",
+    "favorites_display": "16.7万",
+    "shares_display": "3.2万",
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_0cb64b68e09948b1b0a5bdf852f2a4c1",
+      "input_jsonl_line": 2606,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_9e2a569870c24f93b1c2ae7c8cc54679",
+      "input_jsonl_line": 2629,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_63285b79c89248de9daf47250191b15d",
+      "input_jsonl_line": 2636,
+      "tool": "js"
+    }
+  ],
+  "source_call_correction": "Removed earlier other-video calls inherited by reused tab handle; original media and data unchanged"
+}

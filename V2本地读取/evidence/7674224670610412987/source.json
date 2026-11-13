@@ -1,0 +1,38 @@
+{
+  "video_id": "7674224670610412987",
+  "url": "https://www.douyin.com/video/7674224670610412987",
+  "source_export": "/Users/USER/Downloads/download (7).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7674224670610412987.mp4",
+  "sha256": "91ea28127eeb4a2739c1c3f8b9e6840a628defe6a53f879ee360191ac50e95c6",
+  "bytes": 13907866,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_bc6c2973aef1423f8138e76f02c878c7",
+      "input_jsonl_line": 1271,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_5RROpLmWkGEh1H2qJ9ywAMp9",
+      "input_jsonl_line": 1302,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_TskFMsqHPleNhr2f00SOk2NK",
+      "input_jsonl_line": 1315,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "title": "9万积分横测三大AI模型，量产性价比我选它",
+    "author": "卡尔的AI沃茨",
+    "account_id": "88851320170",
+    "likes_display": "2536",
+    "favorites": "177",
+    "comments": "23",
+    "shares": "31",
+    "published_at": "2026-08-15 19:51"
+  },
+  "current_page_metrics_same_as_original_snapshot": true
+}

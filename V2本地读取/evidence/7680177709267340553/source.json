@@ -1,0 +1,55 @@
+{
+  "video_id": "7680177709267340553",
+  "url": "https://www.douyin.com/video/7680177709267340553",
+  "source_export": "/Users/USER/Downloads/download (10).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7680177709267340553.mp4",
+  "sha256": "88db4412e5fd0316e249e8adcc205349afc6c0e387555b5f4e015ee95efa07b4",
+  "bytes": 2329757,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "AI超能力老马",
+    "account_id": "87440545928",
+    "title": "打工人一定要悄悄收藏好这四个AI指令",
+    "published_at": "2026-08-31 20:52",
+    "likes": 696,
+    "comments": 5,
+    "favorites": 1508,
+    "shares": 217,
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07",
+    "catalog_like_rank": 6,
+    "catalog_scope": 49
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [],
+  "page_read_evidence": {
+    "tool": "mcp__cua_repl.js",
+    "date": "2026-10-07",
+    "browser_id": "2",
+    "tab_id": "31",
+    "current_ax_read": true,
+    "call_id": "UNKNOWN",
+    "trace_limit": "CUA tool call outputs visible in current conversation; exact call ID absent from local session response_item records. No invented call ID."
+  },
+  "original_browser_source_receipts": [
+    {
+      "kind": "page",
+      "call_id": "call_ZpknkeIX0h4Qdac2yjRSxgVY",
+      "input_jsonl_line": 1744,
+      "output_jsonl_line": 1747,
+      "timestamp_utc": "2026-10-07T04:04:23.774Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "output_has_expected_video_id": true
+    },
+    {
+      "kind": "download",
+      "call_id": "call_Oct0sH4bVg2VmtnHwTOWm1sY",
+      "input_jsonl_line": 1751,
+      "output_jsonl_line": 1754,
+      "timestamp_utc": "2026-10-07T04:04:31.600Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "output_has_expected_video_id": true
+    }
+  ],
+  "exact_browser_call_id_gap_resolved": true
+}

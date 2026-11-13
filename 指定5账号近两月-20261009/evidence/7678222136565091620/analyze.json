@@ -1,0 +1,1824 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"info\": {\n    \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7678222136565091620.mp4\",\n    \"source\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7678222136565091620.mp4\",\n    \"sourceKind\": \"local\",\n    \"durationSec\": 412.293,\n    \"width\": 1080,\n    \"height\": 1920,\n    \"fps\": 30,\n    \"videoCodec\": \"hevc\",\n    \"audioCodec\": \"aac\",\n    \"hasAudio\": true,\n    \"hasVideo\": true,\n    \"bitrate\": 821148,\n    \"sizeBytes\": 42319201,\n    \"formatName\": \"mov,mp4 (AVFoundation adapter)\"\n  },\n  \"transcript\": {\n    \"segments\": [\n      {\n        \"start\": 0,\n        \"end\": 3.58,\n        \"text\": \"过去三个月有一件事情一直排在我关注列表的前级名\"\n      },\n      {\n        \"start\": 3.58,\n        \"end\": 6.98,\n        \"text\": \"就是斗包什么时候能推出它自己的办公Agent\"\n      },\n      {\n        \"start\": 6.98,\n        \"end\": 8.2,\n        \"text\": \"为什么呢有两个原因啊\"\n      },\n      {\n        \"start\": 8.2,\n        \"end\": 11.46,\n        \"text\": \"一个呢是你只要平时是关注这个AI产业的同学\"\n      },\n      {\n        \"start\": 11.46,\n        \"end\": 13.18,\n        \"text\": \"就知道这个产品一旦推出\"\n      },\n      {\n        \"start\": 13.18,\n        \"end\": 15.74,\n        \"text\": \"它就会重新定义国内智能体的这格局\"\n      },\n      {\n        \"start\": 15.74,\n        \"end\": 18.54,\n        \"text\": \"第二点呢就是除了目前这些铺鞋盖地\"\n      },\n      {\n        \"start\": 18.54,\n        \"end\": 21.4,\n        \"text\": \"同志化的功能 写文档啊 兜PVG之外\"\n      },\n      {\n        \"start\": 21.4,\n        \"end\": 24.3,\n        \"text\": \"斗包在办公场景还能给我们带来什么新的东西\"\n      },\n      {\n        \"start\": 24.3,\n        \"end\": 27.38,\n        \"text\": \"终于在8月25号 斗包面向生产力的场景\"\n      },\n      {\n        \"start\": 27.38,\n        \"end\": 31.3,\n        \"text\": \"推出了全新的Agent的产品 跟品牌 叫做斗包工作\"\n      },\n      {\n        \"start\": 31.3,\n        \"end\": 34.98,\n        \"text\": \"不是以前那个你用的斗包IPP是一个独立的办公应用\"\n      },\n      {\n        \"start\": 34.98,\n        \"end\": 36.14,\n        \"text\": \"有自己的客户端\"\n      },\n      {\n        \"start\": 36.14,\n        \"end\": 39.94,\n        \"text\": \"简单来说呢你可以类比OpenAI的恰级PT跟Codex\"\n      },\n      {\n        \"start\": 39.94,\n        \"end\": 41.86,\n        \"text\": \"或者是跟恰级PTWOK的区别\"\n      },\n      {\n        \"start\": 41.86,\n        \"end\": 44.62,\n        \"text\": \"简直呢主要是用来这个回答日常的问题\"\n      },\n      {\n        \"start\": 44.62,\n        \"end\": 47.18,\n        \"text\": \"后者呢专门来服务生产力的这种场景\"\n      },\n      {\n        \"start\": 47.18,\n        \"end\": 48.54,\n        \"text\": \"斗包工作有三个入口\"\n      },\n      {\n        \"start\": 48.54,\n        \"end\": 51.18,\n        \"text\": \"一个呢是斗包工作的它独立的电脑端\"\n      },\n      {\n        \"start\": 51.18,\n        \"end\": 55.38,\n        \"text\": \"第二个呢是斗包以前的这APP里面内部集成了斗包工作\"\n      },\n      {\n        \"start\": 55.38,\n        \"end\": 57.54,\n        \"text\": \"第三个呢就是飞书里面斗包入口\"\n      },\n      {\n        \"start\": 57.54,\n        \"end\": 58.78,\n        \"text\": \"那为什么是飞书呢\"\n      },\n      {\n        \"start\": 58.78,\n        \"end\": 60.38,\n        \"text\": \"其实这个呢还有一点小故事\"\n      },\n      {\n        \"start\": 60.38,\n        \"end\": 61.74,\n        \"text\": \"我最后大概大家分享\"\n      },\n      {\n        \"start\": 61.74,\n        \"end\": 62.78,\n        \"text\": \"那先来跟大家聊一下\"\n      },\n      {\n        \"start\": 62.78,\n        \"end\": 64.66,\n        \"text\": \"为什么我这么关注斗包工作\"\n      },\n      {\n        \"start\": 64.66,\n        \"end\": 65.82,\n        \"text\": \"其实逻辑也很简单\"\n      },\n      {\n        \"start\": 65.82,\n        \"end\": 67.86,\n        \"text\": \"就是大家想OpenAI那边\"\n      },\n      {\n        \"start\": 67.86,\n        \"end\": 70.9,\n        \"text\": \"恰级PT全球大概有10亿的周祸用户\"\n      },\n      {\n        \"start\": 70.9,\n        \"end\": 73.42,\n        \"text\": \"然后全球是最普及的AI的聊天用\"\n      },\n      {\n        \"start\": 73.42,\n        \"end\": 76.02,\n        \"text\": \"同一家公司的Codex在强推之后\"\n      },\n      {\n        \"start\": 76.02,\n        \"end\": 80.18,\n        \"text\": \"前几天重置之神tipo说大概已经有2000万左右的周祸了\"\n      },\n      {\n        \"start\": 80.18,\n        \"end\": 82.42,\n        \"text\": \"还在快速的增长斗包的原案那个IPP\"\n      },\n      {\n        \"start\": 82.42,\n        \"end\": 85.62,\n        \"text\": \"网上有相关资料说的周祸可能大概在两到三亿左右\"\n      },\n      {\n        \"start\": 85.62,\n        \"end\": 87.02,\n        \"text\": \"注资可能会有小的出路\"\n      },\n      {\n        \"start\": 87.02,\n        \"end\": 88.42,\n        \"text\": \"但数量几个我就应该没问题\"\n      },\n      {\n        \"start\": 88.42,\n        \"end\": 90.3,\n        \"text\": \"按照OpenAI的这个比例去推算\"\n      },\n      {\n        \"start\": 90.3,\n        \"end\": 93.22,\n        \"text\": \"斗包工作我觉得很有可能能做到大几百万\"\n      },\n      {\n        \"start\": 93.22,\n        \"end\": 95.42,\n        \"text\": \"甚至是千万级别的这个周祸用户\"\n      },\n      {\n        \"start\": 95.42,\n        \"end\": 96.82,\n        \"text\": \"那如果能做到这个级别的话\"\n      },\n      {\n        \"start\": 96.82,\n        \"end\": 99.42,\n        \"text\": \"就是国内体量最大的这个办公制能体了\"\n      },\n      {\n        \"start\": 99.42,\n        \"end\": 101.22,\n        \"text\": \"全球估计也能排进前三米\"\n      },\n      {\n        \"start\": 101.22,\n        \"end\": 102.22,\n        \"text\": \"但体量大呢\"\n      },\n      {\n        \"start\": 102.22,\n        \"end\": 104.02000000000001,\n        \"text\": \"我觉得还不是我真正兴奋的体量\"\n      },\n      {\n        \"start\": 104.02000000000001,\n        \"end\": 106.02000000000001,\n        \"text\": \"真正让我觉得这件事情很重量的\"\n      },\n      {\n        \"start\": 106.02000000000001,\n        \"end\": 108.34,\n        \"text\": \"是因为办公制能体消耗的头肯\"\n      },\n      {\n        \"start\": 108.34,\n        \"end\": 111.42,\n        \"text\": \"远远超过这个聊天机器人聊天用\"\n      },\n      {\n        \"start\": 111.42,\n        \"end\": 114.22,\n        \"text\": \"加TPP的用户是Codex大约一百倍左右\"\n      },\n      {\n        \"start\": 114.22,\n        \"end\": 117.42,\n        \"text\": \"在Codex的头肯消耗两反过来是切iGPT的好几倍\"\n      },\n      {\n        \"start\": 117.42,\n        \"end\": 120.22,\n        \"text\": \"这有看到过OpenAI的内部的一个博客企劳果\"\n      },\n      {\n        \"start\": 120.22,\n        \"end\": 122.02,\n        \"text\": \"就是它OpenAI公司内部\"\n      },\n      {\n        \"start\": 122.02,\n        \"end\": 125.02,\n        \"text\": \"百分之九十九的头肯消耗都来自于Codex\"\n      },\n      {\n        \"start\": 125.02,\n        \"end\": 126.82,\n        \"text\": \"如果我们也用这个OpenAI图案的逻辑\"\n      },\n      {\n        \"start\": 126.82,\n        \"end\": 129.82,\n        \"text\": \"我觉得斗包工作很有可能在接下来一段时间之内\"\n      },\n      {\n        \"start\": 129.82,\n        \"end\": 131.82,\n        \"text\": \"会消耗全中国一半的头肯\"\n      },\n      {\n        \"start\": 131.82,\n        \"end\": 135.22,\n        \"text\": \"然后另外凉胜之前也也很清楚讲过\"\n      },\n      {\n        \"start\": 135.22,\n        \"end\": 137.62,\n        \"text\": \"正常卖头肯也然后不去做大面积不贴\"\n      },\n      {\n        \"start\": 137.62,\n        \"end\": 139.02,\n        \"text\": \"利润其实是非常高的\"\n      },\n      {\n        \"start\": 139.02,\n        \"end\": 141.02,\n        \"text\": \"所以我的判断是说斗包工作\"\n      },\n      {\n        \"start\": 141.02,\n        \"end\": 144.22,\n        \"text\": \"接下来半年时间大概率会成为中国最大的职能器\"\n      },\n      {\n        \"start\": 144.22,\n        \"end\": 145.62,\n        \"text\": \"不管是用户数量上\"\n      },\n      {\n        \"start\": 145.62,\n        \"end\": 147.82,\n        \"text\": \"日军的头肯消耗量的数量上\"\n      },\n      {\n        \"start\": 147.82,\n        \"end\": 148.62,\n        \"text\": \"营收的规模\"\n      },\n      {\n        \"start\": 148.62,\n        \"end\": 151.82,\n        \"text\": \"并且这个影响还会一层一层的网上游去传导\"\n      },\n      {\n        \"start\": 151.82,\n        \"end\": 154.42000000000002,\n        \"text\": \"从应用到模型的演发\"\n      },\n      {\n        \"start\": 154.42000000000002,\n        \"end\": 156.02,\n        \"text\": \"到算力中心的搭建\"\n      },\n      {\n        \"start\": 156.02,\n        \"end\": 158.02,\n        \"text\": \"到国产的芯片 达到能源\"\n      },\n      {\n        \"start\": 158.02,\n        \"end\": 161.02,\n        \"text\": \"这是中国产业店极细重要的一个阶点\"\n      },\n      {\n        \"start\": 161.02,\n        \"end\": 162.02,\n        \"text\": \"那上面讲完\"\n      },\n      {\n        \"start\": 162.02,\n        \"end\": 164.62,\n        \"text\": \"我为什么要关注这个斗包工作这个应用呢\"\n      },\n      {\n        \"start\": 164.62,\n        \"end\": 165.82,\n        \"text\": \"我们聊聊一眼实际的\"\n      },\n      {\n        \"start\": 165.82,\n        \"end\": 168.42000000000002,\n        \"text\": \"就是我不要大家在现在这个Agent的便地\"\n      },\n      {\n        \"start\": 168.42000000000002,\n        \"end\": 170.22,\n        \"text\": \"然后功能大差不差的今天\"\n      },\n      {\n        \"start\": 170.22,\n        \"end\": 172.02,\n        \"text\": \"还能不能找到某个Agent\"\n      },\n      {\n        \"start\": 172.02,\n        \"end\": 173.62,\n        \"text\": \"它有独一五二的这个游势\"\n      },\n      {\n        \"start\": 173.62,\n        \"end\": 175.22,\n        \"text\": \"但斗包工作有几个\"\n      },\n      {\n        \"start\": 175.22,\n        \"end\": 178.02,\n        \"text\": \"我觉得让我非常值得去讲的这个特点\"\n      },\n      {\n        \"start\": 178.02,\n        \"end\": 179.82,\n        \"text\": \"而第一点最重要的就是\"\n      },\n      {\n        \"start\": 179.82,\n        \"end\": 181.22,\n        \"text\": \"它能跟飞书打通\"\n      },\n      {\n        \"start\": 181.22,\n        \"end\": 182.02,\n        \"text\": \"这件事的意义\"\n      },\n      {\n        \"start\": 182.02,\n        \"end\": 183.62,\n        \"text\": \"原比表面上看起来更大\"\n      },\n      {\n        \"start\": 183.62,\n        \"end\": 186.42,\n        \"text\": \"经过是半年智能器的飞速发展\"\n      },\n      {\n        \"start\": 186.42,\n        \"end\": 188.82,\n        \"text\": \"我觉得大家然后产业界有个共识\"\n      },\n      {\n        \"start\": 188.82,\n        \"end\": 191.02,\n        \"text\": \"就是智能器最重要的点就是上下文\"\n      },\n      {\n        \"start\": 191.02,\n        \"end\": 191.82,\n        \"text\": \"甚至没有指引\"\n      },\n      {\n        \"start\": 191.82,\n        \"end\": 192.82,\n        \"text\": \"甚至没有其他重要的\"\n      },\n      {\n        \"start\": 192.82,\n        \"end\": 193.82,\n        \"text\": \"但遗憾的是\"\n      },\n      {\n        \"start\": 193.82,\n        \"end\": 194.62,\n        \"text\": \"直到现代为止\"\n      },\n      {\n        \"start\": 194.62,\n        \"end\": 196.42000000000002,\n        \"text\": \"当你打开世界上很多智能体\"\n      },\n      {\n        \"start\": 196.42000000000002,\n        \"end\": 197.82,\n        \"text\": \"历史都是空白的\"\n      },\n      {\n        \"start\": 197.82,\n        \"end\": 200.62,\n        \"text\": \"你都得从零开始去教它\"\n      },\n      {\n        \"start\": 200.62,\n        \"end\": 202.62,\n        \"text\": \"让它记住你自己的工作习惯\"\n      },\n      {\n        \"start\": 202.62,\n        \"end\": 203.22,\n        \"text\": \"等等\"\n      },\n      {\n        \"start\": 203.22,\n        \"end\": 204.22,\n        \"text\": \"那斗包工作不一样\"\n      },\n      {\n        \"start\": 204.22,\n        \"end\": 205.62,\n        \"text\": \"它跟你的个人飞书\"\n      },\n      {\n        \"start\": 205.62,\n        \"end\": 207.42000000000002,\n        \"text\": \"或者是企业飞书完全是打通的\"\n      },\n      {\n        \"start\": 207.42000000000002,\n        \"end\": 208.82,\n        \"text\": \"但你用你的飞书账号\"\n      },\n      {\n        \"start\": 208.82,\n        \"end\": 210.22,\n        \"text\": \"登入它的第一秒\"\n      },\n      {\n        \"start\": 210.22,\n        \"end\": 211.62,\n        \"text\": \"它就知道你过去两三年\"\n      },\n      {\n        \"start\": 211.62,\n        \"end\": 213.22,\n        \"text\": \"在飞书上的工作记录\"\n      },\n      {\n        \"start\": 213.22,\n        \"end\": 215.22,\n        \"text\": \"会记录那个文章记录\"\n      },\n      {\n        \"start\": 215.22,\n        \"end\": 216.22,\n        \"text\": \"而且不只是上面\"\n      },\n      {\n        \"start\": 216.22,\n        \"end\": 217.62,\n        \"text\": \"我说的这些历史记录\"\n      },\n      {\n        \"start\": 217.62,\n        \"end\": 219.42000000000002,\n        \"text\": \"包括你飞书里面的这个组织架构\"\n      },\n      {\n        \"start\": 219.42000000000002,\n        \"end\": 220.22,\n        \"text\": \"不同部门\"\n      },\n      {\n        \"start\": 220.22,\n        \"end\": 221.22,\n        \"text\": \"它的数据全线\"\n      },\n      {\n        \"start\": 221.22,\n        \"end\": 221.82,\n        \"text\": \"功能全线\"\n      },\n      {\n        \"start\": 221.82,\n        \"end\": 223.62,\n        \"text\": \"斗包工作都能去继承\"\n      },\n      {\n        \"start\": 223.62,\n        \"end\": 225.82,\n        \"text\": \"我回想我自己做企业服务\"\n      },\n      {\n        \"start\": 225.82,\n        \"end\": 227.42000000000002,\n        \"text\": \"做FDE的过程当中\"\n      },\n      {\n        \"start\": 227.42000000000002,\n        \"end\": 228.62,\n        \"text\": \"其实很多的企业老板\"\n      },\n      {\n        \"start\": 228.62,\n        \"end\": 230.42000000000002,\n        \"text\": \"都是非常在意这个数据全线\"\n      },\n      {\n        \"start\": 230.42000000000002,\n        \"end\": 231.22,\n        \"text\": \"跟数据安全的\"\n      },\n      {\n        \"start\": 231.22,\n        \"end\": 232.42000000000002,\n        \"text\": \"但他们迟失不动手\"\n      },\n      {\n        \"start\": 232.42000000000002,\n        \"end\": 233.62,\n        \"text\": \"说实话就是因为\"\n      },\n      {\n        \"start\": 233.62,\n        \"end\": 234.62,\n        \"text\": \"没有什么好的办法\"\n      },\n      {\n        \"start\": 234.62,\n        \"end\": 235.62,\n        \"text\": \"最经常遇到的问题\"\n      },\n      {\n        \"start\": 235.62,\n        \"end\": 237.62,\n        \"text\": \"就是说它公司连某个员工\"\n      },\n      {\n        \"start\": 237.62,\n        \"end\": 238.62,\n        \"text\": \"使用Agent的时候\"\n      },\n      {\n        \"start\": 238.62,\n        \"end\": 240.92,\n        \"text\": \"如何能够限制这个Agent的数据全线\"\n      },\n      {\n        \"start\": 240.92,\n        \"end\": 241.92,\n        \"text\": \"或者是功能全线\"\n      },\n      {\n        \"start\": 241.92,\n        \"end\": 243.62,\n        \"text\": \"如果公司自己去搭一套\"\n      },\n      {\n        \"start\": 243.62,\n        \"end\": 245.42,\n        \"text\": \"这样的全线的管理的逻辑\"\n      },\n      {\n        \"start\": 245.42,\n        \"end\": 247.82,\n        \"text\": \"其实你可以想象又复杂又漫长\"\n      },\n      {\n        \"start\": 247.82,\n        \"end\": 249.02,\n        \"text\": \"但现在的斗包工作\"\n      },\n      {\n        \"start\": 249.02,\n        \"end\": 250.42,\n        \"text\": \"可以直接记成飞书里面\"\n      },\n      {\n        \"start\": 250.42,\n        \"end\": 252.82,\n        \"text\": \"已经有的这些很完整的逻辑\"\n      },\n      {\n        \"start\": 252.82,\n        \"end\": 255.42,\n        \"text\": \"省掉了这一块的很大的成本\"\n      },\n      {\n        \"start\": 255.42,\n        \"end\": 258.02,\n        \"text\": \"而且连出我们记得飞书在那上\"\n      },\n      {\n        \"start\": 258.02,\n        \"end\": 259.02,\n        \"text\": \"小龙下的战役里面\"\n      },\n      {\n        \"start\": 259.02,\n        \"end\": 260.82,\n        \"text\": \"几乎已经把所有的功能\"\n      },\n      {\n        \"start\": 260.82,\n        \"end\": 262.02,\n        \"text\": \"做了结果化的数据\"\n      },\n      {\n        \"start\": 262.02,\n        \"end\": 263.82,\n        \"text\": \"然后CLA也做了台访\"\n      },\n      {\n        \"start\": 263.82,\n        \"end\": 265.22,\n        \"text\": \"很多人都通过CLA接口\"\n      },\n      {\n        \"start\": 265.22,\n        \"end\": 267.62,\n        \"text\": \"用自己的Agent去跟飞书做各种的交互\"\n      },\n      {\n        \"start\": 267.62,\n        \"end\": 268.82,\n        \"text\": \"但这次斗包工作\"\n      },\n      {\n        \"start\": 268.82,\n        \"end\": 271.02,\n        \"text\": \"和飞书做了账号级别的集成\"\n      },\n      {\n        \"start\": 271.02,\n        \"end\": 272.22,\n        \"text\": \"用飞书账号登录之后\"\n      },\n      {\n        \"start\": 272.22,\n        \"end\": 273.62,\n        \"text\": \"可以直接记成飞书\"\n      },\n      {\n        \"start\": 273.62,\n        \"end\": 275.42,\n        \"text\": \"这个工作里面工作上下文\"\n      },\n      {\n        \"start\": 275.42,\n        \"end\": 277.02,\n        \"text\": \"然后在全线范围内\"\n      },\n      {\n        \"start\": 277.02,\n        \"end\": 279.02,\n        \"text\": \"调用这聊天记录物文档\"\n      },\n      {\n        \"start\": 279.02,\n        \"end\": 280.42,\n        \"text\": \"会议记要等等的信息\"\n      },\n      {\n        \"start\": 280.42,\n        \"end\": 282.42,\n        \"text\": \"更准确地帮你去完成工作\"\n      },\n      {\n        \"start\": 282.42,\n        \"end\": 283.62,\n        \"text\": \"然后我在以前视频里面\"\n      },\n      {\n        \"start\": 283.62,\n        \"end\": 285.42,\n        \"text\": \"其实也不止一次的去讲过\"\n      },\n      {\n        \"start\": 285.42,\n        \"end\": 287.62,\n        \"text\": \"企业落敌AI最重要的就是数据\"\n      },\n      {\n        \"start\": 287.62,\n        \"end\": 289.02,\n        \"text\": \"就是企业的上下文\"\n      },\n      {\n        \"start\": 289.02,\n        \"end\": 291.82,\n        \"text\": \"前几次飞书跟斗包合併成了一个新的\"\n      },\n      {\n        \"start\": 291.82,\n        \"end\": 293.42,\n        \"text\": \"斗包产品的这样团队\"\n      },\n      {\n        \"start\": 293.42,\n        \"end\": 295.82,\n        \"text\": \"当时大部分人可能还不知道这部企业干嘛\"\n      },\n      {\n        \"start\": 295.82,\n        \"end\": 297.22,\n        \"text\": \"但现在答案已经很清楚了\"\n      },\n      {\n        \"start\": 297.22,\n        \"end\": 298.82,\n        \"text\": \"飞书对斗包的工作的支持\"\n      },\n      {\n        \"start\": 298.82,\n        \"end\": 301.42,\n        \"text\": \"我觉得我就算怎么去强调这个重要性\"\n      },\n      {\n        \"start\": 301.42,\n        \"end\": 303.02,\n        \"text\": \"可能都低估了它的重要性\"\n      },\n      {\n        \"start\": 303.02,\n        \"end\": 306.02,\n        \"text\": \"如果大家是Agent的高频的使用者\"\n      },\n      {\n        \"start\": 306.02,\n        \"end\": 308.02,\n        \"text\": \"然后经过了过去的几个月\"\n      },\n      {\n        \"start\": 308.02,\n        \"end\": 309.22,\n        \"text\": \"一直在重复使用\"\n      },\n      {\n        \"start\": 309.22,\n        \"end\": 311.62,\n        \"text\": \"那些解文党做PVT的这些功能\"\n      },\n      {\n        \"start\": 311.62,\n        \"end\": 313.02,\n        \"text\": \"现在终于有一个Agent\"\n      },\n      {\n        \"start\": 313.02,\n        \"end\": 316.02,\n        \"text\": \"可以给Agent时代翻开一个新的评章\"\n      },\n      {\n        \"start\": 316.02,\n        \"end\": 317.62,\n        \"text\": \"然后除了跟飞书打通之外\"\n      },\n      {\n        \"start\": 317.62,\n        \"end\": 319.22,\n        \"text\": \"它第二点非常重要的特点\"\n      },\n      {\n        \"start\": 319.22,\n        \"end\": 320.22,\n        \"text\": \"就是斗包工作\"\n      },\n      {\n        \"start\": 320.22,\n        \"end\": 321.82,\n        \"text\": \"它沿用了字节整个集团\"\n      },\n      {\n        \"start\": 321.82,\n        \"end\": 324.82,\n        \"text\": \"非常强的多摩太的模型的能力\"\n      },\n      {\n        \"start\": 324.82,\n        \"end\": 326.22,\n        \"text\": \"语音、图片、视频\"\n      },\n      {\n        \"start\": 326.22,\n        \"end\": 328.02,\n        \"text\": \"也都集成到了斗包的工作里面\"\n      },\n      {\n        \"start\": 328.02,\n        \"end\": 330.02,\n        \"text\": \"我之前一直在用斗包的输入法座\"\n      },\n      {\n        \"start\": 330.02,\n        \"end\": 331.42,\n        \"text\": \"语音输入的期间非常好\"\n      },\n      {\n        \"start\": 331.42,\n        \"end\": 333.02,\n        \"text\": \"然后视频这一块更不用说了\"\n      },\n      {\n        \"start\": 333.02,\n        \"end\": 335.42,\n        \"text\": \"大家知道C-102.02.5\"\n      },\n      {\n        \"start\": 335.42,\n        \"end\": 336.62,\n        \"text\": \"我自己其实使用下来\"\n      },\n      {\n        \"start\": 336.62,\n        \"end\": 340.82,\n        \"text\": \"应该是世界上断档的工人的搜塔的视频生生模型\"\n      },\n      {\n        \"start\": 340.82,\n        \"end\": 343.02,\n        \"text\": \"这些能力集成进了办公场里之后\"\n      },\n      {\n        \"start\": 343.02,\n        \"end\": 344.62,\n        \"text\": \"因为你可以在一个工作楼里面\"\n      },\n      {\n        \"start\": 344.62,\n        \"end\": 346.82,\n        \"text\": \"很轻松的就去集成这些能力\"\n      },\n      {\n        \"start\": 346.82,\n        \"end\": 349.22,\n        \"text\": \"必须让你的Agent去高峭的进行管理\"\n      },\n      {\n        \"start\": 349.22,\n        \"end\": 350.02,\n        \"text\": \"然后第三点\"\n      },\n      {\n        \"start\": 350.02,\n        \"end\": 352.62,\n        \"text\": \"我们知道大部分的Agent都跑在你的本地吗\"\n      },\n      {\n        \"start\": 352.62,\n        \"end\": 353.42,\n        \"text\": \"电脑一合上\"\n      },\n      {\n        \"start\": 353.42,\n        \"end\": 355.22,\n        \"text\": \"其实你的任务就断了\"\n      },\n      {\n        \"start\": 355.22,\n        \"end\": 357.02,\n        \"text\": \"斗包工作只是把你的任务\"\n      },\n      {\n        \"start\": 357.02,\n        \"end\": 358.22,\n        \"text\": \"然后放在云端去跑\"\n      },\n      {\n        \"start\": 358.22,\n        \"end\": 359.42,\n        \"text\": \"就算你关到电脑\"\n      },\n      {\n        \"start\": 359.42,\n        \"end\": 360.22,\n        \"text\": \"它还在继续处理\"\n      },\n      {\n        \"start\": 360.22,\n        \"end\": 362.42,\n        \"text\": \"相当于有一个724小时\"\n      },\n      {\n        \"start\": 362.42,\n        \"end\": 363.62,\n        \"text\": \"不停工作的这样的助手\"\n      },\n      {\n        \"start\": 363.62,\n        \"end\": 366.62,\n        \"text\": \"这对于那些需要长时间去跑的这些任务\"\n      },\n      {\n        \"start\": 366.62,\n        \"end\": 369.82,\n        \"text\": \"比如说批量处理很大量的数据\"\n      },\n      {\n        \"start\": 369.82,\n        \"end\": 371.62,\n        \"text\": \"持续监控工作楼\"\n      },\n      {\n        \"start\": 371.62,\n        \"end\": 373.02,\n        \"text\": \"其实我觉得价值是很大的\"\n      },\n      {\n        \"start\": 373.02,\n        \"end\": 373.62,\n        \"text\": \"然后最后呢\"\n      },\n      {\n        \"start\": 373.62,\n        \"end\": 375.62,\n        \"text\": \"我带来跟大家总结一下我的看法\"\n      },\n      {\n        \"start\": 375.62,\n        \"end\": 376.82,\n        \"text\": \"因为这个斗包工作\"\n      },\n      {\n        \"start\": 376.82,\n        \"end\": 377.82,\n        \"text\": \"我觉得真的是\"\n      },\n      {\n        \"start\": 377.82,\n        \"end\": 379.62,\n        \"text\": \"这个时代很大的一个消息了\"\n      },\n      {\n        \"start\": 379.62,\n        \"end\": 381.02,\n        \"text\": \"斗包工作我就最核心的必了\"\n      },\n      {\n        \"start\": 381.02,\n        \"end\": 383.22,\n        \"text\": \"就是它飞书带来的企业上下文\"\n      },\n      {\n        \"start\": 383.22,\n        \"end\": 385.22,\n        \"text\": \"这个是其他的Agent的短期内\"\n      },\n      {\n        \"start\": 385.22,\n        \"end\": 386.22,\n        \"text\": \"真的很难去复制的\"\n      },\n      {\n        \"start\": 386.22,\n        \"end\": 388.02,\n        \"text\": \"再加上自己的算力的储备\"\n      },\n      {\n        \"start\": 388.02,\n        \"end\": 389.42,\n        \"text\": \"模型测的这种积累\"\n      },\n      {\n        \"start\": 389.42,\n        \"end\": 394.82,\n        \"text\": \"云端的Agent的价购和整个很强的企业的产品运营能力\"\n      },\n      {\n        \"start\": 394.82,\n        \"end\": 396.22,\n        \"text\": \"我觉得它大概率会在接下来\"\n      },\n      {\n        \"start\": 396.22,\n        \"end\": 397.62,\n        \"text\": \"几个月那快速的企业\"\n      },\n      {\n        \"start\": 397.62,\n        \"end\": 400.22,\n        \"text\": \"对于之前已经在使用飞书的团队和个人\"\n      },\n      {\n        \"start\": 400.22,\n        \"end\": 402.42,\n        \"text\": \"因为你的历史数据就已经在那里了\"\n      },\n      {\n        \"start\": 402.42,\n        \"end\": 404.02,\n        \"text\": \"千亿成本几乎就是零\"\n      },\n      {\n        \"start\": 404.02,\n        \"end\": 405.22,\n        \"text\": \"我看官方还说\"\n      },\n      {\n        \"start\": 405.22,\n        \"end\": 407.42,\n        \"text\": \"几活就送三十天的会员权益\"\n      },\n      {\n        \"start\": 407.42,\n        \"end\": 409.22,\n        \"text\": \"完全可以说是无缝揭露了\"\n      },\n      {\n        \"start\": 409.22,\n        \"end\": 410.22,\n        \"text\": \"好了 今天的视频就到这里了\"\n      },\n      {\n        \"start\": 410.22,\n        \"end\": 411.42,\n        \"text\": \"我是历史主持人李超\"\n      },\n      {\n        \"start\": 411.42,\n        \"end\": 412.22,\n        \"text\": \"我们下次见\"\n      }\n    ],\n    \"language\": \"zh\",\n    \"source\": \"whisper.cpp\",\n    \"fullText\": \"过去三个月有一件事情一直排在我关注列表的前级名 就是斗包什么时候能推出它自己的办公Agent 为什么呢有两个原因啊 一个呢是你只要平时是关注这个AI产业的同学 就知道这个产品一旦推出 它就会重新定义国内智能体的这格局 第二点呢就是除了目前这些铺鞋盖地 同志化的功能 写文档啊 兜PVG之外 斗包在办公场景还能给我们带来什么新的东西 终于在8月25号 斗包面向生产力的场景 推出了全新的Agent的产品 跟品牌 叫做斗包工作 不是以前那个你用的斗包IPP是一个独立的办公应用 有自己的客户端 简单来说呢你可以类比OpenAI的恰级PT跟Codex 或者是跟恰级PTWOK的区别 简直呢主要是用来这个回答日常的问题 后者呢专门来服务生产力的这种场景 斗包工作有三个入口 一个呢是斗包工作的它独立的电脑端 第二个呢是斗包以前的这APP里面内部集成了斗包工作 第三个呢就是飞书里面斗包入口 那为什么是飞书呢 其实这个呢还有一点小故事 我最后大概大家分享 那先来跟大家聊一下 为什么我这么关注斗包工作 其实逻辑也很简单 就是大家想OpenAI那边 恰级PT全球大概有10亿的周祸用户 然后全球是最普及的AI的聊天用 同一家公司的Codex在强推之后 前几天重置之神tipo说大概已经有2000万左右的周祸了 还在快速的增长斗包的原案那个IPP 网上有相关资料说的周祸可能大概在两到三亿左右 注资可能会有小的出路 但数量几个我就应该没问题 按照OpenAI的这个比例去推算 斗包工作我觉得很有可能能做到大几百万 甚至是千万级别的这个周祸用户 那如果能做到这个级别的话 就是国内体量最大的这个办公制能体了 全球估计也能排进前三米 但体量大呢 我觉得还不是我真正兴奋的体量 真正让我觉得这件事情很重量的 是因为办公制能体消耗的头肯 远远超过这个聊天机器人聊天用 加TPP的用户是Codex大约一百倍左右 在Codex的头肯消耗两反过来是切iGPT的好几倍 这有看到过OpenAI的内部的一个博客企劳果 就是它OpenAI公司内部 百分之九十九的头肯消耗都来自于Codex 如果我们也用这个OpenAI图案的逻辑 我觉得斗包工作很有可能在接下来一段时间之内 会消耗全中国一半的头肯 然后另外凉胜之前也也很清楚讲过 正常卖头肯也然后不去做大面积不贴 利润其实是非常高的 所以我的判断是说斗包工作 接下来半年时间大概率会成为中国最大的职能器 不管是用户数量上 日军的头肯消耗量的数量上 营收的规模 并且这个影响还会一层一层的网上游去传导 从应用到模型的演发 到算力中心的搭建 到国产的芯片 达到能源 这是中国产业店极细重要的一个阶点 那上面讲完 我为什么要关注这个斗包工作这个应用呢 我们聊聊一眼实际的 就是我不要大家在现在这个Agent的便地 然后功能大差不差的今天 还能不能找到某个Agent 它有独一五二的这个游势 但斗包工作有几个 我觉得让我非常值得去讲的这个特点 而第一点最重要的就是 它能跟飞书打通 这件事的意义 原比表面上看起来更大 经过是半年智能器的飞速发展 我觉得大家然后产业界有个共识 就是智能器最重要的点就是上下文 甚至没有指引 甚至没有其他重要的 但遗憾的是 直到现代为止 当你打开世界上很多智能体 历史都是空白的 你都得从零开始去教它 让它记住你自己的工作习惯 等等 那斗包工作不一样 它跟你的个人飞书 或者是企业飞书完全是打通的 但你用你的飞书账号 登入它的第一秒 它就知道你过去两三年 在飞书上的工作记录 会记录那个文章记录 而且不只是上面 我说的这些历史记录 包括你飞书里面的这个组织架构 不同部门 它的数据全线 功能全线 斗包工作都能去继承 我回想我自己做企业服务 做FDE的过程当中 其实很多的企业老板 都是非常在意这个数据全线 跟数据安全的 但他们迟失不动手 说实话就是因为 没有什么好的办法 最经常遇到的问题 就是说它公司连某个员工 使用Agent的时候 如何能够限制这个Agent的数据全线 或者是功能全线 如果公司自己去搭一套 这样的全线的管理的逻辑 其实你可以想象又复杂又漫长 但现在的斗包工作 可以直接记成飞书里面 已经有的这些很完整的逻辑 省掉了这一块的很大的成本 而且连出我们记得飞书在那上 小龙下的战役里面 几乎已经把所有的功能 做了结果化的数据 然后CLA也做了台访 很多人都通过CLA接口 用自己的Agent去跟飞书做各种的交互 但这次斗包工作 和飞书做了账号级别的集成 用飞书账号登录之后 可以直接记成飞书 这个工作里面工作上下文 然后在全线范围内 调用这聊天记录物文档 会议记要等等的信息 更准确地帮你去完成工作 然后我在以前视频里面 其实也不止一次的去讲过 企业落敌AI最重要的就是数据 就是企业的上下文 前几次飞书跟斗包合併成了一个新的 斗包产品的这样团队 当时大部分人可能还不知道这部企业干嘛 但现在答案已经很清楚了 飞书对斗包的工作的支持 我觉得我就算怎么去强调这个重要性 可能都低估了它的重要性 如果大家是Agent的高频的使用者 然后经过了过去的几个月 一直在重复使用 那些解文党做PVT的这些功能 现在终于有一个Agent 可以给Agent时代翻开一个新的评章 然后除了跟飞书打通之外 它第二点非常重要的特点 就是斗包工作 它沿用了字节整个集团 非常强的多摩太的模型的能力 语音、图片、视频 也都集成到了斗包的工作里面 我之前一直在用斗包的输入法座 语音输入的期间非常好 然后视频这一块更不用说了 大家知道C-102.02.5 我自己其实使用下来 应该是世界上断档的工人的搜塔的视频生生模型 这些能力集成进了办公场里之后 因为你可以在一个工作楼里面 很轻松的就去集成这些能力 必须让你的Agent去高峭的进行管理 然后第三点 我们知道大部分的Agent都跑在你的本地吗 电脑一合上 其实你的任务就断了 斗包工作只是把你的任务 然后放在云端去跑 就算你关到电脑 它还在继续处理 相当于有一个724小时 不停工作的这样的助手 这对于那些需要长时间去跑的这些任务 比如说批量处理很大量的数据 持续监控工作楼 其实我觉得价值是很大的 然后最后呢 我带来跟大家总结一下我的看法 因为这个斗包工作 我觉得真的是 这个时代很大的一个消息了 斗包工作我就最核心的必了 就是它飞书带来的企业上下文 这个是其他的Agent的短期内 真的很难去复制的 再加上自己的算力的储备 模型测的这种积累 云端的Agent的价购和整个很强的企业的产品运营能力 我觉得它大概率会在接下来 几个月那快速的企业 对于之前已经在使用飞书的团队和个人 因为你的历史数据就已经在那里了 千亿成本几乎就是零 我看官方还说 几活就送三十天的会员权益 完全可以说是无缝揭露了 好了 今天的视频就到这里了 我是历史主持人李超 我们下次见\"\n  },\n  \"frames\": [\n    {\n      \"index\": 0,\n      \"timeSec\": 0,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 1,\n      \"timeSec\": 4,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 2,\n      \"timeSec\": 8,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 3,\n      \"timeSec\": 12,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 4,\n      \"timeSec\": 16,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 5,\n      \"timeSec\": 20,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 6,\n      \"timeSec\": 24,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 7,\n      \"timeSec\": 28,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 8,\n      \"timeSec\": 32,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 9,\n      \"timeSec\": 36,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 10,\n      \"timeSec\": 40,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 11,\n      \"timeSec\": 44,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 12,\n      \"timeSec\": 48,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 13,\n      \"timeSec\": 52,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 14,\n      \"timeSec\": 56,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 15,\n      \"timeSec\": 60,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 16,\n      \"timeSec\": 64,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 17,\n      \"timeSec\": 68,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 18,\n      \"timeSec\": 72,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 19,\n      \"timeSec\": 76,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 20,\n      \"timeSec\": 80,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 21,\n      \"timeSec\": 84,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 22,\n      \"timeSec\": 88,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 23,\n      \"timeSec\": 92,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 24,\n      \"timeSec\": 96,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 25,\n      \"timeSec\": 100,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 26,\n      \"timeSec\": 104,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 27,\n      \"timeSec\": 108,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 28,\n      \"timeSec\": 112,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 29,\n      \"timeSec\": 116,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    }\n  ],\n  \"timeline\": [\n    {\n      \"timeSec\": 0,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg\"\n    },\n    {\n      \"timeSec\": 0,\n      \"kind\": \"speech\",\n      \"text\": \"过去三个月有一件事情一直排在我关注列表的前级名\"\n    },\n    {\n      \"timeSec\": 3.58,\n      \"kind\": \"speech\",\n      \"text\": \"就是斗包什么时候能推出它自己的办公Agent\"\n    },\n    {\n      \"timeSec\": 4,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg\"\n    },\n    {\n      \"timeSec\": 6.98,\n      \"kind\": \"speech\",\n      \"text\": \"为什么呢有两个原因啊\"\n    },\n    {\n      \"timeSec\": 8,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg\"\n    },\n    {\n      \"timeSec\": 8.2,\n      \"kind\": \"speech\",\n      \"text\": \"一个呢是你只要平时是关注这个AI产业的同学\"\n    },\n    {\n      \"timeSec\": 11.46,\n      \"kind\": \"speech\",\n      \"text\": \"就知道这个产品一旦推出\"\n    },\n    {\n      \"timeSec\": 12,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg\"\n    },\n    {\n      \"timeSec\": 13.18,\n      \"kind\": \"speech\",\n      \"text\": \"它就会重新定义国内智能体的这格局\"\n    },\n    {\n      \"timeSec\": 15.74,\n      \"kind\": \"speech\",\n      \"text\": \"第二点呢就是除了目前这些铺鞋盖地\"\n    },\n    {\n      \"timeSec\": 16,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg\"\n    },\n    {\n      \"timeSec\": 18.54,\n      \"kind\": \"speech\",\n      \"text\": \"同志化的功能 写文档啊 兜PVG之外\"\n    },\n    {\n      \"timeSec\": 20,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg\"\n    },\n    {\n      \"timeSec\": 21.4,\n      \"kind\": \"speech\",\n      \"text\": \"斗包在办公场景还能给我们带来什么新的东西\"\n    },\n    {\n      \"timeSec\": 24,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg\"\n    },\n    {\n      \"timeSec\": 24.3,\n      \"kind\": \"speech\",\n      \"text\": \"终于在8月25号 斗包面向生产力的场景\"\n    },\n    {\n      \"timeSec\": 27.38,\n      \"kind\": \"speech\",\n      \"text\": \"推出了全新的Agent的产品 跟品牌 叫做斗包工作\"\n    },\n    {\n      \"timeSec\": 28,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg\"\n    },\n    {\n      \"timeSec\": 31.3,\n      \"kind\": \"speech\",\n      \"text\": \"不是以前那个你用的斗包IPP是一个独立的办公应用\"\n    },\n    {\n      \"timeSec\": 32,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg\"\n    },\n    {\n      \"timeSec\": 34.98,\n      \"kind\": \"speech\",\n      \"text\": \"有自己的客户端\"\n    },\n    {\n      \"timeSec\": 36,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg\"\n    },\n    {\n      \"timeSec\": 36.14,\n      \"kind\": \"speech\",\n      \"text\": \"简单来说呢你可以类比OpenAI的恰级PT跟Codex\"\n    },\n    {\n      \"timeSec\": 39.94,\n      \"kind\": \"speech\",\n      \"text\": \"或者是跟恰级PTWOK的区别\"\n    },\n    {\n      \"timeSec\": 40,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg\"\n    },\n    {\n      \"timeSec\": 41.86,\n      \"kind\": \"speech\",\n      \"text\": \"简直呢主要是用来这个回答日常的问题\"\n    },\n    {\n      \"timeSec\": 44,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg\"\n    },\n    {\n      \"timeSec\": 44.62,\n      \"kind\": \"speech\",\n      \"text\": \"后者呢专门来服务生产力的这种场景\"\n    },\n    {\n      \"timeSec\": 47.18,\n      \"kind\": \"speech\",\n      \"text\": \"斗包工作有三个入口\"\n    },\n    {\n      \"timeSec\": 48,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg\"\n    },\n    {\n      \"timeSec\": 48.54,\n      \"kind\": \"speech\",\n      \"text\": \"一个呢是斗包工作的它独立的电脑端\"\n    },\n    {\n      \"timeSec\": 51.18,\n      \"kind\": \"speech\",\n      \"text\": \"第二个呢是斗包以前的这APP里面内部集成了斗包工作\"\n    },\n    {\n      \"timeSec\": 52,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg\"\n    },\n    {\n      \"timeSec\": 55.38,\n      \"kind\": \"speech\",\n      \"text\": \"第三个呢就是飞书里面斗包入口\"\n    },\n    {\n      \"timeSec\": 56,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg\"\n    },\n    {\n      \"timeSec\": 57.54,\n      \"kind\": \"speech\",\n      \"text\": \"那为什么是飞书呢\"\n    },\n    {\n      \"timeSec\": 58.78,\n      \"kind\": \"speech\",\n      \"text\": \"其实这个呢还有一点小故事\"\n    },\n    {\n      \"timeSec\": 60,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg\"\n    },\n    {\n      \"timeSec\": 60.38,\n      \"kind\": \"speech\",\n      \"text\": \"我最后大概大家分享\"\n    },\n    {\n      \"timeSec\": 61.74,\n      \"kind\": \"speech\",\n      \"text\": \"那先来跟大家聊一下\"\n    },\n    {\n      \"timeSec\": 62.78,\n      \"kind\": \"speech\",\n      \"text\": \"为什么我这么关注斗包工作\"\n    },\n    {\n      \"timeSec\": 64,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg\"\n    },\n    {\n      \"timeSec\": 64.66,\n      \"kind\": \"speech\",\n      \"text\": \"其实逻辑也很简单\"\n    },\n    {\n      \"timeSec\": 65.82,\n      \"kind\": \"speech\",\n      \"text\": \"就是大家想OpenAI那边\"\n    },\n    {\n      \"timeSec\": 67.86,\n      \"kind\": \"speech\",\n      \"text\": \"恰级PT全球大概有10亿的周祸用户\"\n    },\n    {\n      \"timeSec\": 68,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg\"\n    },\n    {\n      \"timeSec\": 70.9,\n      \"kind\": \"speech\",\n      \"text\": \"然后全球是最普及的AI的聊天用\"\n    },\n    {\n      \"timeSec\": 72,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg\"\n    },\n    {\n      \"timeSec\": 73.42,\n      \"kind\": \"speech\",\n      \"text\": \"同一家公司的Codex在强推之后\"\n    },\n    {\n      \"timeSec\": 76,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg\"\n    },\n    {\n      \"timeSec\": 76.02,\n      \"kind\": \"speech\",\n      \"text\": \"前几天重置之神tipo说大概已经有2000万左右的周祸了\"\n    },\n    {\n      \"timeSec\": 80,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg\"\n    },\n    {\n      \"timeSec\": 80.18,\n      \"kind\": \"speech\",\n      \"text\": \"还在快速的增长斗包的原案那个IPP\"\n    },\n    {\n      \"timeSec\": 82.42,\n      \"kind\": \"speech\",\n      \"text\": \"网上有相关资料说的周祸可能大概在两到三亿左右\"\n    },\n    {\n      \"timeSec\": 84,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg\"\n    },\n    {\n      \"timeSec\": 85.62,\n      \"kind\": \"speech\",\n      \"text\": \"注资可能会有小的出路\"\n    },\n    {\n      \"timeSec\": 87.02,\n      \"kind\": \"speech\",\n      \"text\": \"但数量几个我就应该没问题\"\n    },\n    {\n      \"timeSec\": 88,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg\"\n    },\n    {\n      \"timeSec\": 88.42,\n      \"kind\": \"speech\",\n      \"text\": \"按照OpenAI的这个比例去推算\"\n    },\n    {\n      \"timeSec\": 90.3,\n      \"kind\": \"speech\",\n      \"text\": \"斗包工作我觉得很有可能能做到大几百万\"\n    },\n    {\n      \"timeSec\": 92,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg\"\n    },\n    {\n      \"timeSec\": 93.22,\n      \"kind\": \"speech\",\n      \"text\": \"甚至是千万级别的这个周祸用户\"\n    },\n    {\n      \"timeSec\": 95.42,\n      \"kind\": \"speech\",\n      \"text\": \"那如果能做到这个级别的话\"\n    },\n    {\n      \"timeSec\": 96,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg\"\n    },\n    {\n      \"timeSec\": 96.82,\n      \"kind\": \"speech\",\n      \"text\": \"就是国内体量最大的这个办公制能体了\"\n    },\n    {\n      \"timeSec\": 99.42,\n      \"kind\": \"speech\",\n      \"text\": \"全球估计也能排进前三米\"\n    },\n    {\n      \"timeSec\": 100,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg\"\n    },\n    {\n      \"timeSec\": 101.22,\n      \"kind\": \"speech\",\n      \"text\": \"但体量大呢\"\n    },\n    {\n      \"timeSec\": 102.22,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得还不是我真正兴奋的体量\"\n    },\n    {\n      \"timeSec\": 104,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg\"\n    },\n    {\n      \"timeSec\": 104.02000000000001,\n      \"kind\": \"speech\",\n      \"text\": \"真正让我觉得这件事情很重量的\"\n    },\n    {\n      \"timeSec\": 106.02000000000001,\n      \"kind\": \"speech\",\n      \"text\": \"是因为办公制能体消耗的头肯\"\n    },\n    {\n      \"timeSec\": 108,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg\"\n    },\n    {\n      \"timeSec\": 108.34,\n      \"kind\": \"speech\",\n      \"text\": \"远远超过这个聊天机器人聊天用\"\n    },\n    {\n      \"timeSec\": 111.42,\n      \"kind\": \"speech\",\n      \"text\": \"加TPP的用户是Codex大约一百倍左右\"\n    },\n    {\n      \"timeSec\": 112,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg\"\n    },\n    {\n      \"timeSec\": 114.22,\n      \"kind\": \"speech\",\n      \"text\": \"在Codex的头肯消耗两反过来是切iGPT的好几倍\"\n    },\n    {\n      \"timeSec\": 116,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg\"\n    },\n    {\n      \"timeSec\": 117.42,\n      \"kind\": \"speech\",\n      \"text\": \"这有看到过OpenAI的内部的一个博客企劳果\"\n    },\n    {\n      \"timeSec\": 120.22,\n      \"kind\": \"speech\",\n      \"text\": \"就是它OpenAI公司内部\"\n    },\n    {\n      \"timeSec\": 122.02,\n      \"kind\": \"speech\",\n      \"text\": \"百分之九十九的头肯消耗都来自于Codex\"\n    },\n    {\n      \"timeSec\": 125.02,\n      \"kind\": \"speech\",\n      \"text\": \"如果我们也用这个OpenAI图案的逻辑\"\n    },\n    {\n      \"timeSec\": 126.82,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得斗包工作很有可能在接下来一段时间之内\"\n    },\n    {\n      \"timeSec\": 129.82,\n      \"kind\": \"speech\",\n      \"text\": \"会消耗全中国一半的头肯\"\n    },\n    {\n      \"timeSec\": 131.82,\n      \"kind\": \"speech\",\n      \"text\": \"然后另外凉胜之前也也很清楚讲过\"\n    },\n    {\n      \"timeSec\": 135.22,\n      \"kind\": \"speech\",\n      \"text\": \"正常卖头肯也然后不去做大面积不贴\"\n    },\n    {\n      \"timeSec\": 137.62,\n      \"kind\": \"speech\",\n      \"text\": \"利润其实是非常高的\"\n    },\n    {\n      \"timeSec\": 139.02,\n      \"kind\": \"speech\",\n      \"text\": \"所以我的判断是说斗包工作\"\n    },\n    {\n      \"timeSec\": 141.02,\n      \"kind\": \"speech\",\n      \"text\": \"接下来半年时间大概率会成为中国最大的职能器\"\n    },\n    {\n      \"timeSec\": 144.22,\n      \"kind\": \"speech\",\n      \"text\": \"不管是用户数量上\"\n    },\n    {\n      \"timeSec\": 145.62,\n      \"kind\": \"speech\",\n      \"text\": \"日军的头肯消耗量的数量上\"\n    },\n    {\n      \"timeSec\": 147.82,\n      \"kind\": \"speech\",\n      \"text\": \"营收的规模\"\n    },\n    {\n      \"timeSec\": 148.62,\n      \"kind\": \"speech\",\n      \"text\": \"并且这个影响还会一层一层的网上游去传导\"\n    },\n    {\n      \"timeSec\": 151.82,\n      \"kind\": \"speech\",\n      \"text\": \"从应用到模型的演发\"\n    },\n    {\n      \"timeSec\": 154.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"到算力中心的搭建\"\n    },\n    {\n      \"timeSec\": 156.02,\n      \"kind\": \"speech\",\n      \"text\": \"到国产的芯片 达到能源\"\n    },\n    {\n      \"timeSec\": 158.02,\n      \"kind\": \"speech\",\n      \"text\": \"这是中国产业店极细重要的一个阶点\"\n    },\n    {\n      \"timeSec\": 161.02,\n      \"kind\": \"speech\",\n      \"text\": \"那上面讲完\"\n    },\n    {\n      \"timeSec\": 162.02,\n      \"kind\": \"speech\",\n      \"text\": \"我为什么要关注这个斗包工作这个应用呢\"\n    },\n    {\n      \"timeSec\": 164.62,\n      \"kind\": \"speech\",\n      \"text\": \"我们聊聊一眼实际的\"\n    },\n    {\n      \"timeSec\": 165.82,\n      \"kind\": \"speech\",\n      \"text\": \"就是我不要大家在现在这个Agent的便地\"\n    },\n    {\n      \"timeSec\": 168.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"然后功能大差不差的今天\"\n    },\n    {\n      \"timeSec\": 170.22,\n      \"kind\": \"speech\",\n      \"text\": \"还能不能找到某个Agent\"\n    },\n    {\n      \"timeSec\": 172.02,\n      \"kind\": \"speech\",\n      \"text\": \"它有独一五二的这个游势\"\n    },\n    {\n      \"timeSec\": 173.62,\n      \"kind\": \"speech\",\n      \"text\": \"但斗包工作有几个\"\n    },\n    {\n      \"timeSec\": 175.22,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得让我非常值得去讲的这个特点\"\n    },\n    {\n      \"timeSec\": 178.02,\n      \"kind\": \"speech\",\n      \"text\": \"而第一点最重要的就是\"\n    },\n    {\n      \"timeSec\": 179.82,\n      \"kind\": \"speech\",\n      \"text\": \"它能跟飞书打通\"\n    },\n    {\n      \"timeSec\": 181.22,\n      \"kind\": \"speech\",\n      \"text\": \"这件事的意义\"\n    },\n    {\n      \"timeSec\": 182.02,\n      \"kind\": \"speech\",\n      \"text\": \"原比表面上看起来更大\"\n    },\n    {\n      \"timeSec\": 183.62,\n      \"kind\": \"speech\",\n      \"text\": \"经过是半年智能器的飞速发展\"\n    },\n    {\n      \"timeSec\": 186.42,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得大家然后产业界有个共识\"\n    },\n    {\n      \"timeSec\": 188.82,\n      \"kind\": \"speech\",\n      \"text\": \"就是智能器最重要的点就是上下文\"\n    },\n    {\n      \"timeSec\": 191.02,\n      \"kind\": \"speech\",\n      \"text\": \"甚至没有指引\"\n    },\n    {\n      \"timeSec\": 191.82,\n      \"kind\": \"speech\",\n      \"text\": \"甚至没有其他重要的\"\n    },\n    {\n      \"timeSec\": 192.82,\n      \"kind\": \"speech\",\n      \"text\": \"但遗憾的是\"\n    },\n    {\n      \"timeSec\": 193.82,\n      \"kind\": \"speech\",\n      \"text\": \"直到现代为止\"\n    },\n    {\n      \"timeSec\": 194.62,\n      \"kind\": \"speech\",\n      \"text\": \"当你打开世界上很多智能体\"\n    },\n    {\n      \"timeSec\": 196.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"历史都是空白的\"\n    },\n    {\n      \"timeSec\": 197.82,\n      \"kind\": \"speech\",\n      \"text\": \"你都得从零开始去教它\"\n    },\n    {\n      \"timeSec\": 200.62,\n      \"kind\": \"speech\",\n      \"text\": \"让它记住你自己的工作习惯\"\n    },\n    {\n      \"timeSec\": 202.62,\n      \"kind\": \"speech\",\n      \"text\": \"等等\"\n    },\n    {\n      \"timeSec\": 203.22,\n      \"kind\": \"speech\",\n      \"text\": \"那斗包工作不一样\"\n    },\n    {\n      \"timeSec\": 204.22,\n      \"kind\": \"speech\",\n      \"text\": \"它跟你的个人飞书\"\n    },\n    {\n      \"timeSec\": 205.62,\n      \"kind\": \"speech\",\n      \"text\": \"或者是企业飞书完全是打通的\"\n    },\n    {\n      \"timeSec\": 207.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"但你用你的飞书账号\"\n    },\n    {\n      \"timeSec\": 208.82,\n      \"kind\": \"speech\",\n      \"text\": \"登入它的第一秒\"\n    },\n    {\n      \"timeSec\": 210.22,\n      \"kind\": \"speech\",\n      \"text\": \"它就知道你过去两三年\"\n    },\n    {\n      \"timeSec\": 211.62,\n      \"kind\": \"speech\",\n      \"text\": \"在飞书上的工作记录\"\n    },\n    {\n      \"timeSec\": 213.22,\n      \"kind\": \"speech\",\n      \"text\": \"会记录那个文章记录\"\n    },\n    {\n      \"timeSec\": 215.22,\n      \"kind\": \"speech\",\n      \"text\": \"而且不只是上面\"\n    },\n    {\n      \"timeSec\": 216.22,\n      \"kind\": \"speech\",\n      \"text\": \"我说的这些历史记录\"\n    },\n    {\n      \"timeSec\": 217.62,\n      \"kind\": \"speech\",\n      \"text\": \"包括你飞书里面的这个组织架构\"\n    },\n    {\n      \"timeSec\": 219.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"不同部门\"\n    },\n    {\n      \"timeSec\": 220.22,\n      \"kind\": \"speech\",\n      \"text\": \"它的数据全线\"\n    },\n    {\n      \"timeSec\": 221.22,\n      \"kind\": \"speech\",\n      \"text\": \"功能全线\"\n    },\n    {\n      \"timeSec\": 221.82,\n      \"kind\": \"speech\",\n      \"text\": \"斗包工作都能去继承\"\n    },\n    {\n      \"timeSec\": 223.62,\n      \"kind\": \"speech\",\n      \"text\": \"我回想我自己做企业服务\"\n    },\n    {\n      \"timeSec\": 225.82,\n      \"kind\": \"speech\",\n      \"text\": \"做FDE的过程当中\"\n    },\n    {\n      \"timeSec\": 227.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"其实很多的企业老板\"\n    },\n    {\n      \"timeSec\": 228.62,\n      \"kind\": \"speech\",\n      \"text\": \"都是非常在意这个数据全线\"\n    },\n    {\n      \"timeSec\": 230.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"跟数据安全的\"\n    },\n    {\n      \"timeSec\": 231.22,\n      \"kind\": \"speech\",\n      \"text\": \"但他们迟失不动手\"\n    },\n    {\n      \"timeSec\": 232.42000000000002,\n      \"kind\": \"speech\",\n      \"text\": \"说实话就是因为\"\n    },\n    {\n      \"timeSec\": 233.62,\n      \"kind\": \"speech\",\n      \"text\": \"没有什么好的办法\"\n    },\n    {\n      \"timeSec\": 234.62,\n      \"kind\": \"speech\",\n      \"text\": \"最经常遇到的问题\"\n    },\n    {\n      \"timeSec\": 235.62,\n      \"kind\": \"speech\",\n      \"text\": \"就是说它公司连某个员工\"\n    },\n    {\n      \"timeSec\": 237.62,\n      \"kind\": \"speech\",\n      \"text\": \"使用Agent的时候\"\n    },\n    {\n      \"timeSec\": 238.62,\n      \"kind\": \"speech\",\n      \"text\": \"如何能够限制这个Agent的数据全线\"\n    },\n    {\n      \"timeSec\": 240.92,\n      \"kind\": \"speech\",\n      \"text\": \"或者是功能全线\"\n    },\n    {\n      \"timeSec\": 241.92,\n      \"kind\": \"speech\",\n      \"text\": \"如果公司自己去搭一套\"\n    },\n    {\n      \"timeSec\": 243.62,\n      \"kind\": \"speech\",\n      \"text\": \"这样的全线的管理的逻辑\"\n    },\n    {\n      \"timeSec\": 245.42,\n      \"kind\": \"speech\",\n      \"text\": \"其实你可以想象又复杂又漫长\"\n    },\n    {\n      \"timeSec\": 247.82,\n      \"kind\": \"speech\",\n      \"text\": \"但现在的斗包工作\"\n    },\n    {\n      \"timeSec\": 249.02,\n      \"kind\": \"speech\",\n      \"text\": \"可以直接记成飞书里面\"\n    },\n    {\n      \"timeSec\": 250.42,\n      \"kind\": \"speech\",\n      \"text\": \"已经有的这些很完整的逻辑\"\n    },\n    {\n      \"timeSec\": 252.82,\n      \"kind\": \"speech\",\n      \"text\": \"省掉了这一块的很大的成本\"\n    },\n    {\n      \"timeSec\": 255.42,\n      \"kind\": \"speech\",\n      \"text\": \"而且连出我们记得飞书在那上\"\n    },\n    {\n      \"timeSec\": 258.02,\n      \"kind\": \"speech\",\n      \"text\": \"小龙下的战役里面\"\n    },\n    {\n      \"timeSec\": 259.02,\n      \"kind\": \"speech\",\n      \"text\": \"几乎已经把所有的功能\"\n    },\n    {\n      \"timeSec\": 260.82,\n      \"kind\": \"speech\",\n      \"text\": \"做了结果化的数据\"\n    },\n    {\n      \"timeSec\": 262.02,\n      \"kind\": \"speech\",\n      \"text\": \"然后CLA也做了台访\"\n    },\n    {\n      \"timeSec\": 263.82,\n      \"kind\": \"speech\",\n      \"text\": \"很多人都通过CLA接口\"\n    },\n    {\n      \"timeSec\": 265.22,\n      \"kind\": \"speech\",\n      \"text\": \"用自己的Agent去跟飞书做各种的交互\"\n    },\n    {\n      \"timeSec\": 267.62,\n      \"kind\": \"speech\",\n      \"text\": \"但这次斗包工作\"\n    },\n    {\n      \"timeSec\": 268.82,\n      \"kind\": \"speech\",\n      \"text\": \"和飞书做了账号级别的集成\"\n    },\n    {\n      \"timeSec\": 271.02,\n      \"kind\": \"speech\",\n      \"text\": \"用飞书账号登录之后\"\n    },\n    {\n      \"timeSec\": 272.22,\n      \"kind\": \"speech\",\n      \"text\": \"可以直接记成飞书\"\n    },\n    {\n      \"timeSec\": 273.62,\n      \"kind\": \"speech\",\n      \"text\": \"这个工作里面工作上下文\"\n    },\n    {\n      \"timeSec\": 275.42,\n      \"kind\": \"speech\",\n      \"text\": \"然后在全线范围内\"\n    },\n    {\n      \"timeSec\": 277.02,\n      \"kind\": \"speech\",\n      \"text\": \"调用这聊天记录物文档\"\n    },\n    {\n      \"timeSec\": 279.02,\n      \"kind\": \"speech\",\n      \"text\": \"会议记要等等的信息\"\n    },\n    {\n      \"timeSec\": 280.42,\n      \"kind\": \"speech\",\n      \"text\": \"更准确地帮你去完成工作\"\n    },\n    {\n      \"timeSec\": 282.42,\n      \"kind\": \"speech\",\n      \"text\": \"然后我在以前视频里面\"\n    },\n    {\n      \"timeSec\": 283.62,\n      \"kind\": \"speech\",\n      \"text\": \"其实也不止一次的去讲过\"\n    },\n    {\n      \"timeSec\": 285.42,\n      \"kind\": \"speech\",\n      \"text\": \"企业落敌AI最重要的就是数据\"\n    },\n    {\n      \"timeSec\": 287.62,\n      \"kind\": \"speech\",\n      \"text\": \"就是企业的上下文\"\n    },\n    {\n      \"timeSec\": 289.02,\n      \"kind\": \"speech\",\n      \"text\": \"前几次飞书跟斗包合併成了一个新的\"\n    },\n    {\n      \"timeSec\": 291.82,\n      \"kind\": \"speech\",\n      \"text\": \"斗包产品的这样团队\"\n    },\n    {\n      \"timeSec\": 293.42,\n      \"kind\": \"speech\",\n      \"text\": \"当时大部分人可能还不知道这部企业干嘛\"\n    },\n    {\n      \"timeSec\": 295.82,\n      \"kind\": \"speech\",\n      \"text\": \"但现在答案已经很清楚了\"\n    },\n    {\n      \"timeSec\": 297.22,\n      \"kind\": \"speech\",\n      \"text\": \"飞书对斗包的工作的支持\"\n    },\n    {\n      \"timeSec\": 298.82,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得我就算怎么去强调这个重要性\"\n    },\n    {\n      \"timeSec\": 301.42,\n      \"kind\": \"speech\",\n      \"text\": \"可能都低估了它的重要性\"\n    },\n    {\n      \"timeSec\": 303.02,\n      \"kind\": \"speech\",\n      \"text\": \"如果大家是Agent的高频的使用者\"\n    },\n    {\n      \"timeSec\": 306.02,\n      \"kind\": \"speech\",\n      \"text\": \"然后经过了过去的几个月\"\n    },\n    {\n      \"timeSec\": 308.02,\n      \"kind\": \"speech\",\n      \"text\": \"一直在重复使用\"\n    },\n    {\n      \"timeSec\": 309.22,\n      \"kind\": \"speech\",\n      \"text\": \"那些解文党做PVT的这些功能\"\n    },\n    {\n      \"timeSec\": 311.62,\n      \"kind\": \"speech\",\n      \"text\": \"现在终于有一个Agent\"\n    },\n    {\n      \"timeSec\": 313.02,\n      \"kind\": \"speech\",\n      \"text\": \"可以给Agent时代翻开一个新的评章\"\n    },\n    {\n      \"timeSec\": 316.02,\n      \"kind\": \"speech\",\n      \"text\": \"然后除了跟飞书打通之外\"\n    },\n    {\n      \"timeSec\": 317.62,\n      \"kind\": \"speech\",\n      \"text\": \"它第二点非常重要的特点\"\n    },\n    {\n      \"timeSec\": 319.22,\n      \"kind\": \"speech\",\n      \"text\": \"就是斗包工作\"\n    },\n    {\n      \"timeSec\": 320.22,\n      \"kind\": \"speech\",\n      \"text\": \"它沿用了字节整个集团\"\n    },\n    {\n      \"timeSec\": 321.82,\n      \"kind\": \"speech\",\n      \"text\": \"非常强的多摩太的模型的能力\"\n    },\n    {\n      \"timeSec\": 324.82,\n      \"kind\": \"speech\",\n      \"text\": \"语音、图片、视频\"\n    },\n    {\n      \"timeSec\": 326.22,\n      \"kind\": \"speech\",\n      \"text\": \"也都集成到了斗包的工作里面\"\n    },\n    {\n      \"timeSec\": 328.02,\n      \"kind\": \"speech\",\n      \"text\": \"我之前一直在用斗包的输入法座\"\n    },\n    {\n      \"timeSec\": 330.02,\n      \"kind\": \"speech\",\n      \"text\": \"语音输入的期间非常好\"\n    },\n    {\n      \"timeSec\": 331.42,\n      \"kind\": \"speech\",\n      \"text\": \"然后视频这一块更不用说了\"\n    },\n    {\n      \"timeSec\": 333.02,\n      \"kind\": \"speech\",\n      \"text\": \"大家知道C-102.02.5\"\n    },\n    {\n      \"timeSec\": 335.42,\n      \"kind\": \"speech\",\n      \"text\": \"我自己其实使用下来\"\n    },\n    {\n      \"timeSec\": 336.62,\n      \"kind\": \"speech\",\n      \"text\": \"应该是世界上断档的工人的搜塔的视频生生模型\"\n    },\n    {\n      \"timeSec\": 340.82,\n      \"kind\": \"speech\",\n      \"text\": \"这些能力集成进了办公场里之后\"\n    },\n    {\n      \"timeSec\": 343.02,\n      \"kind\": \"speech\",\n      \"text\": \"因为你可以在一个工作楼里面\"\n    },\n    {\n      \"timeSec\": 344.62,\n      \"kind\": \"speech\",\n      \"text\": \"很轻松的就去集成这些能力\"\n    },\n    {\n      \"timeSec\": 346.82,\n      \"kind\": \"speech\",\n      \"text\": \"必须让你的Agent去高峭的进行管理\"\n    },\n    {\n      \"timeSec\": 349.22,\n      \"kind\": \"speech\",\n      \"text\": \"然后第三点\"\n    },\n    {\n      \"timeSec\": 350.02,\n      \"kind\": \"speech\",\n      \"text\": \"我们知道大部分的Agent都跑在你的本地吗\"\n    },\n    {\n      \"timeSec\": 352.62,\n      \"kind\": \"speech\",\n      \"text\": \"电脑一合上\"\n    },\n    {\n      \"timeSec\": 353.42,\n      \"kind\": \"speech\",\n      \"text\": \"其实你的任务就断了\"\n    },\n    {\n      \"timeSec\": 355.22,\n      \"kind\": \"speech\",\n      \"text\": \"斗包工作只是把你的任务\"\n    },\n    {\n      \"timeSec\": 357.02,\n      \"kind\": \"speech\",\n      \"text\": \"然后放在云端去跑\"\n    },\n    {\n      \"timeSec\": 358.22,\n      \"kind\": \"speech\",\n      \"text\": \"就算你关到电脑\"\n    },\n    {\n      \"timeSec\": 359.42,\n      \"kind\": \"speech\",\n      \"text\": \"它还在继续处理\"\n    },\n    {\n      \"timeSec\": 360.22,\n      \"kind\": \"speech\",\n      \"text\": \"相当于有一个724小时\"\n    },\n    {\n      \"timeSec\": 362.42,\n      \"kind\": \"speech\",\n      \"text\": \"不停工作的这样的助手\"\n    },\n    {\n      \"timeSec\": 363.62,\n      \"kind\": \"speech\",\n      \"text\": \"这对于那些需要长时间去跑的这些任务\"\n    },\n    {\n      \"timeSec\": 366.62,\n      \"kind\": \"speech\",\n      \"text\": \"比如说批量处理很大量的数据\"\n    },\n    {\n      \"timeSec\": 369.82,\n      \"kind\": \"speech\",\n      \"text\": \"持续监控工作楼\"\n    },\n    {\n      \"timeSec\": 371.62,\n      \"kind\": \"speech\",\n      \"text\": \"其实我觉得价值是很大的\"\n    },\n    {\n      \"timeSec\": 373.02,\n      \"kind\": \"speech\",\n      \"text\": \"然后最后呢\"\n    },\n    {\n      \"timeSec\": 373.62,\n      \"kind\": \"speech\",\n      \"text\": \"我带来跟大家总结一下我的看法\"\n    },\n    {\n      \"timeSec\": 375.62,\n      \"kind\": \"speech\",\n      \"text\": \"因为这个斗包工作\"\n    },\n    {\n      \"timeSec\": 376.82,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得真的是\"\n    },\n    {\n      \"timeSec\": 377.82,\n      \"kind\": \"speech\",\n      \"text\": \"这个时代很大的一个消息了\"\n    },\n    {\n      \"timeSec\": 379.62,\n      \"kind\": \"speech\",\n      \"text\": \"斗包工作我就最核心的必了\"\n    },\n    {\n      \"timeSec\": 381.02,\n      \"kind\": \"speech\",\n      \"text\": \"就是它飞书带来的企业上下文\"\n    },\n    {\n      \"timeSec\": 383.22,\n      \"kind\": \"speech\",\n      \"text\": \"这个是其他的Agent的短期内\"\n    },\n    {\n      \"timeSec\": 385.22,\n      \"kind\": \"speech\",\n      \"text\": \"真的很难去复制的\"\n    },\n    {\n      \"timeSec\": 386.22,\n      \"kind\": \"speech\",\n      \"text\": \"再加上自己的算力的储备\"\n    },\n    {\n      \"timeSec\": 388.02,\n      \"kind\": \"speech\",\n      \"text\": \"模型测的这种积累\"\n    },\n    {\n      \"timeSec\": 389.42,\n      \"kind\": \"speech\",\n      \"text\": \"云端的Agent的价购和整个很强的企业的产品运营能力\"\n    },\n    {\n      \"timeSec\": 394.82,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得它大概率会在接下来\"\n    },\n    {\n      \"timeSec\": 396.22,\n      \"kind\": \"speech\",\n      \"text\": \"几个月那快速的企业\"\n    },\n    {\n      \"timeSec\": 397.62,\n      \"kind\": \"speech\",\n      \"text\": \"对于之前已经在使用飞书的团队和个人\"\n    },\n    {\n      \"timeSec\": 400.22,\n      \"kind\": \"speech\",\n      \"text\": \"因为你的历史数据就已经在那里了\"\n    },\n    {\n      \"timeSec\": 402.42,\n      \"kind\": \"speech\",\n      \"text\": \"千亿成本几乎就是零\"\n    },\n    {\n      \"timeSec\": 404.02,\n      \"kind\": \"speech\",\n      \"text\": \"我看官方还说\"\n    },\n    {\n      \"timeSec\": 405.22,\n      \"kind\": \"speech\",\n      \"text\": \"几活就送三十天的会员权益\"\n    },\n    {\n      \"timeSec\": 407.42,\n      \"kind\": \"speech\",\n      \"text\": \"完全可以说是无缝揭露了\"\n    },\n    {\n      \"timeSec\": 409.22,\n      \"kind\": \"speech\",\n      \"text\": \"好了 今天的视频就到这里了\"\n    },\n    {\n      \"timeSec\": 410.22,\n      \"kind\": \"speech\",\n      \"text\": \"我是历史主持人李超\"\n    },\n    {\n      \"timeSec\": 411.42,\n      \"kind\": \"speech\",\n      \"text\": \"我们下次见\"\n    }\n  ],\n  \"warnings\": [\n    \"ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment.\"\n  ],\n  \"detail\": \"detailed\",\n  \"elapsedMs\": 34203,\n  \"ocrHitCount\": 0,\n  \"summary\": \"6:52 · 1080×1920 · 30fps · has audio\\nSpeech (whisper.cpp, 215 segs): “过去三个月有一件事情一直排在我关注列表的前级名 就是斗包什么时候能推出它自己的办公Agent 为什么呢有两个原因啊 一个呢是你只要平时是关注这个AI产业的同学 就知道这个产品一旦推出 它就会重新定义国内智能体的这格局 第二点呢就是除了目前这些铺鞋盖地 同志化的功能 写文档啊 兜PVG之外 斗包在办公场景还能给我们带来什么新的东西 终于在8月25号 斗包面向生产力的场景 推出了全新的Agent的产品 跟品牌 叫做斗包工作 不是以前那个你用…”\\n30 keyframe(s) extracted\\n1 warning(s)\",\n  \"sidecarPath\": null\n}"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #0 @ 0.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #6 @ 24.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #12 @ 48.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #17 @ 68.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #23 @ 92.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #29 @ 116.00s"
+    },
+    {
+      "type": "text",
+      "text": "\n(6 inline thumb(s) evenly sampled; 24 more as paths — use video_get_frame for a moment.)"
+    }
+  ],
+  "structuredContent": {
+    "frames": [
+      {
+        "index": 0,
+        "timeSec": 0,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 1,
+        "timeSec": 4,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 2,
+        "timeSec": 8,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 3,
+        "timeSec": 12,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 4,
+        "timeSec": 16,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 5,
+        "timeSec": 20,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 6,
+        "timeSec": 24,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 7,
+        "timeSec": 28,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 8,
+        "timeSec": 32,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 9,
+        "timeSec": 36,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 10,
+        "timeSec": 40,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 11,
+        "timeSec": 44,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 12,
+        "timeSec": 48,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 13,
+        "timeSec": 52,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 14,
+        "timeSec": 56,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 15,
+        "timeSec": 60,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 16,
+        "timeSec": 64,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 17,
+        "timeSec": 68,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 18,
+        "timeSec": 72,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 19,
+        "timeSec": 76,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 20,
+        "timeSec": 80,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 21,
+        "timeSec": 84,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 22,
+        "timeSec": 88,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 23,
+        "timeSec": 92,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 24,
+        "timeSec": 96,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 25,
+        "timeSec": 100,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 26,
+        "timeSec": 104,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 27,
+        "timeSec": 108,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 28,
+        "timeSec": 112,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 29,
+        "timeSec": 116,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "inlineCount": 6,
+    "inlineIndices": [
+      0,
+      6,
+      12,
+      17,
+      23,
+      29
+    ],
+    "summary": "6:52 · 1080×1920 · 30fps · has audio\nSpeech (whisper.cpp, 215 segs): “过去三个月有一件事情一直排在我关注列表的前级名 就是斗包什么时候能推出它自己的办公Agent 为什么呢有两个原因啊 一个呢是你只要平时是关注这个AI产业的同学 就知道这个产品一旦推出 它就会重新定义国内智能体的这格局 第二点呢就是除了目前这些铺鞋盖地 同志化的功能 写文档啊 兜PVG之外 斗包在办公场景还能给我们带来什么新的东西 终于在8月25号 斗包面向生产力的场景 推出了全新的Agent的产品 跟品牌 叫做斗包工作 不是以前那个你用…”\n30 keyframe(s) extracted\n1 warning(s)",
+    "info": {
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7678222136565091620.mp4",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7678222136565091620.mp4",
+      "sourceKind": "local",
+      "durationSec": 412.293,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "videoCodec": "hevc",
+      "audioCodec": "aac",
+      "hasAudio": true,
+      "hasVideo": true,
+      "bitrate": 821148,
+      "sizeBytes": 42319201,
+      "formatName": "mov,mp4 (AVFoundation adapter)"
+    },
+    "ocrHitCount": 0,
+    "ocr": [],
+    "transcript": {
+      "source": "whisper.cpp",
+      "language": "zh",
+      "segmentCount": 215,
+      "fullText": "过去三个月有一件事情一直排在我关注列表的前级名 就是斗包什么时候能推出它自己的办公Agent 为什么呢有两个原因啊 一个呢是你只要平时是关注这个AI产业的同学 就知道这个产品一旦推出 它就会重新定义国内智能体的这格局 第二点呢就是除了目前这些铺鞋盖地 同志化的功能 写文档啊 兜PVG之外 斗包在办公场景还能给我们带来什么新的东西 终于在8月25号 斗包面向生产力的场景 推出了全新的Agent的产品 跟品牌 叫做斗包工作 不是以前那个你用的斗包IPP是一个独立的办公应用 有自己的客户端 简单来说呢你可以类比OpenAI的恰级PT跟Codex 或者是跟恰级PTWOK的区别 简直呢主要是用来这个回答日常的问题 后者呢专门来服务生产力的这种场景 斗包工作有三个入口 一个呢是斗包工作的它独立的电脑端 第二个呢是斗包以前的这APP里面内部集成了斗包工作 第三个呢就是飞书里面斗包入口 那为什么是飞书呢 其实这个呢还有一点小故事 我最后大概大家分享 那先来跟大家聊一下 为什么我这么关注斗包工作 其实逻辑也很简单 就是大家想OpenAI那边 恰级PT全球大概有10亿的周祸用户 然后全球是最普及的AI的聊天用 同一家公司的Codex在强推之后 前几天重置之神tipo说大概已经有2000万左右的周祸了 还在快速的增长斗包的原案那个IPP 网上有相关资料说的周祸可能大概在两到三亿左右 注资可能会有小的出路 但数量几个我就应该没问题 按照OpenAI的这个比例去推算 斗包工作我觉得很有可能能做到大几百万 甚至是千万级别的这个周祸用户 那如果能做到这个级别的话 就是国内体量最大的这个办公制能体了 全球估计也能排进前三米 但体量大呢 我觉得还不是我真正兴奋的体量 真正让我觉得这件事情很重量的 是因为办公制能体消耗的头肯 远远超过这个聊天机器人聊天用 加TPP的用户是Codex大约一百倍左右 在Codex的头肯消耗两反过来是切iGPT的好几倍 这有看到过OpenAI的内部的一个博客企劳果 就是它OpenAI公司内部 百分之九十九的头肯消耗都来自于Codex 如果我们也用这个OpenAI图案的逻辑 我觉得斗包工作很有可能在接下来一段时间之内 会消耗全中国一半的头肯 然后另外凉胜之前也也很清楚讲过 正常卖头肯也然后不去做大面积不贴 利润其实是非常高的 所以我的判断是说斗包工作 接下来半年时间大概率会成为中国最大的职能器 不管是用户数量上 日军的头肯消耗量的数量上 营收的规模 并且这个影响还会一层一层的网上游去传导 从应用到模型的演发 到算力中心的搭建 到国产的芯片 达到能源 这是中国产业店极细重要的一个阶点 那上面讲完 我为什么要关注这个斗包工作这个应用呢 我们聊聊一眼实际的 就是我不要大家在现在这个Agent的便地 然后功能大差不差的今天 还能不能找到某个Agent 它有独一五二的这个游势 但斗包工作有几个 我觉得让我非常值得去讲的这个特点 而第一点最重要的就是 它能跟飞书打通 这件事的意义 原比表面上看起来更大 经过是半年智能器的飞速发展 我觉得大家然后产业界有个共识 就是智能器最重要的点就是上下文 甚至没有指引 甚至没有其他重要的 但遗憾的是 直到现代为止 当你打开世界上很多智能体 历史都是空白的 你都得从零开始去教它 让它记住你自己的工作习惯 等等 那斗包工作不一样 它跟你的个人飞书 或者是企业飞书完全是打通的 但你用你的飞书账号 登入它的第一秒 它就知道你过去两三年 在飞书上的工作记录 会记录那个文章记录 而且不只是上面 我说的这些历史记录 包括你飞书里面的这个组织架构 不同部门 它的数据全线 功能全线 斗包工作都能去继承 我回想我自己做企业服务 做FDE的过程当中 其实很多的企业老板 都是非常在意这个数据全线 跟数据安全的 但他们迟失不动手 说实话就是因为 没有什么好的办法 最经常遇到的问题 就是说它公司连某个员工 使用Agent的时候 如何能够限制这个Agent的数据全线 或者是功能全线 如果公司自己去搭一套 这样的全线的管理的逻辑 其实你可以想象又复杂又漫长 但现在的斗包工作 可以直接记成飞书里面 已经有的这些很完整的逻辑 省掉了这一块的很大的成本 而且连出我们记得飞书在那上 小龙下的战役里面 几乎已经把所有的功能 做了结果化的数据 然后CLA也做了台访 很多人都通过CLA接口 用自己的Agent去跟飞书做各种的交互 但这次斗包工作 和飞书做了账号级别的集成 用飞书账号登录之后 可以直接记成飞书 这个工作里面工作上下文 然后在全线范围内 调用这聊天记录物文档 会议记要等等的信息 更准确地帮你去完成工作 然后我在以前视频里面 其实也不止一次的去讲过 企业落敌AI最重要的就是数据 就是企业的上下文 前几次飞书跟斗包合併成了一个新的 斗包产品的这样团队 当时大部分人可能还不知道这部企业干嘛 但现在答案已经很清楚了 飞书对斗包的工作的支持 我觉得我就算怎么去强调这个重要性 可能都低估了它的重要性 如果大家是Agent的高频的使用者 然后经过了过去的几个月 一直在重复使用 那些解文党做PVT的这些功能 现在终于有一个Agent 可以给Agent时代翻开一个新的评章 然后除了跟飞书打通之外 它第二点非常重要的特点 就是斗包工作 它沿用了字节整个集团 非常强的多摩太的模型的能力 语音、图片、视频 也都集成到了斗包的工作里面 我之前一直在用斗包的输入法座 语音输入的期间非常好 然后视频这一块更不用说了 大家知道C-102.02.5 我自己其实使用下来 应该是世界上断档的工人的搜塔的视频生生模型 这些能力集成进了办公场里之后 因为你可以在一个工作楼里面 很轻松的就去集成这些能力 必须让你的Agent去高峭的进行管理 然后第三点 我们知道大部分的Agent都跑在你的本地吗 电脑一合上 其实你的任务就断了 斗包工作只是把你的任务 然后放在云端去跑 就算你关到电脑 它还在继续处理 相当于有一个724小时 不停工作的这样的助手 这对于那些需要长时间去跑的这些任务 比如说批量处理很大量的数据 持续监控工作楼 其实我觉得价值是很大的 然后最后呢 我带来跟大家总结一下我的看法 因为这个斗包工作 我觉得真的是 这个时代很大的一个消息了 斗包工作我就最核心的必了 就是它飞书带来的企业上下文 这个是其他的Agent的短期内 真的很难去复制的 再加上自己的算力的储备 模型测的这种积累 云端的Agent的价购和整个很强的企业的产品运营能力 我觉得它大概率会在接下来 几个月那快速的企业 对于之前已经在使用飞书的团队和个人 因为你的历史数据就已经在那里了 千亿成本几乎就是零 我看官方还说 几活就送三十天的会员权益 完全可以说是无缝揭露了 好了 今天的视频就到这里了 我是历史主持人李超 我们下次见",
+      "segments": [
+        {
+          "start": 0,
+          "end": 3.58,
+          "text": "过去三个月有一件事情一直排在我关注列表的前级名"
+        },
+        {
+          "start": 3.58,
+          "end": 6.98,
+          "text": "就是斗包什么时候能推出它自己的办公Agent"
+        },
+        {
+          "start": 6.98,
+          "end": 8.2,
+          "text": "为什么呢有两个原因啊"
+        },
+        {
+          "start": 8.2,
+          "end": 11.46,
+          "text": "一个呢是你只要平时是关注这个AI产业的同学"
+        },
+        {
+          "start": 11.46,
+          "end": 13.18,
+          "text": "就知道这个产品一旦推出"
+        },
+        {
+          "start": 13.18,
+          "end": 15.74,
+          "text": "它就会重新定义国内智能体的这格局"
+        },
+        {
+          "start": 15.74,
+          "end": 18.54,
+          "text": "第二点呢就是除了目前这些铺鞋盖地"
+        },
+        {
+          "start": 18.54,
+          "end": 21.4,
+          "text": "同志化的功能 写文档啊 兜PVG之外"
+        },
+        {
+          "start": 21.4,
+          "end": 24.3,
+          "text": "斗包在办公场景还能给我们带来什么新的东西"
+        },
+        {
+          "start": 24.3,
+          "end": 27.38,
+          "text": "终于在8月25号 斗包面向生产力的场景"
+        },
+        {
+          "start": 27.38,
+          "end": 31.3,
+          "text": "推出了全新的Agent的产品 跟品牌 叫做斗包工作"
+        },
+        {
+          "start": 31.3,
+          "end": 34.98,
+          "text": "不是以前那个你用的斗包IPP是一个独立的办公应用"
+        },
+        {
+          "start": 34.98,
+          "end": 36.14,
+          "text": "有自己的客户端"
+        },
+        {
+          "start": 36.14,
+          "end": 39.94,
+          "text": "简单来说呢你可以类比OpenAI的恰级PT跟Codex"
+        },
+        {
+          "start": 39.94,
+          "end": 41.86,
+          "text": "或者是跟恰级PTWOK的区别"
+        },
+        {
+          "start": 41.86,
+          "end": 44.62,
+          "text": "简直呢主要是用来这个回答日常的问题"
+        },
+        {
+          "start": 44.62,
+          "end": 47.18,
+          "text": "后者呢专门来服务生产力的这种场景"
+        },
+        {
+          "start": 47.18,
+          "end": 48.54,
+          "text": "斗包工作有三个入口"
+        },
+        {
+          "start": 48.54,
+          "end": 51.18,
+          "text": "一个呢是斗包工作的它独立的电脑端"
+        },
+        {
+          "start": 51.18,
+          "end": 55.38,
+          "text": "第二个呢是斗包以前的这APP里面内部集成了斗包工作"
+        },
+        {
+          "start": 55.38,
+          "end": 57.54,
+          "text": "第三个呢就是飞书里面斗包入口"
+        },
+        {
+          "start": 57.54,
+          "end": 58.78,
+          "text": "那为什么是飞书呢"
+        },
+        {
+          "start": 58.78,
+          "end": 60.38,
+          "text": "其实这个呢还有一点小故事"
+        },
+        {
+          "start": 60.38,
+          "end": 61.74,
+          "text": "我最后大概大家分享"
+        },
+        {
+          "start": 61.74,
+          "end": 62.78,
+          "text": "那先来跟大家聊一下"
+        },
+        {
+          "start": 62.78,
+          "end": 64.66,
+          "text": "为什么我这么关注斗包工作"
+        },
+        {
+          "start": 64.66,
+          "end": 65.82,
+          "text": "其实逻辑也很简单"
+        },
+        {
+          "start": 65.82,
+          "end": 67.86,
+          "text": "就是大家想OpenAI那边"
+        },
+        {
+          "start": 67.86,
+          "end": 70.9,
+          "text": "恰级PT全球大概有10亿的周祸用户"
+        },
+        {
+          "start": 70.9,
+          "end": 73.42,
+          "text": "然后全球是最普及的AI的聊天用"
+        },
+        {
+          "start": 73.42,
+          "end": 76.02,
+          "text": "同一家公司的Codex在强推之后"
+        },
+        {
+          "start": 76.02,
+          "end": 80.18,
+          "text": "前几天重置之神tipo说大概已经有2000万左右的周祸了"
+        },
+        {
+          "start": 80.18,
+          "end": 82.42,
+          "text": "还在快速的增长斗包的原案那个IPP"
+        },
+        {
+          "start": 82.42,
+          "end": 85.62,
+          "text": "网上有相关资料说的周祸可能大概在两到三亿左右"
+        },
+        {
+          "start": 85.62,
+          "end": 87.02,
+          "text": "注资可能会有小的出路"
+        },
+        {
+          "start": 87.02,
+          "end": 88.42,
+          "text": "但数量几个我就应该没问题"
+        },
+        {
+          "start": 88.42,
+          "end": 90.3,
+          "text": "按照OpenAI的这个比例去推算"
+        },
+        {
+          "start": 90.3,
+          "end": 93.22,
+          "text": "斗包工作我觉得很有可能能做到大几百万"
+        },
+        {
+          "start": 93.22,
+          "end": 95.42,
+          "text": "甚至是千万级别的这个周祸用户"
+        },
+        {
+          "start": 95.42,
+          "end": 96.82,
+          "text": "那如果能做到这个级别的话"
+        },
+        {
+          "start": 96.82,
+          "end": 99.42,
+          "text": "就是国内体量最大的这个办公制能体了"
+        },
+        {
+          "start": 99.42,
+          "end": 101.22,
+          "text": "全球估计也能排进前三米"
+        },
+        {
+          "start": 101.22,
+          "end": 102.22,
+          "text": "但体量大呢"
+        },
+        {
+          "start": 102.22,
+          "end": 104.02000000000001,
+          "text": "我觉得还不是我真正兴奋的体量"
+        },
+        {
+          "start": 104.02000000000001,
+          "end": 106.02000000000001,
+          "text": "真正让我觉得这件事情很重量的"
+        },
+        {
+          "start": 106.02000000000001,
+          "end": 108.34,
+          "text": "是因为办公制能体消耗的头肯"
+        },
+        {
+          "start": 108.34,
+          "end": 111.42,
+          "text": "远远超过这个聊天机器人聊天用"
+        },
+        {
+          "start": 111.42,
+          "end": 114.22,
+          "text": "加TPP的用户是Codex大约一百倍左右"
+        },
+        {
+          "start": 114.22,
+          "end": 117.42,
+          "text": "在Codex的头肯消耗两反过来是切iGPT的好几倍"
+        },
+        {
+          "start": 117.42,
+          "end": 120.22,
+          "text": "这有看到过OpenAI的内部的一个博客企劳果"
+        },
+        {
+          "start": 120.22,
+          "end": 122.02,
+          "text": "就是它OpenAI公司内部"
+        },
+        {
+          "start": 122.02,
+          "end": 125.02,
+          "text": "百分之九十九的头肯消耗都来自于Codex"
+        },
+        {
+          "start": 125.02,
+          "end": 126.82,
+          "text": "如果我们也用这个OpenAI图案的逻辑"
+        },
+        {
+          "start": 126.82,
+          "end": 129.82,
+          "text": "我觉得斗包工作很有可能在接下来一段时间之内"
+        },
+        {
+          "start": 129.82,
+          "end": 131.82,
+          "text": "会消耗全中国一半的头肯"
+        },
+        {
+          "start": 131.82,
+          "end": 135.22,
+          "text": "然后另外凉胜之前也也很清楚讲过"
+        },
+        {
+          "start": 135.22,
+          "end": 137.62,
+          "text": "正常卖头肯也然后不去做大面积不贴"
+        },
+        {
+          "start": 137.62,
+          "end": 139.02,
+          "text": "利润其实是非常高的"
+        },
+        {
+          "start": 139.02,
+          "end": 141.02,
+          "text": "所以我的判断是说斗包工作"
+        },
+        {
+          "start": 141.02,
+          "end": 144.22,
+          "text": "接下来半年时间大概率会成为中国最大的职能器"
+        },
+        {
+          "start": 144.22,
+          "end": 145.62,
+          "text": "不管是用户数量上"
+        },
+        {
+          "start": 145.62,
+          "end": 147.82,
+          "text": "日军的头肯消耗量的数量上"
+        },
+        {
+          "start": 147.82,
+          "end": 148.62,
+          "text": "营收的规模"
+        },
+        {
+          "start": 148.62,
+          "end": 151.82,
+          "text": "并且这个影响还会一层一层的网上游去传导"
+        },
+        {
+          "start": 151.82,
+          "end": 154.42000000000002,
+          "text": "从应用到模型的演发"
+        },
+        {
+          "start": 154.42000000000002,
+          "end": 156.02,
+          "text": "到算力中心的搭建"
+        },
+        {
+          "start": 156.02,
+          "end": 158.02,
+          "text": "到国产的芯片 达到能源"
+        },
+        {
+          "start": 158.02,
+          "end": 161.02,
+          "text": "这是中国产业店极细重要的一个阶点"
+        },
+        {
+          "start": 161.02,
+          "end": 162.02,
+          "text": "那上面讲完"
+        },
+        {
+          "start": 162.02,
+          "end": 164.62,
+          "text": "我为什么要关注这个斗包工作这个应用呢"
+        },
+        {
+          "start": 164.62,
+          "end": 165.82,
+          "text": "我们聊聊一眼实际的"
+        },
+        {
+          "start": 165.82,
+          "end": 168.42000000000002,
+          "text": "就是我不要大家在现在这个Agent的便地"
+        },
+        {
+          "start": 168.42000000000002,
+          "end": 170.22,
+          "text": "然后功能大差不差的今天"
+        },
+        {
+          "start": 170.22,
+          "end": 172.02,
+          "text": "还能不能找到某个Agent"
+        },
+        {
+          "start": 172.02,
+          "end": 173.62,
+          "text": "它有独一五二的这个游势"
+        },
+        {
+          "start": 173.62,
+          "end": 175.22,
+          "text": "但斗包工作有几个"
+        },
+        {
+          "start": 175.22,
+          "end": 178.02,
+          "text": "我觉得让我非常值得去讲的这个特点"
+        },
+        {
+          "start": 178.02,
+          "end": 179.82,
+          "text": "而第一点最重要的就是"
+        },
+        {
+          "start": 179.82,
+          "end": 181.22,
+          "text": "它能跟飞书打通"
+        },
+        {
+          "start": 181.22,
+          "end": 182.02,
+          "text": "这件事的意义"
+        },
+        {
+          "start": 182.02,
+          "end": 183.62,
+          "text": "原比表面上看起来更大"
+        },
+        {
+          "start": 183.62,
+          "end": 186.42,
+          "text": "经过是半年智能器的飞速发展"
+        },
+        {
+          "start": 186.42,
+          "end": 188.82,
+          "text": "我觉得大家然后产业界有个共识"
+        },
+        {
+          "start": 188.82,
+          "end": 191.02,
+          "text": "就是智能器最重要的点就是上下文"
+        },
+        {
+          "start": 191.02,
+          "end": 191.82,
+          "text": "甚至没有指引"
+        },
+        {
+          "start": 191.82,
+          "end": 192.82,
+          "text": "甚至没有其他重要的"
+        },
+        {
+          "start": 192.82,
+          "end": 193.82,
+          "text": "但遗憾的是"
+        },
+        {
+          "start": 193.82,
+          "end": 194.62,
+          "text": "直到现代为止"
+        },
+        {
+          "start": 194.62,
+          "end": 196.42000000000002,
+          "text": "当你打开世界上很多智能体"
+        },
+        {
+          "start": 196.42000000000002,
+          "end": 197.82,
+          "text": "历史都是空白的"
+        },
+        {
+          "start": 197.82,
+          "end": 200.62,
+          "text": "你都得从零开始去教它"
+        },
+        {
+          "start": 200.62,
+          "end": 202.62,
+          "text": "让它记住你自己的工作习惯"
+        },
+        {
+          "start": 202.62,
+          "end": 203.22,
+          "text": "等等"
+        },
+        {
+          "start": 203.22,
+          "end": 204.22,
+          "text": "那斗包工作不一样"
+        },
+        {
+          "start": 204.22,
+          "end": 205.62,
+          "text": "它跟你的个人飞书"
+        },
+        {
+          "start": 205.62,
+          "end": 207.42000000000002,
+          "text": "或者是企业飞书完全是打通的"
+        },
+        {
+          "start": 207.42000000000002,
+          "end": 208.82,
+          "text": "但你用你的飞书账号"
+        },
+        {
+          "start": 208.82,
+          "end": 210.22,
+          "text": "登入它的第一秒"
+        },
+        {
+          "start": 210.22,
+          "end": 211.62,
+          "text": "它就知道你过去两三年"
+        },
+        {
+          "start": 211.62,
+          "end": 213.22,
+          "text": "在飞书上的工作记录"
+        },
+        {
+          "start": 213.22,
+          "end": 215.22,
+          "text": "会记录那个文章记录"
+        },
+        {
+          "start": 215.22,
+          "end": 216.22,
+          "text": "而且不只是上面"
+        },
+        {
+          "start": 216.22,
+          "end": 217.62,
+          "text": "我说的这些历史记录"
+        },
+        {
+          "start": 217.62,
+          "end": 219.42000000000002,
+          "text": "包括你飞书里面的这个组织架构"
+        },
+        {
+          "start": 219.42000000000002,
+          "end": 220.22,
+          "text": "不同部门"
+        },
+        {
+          "start": 220.22,
+          "end": 221.22,
+          "text": "它的数据全线"
+        },
+        {
+          "start": 221.22,
+          "end": 221.82,
+          "text": "功能全线"
+        },
+        {
+          "start": 221.82,
+          "end": 223.62,
+          "text": "斗包工作都能去继承"
+        },
+        {
+          "start": 223.62,
+          "end": 225.82,
+          "text": "我回想我自己做企业服务"
+        },
+        {
+          "start": 225.82,
+          "end": 227.42000000000002,
+          "text": "做FDE的过程当中"
+        },
+        {
+          "start": 227.42000000000002,
+          "end": 228.62,
+          "text": "其实很多的企业老板"
+        },
+        {
+          "start": 228.62,
+          "end": 230.42000000000002,
+          "text": "都是非常在意这个数据全线"
+        },
+        {
+          "start": 230.42000000000002,
+          "end": 231.22,
+          "text": "跟数据安全的"
+        },
+        {
+          "start": 231.22,
+          "end": 232.42000000000002,
+          "text": "但他们迟失不动手"
+        },
+        {
+          "start": 232.42000000000002,
+          "end": 233.62,
+          "text": "说实话就是因为"
+        },
+        {
+          "start": 233.62,
+          "end": 234.62,
+          "text": "没有什么好的办法"
+        },
+        {
+          "start": 234.62,
+          "end": 235.62,
+          "text": "最经常遇到的问题"
+        },
+        {
+          "start": 235.62,
+          "end": 237.62,
+          "text": "就是说它公司连某个员工"
+        },
+        {
+          "start": 237.62,
+          "end": 238.62,
+          "text": "使用Agent的时候"
+        },
+        {
+          "start": 238.62,
+          "end": 240.92,
+          "text": "如何能够限制这个Agent的数据全线"
+        },
+        {
+          "start": 240.92,
+          "end": 241.92,
+          "text": "或者是功能全线"
+        },
+        {
+          "start": 241.92,
+          "end": 243.62,
+          "text": "如果公司自己去搭一套"
+        },
+        {
+          "start": 243.62,
+          "end": 245.42,
+          "text": "这样的全线的管理的逻辑"
+        },
+        {
+          "start": 245.42,
+          "end": 247.82,
+          "text": "其实你可以想象又复杂又漫长"
+        },
+        {
+          "start": 247.82,
+          "end": 249.02,
+          "text": "但现在的斗包工作"
+        },
+        {
+          "start": 249.02,
+          "end": 250.42,
+          "text": "可以直接记成飞书里面"
+        },
+        {
+          "start": 250.42,
+          "end": 252.82,
+          "text": "已经有的这些很完整的逻辑"
+        },
+        {
+          "start": 252.82,
+          "end": 255.42,
+          "text": "省掉了这一块的很大的成本"
+        },
+        {
+          "start": 255.42,
+          "end": 258.02,
+          "text": "而且连出我们记得飞书在那上"
+        },
+        {
+          "start": 258.02,
+          "end": 259.02,
+          "text": "小龙下的战役里面"
+        },
+        {
+          "start": 259.02,
+          "end": 260.82,
+          "text": "几乎已经把所有的功能"
+        },
+        {
+          "start": 260.82,
+          "end": 262.02,
+          "text": "做了结果化的数据"
+        },
+        {
+          "start": 262.02,
+          "end": 263.82,
+          "text": "然后CLA也做了台访"
+        },
+        {
+          "start": 263.82,
+          "end": 265.22,
+          "text": "很多人都通过CLA接口"
+        },
+        {
+          "start": 265.22,
+          "end": 267.62,
+          "text": "用自己的Agent去跟飞书做各种的交互"
+        },
+        {
+          "start": 267.62,
+          "end": 268.82,
+          "text": "但这次斗包工作"
+        },
+        {
+          "start": 268.82,
+          "end": 271.02,
+          "text": "和飞书做了账号级别的集成"
+        },
+        {
+          "start": 271.02,
+          "end": 272.22,
+          "text": "用飞书账号登录之后"
+        },
+        {
+          "start": 272.22,
+          "end": 273.62,
+          "text": "可以直接记成飞书"
+        },
+        {
+          "start": 273.62,
+          "end": 275.42,
+          "text": "这个工作里面工作上下文"
+        },
+        {
+          "start": 275.42,
+          "end": 277.02,
+          "text": "然后在全线范围内"
+        },
+        {
+          "start": 277.02,
+          "end": 279.02,
+          "text": "调用这聊天记录物文档"
+        },
+        {
+          "start": 279.02,
+          "end": 280.42,
+          "text": "会议记要等等的信息"
+        },
+        {
+          "start": 280.42,
+          "end": 282.42,
+          "text": "更准确地帮你去完成工作"
+        },
+        {
+          "start": 282.42,
+          "end": 283.62,
+          "text": "然后我在以前视频里面"
+        },
+        {
+          "start": 283.62,
+          "end": 285.42,
+          "text": "其实也不止一次的去讲过"
+        },
+        {
+          "start": 285.42,
+          "end": 287.62,
+          "text": "企业落敌AI最重要的就是数据"
+        },
+        {
+          "start": 287.62,
+          "end": 289.02,
+          "text": "就是企业的上下文"
+        },
+        {
+          "start": 289.02,
+          "end": 291.82,
+          "text": "前几次飞书跟斗包合併成了一个新的"
+        },
+        {
+          "start": 291.82,
+          "end": 293.42,
+          "text": "斗包产品的这样团队"
+        },
+        {
+          "start": 293.42,
+          "end": 295.82,
+          "text": "当时大部分人可能还不知道这部企业干嘛"
+        },
+        {
+          "start": 295.82,
+          "end": 297.22,
+          "text": "但现在答案已经很清楚了"
+        },
+        {
+          "start": 297.22,
+          "end": 298.82,
+          "text": "飞书对斗包的工作的支持"
+        },
+        {
+          "start": 298.82,
+          "end": 301.42,
+          "text": "我觉得我就算怎么去强调这个重要性"
+        },
+        {
+          "start": 301.42,
+          "end": 303.02,
+          "text": "可能都低估了它的重要性"
+        },
+        {
+          "start": 303.02,
+          "end": 306.02,
+          "text": "如果大家是Agent的高频的使用者"
+        },
+        {
+          "start": 306.02,
+          "end": 308.02,
+          "text": "然后经过了过去的几个月"
+        },
+        {
+          "start": 308.02,
+          "end": 309.22,
+          "text": "一直在重复使用"
+        },
+        {
+          "start": 309.22,
+          "end": 311.62,
+          "text": "那些解文党做PVT的这些功能"
+        },
+        {
+          "start": 311.62,
+          "end": 313.02,
+          "text": "现在终于有一个Agent"
+        },
+        {
+          "start": 313.02,
+          "end": 316.02,
+          "text": "可以给Agent时代翻开一个新的评章"
+        },
+        {
+          "start": 316.02,
+          "end": 317.62,
+          "text": "然后除了跟飞书打通之外"
+        },
+        {
+          "start": 317.62,
+          "end": 319.22,
+          "text": "它第二点非常重要的特点"
+        },
+        {
+          "start": 319.22,
+          "end": 320.22,
+          "text": "就是斗包工作"
+        },
+        {
+          "start": 320.22,
+          "end": 321.82,
+          "text": "它沿用了字节整个集团"
+        },
+        {
+          "start": 321.82,
+          "end": 324.82,
+          "text": "非常强的多摩太的模型的能力"
+        },
+        {
+          "start": 324.82,
+          "end": 326.22,
+          "text": "语音、图片、视频"
+        },
+        {
+          "start": 326.22,
+          "end": 328.02,
+          "text": "也都集成到了斗包的工作里面"
+        },
+        {
+          "start": 328.02,
+          "end": 330.02,
+          "text": "我之前一直在用斗包的输入法座"
+        },
+        {
+          "start": 330.02,
+          "end": 331.42,
+          "text": "语音输入的期间非常好"
+        },
+        {
+          "start": 331.42,
+          "end": 333.02,
+          "text": "然后视频这一块更不用说了"
+        },
+        {
+          "start": 333.02,
+          "end": 335.42,
+          "text": "大家知道C-102.02.5"
+        },
+        {
+          "start": 335.42,
+          "end": 336.62,
+          "text": "我自己其实使用下来"
+        },
+        {
+          "start": 336.62,
+          "end": 340.82,
+          "text": "应该是世界上断档的工人的搜塔的视频生生模型"
+        },
+        {
+          "start": 340.82,
+          "end": 343.02,
+          "text": "这些能力集成进了办公场里之后"
+        },
+        {
+          "start": 343.02,
+          "end": 344.62,
+          "text": "因为你可以在一个工作楼里面"
+        },
+        {
+          "start": 344.62,
+          "end": 346.82,
+          "text": "很轻松的就去集成这些能力"
+        },
+        {
+          "start": 346.82,
+          "end": 349.22,
+          "text": "必须让你的Agent去高峭的进行管理"
+        },
+        {
+          "start": 349.22,
+          "end": 350.02,
+          "text": "然后第三点"
+        },
+        {
+          "start": 350.02,
+          "end": 352.62,
+          "text": "我们知道大部分的Agent都跑在你的本地吗"
+        },
+        {
+          "start": 352.62,
+          "end": 353.42,
+          "text": "电脑一合上"
+        },
+        {
+          "start": 353.42,
+          "end": 355.22,
+          "text": "其实你的任务就断了"
+        },
+        {
+          "start": 355.22,
+          "end": 357.02,
+          "text": "斗包工作只是把你的任务"
+        },
+        {
+          "start": 357.02,
+          "end": 358.22,
+          "text": "然后放在云端去跑"
+        },
+        {
+          "start": 358.22,
+          "end": 359.42,
+          "text": "就算你关到电脑"
+        },
+        {
+          "start": 359.42,
+          "end": 360.22,
+          "text": "它还在继续处理"
+        },
+        {
+          "start": 360.22,
+          "end": 362.42,
+          "text": "相当于有一个724小时"
+        },
+        {
+          "start": 362.42,
+          "end": 363.62,
+          "text": "不停工作的这样的助手"
+        },
+        {
+          "start": 363.62,
+          "end": 366.62,
+          "text": "这对于那些需要长时间去跑的这些任务"
+        },
+        {
+          "start": 366.62,
+          "end": 369.82,
+          "text": "比如说批量处理很大量的数据"
+        },
+        {
+          "start": 369.82,
+          "end": 371.62,
+          "text": "持续监控工作楼"
+        },
+        {
+          "start": 371.62,
+          "end": 373.02,
+          "text": "其实我觉得价值是很大的"
+        },
+        {
+          "start": 373.02,
+          "end": 373.62,
+          "text": "然后最后呢"
+        },
+        {
+          "start": 373.62,
+          "end": 375.62,
+          "text": "我带来跟大家总结一下我的看法"
+        },
+        {
+          "start": 375.62,
+          "end": 376.82,
+          "text": "因为这个斗包工作"
+        },
+        {
+          "start": 376.82,
+          "end": 377.82,
+          "text": "我觉得真的是"
+        },
+        {
+          "start": 377.82,
+          "end": 379.62,
+          "text": "这个时代很大的一个消息了"
+        },
+        {
+          "start": 379.62,
+          "end": 381.02,
+          "text": "斗包工作我就最核心的必了"
+        },
+        {
+          "start": 381.02,
+          "end": 383.22,
+          "text": "就是它飞书带来的企业上下文"
+        },
+        {
+          "start": 383.22,
+          "end": 385.22,
+          "text": "这个是其他的Agent的短期内"
+        }
+      ]
+    },
+    "warnings": [
+      "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+    ],
+    "detail": "detailed",
+    "elapsedMs": 34203,
+    "timeline": [
+      {
+        "timeSec": 0,
+        "kind": "frame",
+        "text": "Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0001.jpg"
+      },
+      {
+        "timeSec": 0,
+        "kind": "speech",
+        "text": "过去三个月有一件事情一直排在我关注列表的前级名"
+      },
+      {
+        "timeSec": 3.58,
+        "kind": "speech",
+        "text": "就是斗包什么时候能推出它自己的办公Agent"
+      },
+      {
+        "timeSec": 4,
+        "kind": "frame",
+        "text": "Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0002.jpg"
+      },
+      {
+        "timeSec": 6.98,
+        "kind": "speech",
+        "text": "为什么呢有两个原因啊"
+      },
+      {
+        "timeSec": 8,
+        "kind": "frame",
+        "text": "Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0003.jpg"
+      },
+      {
+        "timeSec": 8.2,
+        "kind": "speech",
+        "text": "一个呢是你只要平时是关注这个AI产业的同学"
+      },
+      {
+        "timeSec": 11.46,
+        "kind": "speech",
+        "text": "就知道这个产品一旦推出"
+      },
+      {
+        "timeSec": 12,
+        "kind": "frame",
+        "text": "Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0004.jpg"
+      },
+      {
+        "timeSec": 13.18,
+        "kind": "speech",
+        "text": "它就会重新定义国内智能体的这格局"
+      },
+      {
+        "timeSec": 15.74,
+        "kind": "speech",
+        "text": "第二点呢就是除了目前这些铺鞋盖地"
+      },
+      {
+        "timeSec": 16,
+        "kind": "frame",
+        "text": "Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0005.jpg"
+      },
+      {
+        "timeSec": 18.54,
+        "kind": "speech",
+        "text": "同志化的功能 写文档啊 兜PVG之外"
+      },
+      {
+        "timeSec": 20,
+        "kind": "frame",
+        "text": "Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0006.jpg"
+      },
+      {
+        "timeSec": 21.4,
+        "kind": "speech",
+        "text": "斗包在办公场景还能给我们带来什么新的东西"
+      },
+      {
+        "timeSec": 24,
+        "kind": "frame",
+        "text": "Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0007.jpg"
+      },
+      {
+        "timeSec": 24.3,
+        "kind": "speech",
+        "text": "终于在8月25号 斗包面向生产力的场景"
+      },
+      {
+        "timeSec": 27.38,
+        "kind": "speech",
+        "text": "推出了全新的Agent的产品 跟品牌 叫做斗包工作"
+      },
+      {
+        "timeSec": 28,
+        "kind": "frame",
+        "text": "Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0008.jpg"
+      },
+      {
+        "timeSec": 31.3,
+        "kind": "speech",
+        "text": "不是以前那个你用的斗包IPP是一个独立的办公应用"
+      },
+      {
+        "timeSec": 32,
+        "kind": "frame",
+        "text": "Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0009.jpg"
+      },
+      {
+        "timeSec": 34.98,
+        "kind": "speech",
+        "text": "有自己的客户端"
+      },
+      {
+        "timeSec": 36,
+        "kind": "frame",
+        "text": "Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0010.jpg"
+      },
+      {
+        "timeSec": 36.14,
+        "kind": "speech",
+        "text": "简单来说呢你可以类比OpenAI的恰级PT跟Codex"
+      },
+      {
+        "timeSec": 39.94,
+        "kind": "speech",
+        "text": "或者是跟恰级PTWOK的区别"
+      },
+      {
+        "timeSec": 40,
+        "kind": "frame",
+        "text": "Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0011.jpg"
+      },
+      {
+        "timeSec": 41.86,
+        "kind": "speech",
+        "text": "简直呢主要是用来这个回答日常的问题"
+      },
+      {
+        "timeSec": 44,
+        "kind": "frame",
+        "text": "Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0012.jpg"
+      },
+      {
+        "timeSec": 44.62,
+        "kind": "speech",
+        "text": "后者呢专门来服务生产力的这种场景"
+      },
+      {
+        "timeSec": 47.18,
+        "kind": "speech",
+        "text": "斗包工作有三个入口"
+      },
+      {
+        "timeSec": 48,
+        "kind": "frame",
+        "text": "Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0013.jpg"
+      },
+      {
+        "timeSec": 48.54,
+        "kind": "speech",
+        "text": "一个呢是斗包工作的它独立的电脑端"
+      },
+      {
+        "timeSec": 51.18,
+        "kind": "speech",
+        "text": "第二个呢是斗包以前的这APP里面内部集成了斗包工作"
+      },
+      {
+        "timeSec": 52,
+        "kind": "frame",
+        "text": "Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0014.jpg"
+      },
+      {
+        "timeSec": 55.38,
+        "kind": "speech",
+        "text": "第三个呢就是飞书里面斗包入口"
+      },
+      {
+        "timeSec": 56,
+        "kind": "frame",
+        "text": "Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0015.jpg"
+      },
+      {
+        "timeSec": 57.54,
+        "kind": "speech",
+        "text": "那为什么是飞书呢"
+      },
+      {
+        "timeSec": 58.78,
+        "kind": "speech",
+        "text": "其实这个呢还有一点小故事"
+      },
+      {
+        "timeSec": 60,
+        "kind": "frame",
+        "text": "Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0016.jpg"
+      },
+      {
+        "timeSec": 60.38,
+        "kind": "speech",
+        "text": "我最后大概大家分享"
+      },
+      {
+        "timeSec": 61.74,
+        "kind": "speech",
+        "text": "那先来跟大家聊一下"
+      },
+      {
+        "timeSec": 62.78,
+        "kind": "speech",
+        "text": "为什么我这么关注斗包工作"
+      },
+      {
+        "timeSec": 64,
+        "kind": "frame",
+        "text": "Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0017.jpg"
+      },
+      {
+        "timeSec": 64.66,
+        "kind": "speech",
+        "text": "其实逻辑也很简单"
+      },
+      {
+        "timeSec": 65.82,
+        "kind": "speech",
+        "text": "就是大家想OpenAI那边"
+      },
+      {
+        "timeSec": 67.86,
+        "kind": "speech",
+        "text": "恰级PT全球大概有10亿的周祸用户"
+      },
+      {
+        "timeSec": 68,
+        "kind": "frame",
+        "text": "Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0018.jpg"
+      },
+      {
+        "timeSec": 70.9,
+        "kind": "speech",
+        "text": "然后全球是最普及的AI的聊天用"
+      },
+      {
+        "timeSec": 72,
+        "kind": "frame",
+        "text": "Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0019.jpg"
+      },
+      {
+        "timeSec": 73.42,
+        "kind": "speech",
+        "text": "同一家公司的Codex在强推之后"
+      },
+      {
+        "timeSec": 76,
+        "kind": "frame",
+        "text": "Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0020.jpg"
+      },
+      {
+        "timeSec": 76.02,
+        "kind": "speech",
+        "text": "前几天重置之神tipo说大概已经有2000万左右的周祸了"
+      },
+      {
+        "timeSec": 80,
+        "kind": "frame",
+        "text": "Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0021.jpg"
+      },
+      {
+        "timeSec": 80.18,
+        "kind": "speech",
+        "text": "还在快速的增长斗包的原案那个IPP"
+      },
+      {
+        "timeSec": 82.42,
+        "kind": "speech",
+        "text": "网上有相关资料说的周祸可能大概在两到三亿左右"
+      },
+      {
+        "timeSec": 84,
+        "kind": "frame",
+        "text": "Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0022.jpg"
+      },
+      {
+        "timeSec": 85.62,
+        "kind": "speech",
+        "text": "注资可能会有小的出路"
+      },
+      {
+        "timeSec": 87.02,
+        "kind": "speech",
+        "text": "但数量几个我就应该没问题"
+      },
+      {
+        "timeSec": 88,
+        "kind": "frame",
+        "text": "Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0023.jpg"
+      },
+      {
+        "timeSec": 88.42,
+        "kind": "speech",
+        "text": "按照OpenAI的这个比例去推算"
+      },
+      {
+        "timeSec": 90.3,
+        "kind": "speech",
+        "text": "斗包工作我觉得很有可能能做到大几百万"
+      },
+      {
+        "timeSec": 92,
+        "kind": "frame",
+        "text": "Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0024.jpg"
+      },
+      {
+        "timeSec": 93.22,
+        "kind": "speech",
+        "text": "甚至是千万级别的这个周祸用户"
+      },
+      {
+        "timeSec": 95.42,
+        "kind": "speech",
+        "text": "那如果能做到这个级别的话"
+      },
+      {
+        "timeSec": 96,
+        "kind": "frame",
+        "text": "Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0025.jpg"
+      },
+      {
+        "timeSec": 96.82,
+        "kind": "speech",
+        "text": "就是国内体量最大的这个办公制能体了"
+      },
+      {
+        "timeSec": 99.42,
+        "kind": "speech",
+        "text": "全球估计也能排进前三米"
+      },
+      {
+        "timeSec": 100,
+        "kind": "frame",
+        "text": "Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0026.jpg"
+      },
+      {
+        "timeSec": 101.22,
+        "kind": "speech",
+        "text": "但体量大呢"
+      },
+      {
+        "timeSec": 102.22,
+        "kind": "speech",
+        "text": "我觉得还不是我真正兴奋的体量"
+      },
+      {
+        "timeSec": 104,
+        "kind": "frame",
+        "text": "Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0027.jpg"
+      },
+      {
+        "timeSec": 104.02000000000001,
+        "kind": "speech",
+        "text": "真正让我觉得这件事情很重量的"
+      },
+      {
+        "timeSec": 106.02000000000001,
+        "kind": "speech",
+        "text": "是因为办公制能体消耗的头肯"
+      },
+      {
+        "timeSec": 108,
+        "kind": "frame",
+        "text": "Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0028.jpg"
+      },
+      {
+        "timeSec": 108.34,
+        "kind": "speech",
+        "text": "远远超过这个聊天机器人聊天用"
+      },
+      {
+        "timeSec": 111.42,
+        "kind": "speech",
+        "text": "加TPP的用户是Codex大约一百倍左右"
+      },
+      {
+        "timeSec": 112,
+        "kind": "frame",
+        "text": "Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0029.jpg"
+      },
+      {
+        "timeSec": 114.22,
+        "kind": "speech",
+        "text": "在Codex的头肯消耗两反过来是切iGPT的好几倍"
+      },
+      {
+        "timeSec": 116,
+        "kind": "frame",
+        "text": "Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/0406e238b91928aa/interval/frame_0030.jpg"
+      },
+      {
+        "timeSec": 117.42,
+        "kind": "speech",
+        "text": "这有看到过OpenAI的内部的一个博客企劳果"
+      },
+      {
+        "timeSec": 120.22,
+        "kind": "speech",
+        "text": "就是它OpenAI公司内部"
+      },
+      {
+        "timeSec": 122.02,
+        "kind": "speech",
+        "text": "百分之九十九的头肯消耗都来自于Codex"
+      },
+      {
+        "timeSec": 125.02,
+        "kind": "speech",
+        "text": "如果我们也用这个OpenAI图案的逻辑"
+      },
+      {
+        "timeSec": 126.82,
+        "kind": "speech",
+        "text": "我觉得斗包工作很有可能在接下来一段时间之内"
+      },
+      {
+        "timeSec": 129.82,
+        "kind": "speech",
+        "text": "会消耗全中国一半的头肯"
+      },
+      {
+        "timeSec": 131.82,
+        "kind": "speech",
+        "text": "然后另外凉胜之前也也很清楚讲过"
+      },
+      {
+        "timeSec": 135.22,
+        "kind": "speech",
+        "text": "正常卖头肯也然后不去做大面积不贴"
+      },
+      {
+        "timeSec": 137.62,
+        "kind": "speech",
+        "text": "利润其实是非常高的"
+      },
+      {
+        "timeSec": 139.02,
+        "kind": "speech",
+        "text": "所以我的判断是说斗包工作"
+      },
+      {
+        "timeSec": 141.02,
+        "kind": "speech",
+        "text": "接下来半年时间大概率会成为中国最大的职能器"
+      },
+      {
+        "timeSec": 144.22,
+        "kind": "speech",
+        "text": "不管是用户数量上"
+      },
+      {
+        "timeSec": 145.62,
+        "kind": "speech",
+        "text": "日军的头肯消耗量的数量上"
+      },
+      {
+        "timeSec": 147.82,
+        "kind": "speech",
+        "text": "营收的规模"
+      },
+      {
+        "timeSec": 148.62,
+        "kind": "speech",
+        "text": "并且这个影响还会一层一层的网上游去传导"
+      },
+      {
+        "timeSec": 151.82,
+        "kind": "speech",
+        "text": "从应用到模型的演发"
+      },
+      {
+        "timeSec": 154.42000000000002,
+        "kind": "speech",
+        "text": "到算力中心的搭建"
+      },
+      {
+        "timeSec": 156.02,
+        "kind": "speech",
+        "text": "到国产的芯片 达到能源"
+      },
+      {
+        "timeSec": 158.02,
+        "kind": "speech",
+        "text": "这是中国产业店极细重要的一个阶点"
+      },
+      {
+        "timeSec": 161.02,
+        "kind": "speech",
+        "text": "那上面讲完"
+      },
+      {
+        "timeSec": 162.02,
+        "kind": "speech",
+        "text": "我为什么要关注这个斗包工作这个应用呢"
+      }
+    ],
+    "sidecarPath": null
+  }
+}

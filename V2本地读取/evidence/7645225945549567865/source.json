@@ -1,0 +1,46 @@
+{
+  "video_id": "7645225945549567865",
+  "url": "https://www.douyin.com/video/7645225945549567865",
+  "source_export": "/Users/USER/Downloads/download (31).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7645225945549567865.mp4",
+  "sha256": "dfada44b24a26e7954ef24efdfbf54e4a7ca917034eeed449753a7035d7455e4",
+  "bytes": 8764227,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_SU7uI4hPP1mhJCAYxNg5rcLk",
+      "input_jsonl_line": 3839,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_527ee90a5b7c4bd7a9f52075a8998624",
+      "input_jsonl_line": 3846,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_d86ze6UC2Vk6Hy4I1dBHHWPv",
+      "input_jsonl_line": 3866,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "第16集 | 妙响 | AI＋音乐/作曲 终于给我挖到配乐神器了！！#ai#音乐#ai作歌#妙响",
+    "published_at": "2026-05-30 12:00",
+    "likes_display": "4.2万",
+    "comments_display": "203",
+    "favorites_display": "510",
+    "shares_display": "1311"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_2f17ae0e217d4eb0b053285e04ae66f8",
+    "input_jsonl_line": 3204,
+    "output_jsonl_line": 3207,
+    "content_block_index": 1,
+    "text_offset": 0,
+    "timestamp_utc": "2026-10-07T05:53:21.083Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-10-08T02:08:29.992638+00:00",
+  "status": "PASS",
+  "required_files_missing": [],
+  "invalid_json": [],
+  "media_or_executable_files": [],
+  "scope": "document presence and JSON syntax; synthetic timing validation recorded separately",
+  "editing_rendering_or_media_acceptance": false,
+  "pmo_acceptance": "PASS",
+  "pmo_acceptance_scope": "document proposal only",
+  "local_production": "NOT_EXECUTED",
+  "acceptance_evidence": "PMO receipt received in this thread on 2026-10-08; no repeated validation",
+  "acceptance_synced_at_utc": "2026-10-08T02:10:34.147845+00:00"
+}

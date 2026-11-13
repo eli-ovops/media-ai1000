@@ -1,0 +1,30 @@
+{
+  "total": 101,
+  "unique": 101,
+  "notes": 0,
+  "displayed": 101,
+  "count_closed": true,
+  "prior483_overlap_ids": [],
+  "content_count": 17,
+  "source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_DxnWsJ8yV1mBnISIiHnIP4ES",
+    "input_jsonl_line": 4086,
+    "output_jsonl_line": 4089,
+    "content_block_index": 1,
+    "timestamp_utc": "2026-10-07T07:13:43.304Z"
+  },
+  "content_pmo_accepted": 1,
+  "content_unread": 84,
+  "content_scope_status": "ACTIVE_AI_ONLY_INCOMPLETE",
+  "detail_pages_verified": 101,
+  "metric_rankings_complete": true,
+  "active_scope": "AI_RELATED_ONLY",
+  "active_candidate_count": 73,
+  "active_content_read": 16,
+  "active_content_unread": 57,
+  "pending_relevance": 10,
+  "excluded_from_reading": 18,
+  "all101_content_required": false,
+  "content_last_updated": "2026-10-08"
+}

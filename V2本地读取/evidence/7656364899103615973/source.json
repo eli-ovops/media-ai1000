@@ -1,0 +1,47 @@
+{
+  "video_id": "7656364899103615973",
+  "url": "https://www.douyin.com/video/7656364899103615973",
+  "source_export": "/Users/USER/Downloads/download (30).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7656364899103615973.mp4",
+  "sha256": "7c05bcf3356d641e4a62c82597c3fb7c34ac15a431fe39f18e1a21e2ee61f8dc",
+  "bytes": 8123148,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_MFmzSBdrW5eBzyq9p3VTo6mI",
+      "input_jsonl_line": 3801,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_hDRwIYhw9npvtnOjUsVOMaa8",
+      "input_jsonl_line": 3808,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_VYeu9ZNJUwMlsEtf5lZDCrC1",
+      "input_jsonl_line": 3815,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "第9集 | 豆包 | AI＋办公 办公各项流程，AI现在全包办了！！#ai#豆包ai #人类对豆包的开发不足百分之一#我的同事豆包#豆包还能干这个",
+    "published_at": "2026-06-29 12:00",
+    "likes_display": "5.1万",
+    "comments_display": "1487",
+    "favorites_display": "1861",
+    "shares_display": "685"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_e33279621f3b4a70825250578a03a7b9",
+    "input_jsonl_line": 3196,
+    "output_jsonl_line": 3199,
+    "content_block_index": 1,
+    "text_offset": 0,
+    "timestamp_utc": "2026-10-07T05:52:46.342Z"
+  },
+  "export_recovery_note": "Batch CUA timed out/reset after download; exact file30 exists, duration156.27 and original sampled content match current video. Successful export return block unavailable; no repeat export."
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-07",
+  "owner_thread": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "status": "ACTIVE_RESEARCH_INCOMPLETE",
+  "priority": "TZFILM_AI_RELATED_ONLY",
+  "catalog_pmo": "PASS",
+  "specialty_submitted": 17,
+  "specialty_accepted": 1,
+  "specialty_unread": 57,
+  "total_processed": 50,
+  "total_content": 49,
+  "total_accepted": 24,
+  "media_pending": [],
+  "browser_id": "2",
+  "tabs": {
+    "11": "7657727877504437538",
+    "12": "7641387235530525961"
+  },
+  "next_video_ids": [
+    "7640285192405437702",
+    "7652859606326119699"
+  ],
+  "storage_cap_bytes": 2147483648,
+  "storage_last_verified_bytes": 1640967983,
+  "cleanup": false,
+  "prohibited_retry_ids": [
+    "7631156732495924495",
+    "7693132408828894355"
+  ],
+  "note": "Retain original exports; do not rerun existing receipts or passed directory. No external messages, installs, uploads or final eligibility implied.",
+  "storage_expansion_question": "No expansion needed for current small batch after user deletion",
+  "specialty_detail_pages_verified": 101,
+  "specialty_metric_rankings_complete": true,
+  "specialty_top10_union_count": 14,
+  "storage_limit_question": "User removed redundant Downloads exports; cap2GiB unchanged and current headroom verified",
+  "current_blocker": null,
+  "specialty_active_target": 73,
+  "specialty_active_read": 16,
+  "specialty_pending_relevance": 10,
+  "specialty_excluded": 18,
+  "stage_synthesis_ai_cards": 13,
+  "stage_synthesis_asr_segments": 2322,
+  "stage_synthesis_images": 1122,
+  "new_content_this_resume": 3,
+  "local_media_input_question": "RESOLVED_BROWSER_EXPORT_SUCCEEDED",
+  "last_updated_date": "2026-10-08",
+  "primary_browser_export": "RECOVERED_THIS_BATCH_3_SUCCESSES",
+  "scope_ai_content_read": 16,
+  "scope_ai_content_unread": 57
+}

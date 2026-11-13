@@ -1,0 +1,20 @@
+{
+  "video_id": "7685352868332817707",
+  "standard": "V2",
+  "analysis_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2内容分析/7685352868332817707.md",
+  "coverage_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7685352868332817707/coverage.json",
+  "status": "ACCEPTED_PMO_CONTENT",
+  "asr_full_track": true,
+  "asr_segments_read": 14,
+  "frames_generated": 66,
+  "frames_actually_read": 66,
+  "original_complete_direct_audiovisual": false,
+  "metadata_source_map": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/首批10条源回执映射.json",
+  "boundary_receipt": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/boundary/denied-inputs.json",
+  "read_calls": 8,
+  "pmo_acceptance": "PASS",
+  "image_sheet_read_calls": 4,
+  "image_sheets_actually_read": 11,
+  "final_top10_eligibility": "PENDING",
+  "read_calls_note": "8 mixed source, image, and bookkeeping calls; not 8 image reads"
+}

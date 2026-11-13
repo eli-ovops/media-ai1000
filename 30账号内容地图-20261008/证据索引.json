@@ -1,0 +1,169 @@
+{
+  "content_id": "ai-content-benchmarks-30-20261008",
+  "owner_thread": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "date": "2026-10-08",
+  "levels": {
+    "L1": "主页/目录标题与可见指标，不代表正文深读",
+    "L2": "具体原页、可见评论及字段",
+    "V2": "整音轨ASR全文＋同Owner实际已读采样/区间图原件；直接动态听看未知"
+  },
+  "task": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/AI内容30账号研究任务-20261008.md",
+  "authoritative_inputs": [
+    "/Volumes/EXTERNAL/自媒体/AGENTS.md",
+    "/Volumes/EXTERNAL/自媒体/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/README.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/会话登记.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/流程状态.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/岗位任务单.md",
+    "/Volumes/EXTERNAL/自媒体/内容生产流程.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/PMO首条发布复盘接收-20261008.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/首条发布复盘-20261008/首条发布复盘.md",
+    "/Volumes/EXTERNAL/自媒体/流程协作/06-多平台适配与发布包/首条发布准备-20261008/首条发布复盘-20261008/结果快照.json",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/PMO验收-20261007.md"
+  ],
+  "gate": {
+    "runtime": "/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "operation": "check",
+    "content": "ai-content-benchmarks-30-20261008",
+    "stage": "01",
+    "allowed": true,
+    "exit_code": 0,
+    "shared_state_modified": false
+  },
+  "public_platform_evidence": {
+    "profiles": "主页原始读取.json",
+    "search_identities": "账号搜索原始读取.json",
+    "current_projection": "当前主页目录汇总.json",
+    "known_dates": "逐条日期补核.json",
+    "legacy_metadata_projection": "既有账号近期候选目录.json",
+    "deep_sources": "深读证据索引.json",
+    "raw_tool_log": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "locator": "Each extracted receipt stores the exact line, MCP item id and timestamp; current text records only, no browser cookies"
+  },
+  "primary_hot_sources": [
+    {
+      "title": "GPT-6 and Intelligent UI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "event_date": "2026-10-07",
+      "verified": "official page; rollout and Chat versus Codex distinction",
+      "our_execution": false
+    },
+    {
+      "title": "Decisions API",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "event_date": "2026-10-06 via official changelog",
+      "date_source": "https://developers.openai.com/api/docs/changelog",
+      "verified": "current public beta / only gpt-6-luna; account entitlement not checked",
+      "our_execution": false
+    },
+    {
+      "title": "Claude Haiku 5.5 and Sonnet cache update",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "event_date": "2026-10-07",
+      "verified": "official announcement; pricing averages are vendor claims",
+      "our_execution": false
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "event_date": "2026-09-28",
+      "verified": "official announcement; newer cache update separated",
+      "our_execution": false
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "event_date": "2026-09-22",
+      "verified": "official announcement, not proof of native video generation",
+      "our_execution": false
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots/",
+      "event_date": "2026-09-29",
+      "verified": "official release, region/plan/admin conditions preserved",
+      "our_execution": false
+    }
+  ],
+  "supplemental_identity_sources": [
+    {
+      "url": "https://github.com/chuspeeism/chuspeeism",
+      "role": "creator-owned profile for Dashi; no repository executed"
+    },
+    {
+      "url": "https://www.dsxzai.com/",
+      "role": "creator-owned content-topic index; no video deeply read here"
+    },
+    {
+      "url": "https://github.com/tech-shrimp",
+      "role": "creator-owned same-name identity; current Douyin directory still missing"
+    },
+    {
+      "url": "https://www.cnblogs.com/tech-shrimp",
+      "role": "creator-owned tutorial/blog video pointers; not latest 10 Douyin works"
+    },
+    {
+      "url": "https://wangchenai.com/",
+      "role": "creator-owned positioning observed; not used to invent Douyin identity or fill the final 30"
+    }
+  ],
+  "failed_and_limited": [
+    {
+      "operation": "Exa via mcporter",
+      "result": "Unknown MCP server exa",
+      "action": "LOCAL_BLOCKERS matched known doctor mismatch; used existing web tool, no configuration change"
+    },
+    {
+      "operation": "bili user-videos 95254065",
+      "result": "412 security control policy",
+      "action": "stopped this endpoint; did not bypass or retry"
+    },
+    {
+      "operation": "Xiaohongshu OpenCLI",
+      "result": "doctor reports extension missing",
+      "action": "no install, login or cookie extraction"
+    },
+    {
+      "operation": "Douyin selected profiles",
+      "result": "blank/error service; normal refresh did not complete five directories",
+      "action": "saved identity/known observations and gaps; unrelated recommendations excluded"
+    },
+    {
+      "operation": "Douyin individual date collection",
+      "result": "navigation timeout, ERR_ABORTED, empty body, then repeated selector failures",
+      "action": "queried blockers and browser docs, same-browser fresh tab recovered one item, later continuous failures stopped batch; no fabricated dates"
+    }
+  ],
+  "limits": {
+    "creator_actual_audience": "UNKNOWN",
+    "competitor_completion_rate": "UNKNOWN",
+    "full_dynamic_audiovisual": "UNKNOWN",
+    "creator_income_or_actual_cost": "UNKNOWN unless primary receipts are provided; author declarations labeled",
+    "platform_current_heat": "UNKNOWN; recent official events are not platform heat proof",
+    "our_new_media_bytes": 0
+  },
+  "routing": {
+    "rule": "ROUTING-2026-09-30-v3",
+    "handoff": "HANDOFF-2026-10-06-v1",
+    "blockers": "BLOCKERS-2026-09-23-v1",
+    "target_model": "gpt-6.1-sol",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "publication_date_completion_20261009": {
+    "total": 237,
+    "known": 233,
+    "unknown": 4,
+    "added": 208,
+    "baseline": "日期补齐基线-20261009.json",
+    "raw_receipts": "日期本轮原始回执-20261009.json",
+    "unresolved": "日期剩余与阻断-20261009.json",
+    "status": "日期补齐进度-20261009.json",
+    "validation": "日期收口校验-20261009.json",
+    "source_timezone": "UNKNOWN unless visible source labels it",
+    "browser_recovery": "same Owner IAB recovery; limited continuation recheck only remaining IDs; exact per-ID raw receipts retained",
+    "other_gaps": "DEFERRED_BY_USER"
+  }
+}

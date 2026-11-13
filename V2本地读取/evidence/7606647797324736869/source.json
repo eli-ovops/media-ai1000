@@ -1,0 +1,75 @@
+{
+  "video_id": "7606647797324736869",
+  "url": "https://www.douyin.com/video/7606647797324736869",
+  "source_export": "/Users/USER/Downloads/download (25).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7606647797324736869.mp4",
+  "sha256": "57a6071b2a4947a7da0bf9b71a5674562074df65278004b48b2cdf52d80e7060",
+  "bytes": 29256108,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "第1集 | AI科普｜10分钟精讲。想了解AI，看这条视频就够了！ AI科普。AI时代来临。10分钟，全干货带你彻底搞懂AI。从原理到未来，看完这一条就够了#ai #人工智能 #科普 #干货 #aigc",
+    "published_at": "2026-02-14 17:18",
+    "likes_display": "7.2万",
+    "comments_display": "460",
+    "favorites_display": "6971",
+    "shares_display": "3845",
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_3a0642ded3c8421fab0e612b9fcd93fa",
+    "input_jsonl_line": 3172,
+    "output_jsonl_line": 3175,
+    "content_block_index": 1,
+    "text_offset": 0,
+    "timestamp_utc": "2026-10-07T05:50:58.671Z"
+  },
+  "original_browser_source_receipts": [
+    {
+      "kind": "original_media_export",
+      "call_id": "call_0256edfbe73e437c9f8a23dda392de6b",
+      "input_jsonl_line": 3185,
+      "output_jsonl_line": 3188,
+      "timestamp_utc": "2026-10-07T05:52:22.091Z"
+    },
+    {
+      "kind": "actual_comments_read",
+      "call_id": "call_a0640444e3c344b484e69b040d670597",
+      "input_jsonl_line": 3409,
+      "output_jsonl_line": 3412,
+      "timestamp_utc": "2026-10-07T06:15:58.411Z"
+    }
+  ],
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "classification": "actual_original_page_fields",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_3a0642ded3c8421fab0e612b9fcd93fa",
+      "input_jsonl_line": 3172,
+      "output_jsonl_line": 3175,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T05:50:58.671Z"
+    },
+    {
+      "kind": "original_media_export",
+      "call_id": "call_0256edfbe73e437c9f8a23dda392de6b",
+      "input_jsonl_line": 3185,
+      "output_jsonl_line": 3188,
+      "timestamp_utc": "2026-10-07T05:52:22.091Z",
+      "classification": "original_media_export"
+    },
+    {
+      "kind": "actual_comments_read",
+      "call_id": "call_a0640444e3c344b484e69b040d670597",
+      "input_jsonl_line": 3409,
+      "output_jsonl_line": 3412,
+      "timestamp_utc": "2026-10-07T06:15:58.411Z",
+      "classification": "actual_comments_read"
+    }
+  ]
+}

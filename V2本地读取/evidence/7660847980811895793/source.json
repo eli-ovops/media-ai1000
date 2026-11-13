@@ -1,0 +1,39 @@
+{
+  "video_id": "7660847980811895793",
+  "url": "https://www.douyin.com/video/7660847980811895793",
+  "source_export": "/Users/USER/Downloads/download (24).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7660847980811895793.mp4",
+  "sha256": "e12c03ea4f3bb07ef21b774ad77301f418ff94105ad6f0fe644c2c88bd30cd25",
+  "bytes": 9652802,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "别再跟风乱学AI了！",
+    "published_at": "2026-07-11 18:01",
+    "likes_display": "2.5万",
+    "comments": 203,
+    "favorites": 2536,
+    "shares": 927,
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_79aaddec4108416db3105d36f839588a",
+      "input_jsonl_line": 2962,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_28fc31313fbe4fdd9a32a2865ad09e15",
+      "input_jsonl_line": 2969,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_b5665000c4834031ac517af960fbd1ca",
+      "input_jsonl_line": 2976,
+      "tool": "js"
+    }
+  ]
+}

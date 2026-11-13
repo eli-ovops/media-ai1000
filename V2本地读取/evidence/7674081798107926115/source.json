@@ -1,0 +1,34 @@
+{
+  "video_id": "7674081798107926115",
+  "url": "https://www.douyin.com/video/7674081798107926115",
+  "source_export": "/Users/USER/Downloads/download (3).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7674081798107926115.mp4",
+  "sha256": "e437008104cc000a67e34746d6123f31e576f128a838aa514de39086743a0686",
+  "bytes": 3016425,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_b926dd850eaf4e43b5802838d39edce2",
+      "input_jsonl_line": 1080,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_75108479b11e430e92193bda7d2cca7d",
+      "input_jsonl_line": 1102,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_8279e8c13fe34f278d04599f82a8da18",
+      "input_jsonl_line": 1107,
+      "tool": "js"
+    }
+  ],
+  "metrics_current": {
+    "likes": "2.0万",
+    "comments": 118,
+    "favorites": 233,
+    "shares": 172,
+    "plays": "UNKNOWN"
+  }
+}

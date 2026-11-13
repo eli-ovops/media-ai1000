@@ -1,0 +1,55 @@
+{
+  "video_id": "7676081471161093403",
+  "url": "https://www.douyin.com/video/7676081471161093403",
+  "source_export": "/Users/USER/Downloads/download (12).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7676081471161093403.mp4",
+  "sha256": "4fe6709d8935cc9574d22fa5348a213c2f24b8c40af83bf59a5f32a32e573ada",
+  "bytes": 4518705,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "AI超能力老马",
+    "account_id": "87440545928",
+    "title": "AI做PPT，几条指令，快速提高生产力，快来试试吧",
+    "published_at": "2026-08-20 19:56",
+    "likes": 564,
+    "comments": 94,
+    "favorites": 771,
+    "shares": 93,
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07",
+    "catalog_like_rank": 7,
+    "catalog_scope": 49
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [],
+  "page_read_evidence": {
+    "tool": "mcp__cua_repl.js",
+    "date": "2026-10-07",
+    "browser_id": "2",
+    "tab_id": "32",
+    "current_ax_read": true,
+    "call_id": "UNKNOWN",
+    "trace_limit": "CUA tool call outputs visible in current conversation; exact call ID absent from local session response_item records. No invented call ID."
+  },
+  "original_browser_source_receipts": [
+    {
+      "kind": "page",
+      "call_id": "call_ElRxA3AURqbmWr9pqSylYD4k",
+      "input_jsonl_line": 1763,
+      "output_jsonl_line": 1766,
+      "timestamp_utc": "2026-10-07T04:04:53.968Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "output_has_expected_video_id": true
+    },
+    {
+      "kind": "download",
+      "call_id": "call_5hsU32GJK6tj90fx8YYpd7u1",
+      "input_jsonl_line": 1776,
+      "output_jsonl_line": 1779,
+      "timestamp_utc": "2026-10-07T04:05:27.542Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "output_has_expected_video_id": true
+    }
+  ],
+  "exact_browser_call_id_gap_resolved": true
+}

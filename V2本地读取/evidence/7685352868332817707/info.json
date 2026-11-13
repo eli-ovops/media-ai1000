@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7685352868332817707.mp4\",\n  \"source\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7685352868332817707.mp4\",\n  \"sourceKind\": \"local\",\n  \"durationSec\": 38.011,\n  \"width\": 720,\n  \"height\": 1280,\n  \"fps\": 30,\n  \"videoCodec\": \"hevc\",\n  \"audioCodec\": \"aac\",\n  \"hasAudio\": true,\n  \"hasVideo\": true,\n  \"bitrate\": 634150,\n  \"sizeBytes\": 3013087,\n  \"formatName\": \"mov,mp4 (AVFoundation adapter)\",\n  \"warnings\": []\n}"
+    }
+  ],
+  "structuredContent": {
+    "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7685352868332817707.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7685352868332817707.mp4",
+    "sourceKind": "local",
+    "durationSec": 38.011,
+    "width": 720,
+    "height": 1280,
+    "fps": 30,
+    "videoCodec": "hevc",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 634150,
+    "sizeBytes": 3013087,
+    "formatName": "mov,mp4 (AVFoundation adapter)",
+    "warnings": []
+  }
+}

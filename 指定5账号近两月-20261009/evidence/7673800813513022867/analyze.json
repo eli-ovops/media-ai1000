@@ -1,0 +1,1389 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"info\": {\n    \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7673800813513022867.mp4\",\n    \"source\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7673800813513022867.mp4\",\n    \"sourceKind\": \"local\",\n    \"durationSec\": 436.417,\n    \"width\": 768,\n    \"height\": 576,\n    \"fps\": 30,\n    \"videoCodec\": \"hevc\",\n    \"audioCodec\": \"aac\",\n    \"hasAudio\": true,\n    \"hasVideo\": true,\n    \"bitrate\": 147225,\n    \"sizeBytes\": 8031450,\n    \"formatName\": \"mov,mp4 (AVFoundation adapter)\"\n  },\n  \"transcript\": {\n    \"segments\": [\n      {\n        \"start\": 0,\n        \"end\": 4.08,\n        \"text\": \"最近我用Traywork做了一套德州酒館應用\"\n      },\n      {\n        \"start\": 4.08,\n        \"end\": 9.24,\n        \"text\": \"一個經營後台三個小程序再加一套電視賽事大品\"\n      },\n      {\n        \"start\": 9.24,\n        \"end\": 11.6,\n        \"text\": \"大家先看一下成品效果\"\n      },\n      {\n        \"start\": 11.6,\n        \"end\": 14.92,\n        \"text\": \"顧客用小程序點單和看賽事\"\n      },\n      {\n        \"start\": 14.92,\n        \"end\": 18.8,\n        \"text\": \"服務員處理房台庫存和套餐和銷\"\n      },\n      {\n        \"start\": 18.8,\n        \"end\": 24.16,\n        \"text\": \"老闆在後台管經營配置賽事現場還有計時中控和電視大品\"\n      },\n      {\n        \"start\": 24.16,\n        \"end\": 28.2,\n        \"text\": \"五個端議起工作時數據最容易各走各的\"\n      },\n      {\n        \"start\": 28.2,\n        \"end\": 34.44,\n        \"text\": \"訂單、會員、庫存和賽事狀態都需要回到同一套後端模型\"\n      },\n      {\n        \"start\": 34.44,\n        \"end\": 38.32,\n        \"text\": \"先把這層關係裡清業面才不會越做越亂\"\n      },\n      {\n        \"start\": 38.32,\n        \"end\": 41.36,\n        \"text\": \"Traywork的三個模式供用一個項目\"\n      },\n      {\n        \"start\": 41.36,\n        \"end\": 46.6,\n        \"text\": \"work收住材料和任務、Design整理結構、流程和圓形\"\n      },\n      {\n        \"start\": 46.6,\n        \"end\": 50.36,\n        \"text\": \"code接著進入真實倉庫做分析和驗證\"\n      },\n      {\n        \"start\": 50.36,\n        \"end\": 53.2,\n        \"text\": \"這次我主要走Design和code\"\n      },\n      {\n        \"start\": 53.2,\n        \"end\": 56.24,\n        \"text\": \"進入Design後我先第一產品\"\n      },\n      {\n        \"start\": 56.24,\n        \"end\": 61.72,\n        \"text\": \"業務目標使用角色系統編輯和驗收場景會先寫清楚\"\n      },\n      {\n        \"start\": 61.72,\n        \"end\": 66.8,\n        \"text\": \"多端項目裡單個頁面做的再漂亮狀態對不上也沒法用\"\n      },\n      {\n        \"start\": 66.8,\n        \"end\": 69.6,\n        \"text\": \"這是TrayworkDesign的無限劃部\"\n      },\n      {\n        \"start\": 69.6,\n        \"end\": 77.68,\n        \"text\": \"產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡\"\n      },\n      {\n        \"start\": 77.68,\n        \"end\": 81.28,\n        \"text\": \"往下討論某個頁面時前面的關係還在\"\n      },\n      {\n        \"start\": 81.28,\n        \"end\": 84.08,\n        \"text\": \"這份需求我按司類約束來寫\"\n      },\n      {\n        \"start\": 84.08,\n        \"end\": 89.08,\n        \"text\": \"先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼\"\n      },\n      {\n        \"start\": 89.08,\n        \"end\": 96.16,\n        \"text\": \"訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制\"\n      },\n      {\n        \"start\": 96.16,\n        \"end\": 99.47999999999999,\n        \"text\": \"這張產品全景圖先劃系統編輯\"\n      },\n      {\n        \"start\": 99.47999999999999,\n        \"end\": 108.12,\n        \"text\": \"顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經\"\n      },\n      {\n        \"start\": 108.12,\n        \"end\": 108.75999999999999,\n        \"text\": \"營配置\"\n      },\n      {\n        \"start\": 108.75999999999999,\n        \"end\": 115.8,\n        \"text\": \"訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一\"\n      },\n      {\n        \"start\": 115.8,\n        \"end\": 118.88,\n        \"text\": \"第二張圖處理完整的經營流程\"\n      },\n      {\n        \"start\": 118.88,\n        \"end\": 121.16,\n        \"text\": \"顧客從貨客初點進入\"\n      },\n      {\n        \"start\": 121.16,\n        \"end\": 128.88,\n        \"text\": \"下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累\"\n      },\n      {\n        \"start\": 128.88,\n        \"end\": 133.84,\n        \"text\": \"後續觸達又把顧客帶回下一次消費,這個循環才算接上\"\n      },\n      {\n        \"start\": 133.84,\n        \"end\": 138.04,\n        \"text\": \"經營流程確定以後,我在把核心對象的狀態寫明白\"\n      },\n      {\n        \"start\": 138.04,\n        \"end\": 145.24,\n        \"text\": \"訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗\"\n      },\n      {\n        \"start\": 145.24,\n        \"end\": 150.72,\n        \"text\": \"重複使用、月權或者狀態不對,系統要返回明確結果\"\n      },\n      {\n        \"start\": 150.72,\n        \"end\": 154.32,\n        \"text\": \"規則收住以後開始看顧客端原型\"\n      },\n      {\n        \"start\": 154.32,\n        \"end\": 160.4,\n        \"text\": \"首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶\"\n      },\n      {\n        \"start\": 160.4,\n        \"end\": 166.28,\n        \"text\": \"套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找\"\n      },\n      {\n        \"start\": 166.28,\n        \"end\": 171.84,\n        \"text\": \"現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地\"\n      },\n      {\n        \"start\": 171.84,\n        \"end\": 178.72,\n        \"text\": \"這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層\"\n      },\n      {\n        \"start\": 178.72,\n        \"end\": 183.2,\n        \"text\": \"錄平你的首頁、酒水點單和賽事頁面都可以打開\"\n      },\n      {\n        \"start\": 183.2,\n        \"end\": 186.24,\n        \"text\": \"服務員端會按照營業現場重新排\"\n      },\n      {\n        \"start\": 186.24,\n        \"end\": 190.48,\n        \"text\": \"房台、核銷和庫存這些高品任務放到手邊\"\n      },\n      {\n        \"start\": 190.48,\n        \"end\": 195.84,\n        \"text\": \"設計會員訂單和庫存變更時,介面要先確認操作對象\"\n      },\n      {\n        \"start\": 195.84,\n        \"end\": 199.36,\n        \"text\": \"失敗以後也要告訴服務員下一步怎麼處理\"\n      },\n      {\n        \"start\": 199.36,\n        \"end\": 204.88,\n        \"text\": \"這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點\"\n      },\n      {\n        \"start\": 204.88,\n        \"end\": 208.96,\n        \"text\": \"當前畫面能確認入口和頁面結構已經落地\"\n      },\n      {\n        \"start\": 208.96,\n        \"end\": 212.8,\n        \"text\": \"騷馬以後,怎樣寫回狀態、後台怎樣留下記錄\"\n      },\n      {\n        \"start\": 212.8,\n        \"end\": 216.04,\n        \"text\": \"我會放到同一瓶訂單的完整燕收禮展示\"\n      },\n      {\n        \"start\": 216.04,\n        \"end\": 219.32,\n        \"text\": \"電視大平要先解決遠距離讀數\"\n      },\n      {\n        \"start\": 219.32,\n        \"end\": 225.16,\n        \"text\": \"到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置\"\n      },\n      {\n        \"start\": 225.16,\n        \"end\": 229.96,\n        \"text\": \"裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息\"\n      },\n      {\n        \"start\": 229.96,\n        \"end\": 233.24,\n        \"text\": \"這張大平原型先確定三個關鍵點\"\n      },\n      {\n        \"start\": 233.24,\n        \"end\": 237.72,\n        \"text\": \"到即時是絕對視覺中心,級別和忙著放在穩定矛點\"\n      },\n      {\n        \"start\": 237.72,\n        \"end\": 239.88,\n        \"text\": \"連接狀態保持明確\"\n      },\n      {\n        \"start\": 239.88,\n        \"end\": 245.96,\n        \"text\": \"層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則\"\n      },\n      {\n        \"start\": 245.96,\n        \"end\": 249.2,\n        \"text\": \"跑起來以後,我會繼續檢查三個點\"\n      },\n      {\n        \"start\": 249.2,\n        \"end\": 253.8,\n        \"text\": \"數字變化時有沒有跳位,狀態更新後能不能一眼定位\"\n      },\n      {\n        \"start\": 253.8,\n        \"end\": 256.48,\n        \"text\": \"連接異常時有沒有明確反饋\"\n      },\n      {\n        \"start\": 256.48,\n        \"end\": 260.16,\n        \"text\": \"動態效果只有在不影響讀數時才會保留\"\n      },\n      {\n        \"start\": 260.16,\n        \"end\": 263.52,\n        \"text\": \"需要改某個頁面時,我會把頁面放回對話\"\n      },\n      {\n        \"start\": 263.52,\n        \"end\": 268.08,\n        \"text\": \"並說明操作對象,當前狀態,使用場景和預期結果\"\n      },\n      {\n        \"start\": 268.08,\n        \"end\": 271.28,\n        \"text\": \"到第三案收戀時,留下的是系統編界\"\n      },\n      {\n        \"start\": 271.28,\n        \"end\": 274.76,\n        \"text\": \"狀態規則,交互方案和驗收條件\"\n      },\n      {\n        \"start\": 274.76,\n        \"end\": 277.48,\n        \"text\": \"這些內容可以繼續交給扣的\"\n      },\n      {\n        \"start\": 277.48,\n        \"end\": 280.92,\n        \"text\": \"切到扣的以後,我先明確一個要求\"\n      },\n      {\n        \"start\": 280.92,\n        \"end\": 283.8,\n        \"text\": \"指讀分析,暫時不要修改\"\n      },\n      {\n        \"start\": 283.8,\n        \"end\": 289.52,\n        \"text\": \"面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型\"\n      },\n      {\n        \"start\": 289.52,\n        \"end\": 292.48,\n        \"text\": \"接口和全線位置,再決定改哪裡\"\n      },\n      {\n        \"start\": 292.48,\n        \"end\": 295.32,\n        \"text\": \"我會讓扣的先回答四個問題\"\n      },\n      {\n        \"start\": 295.32,\n        \"end\": 298.52,\n        \"text\": \"項目怎樣啟動,前後端入口在哪裡\"\n      },\n      {\n        \"start\": 298.52,\n        \"end\": 301.64,\n        \"text\": \"核心模塊和公共依賴怎樣組織\"\n      },\n      {\n        \"start\": 301.64,\n        \"end\": 305.28,\n        \"text\": \"訂單、會員和賽事的數據放在哪裡\"\n      },\n      {\n        \"start\": 305.28,\n        \"end\": 309.52,\n        \"text\": \"接口、全線和環境配置,又會影響哪些端\"\n      },\n      {\n        \"start\": 309.52,\n        \"end\": 313.8,\n        \"text\": \"分析證文裡,TrayWork先識別技術站和各端結構\"\n      },\n      {\n        \"start\": 313.8,\n        \"end\": 318.6,\n        \"text\": \"後端、管理端和UNIAPP雙端都已經有大量代碼\"\n      },\n      {\n        \"start\": 318.6,\n        \"end\": 321.56,\n        \"text\": \"他將這個倉庫判斷為存量項目\"\n      },\n      {\n        \"start\": 321.56,\n        \"end\": 323.56,\n        \"text\": \"後續先控制改動面\"\n      },\n      {\n        \"start\": 323.56,\n        \"end\": 327.72,\n        \"text\": \"任務拆解裡,微信與支付配置、雙租戶灰度\"\n      },\n      {\n        \"start\": 327.72,\n        \"end\": 330.92,\n        \"text\": \"真機掃碼和發布門鏡被放進P0\"\n      },\n      {\n        \"start\": 330.92,\n        \"end\": 334.28,\n        \"text\": \"訂單和庫存等業務增強留在P1\"\n      },\n      {\n        \"start\": 334.28,\n        \"end\": 337.04,\n        \"text\": \"這個順序看的是依賴和發布風險\"\n      },\n      {\n        \"start\": 337.04,\n        \"end\": 340.12,\n        \"text\": \"誰會擋住連條,誰就先處理\"\n      },\n      {\n        \"start\": 340.12,\n        \"end\": 344.44,\n        \"text\": \"真正開工時,我會先選一條最短的縱向切片\"\n      },\n      {\n        \"start\": 344.44,\n        \"end\": 349.92,\n        \"text\": \"顧客端創建測試訂單、服務員端完成合銷、後台核對紀錄\"\n      },\n      {\n        \"start\": 349.92,\n        \"end\": 353.84000000000003,\n        \"text\": \"一次改動同時穿過業面、接口、狀態和全線\"\n      },\n      {\n        \"start\": 353.84000000000003,\n        \"end\": 356.36,\n        \"text\": \"問題落在哪一層會更清楚\"\n      },\n      {\n        \"start\": 356.36,\n        \"end\": 359.2,\n        \"text\": \"每一輪改動都用同一個順序\"\n      },\n      {\n        \"start\": 359.2,\n        \"end\": 363.52,\n        \"text\": \"先保存當前機線,只改任務設計的最小文件集合\"\n      },\n      {\n        \"start\": 363.52,\n        \"end\": 366.64,\n        \"text\": \"然後跑構建、類型檢查和測試\"\n      },\n      {\n        \"start\": 366.64,\n        \"end\": 371.68,\n        \"text\": \"最後再用同一筆訂單、核對對象、狀態、操作人和時間\"\n      },\n      {\n        \"start\": 371.68,\n        \"end\": 376.2,\n        \"text\": \"命令通過只說明代碼曾過關,業務還要單獨驗\"\n      },\n      {\n        \"start\": 376.2,\n        \"end\": 379.08,\n        \"text\": \"這次現有素材紀錄到了Design結果\"\n      },\n      {\n        \"start\": 379.08,\n        \"end\": 381.84,\n        \"text\": \"Code的倉庫分析和任務拆解\"\n      },\n      {\n        \"start\": 381.84,\n        \"end\": 384.24,\n        \"text\": \"真實代碼Deaf、構建結果\"\n      },\n      {\n        \"start\": 384.24,\n        \"end\": 386.44,\n        \"text\": \"還有同一筆訂單的跨端驗收\"\n      },\n      {\n        \"start\": 386.44,\n        \"end\": 389.28,\n        \"text\": \"我會按剛才的標準繼續錄完整\"\n      },\n      {\n        \"start\": 389.28,\n        \"end\": 391.44,\n        \"text\": \"再回頭看一次成品\"\n      },\n      {\n        \"start\": 391.44,\n        \"end\": 394.64,\n        \"text\": \"一個後台,三個小程序和電視大平\"\n      },\n      {\n        \"start\": 394.64,\n        \"end\": 398.44,\n        \"text\": \"現在已經有了清楚的角色分工和驗面結構\"\n      },\n      {\n        \"start\": 398.44,\n        \"end\": 400.64,\n        \"text\": \"下一步就按那條訂單主線\"\n      },\n      {\n        \"start\": 400.64,\n        \"end\": 403.64,\n        \"text\": \"把改動和驗收一向向錄出來\"\n      },\n      {\n        \"start\": 403.64,\n        \"end\": 405.4,\n        \"text\": \"我最看重Traywork\"\n      },\n      {\n        \"start\": 405.4,\n        \"end\": 409.44,\n        \"text\": \"因為設計決策可以留在同一個項目裡繼續進入Code\"\n      },\n      {\n        \"start\": 409.44,\n        \"end\": 413.04,\n        \"text\": \"它幫我讀材料、整理結構和拆任務\"\n      },\n      {\n        \"start\": 413.04,\n        \"end\": 415.44,\n        \"text\": \"範圍怎麼訂、數據怎麼保護\"\n      },\n      {\n        \"start\": 415.44,\n        \"end\": 417.04,\n        \"text\": \"結果算不算通過\"\n      },\n      {\n        \"start\": 417.04,\n        \"end\": 419.44,\n        \"text\": \"還是由項目負責人判斷\"\n      },\n      {\n        \"start\": 419.44,\n        \"end\": 421.64,\n        \"text\": \"如果你也再做一個多端項目\"\n      },\n      {\n        \"start\": 421.64,\n        \"end\": 426.04,\n        \"text\": \"可以先把角色、對象、狀態和驗收場景講清楚\"\n      },\n      {\n        \"start\": 426.04,\n        \"end\": 427.64,\n        \"text\": \"再讓底子按出方案\"\n      },\n      {\n        \"start\": 427.64,\n        \"end\": 429.24,\n        \"text\": \"最後進Code\"\n      },\n      {\n        \"start\": 429.24,\n        \"end\": 432.44,\n        \"text\": \"德州酒館後面的真實Deaf和完整聯調\"\n      },\n      {\n        \"start\": 432.44,\n        \"end\": 434.04,\n        \"text\": \"我會繼續錄\"\n      },\n      {\n        \"start\": 434.04,\n        \"end\": 436.24,\n        \"text\": \"想看下一集記得關注\"\n      }\n    ],\n    \"language\": \"zh\",\n    \"source\": \"whisper.cpp\",\n    \"fullText\": \"最近我用Traywork做了一套德州酒館應用 一個經營後台三個小程序再加一套電視賽事大品 大家先看一下成品效果 顧客用小程序點單和看賽事 服務員處理房台庫存和套餐和銷 老闆在後台管經營配置賽事現場還有計時中控和電視大品 五個端議起工作時數據最容易各走各的 訂單、會員、庫存和賽事狀態都需要回到同一套後端模型 先把這層關係裡清業面才不會越做越亂 Traywork的三個模式供用一個項目 work收住材料和任務、Design整理結構、流程和圓形 code接著進入真實倉庫做分析和驗證 這次我主要走Design和code 進入Design後我先第一產品 業務目標使用角色系統編輯和驗收場景會先寫清楚 多端項目裡單個頁面做的再漂亮狀態對不上也沒法用 這是TrayworkDesign的無限劃部 產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡 往下討論某個頁面時前面的關係還在 這份需求我按司類約束來寫 先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼 訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制 這張產品全景圖先劃系統編輯 顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經 營配置 訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一 第二張圖處理完整的經營流程 顧客從貨客初點進入 下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累 後續觸達又把顧客帶回下一次消費,這個循環才算接上 經營流程確定以後,我在把核心對象的狀態寫明白 訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗 重複使用、月權或者狀態不對,系統要返回明確結果 規則收住以後開始看顧客端原型 首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶 套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找 現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地 這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層 錄平你的首頁、酒水點單和賽事頁面都可以打開 服務員端會按照營業現場重新排 房台、核銷和庫存這些高品任務放到手邊 設計會員訂單和庫存變更時,介面要先確認操作對象 失敗以後也要告訴服務員下一步怎麼處理 這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點 當前畫面能確認入口和頁面結構已經落地 騷馬以後,怎樣寫回狀態、後台怎樣留下記錄 我會放到同一瓶訂單的完整燕收禮展示 電視大平要先解決遠距離讀數 到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置 裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息 這張大平原型先確定三個關鍵點 到即時是絕對視覺中心,級別和忙著放在穩定矛點 連接狀態保持明確 層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則 跑起來以後,我會繼續檢查三個點 數字變化時有沒有跳位,狀態更新後能不能一眼定位 連接異常時有沒有明確反饋 動態效果只有在不影響讀數時才會保留 需要改某個頁面時,我會把頁面放回對話 並說明操作對象,當前狀態,使用場景和預期結果 到第三案收戀時,留下的是系統編界 狀態規則,交互方案和驗收條件 這些內容可以繼續交給扣的 切到扣的以後,我先明確一個要求 指讀分析,暫時不要修改 面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型 接口和全線位置,再決定改哪裡 我會讓扣的先回答四個問題 項目怎樣啟動,前後端入口在哪裡 核心模塊和公共依賴怎樣組織 訂單、會員和賽事的數據放在哪裡 接口、全線和環境配置,又會影響哪些端 分析證文裡,TrayWork先識別技術站和各端結構 後端、管理端和UNIAPP雙端都已經有大量代碼 他將這個倉庫判斷為存量項目 後續先控制改動面 任務拆解裡,微信與支付配置、雙租戶灰度 真機掃碼和發布門鏡被放進P0 訂單和庫存等業務增強留在P1 這個順序看的是依賴和發布風險 誰會擋住連條,誰就先處理 真正開工時,我會先選一條最短的縱向切片 顧客端創建測試訂單、服務員端完成合銷、後台核對紀錄 一次改動同時穿過業面、接口、狀態和全線 問題落在哪一層會更清楚 每一輪改動都用同一個順序 先保存當前機線,只改任務設計的最小文件集合 然後跑構建、類型檢查和測試 最後再用同一筆訂單、核對對象、狀態、操作人和時間 命令通過只說明代碼曾過關,業務還要單獨驗 這次現有素材紀錄到了Design結果 Code的倉庫分析和任務拆解 真實代碼Deaf、構建結果 還有同一筆訂單的跨端驗收 我會按剛才的標準繼續錄完整 再回頭看一次成品 一個後台,三個小程序和電視大平 現在已經有了清楚的角色分工和驗面結構 下一步就按那條訂單主線 把改動和驗收一向向錄出來 我最看重Traywork 因為設計決策可以留在同一個項目裡繼續進入Code 它幫我讀材料、整理結構和拆任務 範圍怎麼訂、數據怎麼保護 結果算不算通過 還是由項目負責人判斷 如果你也再做一個多端項目 可以先把角色、對象、狀態和驗收場景講清楚 再讓底子按出方案 最後進Code 德州酒館後面的真實Deaf和完整聯調 我會繼續錄 想看下一集記得關注\"\n  },\n  \"frames\": [\n    {\n      \"index\": 0,\n      \"timeSec\": 0,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 1,\n      \"timeSec\": 4,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 2,\n      \"timeSec\": 8,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 3,\n      \"timeSec\": 12,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 4,\n      \"timeSec\": 16,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 5,\n      \"timeSec\": 20,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 6,\n      \"timeSec\": 24,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 7,\n      \"timeSec\": 28,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 8,\n      \"timeSec\": 32,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 9,\n      \"timeSec\": 36,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 10,\n      \"timeSec\": 40,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 11,\n      \"timeSec\": 44,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 12,\n      \"timeSec\": 48,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 13,\n      \"timeSec\": 52,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 14,\n      \"timeSec\": 56,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 15,\n      \"timeSec\": 60,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 16,\n      \"timeSec\": 64,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 17,\n      \"timeSec\": 68,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 18,\n      \"timeSec\": 72,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 19,\n      \"timeSec\": 76,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 20,\n      \"timeSec\": 80,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 21,\n      \"timeSec\": 84,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 22,\n      \"timeSec\": 88,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 23,\n      \"timeSec\": 92,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 24,\n      \"timeSec\": 96,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 25,\n      \"timeSec\": 100,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 26,\n      \"timeSec\": 104,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 27,\n      \"timeSec\": 108,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 28,\n      \"timeSec\": 112,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 29,\n      \"timeSec\": 116,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    }\n  ],\n  \"timeline\": [\n    {\n      \"timeSec\": 0,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg\"\n    },\n    {\n      \"timeSec\": 0,\n      \"kind\": \"speech\",\n      \"text\": \"最近我用Traywork做了一套德州酒館應用\"\n    },\n    {\n      \"timeSec\": 4,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg\"\n    },\n    {\n      \"timeSec\": 4.08,\n      \"kind\": \"speech\",\n      \"text\": \"一個經營後台三個小程序再加一套電視賽事大品\"\n    },\n    {\n      \"timeSec\": 8,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg\"\n    },\n    {\n      \"timeSec\": 9.24,\n      \"kind\": \"speech\",\n      \"text\": \"大家先看一下成品效果\"\n    },\n    {\n      \"timeSec\": 11.6,\n      \"kind\": \"speech\",\n      \"text\": \"顧客用小程序點單和看賽事\"\n    },\n    {\n      \"timeSec\": 12,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg\"\n    },\n    {\n      \"timeSec\": 14.92,\n      \"kind\": \"speech\",\n      \"text\": \"服務員處理房台庫存和套餐和銷\"\n    },\n    {\n      \"timeSec\": 16,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg\"\n    },\n    {\n      \"timeSec\": 18.8,\n      \"kind\": \"speech\",\n      \"text\": \"老闆在後台管經營配置賽事現場還有計時中控和電視大品\"\n    },\n    {\n      \"timeSec\": 20,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg\"\n    },\n    {\n      \"timeSec\": 24,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg\"\n    },\n    {\n      \"timeSec\": 24.16,\n      \"kind\": \"speech\",\n      \"text\": \"五個端議起工作時數據最容易各走各的\"\n    },\n    {\n      \"timeSec\": 28,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg\"\n    },\n    {\n      \"timeSec\": 28.2,\n      \"kind\": \"speech\",\n      \"text\": \"訂單、會員、庫存和賽事狀態都需要回到同一套後端模型\"\n    },\n    {\n      \"timeSec\": 32,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg\"\n    },\n    {\n      \"timeSec\": 34.44,\n      \"kind\": \"speech\",\n      \"text\": \"先把這層關係裡清業面才不會越做越亂\"\n    },\n    {\n      \"timeSec\": 36,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg\"\n    },\n    {\n      \"timeSec\": 38.32,\n      \"kind\": \"speech\",\n      \"text\": \"Traywork的三個模式供用一個項目\"\n    },\n    {\n      \"timeSec\": 40,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg\"\n    },\n    {\n      \"timeSec\": 41.36,\n      \"kind\": \"speech\",\n      \"text\": \"work收住材料和任務、Design整理結構、流程和圓形\"\n    },\n    {\n      \"timeSec\": 44,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg\"\n    },\n    {\n      \"timeSec\": 46.6,\n      \"kind\": \"speech\",\n      \"text\": \"code接著進入真實倉庫做分析和驗證\"\n    },\n    {\n      \"timeSec\": 48,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg\"\n    },\n    {\n      \"timeSec\": 50.36,\n      \"kind\": \"speech\",\n      \"text\": \"這次我主要走Design和code\"\n    },\n    {\n      \"timeSec\": 52,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg\"\n    },\n    {\n      \"timeSec\": 53.2,\n      \"kind\": \"speech\",\n      \"text\": \"進入Design後我先第一產品\"\n    },\n    {\n      \"timeSec\": 56,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg\"\n    },\n    {\n      \"timeSec\": 56.24,\n      \"kind\": \"speech\",\n      \"text\": \"業務目標使用角色系統編輯和驗收場景會先寫清楚\"\n    },\n    {\n      \"timeSec\": 60,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg\"\n    },\n    {\n      \"timeSec\": 61.72,\n      \"kind\": \"speech\",\n      \"text\": \"多端項目裡單個頁面做的再漂亮狀態對不上也沒法用\"\n    },\n    {\n      \"timeSec\": 64,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg\"\n    },\n    {\n      \"timeSec\": 66.8,\n      \"kind\": \"speech\",\n      \"text\": \"這是TrayworkDesign的無限劃部\"\n    },\n    {\n      \"timeSec\": 68,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg\"\n    },\n    {\n      \"timeSec\": 69.6,\n      \"kind\": \"speech\",\n      \"text\": \"產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡\"\n    },\n    {\n      \"timeSec\": 72,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg\"\n    },\n    {\n      \"timeSec\": 76,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg\"\n    },\n    {\n      \"timeSec\": 77.68,\n      \"kind\": \"speech\",\n      \"text\": \"往下討論某個頁面時前面的關係還在\"\n    },\n    {\n      \"timeSec\": 80,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg\"\n    },\n    {\n      \"timeSec\": 81.28,\n      \"kind\": \"speech\",\n      \"text\": \"這份需求我按司類約束來寫\"\n    },\n    {\n      \"timeSec\": 84,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg\"\n    },\n    {\n      \"timeSec\": 84.08,\n      \"kind\": \"speech\",\n      \"text\": \"先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼\"\n    },\n    {\n      \"timeSec\": 88,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg\"\n    },\n    {\n      \"timeSec\": 89.08,\n      \"kind\": \"speech\",\n      \"text\": \"訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制\"\n    },\n    {\n      \"timeSec\": 92,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg\"\n    },\n    {\n      \"timeSec\": 96,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg\"\n    },\n    {\n      \"timeSec\": 96.16,\n      \"kind\": \"speech\",\n      \"text\": \"這張產品全景圖先劃系統編輯\"\n    },\n    {\n      \"timeSec\": 99.47999999999999,\n      \"kind\": \"speech\",\n      \"text\": \"顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經\"\n    },\n    {\n      \"timeSec\": 100,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg\"\n    },\n    {\n      \"timeSec\": 104,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg\"\n    },\n    {\n      \"timeSec\": 108,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg\"\n    },\n    {\n      \"timeSec\": 108.12,\n      \"kind\": \"speech\",\n      \"text\": \"營配置\"\n    },\n    {\n      \"timeSec\": 108.75999999999999,\n      \"kind\": \"speech\",\n      \"text\": \"訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一\"\n    },\n    {\n      \"timeSec\": 112,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg\"\n    },\n    {\n      \"timeSec\": 115.8,\n      \"kind\": \"speech\",\n      \"text\": \"第二張圖處理完整的經營流程\"\n    },\n    {\n      \"timeSec\": 116,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg\"\n    },\n    {\n      \"timeSec\": 118.88,\n      \"kind\": \"speech\",\n      \"text\": \"顧客從貨客初點進入\"\n    },\n    {\n      \"timeSec\": 121.16,\n      \"kind\": \"speech\",\n      \"text\": \"下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累\"\n    },\n    {\n      \"timeSec\": 128.88,\n      \"kind\": \"speech\",\n      \"text\": \"後續觸達又把顧客帶回下一次消費,這個循環才算接上\"\n    },\n    {\n      \"timeSec\": 133.84,\n      \"kind\": \"speech\",\n      \"text\": \"經營流程確定以後,我在把核心對象的狀態寫明白\"\n    },\n    {\n      \"timeSec\": 138.04,\n      \"kind\": \"speech\",\n      \"text\": \"訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗\"\n    },\n    {\n      \"timeSec\": 145.24,\n      \"kind\": \"speech\",\n      \"text\": \"重複使用、月權或者狀態不對,系統要返回明確結果\"\n    },\n    {\n      \"timeSec\": 150.72,\n      \"kind\": \"speech\",\n      \"text\": \"規則收住以後開始看顧客端原型\"\n    },\n    {\n      \"timeSec\": 154.32,\n      \"kind\": \"speech\",\n      \"text\": \"首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶\"\n    },\n    {\n      \"timeSec\": 160.4,\n      \"kind\": \"speech\",\n      \"text\": \"套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找\"\n    },\n    {\n      \"timeSec\": 166.28,\n      \"kind\": \"speech\",\n      \"text\": \"現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地\"\n    },\n    {\n      \"timeSec\": 171.84,\n      \"kind\": \"speech\",\n      \"text\": \"這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層\"\n    },\n    {\n      \"timeSec\": 178.72,\n      \"kind\": \"speech\",\n      \"text\": \"錄平你的首頁、酒水點單和賽事頁面都可以打開\"\n    },\n    {\n      \"timeSec\": 183.2,\n      \"kind\": \"speech\",\n      \"text\": \"服務員端會按照營業現場重新排\"\n    },\n    {\n      \"timeSec\": 186.24,\n      \"kind\": \"speech\",\n      \"text\": \"房台、核銷和庫存這些高品任務放到手邊\"\n    },\n    {\n      \"timeSec\": 190.48,\n      \"kind\": \"speech\",\n      \"text\": \"設計會員訂單和庫存變更時,介面要先確認操作對象\"\n    },\n    {\n      \"timeSec\": 195.84,\n      \"kind\": \"speech\",\n      \"text\": \"失敗以後也要告訴服務員下一步怎麼處理\"\n    },\n    {\n      \"timeSec\": 199.36,\n      \"kind\": \"speech\",\n      \"text\": \"這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點\"\n    },\n    {\n      \"timeSec\": 204.88,\n      \"kind\": \"speech\",\n      \"text\": \"當前畫面能確認入口和頁面結構已經落地\"\n    },\n    {\n      \"timeSec\": 208.96,\n      \"kind\": \"speech\",\n      \"text\": \"騷馬以後,怎樣寫回狀態、後台怎樣留下記錄\"\n    },\n    {\n      \"timeSec\": 212.8,\n      \"kind\": \"speech\",\n      \"text\": \"我會放到同一瓶訂單的完整燕收禮展示\"\n    },\n    {\n      \"timeSec\": 216.04,\n      \"kind\": \"speech\",\n      \"text\": \"電視大平要先解決遠距離讀數\"\n    },\n    {\n      \"timeSec\": 219.32,\n      \"kind\": \"speech\",\n      \"text\": \"到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置\"\n    },\n    {\n      \"timeSec\": 225.16,\n      \"kind\": \"speech\",\n      \"text\": \"裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息\"\n    },\n    {\n      \"timeSec\": 229.96,\n      \"kind\": \"speech\",\n      \"text\": \"這張大平原型先確定三個關鍵點\"\n    },\n    {\n      \"timeSec\": 233.24,\n      \"kind\": \"speech\",\n      \"text\": \"到即時是絕對視覺中心,級別和忙著放在穩定矛點\"\n    },\n    {\n      \"timeSec\": 237.72,\n      \"kind\": \"speech\",\n      \"text\": \"連接狀態保持明確\"\n    },\n    {\n      \"timeSec\": 239.88,\n      \"kind\": \"speech\",\n      \"text\": \"層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則\"\n    },\n    {\n      \"timeSec\": 245.96,\n      \"kind\": \"speech\",\n      \"text\": \"跑起來以後,我會繼續檢查三個點\"\n    },\n    {\n      \"timeSec\": 249.2,\n      \"kind\": \"speech\",\n      \"text\": \"數字變化時有沒有跳位,狀態更新後能不能一眼定位\"\n    },\n    {\n      \"timeSec\": 253.8,\n      \"kind\": \"speech\",\n      \"text\": \"連接異常時有沒有明確反饋\"\n    },\n    {\n      \"timeSec\": 256.48,\n      \"kind\": \"speech\",\n      \"text\": \"動態效果只有在不影響讀數時才會保留\"\n    },\n    {\n      \"timeSec\": 260.16,\n      \"kind\": \"speech\",\n      \"text\": \"需要改某個頁面時,我會把頁面放回對話\"\n    },\n    {\n      \"timeSec\": 263.52,\n      \"kind\": \"speech\",\n      \"text\": \"並說明操作對象,當前狀態,使用場景和預期結果\"\n    },\n    {\n      \"timeSec\": 268.08,\n      \"kind\": \"speech\",\n      \"text\": \"到第三案收戀時,留下的是系統編界\"\n    },\n    {\n      \"timeSec\": 271.28,\n      \"kind\": \"speech\",\n      \"text\": \"狀態規則,交互方案和驗收條件\"\n    },\n    {\n      \"timeSec\": 274.76,\n      \"kind\": \"speech\",\n      \"text\": \"這些內容可以繼續交給扣的\"\n    },\n    {\n      \"timeSec\": 277.48,\n      \"kind\": \"speech\",\n      \"text\": \"切到扣的以後,我先明確一個要求\"\n    },\n    {\n      \"timeSec\": 280.92,\n      \"kind\": \"speech\",\n      \"text\": \"指讀分析,暫時不要修改\"\n    },\n    {\n      \"timeSec\": 283.8,\n      \"kind\": \"speech\",\n      \"text\": \"面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型\"\n    },\n    {\n      \"timeSec\": 289.52,\n      \"kind\": \"speech\",\n      \"text\": \"接口和全線位置,再決定改哪裡\"\n    },\n    {\n      \"timeSec\": 292.48,\n      \"kind\": \"speech\",\n      \"text\": \"我會讓扣的先回答四個問題\"\n    },\n    {\n      \"timeSec\": 295.32,\n      \"kind\": \"speech\",\n      \"text\": \"項目怎樣啟動,前後端入口在哪裡\"\n    },\n    {\n      \"timeSec\": 298.52,\n      \"kind\": \"speech\",\n      \"text\": \"核心模塊和公共依賴怎樣組織\"\n    },\n    {\n      \"timeSec\": 301.64,\n      \"kind\": \"speech\",\n      \"text\": \"訂單、會員和賽事的數據放在哪裡\"\n    },\n    {\n      \"timeSec\": 305.28,\n      \"kind\": \"speech\",\n      \"text\": \"接口、全線和環境配置,又會影響哪些端\"\n    },\n    {\n      \"timeSec\": 309.52,\n      \"kind\": \"speech\",\n      \"text\": \"分析證文裡,TrayWork先識別技術站和各端結構\"\n    },\n    {\n      \"timeSec\": 313.8,\n      \"kind\": \"speech\",\n      \"text\": \"後端、管理端和UNIAPP雙端都已經有大量代碼\"\n    },\n    {\n      \"timeSec\": 318.6,\n      \"kind\": \"speech\",\n      \"text\": \"他將這個倉庫判斷為存量項目\"\n    },\n    {\n      \"timeSec\": 321.56,\n      \"kind\": \"speech\",\n      \"text\": \"後續先控制改動面\"\n    },\n    {\n      \"timeSec\": 323.56,\n      \"kind\": \"speech\",\n      \"text\": \"任務拆解裡,微信與支付配置、雙租戶灰度\"\n    },\n    {\n      \"timeSec\": 327.72,\n      \"kind\": \"speech\",\n      \"text\": \"真機掃碼和發布門鏡被放進P0\"\n    },\n    {\n      \"timeSec\": 330.92,\n      \"kind\": \"speech\",\n      \"text\": \"訂單和庫存等業務增強留在P1\"\n    },\n    {\n      \"timeSec\": 334.28,\n      \"kind\": \"speech\",\n      \"text\": \"這個順序看的是依賴和發布風險\"\n    },\n    {\n      \"timeSec\": 337.04,\n      \"kind\": \"speech\",\n      \"text\": \"誰會擋住連條,誰就先處理\"\n    },\n    {\n      \"timeSec\": 340.12,\n      \"kind\": \"speech\",\n      \"text\": \"真正開工時,我會先選一條最短的縱向切片\"\n    },\n    {\n      \"timeSec\": 344.44,\n      \"kind\": \"speech\",\n      \"text\": \"顧客端創建測試訂單、服務員端完成合銷、後台核對紀錄\"\n    },\n    {\n      \"timeSec\": 349.92,\n      \"kind\": \"speech\",\n      \"text\": \"一次改動同時穿過業面、接口、狀態和全線\"\n    },\n    {\n      \"timeSec\": 353.84000000000003,\n      \"kind\": \"speech\",\n      \"text\": \"問題落在哪一層會更清楚\"\n    },\n    {\n      \"timeSec\": 356.36,\n      \"kind\": \"speech\",\n      \"text\": \"每一輪改動都用同一個順序\"\n    },\n    {\n      \"timeSec\": 359.2,\n      \"kind\": \"speech\",\n      \"text\": \"先保存當前機線,只改任務設計的最小文件集合\"\n    },\n    {\n      \"timeSec\": 363.52,\n      \"kind\": \"speech\",\n      \"text\": \"然後跑構建、類型檢查和測試\"\n    },\n    {\n      \"timeSec\": 366.64,\n      \"kind\": \"speech\",\n      \"text\": \"最後再用同一筆訂單、核對對象、狀態、操作人和時間\"\n    },\n    {\n      \"timeSec\": 371.68,\n      \"kind\": \"speech\",\n      \"text\": \"命令通過只說明代碼曾過關,業務還要單獨驗\"\n    },\n    {\n      \"timeSec\": 376.2,\n      \"kind\": \"speech\",\n      \"text\": \"這次現有素材紀錄到了Design結果\"\n    },\n    {\n      \"timeSec\": 379.08,\n      \"kind\": \"speech\",\n      \"text\": \"Code的倉庫分析和任務拆解\"\n    },\n    {\n      \"timeSec\": 381.84,\n      \"kind\": \"speech\",\n      \"text\": \"真實代碼Deaf、構建結果\"\n    },\n    {\n      \"timeSec\": 384.24,\n      \"kind\": \"speech\",\n      \"text\": \"還有同一筆訂單的跨端驗收\"\n    },\n    {\n      \"timeSec\": 386.44,\n      \"kind\": \"speech\",\n      \"text\": \"我會按剛才的標準繼續錄完整\"\n    },\n    {\n      \"timeSec\": 389.28,\n      \"kind\": \"speech\",\n      \"text\": \"再回頭看一次成品\"\n    },\n    {\n      \"timeSec\": 391.44,\n      \"kind\": \"speech\",\n      \"text\": \"一個後台,三個小程序和電視大平\"\n    },\n    {\n      \"timeSec\": 394.64,\n      \"kind\": \"speech\",\n      \"text\": \"現在已經有了清楚的角色分工和驗面結構\"\n    },\n    {\n      \"timeSec\": 398.44,\n      \"kind\": \"speech\",\n      \"text\": \"下一步就按那條訂單主線\"\n    },\n    {\n      \"timeSec\": 400.64,\n      \"kind\": \"speech\",\n      \"text\": \"把改動和驗收一向向錄出來\"\n    },\n    {\n      \"timeSec\": 403.64,\n      \"kind\": \"speech\",\n      \"text\": \"我最看重Traywork\"\n    },\n    {\n      \"timeSec\": 405.4,\n      \"kind\": \"speech\",\n      \"text\": \"因為設計決策可以留在同一個項目裡繼續進入Code\"\n    },\n    {\n      \"timeSec\": 409.44,\n      \"kind\": \"speech\",\n      \"text\": \"它幫我讀材料、整理結構和拆任務\"\n    },\n    {\n      \"timeSec\": 413.04,\n      \"kind\": \"speech\",\n      \"text\": \"範圍怎麼訂、數據怎麼保護\"\n    },\n    {\n      \"timeSec\": 415.44,\n      \"kind\": \"speech\",\n      \"text\": \"結果算不算通過\"\n    },\n    {\n      \"timeSec\": 417.04,\n      \"kind\": \"speech\",\n      \"text\": \"還是由項目負責人判斷\"\n    },\n    {\n      \"timeSec\": 419.44,\n      \"kind\": \"speech\",\n      \"text\": \"如果你也再做一個多端項目\"\n    },\n    {\n      \"timeSec\": 421.64,\n      \"kind\": \"speech\",\n      \"text\": \"可以先把角色、對象、狀態和驗收場景講清楚\"\n    },\n    {\n      \"timeSec\": 426.04,\n      \"kind\": \"speech\",\n      \"text\": \"再讓底子按出方案\"\n    },\n    {\n      \"timeSec\": 427.64,\n      \"kind\": \"speech\",\n      \"text\": \"最後進Code\"\n    },\n    {\n      \"timeSec\": 429.24,\n      \"kind\": \"speech\",\n      \"text\": \"德州酒館後面的真實Deaf和完整聯調\"\n    },\n    {\n      \"timeSec\": 432.44,\n      \"kind\": \"speech\",\n      \"text\": \"我會繼續錄\"\n    },\n    {\n      \"timeSec\": 434.04,\n      \"kind\": \"speech\",\n      \"text\": \"想看下一集記得關注\"\n    }\n  ],\n  \"warnings\": [\n    \"ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment.\"\n  ],\n  \"detail\": \"detailed\",\n  \"elapsedMs\": 44018,\n  \"ocrHitCount\": 0,\n  \"summary\": \"7:16 · 768×576 · 30fps · has audio\\nSpeech (whisper.cpp, 113 segs): “最近我用Traywork做了一套德州酒館應用 一個經營後台三個小程序再加一套電視賽事大品 大家先看一下成品效果 顧客用小程序點單和看賽事 服務員處理房台庫存和套餐和銷 老闆在後台管經營配置賽事現場還有計時中控和電視大品 五個端議起工作時數據最容易各走各的 訂單、會員、庫存和賽事狀態都需要回到同一套後端模型 先把這層關係裡清業面才不會越做越亂 Traywork的三個模式供用一個項目 work收住材料和任務、Design整理結構、流程和圓形…”\\n30 keyframe(s) extracted\\n1 warning(s)\",\n  \"sidecarPath\": null\n}"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #0 @ 0.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #6 @ 24.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #12 @ 48.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #17 @ 68.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #23 @ 92.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #29 @ 116.00s"
+    },
+    {
+      "type": "text",
+      "text": "\n(6 inline thumb(s) evenly sampled; 24 more as paths — use video_get_frame for a moment.)"
+    }
+  ],
+  "structuredContent": {
+    "frames": [
+      {
+        "index": 0,
+        "timeSec": 0,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 1,
+        "timeSec": 4,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 2,
+        "timeSec": 8,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 3,
+        "timeSec": 12,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 4,
+        "timeSec": 16,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 5,
+        "timeSec": 20,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 6,
+        "timeSec": 24,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 7,
+        "timeSec": 28,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 8,
+        "timeSec": 32,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 9,
+        "timeSec": 36,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 10,
+        "timeSec": 40,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 11,
+        "timeSec": 44,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 12,
+        "timeSec": 48,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 13,
+        "timeSec": 52,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 14,
+        "timeSec": 56,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 15,
+        "timeSec": 60,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 16,
+        "timeSec": 64,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 17,
+        "timeSec": 68,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 18,
+        "timeSec": 72,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 19,
+        "timeSec": 76,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 20,
+        "timeSec": 80,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 21,
+        "timeSec": 84,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 22,
+        "timeSec": 88,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 23,
+        "timeSec": 92,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 24,
+        "timeSec": 96,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 25,
+        "timeSec": 100,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 26,
+        "timeSec": 104,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 27,
+        "timeSec": 108,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 28,
+        "timeSec": 112,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 29,
+        "timeSec": 116,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "inlineCount": 6,
+    "inlineIndices": [
+      0,
+      6,
+      12,
+      17,
+      23,
+      29
+    ],
+    "summary": "7:16 · 768×576 · 30fps · has audio\nSpeech (whisper.cpp, 113 segs): “最近我用Traywork做了一套德州酒館應用 一個經營後台三個小程序再加一套電視賽事大品 大家先看一下成品效果 顧客用小程序點單和看賽事 服務員處理房台庫存和套餐和銷 老闆在後台管經營配置賽事現場還有計時中控和電視大品 五個端議起工作時數據最容易各走各的 訂單、會員、庫存和賽事狀態都需要回到同一套後端模型 先把這層關係裡清業面才不會越做越亂 Traywork的三個模式供用一個項目 work收住材料和任務、Design整理結構、流程和圓形…”\n30 keyframe(s) extracted\n1 warning(s)",
+    "info": {
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7673800813513022867.mp4",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7673800813513022867.mp4",
+      "sourceKind": "local",
+      "durationSec": 436.417,
+      "width": 768,
+      "height": 576,
+      "fps": 30,
+      "videoCodec": "hevc",
+      "audioCodec": "aac",
+      "hasAudio": true,
+      "hasVideo": true,
+      "bitrate": 147225,
+      "sizeBytes": 8031450,
+      "formatName": "mov,mp4 (AVFoundation adapter)"
+    },
+    "ocrHitCount": 0,
+    "ocr": [],
+    "transcript": {
+      "source": "whisper.cpp",
+      "language": "zh",
+      "segmentCount": 113,
+      "fullText": "最近我用Traywork做了一套德州酒館應用 一個經營後台三個小程序再加一套電視賽事大品 大家先看一下成品效果 顧客用小程序點單和看賽事 服務員處理房台庫存和套餐和銷 老闆在後台管經營配置賽事現場還有計時中控和電視大品 五個端議起工作時數據最容易各走各的 訂單、會員、庫存和賽事狀態都需要回到同一套後端模型 先把這層關係裡清業面才不會越做越亂 Traywork的三個模式供用一個項目 work收住材料和任務、Design整理結構、流程和圓形 code接著進入真實倉庫做分析和驗證 這次我主要走Design和code 進入Design後我先第一產品 業務目標使用角色系統編輯和驗收場景會先寫清楚 多端項目裡單個頁面做的再漂亮狀態對不上也沒法用 這是TrayworkDesign的無限劃部 產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡 往下討論某個頁面時前面的關係還在 這份需求我按司類約束來寫 先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼 訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制 這張產品全景圖先劃系統編輯 顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經 營配置 訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一 第二張圖處理完整的經營流程 顧客從貨客初點進入 下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累 後續觸達又把顧客帶回下一次消費,這個循環才算接上 經營流程確定以後,我在把核心對象的狀態寫明白 訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗 重複使用、月權或者狀態不對,系統要返回明確結果 規則收住以後開始看顧客端原型 首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶 套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找 現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地 這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層 錄平你的首頁、酒水點單和賽事頁面都可以打開 服務員端會按照營業現場重新排 房台、核銷和庫存這些高品任務放到手邊 設計會員訂單和庫存變更時,介面要先確認操作對象 失敗以後也要告訴服務員下一步怎麼處理 這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點 當前畫面能確認入口和頁面結構已經落地 騷馬以後,怎樣寫回狀態、後台怎樣留下記錄 我會放到同一瓶訂單的完整燕收禮展示 電視大平要先解決遠距離讀數 到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置 裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息 這張大平原型先確定三個關鍵點 到即時是絕對視覺中心,級別和忙著放在穩定矛點 連接狀態保持明確 層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則 跑起來以後,我會繼續檢查三個點 數字變化時有沒有跳位,狀態更新後能不能一眼定位 連接異常時有沒有明確反饋 動態效果只有在不影響讀數時才會保留 需要改某個頁面時,我會把頁面放回對話 並說明操作對象,當前狀態,使用場景和預期結果 到第三案收戀時,留下的是系統編界 狀態規則,交互方案和驗收條件 這些內容可以繼續交給扣的 切到扣的以後,我先明確一個要求 指讀分析,暫時不要修改 面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型 接口和全線位置,再決定改哪裡 我會讓扣的先回答四個問題 項目怎樣啟動,前後端入口在哪裡 核心模塊和公共依賴怎樣組織 訂單、會員和賽事的數據放在哪裡 接口、全線和環境配置,又會影響哪些端 分析證文裡,TrayWork先識別技術站和各端結構 後端、管理端和UNIAPP雙端都已經有大量代碼 他將這個倉庫判斷為存量項目 後續先控制改動面 任務拆解裡,微信與支付配置、雙租戶灰度 真機掃碼和發布門鏡被放進P0 訂單和庫存等業務增強留在P1 這個順序看的是依賴和發布風險 誰會擋住連條,誰就先處理 真正開工時,我會先選一條最短的縱向切片 顧客端創建測試訂單、服務員端完成合銷、後台核對紀錄 一次改動同時穿過業面、接口、狀態和全線 問題落在哪一層會更清楚 每一輪改動都用同一個順序 先保存當前機線,只改任務設計的最小文件集合 然後跑構建、類型檢查和測試 最後再用同一筆訂單、核對對象、狀態、操作人和時間 命令通過只說明代碼曾過關,業務還要單獨驗 這次現有素材紀錄到了Design結果 Code的倉庫分析和任務拆解 真實代碼Deaf、構建結果 還有同一筆訂單的跨端驗收 我會按剛才的標準繼續錄完整 再回頭看一次成品 一個後台,三個小程序和電視大平 現在已經有了清楚的角色分工和驗面結構 下一步就按那條訂單主線 把改動和驗收一向向錄出來 我最看重Traywork 因為設計決策可以留在同一個項目裡繼續進入Code 它幫我讀材料、整理結構和拆任務 範圍怎麼訂、數據怎麼保護 結果算不算通過 還是由項目負責人判斷 如果你也再做一個多端項目 可以先把角色、對象、狀態和驗收場景講清楚 再讓底子按出方案 最後進Code 德州酒館後面的真實Deaf和完整聯調 我會繼續錄 想看下一集記得關注",
+      "segments": [
+        {
+          "start": 0,
+          "end": 4.08,
+          "text": "最近我用Traywork做了一套德州酒館應用"
+        },
+        {
+          "start": 4.08,
+          "end": 9.24,
+          "text": "一個經營後台三個小程序再加一套電視賽事大品"
+        },
+        {
+          "start": 9.24,
+          "end": 11.6,
+          "text": "大家先看一下成品效果"
+        },
+        {
+          "start": 11.6,
+          "end": 14.92,
+          "text": "顧客用小程序點單和看賽事"
+        },
+        {
+          "start": 14.92,
+          "end": 18.8,
+          "text": "服務員處理房台庫存和套餐和銷"
+        },
+        {
+          "start": 18.8,
+          "end": 24.16,
+          "text": "老闆在後台管經營配置賽事現場還有計時中控和電視大品"
+        },
+        {
+          "start": 24.16,
+          "end": 28.2,
+          "text": "五個端議起工作時數據最容易各走各的"
+        },
+        {
+          "start": 28.2,
+          "end": 34.44,
+          "text": "訂單、會員、庫存和賽事狀態都需要回到同一套後端模型"
+        },
+        {
+          "start": 34.44,
+          "end": 38.32,
+          "text": "先把這層關係裡清業面才不會越做越亂"
+        },
+        {
+          "start": 38.32,
+          "end": 41.36,
+          "text": "Traywork的三個模式供用一個項目"
+        },
+        {
+          "start": 41.36,
+          "end": 46.6,
+          "text": "work收住材料和任務、Design整理結構、流程和圓形"
+        },
+        {
+          "start": 46.6,
+          "end": 50.36,
+          "text": "code接著進入真實倉庫做分析和驗證"
+        },
+        {
+          "start": 50.36,
+          "end": 53.2,
+          "text": "這次我主要走Design和code"
+        },
+        {
+          "start": 53.2,
+          "end": 56.24,
+          "text": "進入Design後我先第一產品"
+        },
+        {
+          "start": 56.24,
+          "end": 61.72,
+          "text": "業務目標使用角色系統編輯和驗收場景會先寫清楚"
+        },
+        {
+          "start": 61.72,
+          "end": 66.8,
+          "text": "多端項目裡單個頁面做的再漂亮狀態對不上也沒法用"
+        },
+        {
+          "start": 66.8,
+          "end": 69.6,
+          "text": "這是TrayworkDesign的無限劃部"
+        },
+        {
+          "start": 69.6,
+          "end": 77.68,
+          "text": "產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡"
+        },
+        {
+          "start": 77.68,
+          "end": 81.28,
+          "text": "往下討論某個頁面時前面的關係還在"
+        },
+        {
+          "start": 81.28,
+          "end": 84.08,
+          "text": "這份需求我按司類約束來寫"
+        },
+        {
+          "start": 84.08,
+          "end": 89.08,
+          "text": "先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼"
+        },
+        {
+          "start": 89.08,
+          "end": 96.16,
+          "text": "訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制"
+        },
+        {
+          "start": 96.16,
+          "end": 99.47999999999999,
+          "text": "這張產品全景圖先劃系統編輯"
+        },
+        {
+          "start": 99.47999999999999,
+          "end": 108.12,
+          "text": "顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經"
+        },
+        {
+          "start": 108.12,
+          "end": 108.75999999999999,
+          "text": "營配置"
+        },
+        {
+          "start": 108.75999999999999,
+          "end": 115.8,
+          "text": "訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一"
+        },
+        {
+          "start": 115.8,
+          "end": 118.88,
+          "text": "第二張圖處理完整的經營流程"
+        },
+        {
+          "start": 118.88,
+          "end": 121.16,
+          "text": "顧客從貨客初點進入"
+        },
+        {
+          "start": 121.16,
+          "end": 128.88,
+          "text": "下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累"
+        },
+        {
+          "start": 128.88,
+          "end": 133.84,
+          "text": "後續觸達又把顧客帶回下一次消費,這個循環才算接上"
+        },
+        {
+          "start": 133.84,
+          "end": 138.04,
+          "text": "經營流程確定以後,我在把核心對象的狀態寫明白"
+        },
+        {
+          "start": 138.04,
+          "end": 145.24,
+          "text": "訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗"
+        },
+        {
+          "start": 145.24,
+          "end": 150.72,
+          "text": "重複使用、月權或者狀態不對,系統要返回明確結果"
+        },
+        {
+          "start": 150.72,
+          "end": 154.32,
+          "text": "規則收住以後開始看顧客端原型"
+        },
+        {
+          "start": 154.32,
+          "end": 160.4,
+          "text": "首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶"
+        },
+        {
+          "start": 160.4,
+          "end": 166.28,
+          "text": "套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找"
+        },
+        {
+          "start": 166.28,
+          "end": 171.84,
+          "text": "現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地"
+        },
+        {
+          "start": 171.84,
+          "end": 178.72,
+          "text": "這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層"
+        },
+        {
+          "start": 178.72,
+          "end": 183.2,
+          "text": "錄平你的首頁、酒水點單和賽事頁面都可以打開"
+        },
+        {
+          "start": 183.2,
+          "end": 186.24,
+          "text": "服務員端會按照營業現場重新排"
+        },
+        {
+          "start": 186.24,
+          "end": 190.48,
+          "text": "房台、核銷和庫存這些高品任務放到手邊"
+        },
+        {
+          "start": 190.48,
+          "end": 195.84,
+          "text": "設計會員訂單和庫存變更時,介面要先確認操作對象"
+        },
+        {
+          "start": 195.84,
+          "end": 199.36,
+          "text": "失敗以後也要告訴服務員下一步怎麼處理"
+        },
+        {
+          "start": 199.36,
+          "end": 204.88,
+          "text": "這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點"
+        },
+        {
+          "start": 204.88,
+          "end": 208.96,
+          "text": "當前畫面能確認入口和頁面結構已經落地"
+        },
+        {
+          "start": 208.96,
+          "end": 212.8,
+          "text": "騷馬以後,怎樣寫回狀態、後台怎樣留下記錄"
+        },
+        {
+          "start": 212.8,
+          "end": 216.04,
+          "text": "我會放到同一瓶訂單的完整燕收禮展示"
+        },
+        {
+          "start": 216.04,
+          "end": 219.32,
+          "text": "電視大平要先解決遠距離讀數"
+        },
+        {
+          "start": 219.32,
+          "end": 225.16,
+          "text": "到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置"
+        },
+        {
+          "start": 225.16,
+          "end": 229.96,
+          "text": "裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息"
+        },
+        {
+          "start": 229.96,
+          "end": 233.24,
+          "text": "這張大平原型先確定三個關鍵點"
+        },
+        {
+          "start": 233.24,
+          "end": 237.72,
+          "text": "到即時是絕對視覺中心,級別和忙著放在穩定矛點"
+        },
+        {
+          "start": 237.72,
+          "end": 239.88,
+          "text": "連接狀態保持明確"
+        },
+        {
+          "start": 239.88,
+          "end": 245.96,
+          "text": "層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則"
+        },
+        {
+          "start": 245.96,
+          "end": 249.2,
+          "text": "跑起來以後,我會繼續檢查三個點"
+        },
+        {
+          "start": 249.2,
+          "end": 253.8,
+          "text": "數字變化時有沒有跳位,狀態更新後能不能一眼定位"
+        },
+        {
+          "start": 253.8,
+          "end": 256.48,
+          "text": "連接異常時有沒有明確反饋"
+        },
+        {
+          "start": 256.48,
+          "end": 260.16,
+          "text": "動態效果只有在不影響讀數時才會保留"
+        },
+        {
+          "start": 260.16,
+          "end": 263.52,
+          "text": "需要改某個頁面時,我會把頁面放回對話"
+        },
+        {
+          "start": 263.52,
+          "end": 268.08,
+          "text": "並說明操作對象,當前狀態,使用場景和預期結果"
+        },
+        {
+          "start": 268.08,
+          "end": 271.28,
+          "text": "到第三案收戀時,留下的是系統編界"
+        },
+        {
+          "start": 271.28,
+          "end": 274.76,
+          "text": "狀態規則,交互方案和驗收條件"
+        },
+        {
+          "start": 274.76,
+          "end": 277.48,
+          "text": "這些內容可以繼續交給扣的"
+        },
+        {
+          "start": 277.48,
+          "end": 280.92,
+          "text": "切到扣的以後,我先明確一個要求"
+        },
+        {
+          "start": 280.92,
+          "end": 283.8,
+          "text": "指讀分析,暫時不要修改"
+        },
+        {
+          "start": 283.8,
+          "end": 289.52,
+          "text": "面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型"
+        },
+        {
+          "start": 289.52,
+          "end": 292.48,
+          "text": "接口和全線位置,再決定改哪裡"
+        },
+        {
+          "start": 292.48,
+          "end": 295.32,
+          "text": "我會讓扣的先回答四個問題"
+        },
+        {
+          "start": 295.32,
+          "end": 298.52,
+          "text": "項目怎樣啟動,前後端入口在哪裡"
+        },
+        {
+          "start": 298.52,
+          "end": 301.64,
+          "text": "核心模塊和公共依賴怎樣組織"
+        },
+        {
+          "start": 301.64,
+          "end": 305.28,
+          "text": "訂單、會員和賽事的數據放在哪裡"
+        },
+        {
+          "start": 305.28,
+          "end": 309.52,
+          "text": "接口、全線和環境配置,又會影響哪些端"
+        },
+        {
+          "start": 309.52,
+          "end": 313.8,
+          "text": "分析證文裡,TrayWork先識別技術站和各端結構"
+        },
+        {
+          "start": 313.8,
+          "end": 318.6,
+          "text": "後端、管理端和UNIAPP雙端都已經有大量代碼"
+        },
+        {
+          "start": 318.6,
+          "end": 321.56,
+          "text": "他將這個倉庫判斷為存量項目"
+        },
+        {
+          "start": 321.56,
+          "end": 323.56,
+          "text": "後續先控制改動面"
+        },
+        {
+          "start": 323.56,
+          "end": 327.72,
+          "text": "任務拆解裡,微信與支付配置、雙租戶灰度"
+        },
+        {
+          "start": 327.72,
+          "end": 330.92,
+          "text": "真機掃碼和發布門鏡被放進P0"
+        },
+        {
+          "start": 330.92,
+          "end": 334.28,
+          "text": "訂單和庫存等業務增強留在P1"
+        },
+        {
+          "start": 334.28,
+          "end": 337.04,
+          "text": "這個順序看的是依賴和發布風險"
+        },
+        {
+          "start": 337.04,
+          "end": 340.12,
+          "text": "誰會擋住連條,誰就先處理"
+        },
+        {
+          "start": 340.12,
+          "end": 344.44,
+          "text": "真正開工時,我會先選一條最短的縱向切片"
+        },
+        {
+          "start": 344.44,
+          "end": 349.92,
+          "text": "顧客端創建測試訂單、服務員端完成合銷、後台核對紀錄"
+        },
+        {
+          "start": 349.92,
+          "end": 353.84000000000003,
+          "text": "一次改動同時穿過業面、接口、狀態和全線"
+        },
+        {
+          "start": 353.84000000000003,
+          "end": 356.36,
+          "text": "問題落在哪一層會更清楚"
+        },
+        {
+          "start": 356.36,
+          "end": 359.2,
+          "text": "每一輪改動都用同一個順序"
+        },
+        {
+          "start": 359.2,
+          "end": 363.52,
+          "text": "先保存當前機線,只改任務設計的最小文件集合"
+        },
+        {
+          "start": 363.52,
+          "end": 366.64,
+          "text": "然後跑構建、類型檢查和測試"
+        },
+        {
+          "start": 366.64,
+          "end": 371.68,
+          "text": "最後再用同一筆訂單、核對對象、狀態、操作人和時間"
+        },
+        {
+          "start": 371.68,
+          "end": 376.2,
+          "text": "命令通過只說明代碼曾過關,業務還要單獨驗"
+        },
+        {
+          "start": 376.2,
+          "end": 379.08,
+          "text": "這次現有素材紀錄到了Design結果"
+        },
+        {
+          "start": 379.08,
+          "end": 381.84,
+          "text": "Code的倉庫分析和任務拆解"
+        },
+        {
+          "start": 381.84,
+          "end": 384.24,
+          "text": "真實代碼Deaf、構建結果"
+        },
+        {
+          "start": 384.24,
+          "end": 386.44,
+          "text": "還有同一筆訂單的跨端驗收"
+        },
+        {
+          "start": 386.44,
+          "end": 389.28,
+          "text": "我會按剛才的標準繼續錄完整"
+        },
+        {
+          "start": 389.28,
+          "end": 391.44,
+          "text": "再回頭看一次成品"
+        },
+        {
+          "start": 391.44,
+          "end": 394.64,
+          "text": "一個後台,三個小程序和電視大平"
+        },
+        {
+          "start": 394.64,
+          "end": 398.44,
+          "text": "現在已經有了清楚的角色分工和驗面結構"
+        },
+        {
+          "start": 398.44,
+          "end": 400.64,
+          "text": "下一步就按那條訂單主線"
+        },
+        {
+          "start": 400.64,
+          "end": 403.64,
+          "text": "把改動和驗收一向向錄出來"
+        },
+        {
+          "start": 403.64,
+          "end": 405.4,
+          "text": "我最看重Traywork"
+        },
+        {
+          "start": 405.4,
+          "end": 409.44,
+          "text": "因為設計決策可以留在同一個項目裡繼續進入Code"
+        },
+        {
+          "start": 409.44,
+          "end": 413.04,
+          "text": "它幫我讀材料、整理結構和拆任務"
+        },
+        {
+          "start": 413.04,
+          "end": 415.44,
+          "text": "範圍怎麼訂、數據怎麼保護"
+        },
+        {
+          "start": 415.44,
+          "end": 417.04,
+          "text": "結果算不算通過"
+        },
+        {
+          "start": 417.04,
+          "end": 419.44,
+          "text": "還是由項目負責人判斷"
+        },
+        {
+          "start": 419.44,
+          "end": 421.64,
+          "text": "如果你也再做一個多端項目"
+        },
+        {
+          "start": 421.64,
+          "end": 426.04,
+          "text": "可以先把角色、對象、狀態和驗收場景講清楚"
+        },
+        {
+          "start": 426.04,
+          "end": 427.64,
+          "text": "再讓底子按出方案"
+        },
+        {
+          "start": 427.64,
+          "end": 429.24,
+          "text": "最後進Code"
+        },
+        {
+          "start": 429.24,
+          "end": 432.44,
+          "text": "德州酒館後面的真實Deaf和完整聯調"
+        },
+        {
+          "start": 432.44,
+          "end": 434.04,
+          "text": "我會繼續錄"
+        },
+        {
+          "start": 434.04,
+          "end": 436.24,
+          "text": "想看下一集記得關注"
+        }
+      ]
+    },
+    "warnings": [
+      "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+    ],
+    "detail": "detailed",
+    "elapsedMs": 44018,
+    "timeline": [
+      {
+        "timeSec": 0,
+        "kind": "frame",
+        "text": "Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0001.jpg"
+      },
+      {
+        "timeSec": 0,
+        "kind": "speech",
+        "text": "最近我用Traywork做了一套德州酒館應用"
+      },
+      {
+        "timeSec": 4,
+        "kind": "frame",
+        "text": "Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0002.jpg"
+      },
+      {
+        "timeSec": 4.08,
+        "kind": "speech",
+        "text": "一個經營後台三個小程序再加一套電視賽事大品"
+      },
+      {
+        "timeSec": 8,
+        "kind": "frame",
+        "text": "Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0003.jpg"
+      },
+      {
+        "timeSec": 9.24,
+        "kind": "speech",
+        "text": "大家先看一下成品效果"
+      },
+      {
+        "timeSec": 11.6,
+        "kind": "speech",
+        "text": "顧客用小程序點單和看賽事"
+      },
+      {
+        "timeSec": 12,
+        "kind": "frame",
+        "text": "Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0004.jpg"
+      },
+      {
+        "timeSec": 14.92,
+        "kind": "speech",
+        "text": "服務員處理房台庫存和套餐和銷"
+      },
+      {
+        "timeSec": 16,
+        "kind": "frame",
+        "text": "Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0005.jpg"
+      },
+      {
+        "timeSec": 18.8,
+        "kind": "speech",
+        "text": "老闆在後台管經營配置賽事現場還有計時中控和電視大品"
+      },
+      {
+        "timeSec": 20,
+        "kind": "frame",
+        "text": "Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0006.jpg"
+      },
+      {
+        "timeSec": 24,
+        "kind": "frame",
+        "text": "Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0007.jpg"
+      },
+      {
+        "timeSec": 24.16,
+        "kind": "speech",
+        "text": "五個端議起工作時數據最容易各走各的"
+      },
+      {
+        "timeSec": 28,
+        "kind": "frame",
+        "text": "Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0008.jpg"
+      },
+      {
+        "timeSec": 28.2,
+        "kind": "speech",
+        "text": "訂單、會員、庫存和賽事狀態都需要回到同一套後端模型"
+      },
+      {
+        "timeSec": 32,
+        "kind": "frame",
+        "text": "Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0009.jpg"
+      },
+      {
+        "timeSec": 34.44,
+        "kind": "speech",
+        "text": "先把這層關係裡清業面才不會越做越亂"
+      },
+      {
+        "timeSec": 36,
+        "kind": "frame",
+        "text": "Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0010.jpg"
+      },
+      {
+        "timeSec": 38.32,
+        "kind": "speech",
+        "text": "Traywork的三個模式供用一個項目"
+      },
+      {
+        "timeSec": 40,
+        "kind": "frame",
+        "text": "Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0011.jpg"
+      },
+      {
+        "timeSec": 41.36,
+        "kind": "speech",
+        "text": "work收住材料和任務、Design整理結構、流程和圓形"
+      },
+      {
+        "timeSec": 44,
+        "kind": "frame",
+        "text": "Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0012.jpg"
+      },
+      {
+        "timeSec": 46.6,
+        "kind": "speech",
+        "text": "code接著進入真實倉庫做分析和驗證"
+      },
+      {
+        "timeSec": 48,
+        "kind": "frame",
+        "text": "Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0013.jpg"
+      },
+      {
+        "timeSec": 50.36,
+        "kind": "speech",
+        "text": "這次我主要走Design和code"
+      },
+      {
+        "timeSec": 52,
+        "kind": "frame",
+        "text": "Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0014.jpg"
+      },
+      {
+        "timeSec": 53.2,
+        "kind": "speech",
+        "text": "進入Design後我先第一產品"
+      },
+      {
+        "timeSec": 56,
+        "kind": "frame",
+        "text": "Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0015.jpg"
+      },
+      {
+        "timeSec": 56.24,
+        "kind": "speech",
+        "text": "業務目標使用角色系統編輯和驗收場景會先寫清楚"
+      },
+      {
+        "timeSec": 60,
+        "kind": "frame",
+        "text": "Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0016.jpg"
+      },
+      {
+        "timeSec": 61.72,
+        "kind": "speech",
+        "text": "多端項目裡單個頁面做的再漂亮狀態對不上也沒法用"
+      },
+      {
+        "timeSec": 64,
+        "kind": "frame",
+        "text": "Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0017.jpg"
+      },
+      {
+        "timeSec": 66.8,
+        "kind": "speech",
+        "text": "這是TrayworkDesign的無限劃部"
+      },
+      {
+        "timeSec": 68,
+        "kind": "frame",
+        "text": "Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0018.jpg"
+      },
+      {
+        "timeSec": 69.6,
+        "kind": "speech",
+        "text": "產品全景業務流程、顧客端、服務員端、賽事中控和大品圓形都能留在同一個劃部裡"
+      },
+      {
+        "timeSec": 72,
+        "kind": "frame",
+        "text": "Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0019.jpg"
+      },
+      {
+        "timeSec": 76,
+        "kind": "frame",
+        "text": "Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0020.jpg"
+      },
+      {
+        "timeSec": 77.68,
+        "kind": "speech",
+        "text": "往下討論某個頁面時前面的關係還在"
+      },
+      {
+        "timeSec": 80,
+        "kind": "frame",
+        "text": "Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0021.jpg"
+      },
+      {
+        "timeSec": 81.28,
+        "kind": "speech",
+        "text": "這份需求我按司類約束來寫"
+      },
+      {
+        "timeSec": 84,
+        "kind": "frame",
+        "text": "Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0022.jpg"
+      },
+      {
+        "timeSec": 84.08,
+        "kind": "speech",
+        "text": "先說清要解決什麼頁務在規定每個角色能讀什麼能改什麼"
+      },
+      {
+        "timeSec": 88,
+        "kind": "frame",
+        "text": "Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0023.jpg"
+      },
+      {
+        "timeSec": 89.08,
+        "kind": "speech",
+        "text": "訂單和賽事這些核心對象怎樣變化也會帶上現場操作和遠距離觀看的限制"
+      },
+      {
+        "timeSec": 92,
+        "kind": "frame",
+        "text": "Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0024.jpg"
+      },
+      {
+        "timeSec": 96,
+        "kind": "frame",
+        "text": "Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0025.jpg"
+      },
+      {
+        "timeSec": 96.16,
+        "kind": "speech",
+        "text": "這張產品全景圖先劃系統編輯"
+      },
+      {
+        "timeSec": 99.47999999999999,
+        "kind": "speech",
+        "text": "顧客端負責消費、服務員端負責門店作業、中共負責賽事控制、大品負責展示、後台負責經"
+      },
+      {
+        "timeSec": 100,
+        "kind": "frame",
+        "text": "Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0026.jpg"
+      },
+      {
+        "timeSec": 104,
+        "kind": "frame",
+        "text": "Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0027.jpg"
+      },
+      {
+        "timeSec": 108,
+        "kind": "frame",
+        "text": "Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0028.jpg"
+      },
+      {
+        "timeSec": 108.12,
+        "kind": "speech",
+        "text": "營配置"
+      },
+      {
+        "timeSec": 108.75999999999999,
+        "kind": "speech",
+        "text": "訂單、會員、庫存和賽事狀態都落在共享後端、讀寫權限也從這裡統一"
+      },
+      {
+        "timeSec": 112,
+        "kind": "frame",
+        "text": "Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0029.jpg"
+      },
+      {
+        "timeSec": 115.8,
+        "kind": "speech",
+        "text": "第二張圖處理完整的經營流程"
+      },
+      {
+        "timeSec": 116,
+        "kind": "frame",
+        "text": "Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/89b12f08a72b6ed5/interval/frame_0030.jpg"
+      },
+      {
+        "timeSec": 118.88,
+        "kind": "speech",
+        "text": "顧客從貨客初點進入"
+      },
+      {
+        "timeSec": 121.16,
+        "kind": "speech",
+        "text": "下單、約酒或者報名、盜店和消以後發生消費、積分、存酒和會員信息繼續積累"
+      },
+      {
+        "timeSec": 128.88,
+        "kind": "speech",
+        "text": "後續觸達又把顧客帶回下一次消費,這個循環才算接上"
+      },
+      {
+        "timeSec": 133.84,
+        "kind": "speech",
+        "text": "經營流程確定以後,我在把核心對象的狀態寫明白"
+      },
+      {
+        "timeSec": 138.04,
+        "kind": "speech",
+        "text": "訂單從創建到代核銷,再到以核銷,每一次變化都要有出發條件和權限教驗"
+      },
+      {
+        "timeSec": 145.24,
+        "kind": "speech",
+        "text": "重複使用、月權或者狀態不對,系統要返回明確結果"
+      },
+      {
+        "timeSec": 150.72,
+        "kind": "speech",
+        "text": "規則收住以後開始看顧客端原型"
+      },
+      {
+        "timeSec": 154.32,
+        "kind": "speech",
+        "text": "首頁先建立酒館和賽事的氣氛,再把點單、會員和賽事入口放到第一瓶"
+      },
+      {
+        "timeSec": 160.4,
+        "kind": "speech",
+        "text": "套餐內容、價格和操作按鈕放在同一個視野裡,用戶不用來回找"
+      },
+      {
+        "timeSec": 166.28,
+        "kind": "speech",
+        "text": "現在跑起來的顧客端,可以直接檢查底在裡的信息結構有沒有落地"
+      },
+      {
+        "timeSec": 171.84,
+        "kind": "speech",
+        "text": "這裡看的是用戶從首頁進入點單或者賽事時,路徑能不能接上,信息有沒有斷層"
+      },
+      {
+        "timeSec": 178.72,
+        "kind": "speech",
+        "text": "錄平你的首頁、酒水點單和賽事頁面都可以打開"
+      },
+      {
+        "timeSec": 183.2,
+        "kind": "speech",
+        "text": "服務員端會按照營業現場重新排"
+      },
+      {
+        "timeSec": 186.24,
+        "kind": "speech",
+        "text": "房台、核銷和庫存這些高品任務放到手邊"
+      },
+      {
+        "timeSec": 190.48,
+        "kind": "speech",
+        "text": "設計會員訂單和庫存變更時,介面要先確認操作對象"
+      },
+      {
+        "timeSec": 195.84,
+        "kind": "speech",
+        "text": "失敗以後也要告訴服務員下一步怎麼處理"
+      },
+      {
+        "timeSec": 199.36,
+        "kind": "speech",
+        "text": "這段錄頻裡可以看到工作台、套餐核銷、房台和庫存盤點"
+      },
+      {
+        "timeSec": 204.88,
+        "kind": "speech",
+        "text": "當前畫面能確認入口和頁面結構已經落地"
+      },
+      {
+        "timeSec": 208.96,
+        "kind": "speech",
+        "text": "騷馬以後,怎樣寫回狀態、後台怎樣留下記錄"
+      },
+      {
+        "timeSec": 212.8,
+        "kind": "speech",
+        "text": "我會放到同一瓶訂單的完整燕收禮展示"
+      },
+      {
+        "timeSec": 216.04,
+        "kind": "speech",
+        "text": "電視大平要先解決遠距離讀數"
+      },
+      {
+        "timeSec": 219.32,
+        "kind": "speech",
+        "text": "到即時佔據視覺中心,當前級別和忙著長期固定在穩定位置"
+      },
+      {
+        "timeSec": 225.16,
+        "kind": "speech",
+        "text": "裝飾負責建立氣氛,不能干擾比賽過程中最重要的信息"
+      },
+      {
+        "timeSec": 229.96,
+        "kind": "speech",
+        "text": "這張大平原型先確定三個關鍵點"
+      },
+      {
+        "timeSec": 233.24,
+        "kind": "speech",
+        "text": "到即時是絕對視覺中心,級別和忙著放在穩定矛點"
+      },
+      {
+        "timeSec": 237.72,
+        "kind": "speech",
+        "text": "連接狀態保持明確"
+      },
+      {
+        "timeSec": 239.88,
+        "kind": "speech",
+        "text": "層級確認以後,再處理自體、兼具和不同電視尺寸下的響應規則"
+      },
+      {
+        "timeSec": 245.96,
+        "kind": "speech",
+        "text": "跑起來以後,我會繼續檢查三個點"
+      },
+      {
+        "timeSec": 249.2,
+        "kind": "speech",
+        "text": "數字變化時有沒有跳位,狀態更新後能不能一眼定位"
+      },
+      {
+        "timeSec": 253.8,
+        "kind": "speech",
+        "text": "連接異常時有沒有明確反饋"
+      },
+      {
+        "timeSec": 256.48,
+        "kind": "speech",
+        "text": "動態效果只有在不影響讀數時才會保留"
+      },
+      {
+        "timeSec": 260.16,
+        "kind": "speech",
+        "text": "需要改某個頁面時,我會把頁面放回對話"
+      },
+      {
+        "timeSec": 263.52,
+        "kind": "speech",
+        "text": "並說明操作對象,當前狀態,使用場景和預期結果"
+      },
+      {
+        "timeSec": 268.08,
+        "kind": "speech",
+        "text": "到第三案收戀時,留下的是系統編界"
+      },
+      {
+        "timeSec": 271.28,
+        "kind": "speech",
+        "text": "狀態規則,交互方案和驗收條件"
+      },
+      {
+        "timeSec": 274.76,
+        "kind": "speech",
+        "text": "這些內容可以繼續交給扣的"
+      },
+      {
+        "timeSec": 277.48,
+        "kind": "speech",
+        "text": "切到扣的以後,我先明確一個要求"
+      },
+      {
+        "timeSec": 280.92,
+        "kind": "speech",
+        "text": "指讀分析,暫時不要修改"
+      },
+      {
+        "timeSec": 283.8,
+        "kind": "speech",
+        "text": "面對以後項目,先確認技術站、啟動入口、模塊編界、數據模型"
+      },
+      {
+        "timeSec": 289.52,
+        "kind": "speech",
+        "text": "接口和全線位置,再決定改哪裡"
+      },
+      {
+        "timeSec": 292.48,
+        "kind": "speech",
+        "text": "我會讓扣的先回答四個問題"
+      },
+      {
+        "timeSec": 295.32,
+        "kind": "speech",
+        "text": "項目怎樣啟動,前後端入口在哪裡"
+      },
+      {
+        "timeSec": 298.52,
+        "kind": "speech",
+        "text": "核心模塊和公共依賴怎樣組織"
+      }
+    ],
+    "sidecarPath": null
+  }
+}

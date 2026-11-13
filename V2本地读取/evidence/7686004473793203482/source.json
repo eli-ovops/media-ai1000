@@ -1,0 +1,43 @@
+{
+  "video_id": "7686004473793203482",
+  "url": "https://www.douyin.com/video/7686004473793203482",
+  "source_export": "/Users/USER/Downloads/download (23).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7686004473793203482.mp4",
+  "sha256": "c2331b5736bbcef7262a81eb7b78455e10173c34dafdc7bcf82f722c18daed3b",
+  "bytes": 22259419,
+  "date": "2026-10-07",
+  "page_snapshot": {
+    "author": "公与山河",
+    "title": "豆包工作实测｜从Skill到Agent，一次搞懂",
+    "published_at": "2026-09-16 17:00",
+    "likes_display": "1.8万",
+    "comments_display": "228",
+    "favorites_display": "741",
+    "shares_display": "139",
+    "plays": "UNKNOWN",
+    "verified_date": "2026-10-07"
+  },
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_ccc515815c04430cb8a543395d269602",
+      "input_jsonl_line": 2777,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_a6b03b8fbd90424ebf6883f1046fd6b9",
+      "input_jsonl_line": 2786,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_c98eff429bad43e5b675e461d7523c16",
+      "input_jsonl_line": 2793,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_a74c96b5f54544869f55bc09efe1f157",
+      "input_jsonl_line": 2798,
+      "tool": "js"
+    }
+  ]
+}

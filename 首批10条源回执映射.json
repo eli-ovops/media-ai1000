@@ -1,0 +1,422 @@
+[
+  {
+    "video_id": "7674623106060799247",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_be0acc2ca23d453a867a3fc2467a72b5",
+      "output_jsonl_line": 99,
+      "content_block_index": 2,
+      "source_section": "laomaData.body; heading through publication and comments",
+      "source_block_sha256": "2e4d0820628b852a97d99f81eea8a2b5b85f51f430728518b8d1e51aed4cac02",
+      "timestamp": "2026-10-07T02:49:18.555Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_be0acc2ca23d453a867a3fc2467a72b5",
+      "output_jsonl_line": 99,
+      "content_block_index": 2,
+      "source_section": "laomaData.video[0].duration",
+      "source_block_sha256": "2e4d0820628b852a97d99f81eea8a2b5b85f51f430728518b8d1e51aed4cac02",
+      "timestamp": "2026-10-07T02:49:18.555Z"
+    },
+    "raw_source_heading": "Ai改稿，别再说“优化一下”了！七大指令来帮忙 #ai写作工具 #ai #ai指令 #新媒体运营",
+    "normalized_source_heading": "Ai改稿，别再说“优化一下”了！七大指令来帮忙 #ai写作工具 #ai #ai指令 #新媒体运营",
+    "normalized_local_title": "Ai改稿，别再说“优化一下”了！七大指令来帮忙",
+    "observed_metadata": {
+      "likes_display": "2713",
+      "comments": "89",
+      "favorites": "4786",
+      "shares": "718",
+      "published_at": "2026-08-16 21:37"
+    },
+    "duration": 88.8,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7685352868332817707",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[0].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[0].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "AI改稿千万别再说“帮我优化一下” 这次把常用的7条改稿指令整理出来了#AI #AI办公 #提示词 #职场效率 #人工智能",
+    "normalized_source_heading": "AI改稿千万别再说“帮我优化一下” 这次把常用的7条改稿指令整理出来了#AI #AI办公 #提示词 #职场效率 #人工智能",
+    "normalized_local_title": "AI改稿千万别再说“帮我优化一下” 这次把常用的7条改稿指令整理出来了",
+    "observed_metadata": {
+      "likes_display": "7464",
+      "comments": "771",
+      "favorites": "1.2万",
+      "shares": "1677",
+      "published_at": "2026-09-14 19:34"
+    },
+    "duration": 38.010998,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7690167561530461503",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[1].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[1].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "AI写东西别只说“去掉AI味”，这7条更好用 #AI #AI写作 #AI指令 #提示词 #职场效率",
+    "normalized_source_heading": "AI写东西别只说“去掉AI味”，这7条更好用 #AI #AI写作 #AI指令 #提示词 #职场效率",
+    "normalized_local_title": "AI写东西别只说“去掉AI味”，这7条更好用",
+    "observed_metadata": {
+      "likes_display": "3215",
+      "comments": "657",
+      "favorites": "5455",
+      "shares": "1092",
+      "published_at": "2026-09-27 18:57"
+    },
+    "duration": 33.134875,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7682715455454186790",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[2].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[2].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "现在做漫剧这么简单了吗 #AI漫剧 #AI",
+    "normalized_source_heading": "现在做漫剧这么简单了吗 #AI漫剧 #AI",
+    "normalized_local_title": "现在做漫剧这么简单了吗",
+    "observed_metadata": {
+      "likes_display": "2.6万",
+      "comments": "336",
+      "favorites": "2.7万",
+      "shares": "1.1万",
+      "published_at": "2026-09-07 16:59"
+    },
+    "duration": 54.466667,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7613370565042130211",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_b18d35689baa46d68532385f02118119",
+      "output_jsonl_line": 168,
+      "content_block_index": 1,
+      "source_section": "karlTab heading/text; metadata and comments",
+      "source_block_sha256": "1c66465ddd6f4a76810395a320cb4d39e65b810a58f8df99cc9f8594e67c87ec",
+      "timestamp": "2026-10-07T02:51:06.881Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_dd95a3d51ec74d16ac023b267494cdb0",
+      "output_jsonl_line": 154,
+      "content_block_index": 1,
+      "source_section": "karlData.video[0].duration",
+      "source_block_sha256": "2123324de59d9e98a0df43bd79fa46dbfa6ba032ff1732e8366529a76a796d9c",
+      "timestamp": "2026-10-07T02:50:48.325Z"
+    },
+    "raw_source_heading": "第232集 | 20252026！10类AI工具汇总，20秒看懂！！ #AI工具 #AI设计 #AI编程 #学习 #青年创作者成长计划",
+    "normalized_source_heading": "20252026！10类AI工具汇总，20秒看懂！！ #AI工具 #AI设计 #AI编程 #学习 #青年创作者成长计划",
+    "normalized_local_title": "2025🆚2026！10类AI工具汇总，20秒看懂！！",
+    "observed_metadata": {
+      "likes_display": "18.9万",
+      "comments": "986",
+      "favorites": "15.3万",
+      "shares": "2.5万",
+      "published_at": "2026-03-04 20:07"
+    },
+    "duration": 20.533333,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7654922329579518885",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[3].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[3].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "第264集 | Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！#抖音前沿科技首发计划 #vibecoding大赏 #AI新星计划 #手搓万物 #ai工具",
+    "normalized_source_heading": "Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！#抖音前沿科技首发计划 #vibecoding大赏 #AI新星计划 #手搓万物 #ai工具",
+    "normalized_local_title": "Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！",
+    "observed_metadata": {
+      "likes_display": "4751",
+      "comments": "97",
+      "favorites": "363",
+      "shares": "133",
+      "published_at": "2026-06-24 19:28"
+    },
+    "duration": 114.358005,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7674224670610412987",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[4].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[4].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "第271集 | 9万积分横测三大AI模型，量产性价比我选它 #普通人怎么用ai #人类驯服ai大赏 #AI视频 #AI玩法 #普通人如何入门AI",
+    "normalized_source_heading": "9万积分横测三大AI模型，量产性价比我选它 #普通人怎么用ai #人类驯服ai大赏 #AI视频 #AI玩法 #普通人如何入门AI",
+    "normalized_local_title": "9万积分横测三大AI模型，量产性价比我选它",
+    "observed_metadata": {
+      "likes_display": "2536",
+      "comments": "23",
+      "favorites": "177",
+      "shares": "31",
+      "published_at": "2026-08-15 19:51"
+    },
+    "duration": 221.749002,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7674081798107926115",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_ea777ccd3685402ba14652379a56f4c3",
+      "output_jsonl_line": 161,
+      "content_block_index": 2,
+      "source_section": "video body; heading through publication and comments",
+      "source_block_sha256": "4294892d899cd08aa444f429486906f19148a5c787280f62af84a7dca4127ffe",
+      "timestamp": "2026-10-07T02:50:58.201Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_dd95a3d51ec74d16ac023b267494cdb0",
+      "output_jsonl_line": 154,
+      "content_block_index": 1,
+      "source_section": "blueData.video[0].duration",
+      "source_block_sha256": "2123324de59d9e98a0df43bd79fa46dbfa6ba032ff1732e8366529a76a796d9c",
+      "timestamp": "2026-10-07T02:50:48.325Z"
+    },
+    "raw_source_heading": "一招教你量产ai电商图 #电商运营 #干货 #ai工具",
+    "normalized_source_heading": "一招教你量产ai电商图 #电商运营 #干货 #ai工具",
+    "normalized_local_title": "一招教你量产ai电商图",
+    "observed_metadata": {
+      "likes_display": "2.0万",
+      "comments": "118",
+      "favorites": "233",
+      "shares": "172",
+      "published_at": "2026-08-15 10:36"
+    },
+    "duration": 58.7,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7668610752106551168",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[5].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[5].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "全员Skill的时代来了！ #遇事不决问豆包 #人类对豆包的开发不足百分之一 #拆解爆款视频#ai漫剧#ai短剧",
+    "normalized_source_heading": "全员Skill的时代来了！ #遇事不决问豆包 #人类对豆包的开发不足百分之一 #拆解爆款视频#ai漫剧#ai短剧",
+    "normalized_local_title": "全员Skill的时代来了！",
+    "observed_metadata": {
+      "likes_display": "3.0万",
+      "comments": "119",
+      "favorites": "396",
+      "shares": "321",
+      "published_at": "2026-07-31 16:46"
+    },
+    "duration": 133.677007,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  },
+  {
+    "video_id": "7671969297027699961",
+    "metadata_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[6].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "duration_source": {
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "call_id": "call_f55a9ae015a542239b5e1f337e0e5c2e",
+      "output_jsonl_line": 214,
+      "content_block_index": 1,
+      "source_section": "pageEvidence[6].data",
+      "source_block_sha256": "dec19841b42a5ad0e215ec0c0e88a5ccb355f02abe633486dbb4fa40f498949b",
+      "timestamp": "2026-10-07T02:52:33.714Z"
+    },
+    "raw_source_heading": "一句话就能当导演？ #ai #aigc #ai短剧生成工具",
+    "normalized_source_heading": "一句话就能当导演？ #ai #aigc #ai短剧生成工具",
+    "normalized_local_title": "一句话就能当导演？",
+    "observed_metadata": {
+      "likes_display": "2.7万",
+      "comments": "64",
+      "favorites": "172",
+      "shares": "164",
+      "published_at": "2026-08-09 17:59"
+    },
+    "duration": 65.41,
+    "checks": {
+      "likes_display": true,
+      "comments": true,
+      "favorites": true,
+      "shares": true,
+      "published_at": true,
+      "duration_match": true,
+      "title_normalized_match": true
+    },
+    "coverage": "metadata/comments only; full audiovisual remains 0"
+  }
+]

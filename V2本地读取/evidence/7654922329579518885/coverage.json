@@ -1,0 +1,864 @@
+{
+  "video_id": "7654922329579518885",
+  "standard": "V2",
+  "status": "ACCEPTED_PMO_CONTENT",
+  "source": {
+    "video_id": "7654922329579518885",
+    "url": "https://www.douyin.com/video/7654922329579518885",
+    "source_export": "/Users/USER/Downloads/download (6).mp4",
+    "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7654922329579518885.mp4",
+    "sha256": "37f33fcba2229447cd30878aca4aad5d02767d19e9c1dd8663cfd60760b75b71",
+    "bytes": 4671085,
+    "date": "2026-10-07",
+    "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "browser_calls": [
+      {
+        "call_id": "call_bc6c2973aef1423f8138e76f02c878c7",
+        "input_jsonl_line": 1271,
+        "tool": "js"
+      },
+      {
+        "call_id": "call_5RROpLmWkGEh1H2qJ9ywAMp9",
+        "input_jsonl_line": 1302,
+        "tool": "js"
+      },
+      {
+        "call_id": "call_TskFMsqHPleNhr2f00SOk2NK",
+        "input_jsonl_line": 1315,
+        "tool": "js"
+      }
+    ],
+    "page_snapshot": {
+      "title": "Seed 2.1 Pro实测，6个Agent工作流都接住了！ 火山引擎首发也是让我用上了！",
+      "author": "卡尔的AI沃茨",
+      "account_id": "88851320170",
+      "likes_display": "4751",
+      "favorites": "363",
+      "comments": "97",
+      "shares": "133",
+      "published_at": "2026-06-24 19:28"
+    },
+    "current_page_metrics_same_as_original_snapshot": true
+  },
+  "info": {
+    "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7654922329579518885.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7654922329579518885.mp4",
+    "sourceKind": "local",
+    "durationSec": 114.358,
+    "width": 576,
+    "height": 1024,
+    "fps": 30,
+    "videoCodec": "hevc",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 326769,
+    "sizeBytes": 4671085,
+    "formatName": "mov,mp4 (AVFoundation adapter)"
+  },
+  "audio": {
+    "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/audio/b7e0cff7d2b41e27/audio.wav",
+    "rate": 16000,
+    "channels": 1,
+    "samples": 1829755,
+    "duration_sec": 114.3596875,
+    "full_track_extraction": true
+  },
+  "asr": {
+    "source": "whisper.cpp",
+    "language": "zh",
+    "segmentCount": 56,
+    "fullText": "这是豆包新出的模型C2.1 Pro 这是我给它安排的6道 魔鬼测试 先看看代码和复杂编程项目的表现 丢给它一个旧项目 让它在代码里去看Ui做错误排除 可以看到最初的见面里 Ui的布局异出 已经内容的堆疊都发生了 有2.1 Pro 双头读目录 找主见改样式 四三分钟就把原来很遍忧的业面修复好了 让它充灵 新建一个网页 也是都没有啥问题的 把世界杯网站资讯的权节评 丢过去给它 就出结果了 你看 首页的赛程赛选 数据的Fullback 暗色模式都以资刑达出来了 不是单张的精彩图 实施底份也跟我们当下测试的数值是一致的 整体的使用感相当好 为了提高挑战难度 还要2.1 Pro做了一个 点球大战的小游戏 选对虚逆 设门 CVU的回合 胜负结算 都有都有 真的可以玩 虽然有一些Bug 以系列流程的排序 还需要去优化 但只经过两次铁大后 WOWTRA的结果 还是挺让人经验的 在测试看 日常使用和这次更新的重点 多摩探 这次暗点1 Pro做出来的日常报告 以及PPT 长这样 能用Dip Search来找员 来确保质量 内容完成度也都还挺高的 想要Agent来操控我们的平板手机电脑的话 它还得有一双好的眼睛 所以我要暗点1 Pro 来看一张工事配图 让它俩描述图片 以及内容 识别出来的工事都没有变形 还可以让2.1 Pro二字调整",
+    "segments": [
+      {
+        "start": 0,
+        "end": 2.32,
+        "text": "这是豆包新出的模型C2.1 Pro"
+      },
+      {
+        "start": 2.32,
+        "end": 3.84,
+        "text": "这是我给它安排的6道"
+      },
+      {
+        "start": 3.84,
+        "end": 4.96,
+        "text": "魔鬼测试"
+      },
+      {
+        "start": 4.96,
+        "end": 7.24,
+        "text": "先看看代码和复杂编程项目的表现"
+      },
+      {
+        "start": 8.48,
+        "end": 9.64,
+        "text": "丢给它一个旧项目"
+      },
+      {
+        "start": 9.64,
+        "end": 12.56,
+        "text": "让它在代码里去看Ui做错误排除"
+      },
+      {
+        "start": 12.56,
+        "end": 13.92,
+        "text": "可以看到最初的见面里"
+      },
+      {
+        "start": 13.92,
+        "end": 15.2,
+        "text": "Ui的布局异出"
+      },
+      {
+        "start": 15.2,
+        "end": 17.28,
+        "text": "已经内容的堆疊都发生了"
+      },
+      {
+        "start": 17.28,
+        "end": 19.08,
+        "text": "有2.1 Pro 双头读目录"
+      },
+      {
+        "start": 19.08,
+        "end": 20.48,
+        "text": "找主见改样式"
+      },
+      {
+        "start": 20.48,
+        "end": 23.56,
+        "text": "四三分钟就把原来很遍忧的业面修复好了"
+      },
+      {
+        "start": 23.56,
+        "end": 25.44,
+        "text": "让它充灵 新建一个网页"
+      },
+      {
+        "start": 25.44,
+        "end": 26.6,
+        "text": "也是都没有啥问题的"
+      },
+      {
+        "start": 26.6,
+        "end": 28.76,
+        "text": "把世界杯网站资讯的权节评"
+      },
+      {
+        "start": 28.76,
+        "end": 29.6,
+        "text": "丢过去给它"
+      },
+      {
+        "start": 29.6,
+        "end": 30.6,
+        "text": "就出结果了"
+      },
+      {
+        "start": 30.6,
+        "end": 31.4,
+        "text": "你看"
+      },
+      {
+        "start": 31.4,
+        "end": 34.2,
+        "text": "首页的赛程赛选"
+      },
+      {
+        "start": 34.2,
+        "end": 36.2,
+        "text": "数据的Fullback"
+      },
+      {
+        "start": 36.2,
+        "end": 38.84,
+        "text": "暗色模式都以资刑达出来了"
+      },
+      {
+        "start": 38.84,
+        "end": 41.04,
+        "text": "不是单张的精彩图"
+      },
+      {
+        "start": 41.04,
+        "end": 44.32,
+        "text": "实施底份也跟我们当下测试的数值是一致的"
+      },
+      {
+        "start": 44.32,
+        "end": 46.08,
+        "text": "整体的使用感相当好"
+      },
+      {
+        "start": 46.08,
+        "end": 47.56,
+        "text": "为了提高挑战难度"
+      },
+      {
+        "start": 47.56,
+        "end": 48.84,
+        "text": "还要2.1 Pro做了一个"
+      },
+      {
+        "start": 48.84,
+        "end": 50.32,
+        "text": "点球大战的小游戏"
+      },
+      {
+        "start": 50.32,
+        "end": 52.32,
+        "text": "选对虚逆"
+      },
+      {
+        "start": 52.32,
+        "end": 53.4,
+        "text": "设门"
+      },
+      {
+        "start": 53.4,
+        "end": 54.56,
+        "text": "CVU的回合"
+      },
+      {
+        "start": 54.56,
+        "end": 55.44,
+        "text": "胜负结算"
+      },
+      {
+        "start": 55.44,
+        "end": 56.08,
+        "text": "都有都有"
+      },
+      {
+        "start": 56.08,
+        "end": 56.84,
+        "text": "真的可以玩"
+      },
+      {
+        "start": 56.84,
+        "end": 57.88,
+        "text": "虽然有一些Bug"
+      },
+      {
+        "start": 57.88,
+        "end": 59.32,
+        "text": "以系列流程的排序"
+      },
+      {
+        "start": 59.32,
+        "end": 60.28,
+        "text": "还需要去优化"
+      },
+      {
+        "start": 60.28,
+        "end": 61.8,
+        "text": "但只经过两次铁大后"
+      },
+      {
+        "start": 61.8,
+        "end": 62.64,
+        "text": "WOWTRA的结果"
+      },
+      {
+        "start": 62.64,
+        "end": 64.04,
+        "text": "还是挺让人经验的"
+      },
+      {
+        "start": 64.04,
+        "end": 64.8,
+        "text": "在测试看"
+      },
+      {
+        "start": 64.8,
+        "end": 66.88,
+        "text": "日常使用和这次更新的重点"
+      },
+      {
+        "start": 66.88,
+        "end": 67.4,
+        "text": "多摩探"
+      },
+      {
+        "start": 67.4,
+        "end": 70.16,
+        "text": "这次暗点1 Pro做出来的日常报告"
+      },
+      {
+        "start": 71.16,
+        "end": 71.88,
+        "text": "以及PPT"
+      },
+      {
+        "start": 71.88,
+        "end": 72.76,
+        "text": "长这样"
+      },
+      {
+        "start": 74.03999999999999,
+        "end": 76.03999999999999,
+        "text": "能用Dip Search来找员"
+      },
+      {
+        "start": 76.03999999999999,
+        "end": 77.08,
+        "text": "来确保质量"
+      },
+      {
+        "start": 77.08,
+        "end": 78.88,
+        "text": "内容完成度也都还挺高的"
+      },
+      {
+        "start": 78.88,
+        "end": 81.96000000000001,
+        "text": "想要Agent来操控我们的平板手机电脑的话"
+      },
+      {
+        "start": 81.96000000000001,
+        "end": 83.6,
+        "text": "它还得有一双好的眼睛"
+      },
+      {
+        "start": 83.6,
+        "end": 84.84,
+        "text": "所以我要暗点1 Pro"
+      },
+      {
+        "start": 84.84,
+        "end": 86.52,
+        "text": "来看一张工事配图"
+      },
+      {
+        "start": 86.52,
+        "end": 87.92,
+        "text": "让它俩描述图片"
+      },
+      {
+        "start": 87.92,
+        "end": 88.84,
+        "text": "以及内容"
+      },
+      {
+        "start": 89.32,
+        "end": 91.68,
+        "text": "识别出来的工事都没有变形"
+      },
+      {
+        "start": 91.68,
+        "end": 94.32,
+        "text": "还可以让2.1 Pro二字调整"
+      }
+    ]
+  },
+  "asr_full_text_actually_read": true,
+  "asr_tail_unlabelled_sec": 20.038,
+  "asr_tail_silence": "Not silence; missing closing speech supplied by supplemental ASR",
+  "frames_generated": 50,
+  "frames_actually_read": 50,
+  "frames": [
+    {
+      "index": 0,
+      "timeSec": 0,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0001.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 1,
+      "timeSec": 3.812,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0002.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 2,
+      "timeSec": 7.624,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0003.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 3,
+      "timeSec": 11.436,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0004.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 4,
+      "timeSec": 15.248,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0005.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 5,
+      "timeSec": 19.06,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0006.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-1.jpg"
+    },
+    {
+      "index": 6,
+      "timeSec": 22.872,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0007.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 7,
+      "timeSec": 26.684,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0008.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 8,
+      "timeSec": 30.495,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0009.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 9,
+      "timeSec": 34.307,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0010.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 10,
+      "timeSec": 38.119,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0011.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 11,
+      "timeSec": 41.931,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0012.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-2.jpg"
+    },
+    {
+      "index": 12,
+      "timeSec": 45.743,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0013.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 13,
+      "timeSec": 49.555,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0014.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 14,
+      "timeSec": 53.367,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0015.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 15,
+      "timeSec": 57.179,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0016.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 16,
+      "timeSec": 60.991,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0017.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 17,
+      "timeSec": 64.803,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0018.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-3.jpg"
+    },
+    {
+      "index": 18,
+      "timeSec": 68.615,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0019.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 19,
+      "timeSec": 72.427,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0020.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 20,
+      "timeSec": 76.239,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0021.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 21,
+      "timeSec": 80.051,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0022.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 22,
+      "timeSec": 83.863,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0023.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 23,
+      "timeSec": 87.674,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0024.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-4.jpg"
+    },
+    {
+      "index": 24,
+      "timeSec": 91.486,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0025.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 25,
+      "timeSec": 95.298,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0026.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 26,
+      "timeSec": 99.11,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0027.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 27,
+      "timeSec": 102.922,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0028.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 28,
+      "timeSec": 106.734,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0029.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 29,
+      "timeSec": 110.546,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/0de2a3446f1ee16b/interval/frame_0030.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/samples-5.jpg"
+    },
+    {
+      "index": 0,
+      "timeSec": 94,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0001.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 1,
+      "timeSec": 95.0175,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0002.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 2,
+      "timeSec": 96.035,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0003.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 3,
+      "timeSec": 97.0525,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0004.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 4,
+      "timeSec": 98.07,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0005.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 5,
+      "timeSec": 99.0875,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0006.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-1.jpg"
+    },
+    {
+      "index": 6,
+      "timeSec": 100.105,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0007.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 7,
+      "timeSec": 101.1225,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0008.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 8,
+      "timeSec": 102.14,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0009.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 9,
+      "timeSec": 103.1575,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0010.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 10,
+      "timeSec": 104.175,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0011.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 11,
+      "timeSec": 105.1925,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0012.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-2.jpg"
+    },
+    {
+      "index": 12,
+      "timeSec": 106.21,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0013.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 13,
+      "timeSec": 107.22749999999999,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0014.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 14,
+      "timeSec": 108.24499999999999,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0015.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 15,
+      "timeSec": 109.26249999999999,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0016.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 16,
+      "timeSec": 110.28,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0017.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 17,
+      "timeSec": 111.2975,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0018.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-3.jpg"
+    },
+    {
+      "index": 18,
+      "timeSec": 112.315,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0019.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-4.jpg"
+    },
+    {
+      "index": 19,
+      "timeSec": 113.3325,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/80be6990d462f6b5/burst/frame_0020.jpg",
+      "mimeType": "image/jpeg",
+      "set": "ending",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/ending-4.jpg"
+    }
+  ],
+  "sampling_interval_sec": 3.812,
+  "source_and_image_read_calls": [
+    {
+      "call_id": "call_bc6c2973aef1423f8138e76f02c878c7",
+      "input_jsonl_line": 1271,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_5RROpLmWkGEh1H2qJ9ywAMp9",
+      "input_jsonl_line": 1302,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_TskFMsqHPleNhr2f00SOk2NK",
+      "input_jsonl_line": 1315,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_sG0HyVwWogDmpD8LERlymJA0",
+      "input_jsonl_line": 1456,
+      "tool": "exec"
+    },
+    {
+      "call_id": "call_8yOjIo9GhqTHVCACxLCVHXAT",
+      "input_jsonl_line": 1465,
+      "tool": "exec"
+    }
+  ],
+  "direct_complete_audiovisual": false,
+  "original_media_sha_unchanged": true,
+  "warnings": [
+    "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+  ],
+  "asr_supplements": [
+    {
+      "video_id": "7654922329579518885",
+      "parent_audio": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/audio/b7e0cff7d2b41e27/audio.wav",
+      "start_sec": 94,
+      "end_sec": 114.358,
+      "method": "lossless PCM slice; existing local whisper.cpp base zh; no upload",
+      "text": "一大人測試下來\n二點一破我更像是一個便宜穩定\n能進入A整工作流的執行性同時\n這些日常開發很內容生產場景\n除了一些EY審美和複雜的視覺產出\n還需要人來干涉\n其他都開始能穩穩接著我的\n穩穩的很貼心\n我的天啊\n這裡還有更多AI玩法\n",
+      "vtt_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7654922329579518885/asr-supplement.vtt",
+      "full_returned_text_actually_read": true,
+      "segments": 10,
+      "offset_sec": 94
+    }
+  ],
+  "asr_key_speech_missing": false,
+  "final_top10_eligibility": "PENDING",
+  "final_qualified": false,
+  "v2_content_analysis_complete": true,
+  "pmo_acceptance_source": "PMO验收-20261007.md cumulative23 / PMO source thread 01a11194-c40d-7bf0-8396-5bb5d6449444 message 2026-10-07"
+}

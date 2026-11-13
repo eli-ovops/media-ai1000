@@ -1,0 +1,864 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"info\": {\n    \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7688197064089409253.mp4\",\n    \"source\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7688197064089409253.mp4\",\n    \"sourceKind\": \"local\",\n    \"durationSec\": 86.169,\n    \"width\": 1024,\n    \"height\": 576,\n    \"fps\": 30,\n    \"videoCodec\": \"hevc\",\n    \"audioCodec\": \"aac\",\n    \"hasAudio\": true,\n    \"hasVideo\": true,\n    \"bitrate\": 179402,\n    \"sizeBytes\": 1932372,\n    \"formatName\": \"mov,mp4 (AVFoundation adapter)\"\n  },\n  \"transcript\": {\n    \"segments\": [\n      {\n        \"start\": 0,\n        \"end\": 4.12,\n        \"text\": \"兄弟们,这个开源项目能让AI直接拆解爆款视频\"\n      },\n      {\n        \"start\": 4.12,\n        \"end\": 6.48,\n        \"text\": \"再把它复刻成一份完整的Workflow\"\n      },\n      {\n        \"start\": 6.48,\n        \"end\": 9.08,\n        \"text\": \"画面,字幕,Berro,特效\"\n      },\n      {\n        \"start\": 9.08,\n        \"end\": 12.12,\n        \"text\": \"看看这些参考视频不管是动效还是效果\"\n      },\n      {\n        \"start\": 12.12,\n        \"end\": 14.6,\n        \"text\": \"都能最大程度保持原汁原味\"\n      },\n      {\n        \"start\": 14.6,\n        \"end\": 17.16,\n        \"text\": \"GETA不上已经展货1.2万型标\"\n      },\n      {\n        \"start\": 17.16,\n        \"end\": 18.44,\n        \"text\": \"安装好这个工具后\"\n      },\n      {\n        \"start\": 18.44,\n        \"end\": 20.72,\n        \"text\": \"你就可以把参考视频交给智能体\"\n      },\n      {\n        \"start\": 20.72,\n        \"end\": 22.52,\n        \"text\": \"再告诉它你想怎么改\"\n      },\n      {\n        \"start\": 22.52,\n        \"end\": 26.48,\n        \"text\": \"比如保留这条视频的排行榜形式和揭晓节奏\"\n      },\n      {\n        \"start\": 26.48,\n        \"end\": 29.56,\n        \"text\": \"但把内容换成我整理的几个AI工具\"\n      },\n      {\n        \"start\": 29.56,\n        \"end\": 31.36,\n        \"text\": \"它会自动根据你的心内容\"\n      },\n      {\n        \"start\": 31.36,\n        \"end\": 33.64,\n        \"text\": \"重新安排文案、素材和动效\"\n      },\n      {\n        \"start\": 33.64,\n        \"end\": 35.84,\n        \"text\": \"把这套表达方式做出来\"\n      },\n      {\n        \"start\": 35.84,\n        \"end\": 37.84,\n        \"text\": \"我觉得HIP的最值得关注的\"\n      },\n      {\n        \"start\": 37.84,\n        \"end\": 39.88,\n        \"text\": \"就是它处理时间轴的方式\"\n      },\n      {\n        \"start\": 39.88,\n        \"end\": 41.36,\n        \"text\": \"它可以把画面变化\"\n      },\n      {\n        \"start\": 41.36,\n        \"end\": 43.08,\n        \"text\": \"绑定到台词里的词句\"\n      },\n      {\n        \"start\": 43.08,\n        \"end\": 45.04,\n        \"text\": \"而不只是固定在第几秒\"\n      },\n      {\n        \"start\": 45.04,\n        \"end\": 47.44,\n        \"text\": \"比如,讲到某个工具的名字\"\n      },\n      {\n        \"start\": 47.44,\n        \"end\": 48.92,\n        \"text\": \"它的图片在出现\"\n      },\n      {\n        \"start\": 48.92,\n        \"end\": 51.52,\n        \"text\": \"说到最终排名排行榜才落位\"\n      },\n      {\n        \"start\": 52.52,\n        \"end\": 53.96,\n        \"text\": \"换了台词配音\"\n      },\n      {\n        \"start\": 53.96,\n        \"end\": 55.76,\n        \"text\": \"它也能按照新的口播位置\"\n      },\n      {\n        \"start\": 55.76,\n        \"end\": 57.4,\n        \"text\": \"重新安排这些动作\"\n      },\n      {\n        \"start\": 57.4,\n        \"end\": 60.4,\n        \"text\": \"官方商顾就提供了一组很直观的例子\"\n      },\n      {\n        \"start\": 60.4,\n        \"end\": 61.8,\n        \"text\": \"同样是足球排行榜\"\n      },\n      {\n        \"start\": 61.8,\n        \"end\": 63.12,\n        \"text\": \"可以换解说角色\"\n      },\n      {\n        \"start\": 63.12,\n        \"end\": 64.32,\n        \"text\": \"也可以调整排名\"\n      },\n      {\n        \"start\": 64.32,\n        \"end\": 67.44,\n        \"text\": \"还可以把球员换成科技公司的创始\"\n      },\n      {\n        \"start\": 67.44,\n        \"end\": 69.96000000000001,\n        \"text\": \"这对我这种经常介绍开源工具的主播\"\n      },\n      {\n        \"start\": 69.96000000000001,\n        \"end\": 71.16,\n        \"text\": \"就非常合适\"\n      },\n      {\n        \"start\": 71.16,\n        \"end\": 73.8,\n        \"text\": \"而且最绝的是拿到的不只是一条成片\"\n      },\n      {\n        \"start\": 73.8,\n        \"end\": 76.76,\n        \"text\": \"还有可以继续修改重新生成的工程\"\n      },\n      {\n        \"start\": 76.76,\n        \"end\": 78.8,\n        \"text\": \"已经满意的素材还可以复用\"\n      },\n      {\n        \"start\": 78.8,\n        \"end\": 81.28,\n        \"text\": \"需要变化的部分在处理\"\n      },\n      {\n        \"start\": 81.28,\n        \"end\": 82.48,\n        \"text\": \"如果你的收藏家里\"\n      },\n      {\n        \"start\": 82.48,\n        \"end\": 84.8,\n        \"text\": \"也躺着一堆一直没动手的参考视频\"\n      },\n      {\n        \"start\": 84.8,\n        \"end\": 86.08,\n        \"text\": \"可以看看这个项目\"\n      }\n    ],\n    \"language\": \"zh\",\n    \"source\": \"whisper.cpp\",\n    \"fullText\": \"兄弟们,这个开源项目能让AI直接拆解爆款视频 再把它复刻成一份完整的Workflow 画面,字幕,Berro,特效 看看这些参考视频不管是动效还是效果 都能最大程度保持原汁原味 GETA不上已经展货1.2万型标 安装好这个工具后 你就可以把参考视频交给智能体 再告诉它你想怎么改 比如保留这条视频的排行榜形式和揭晓节奏 但把内容换成我整理的几个AI工具 它会自动根据你的心内容 重新安排文案、素材和动效 把这套表达方式做出来 我觉得HIP的最值得关注的 就是它处理时间轴的方式 它可以把画面变化 绑定到台词里的词句 而不只是固定在第几秒 比如,讲到某个工具的名字 它的图片在出现 说到最终排名排行榜才落位 换了台词配音 它也能按照新的口播位置 重新安排这些动作 官方商顾就提供了一组很直观的例子 同样是足球排行榜 可以换解说角色 也可以调整排名 还可以把球员换成科技公司的创始 这对我这种经常介绍开源工具的主播 就非常合适 而且最绝的是拿到的不只是一条成片 还有可以继续修改重新生成的工程 已经满意的素材还可以复用 需要变化的部分在处理 如果你的收藏家里 也躺着一堆一直没动手的参考视频 可以看看这个项目\"\n  },\n  \"frames\": [\n    {\n      \"index\": 0,\n      \"timeSec\": 0,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 1,\n      \"timeSec\": 2.872,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 2,\n      \"timeSec\": 5.745,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 3,\n      \"timeSec\": 8.617,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 4,\n      \"timeSec\": 11.489,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 5,\n      \"timeSec\": 14.362,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 6,\n      \"timeSec\": 17.234,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 7,\n      \"timeSec\": 20.106,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 8,\n      \"timeSec\": 22.978,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 9,\n      \"timeSec\": 25.851,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 10,\n      \"timeSec\": 28.723,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 11,\n      \"timeSec\": 31.595,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 12,\n      \"timeSec\": 34.468,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 13,\n      \"timeSec\": 37.34,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 14,\n      \"timeSec\": 40.212,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 15,\n      \"timeSec\": 43.085,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 16,\n      \"timeSec\": 45.957,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 17,\n      \"timeSec\": 48.829,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 18,\n      \"timeSec\": 51.701,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 19,\n      \"timeSec\": 54.574,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 20,\n      \"timeSec\": 57.446,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 21,\n      \"timeSec\": 60.318,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 22,\n      \"timeSec\": 63.191,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 23,\n      \"timeSec\": 66.063,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 24,\n      \"timeSec\": 68.935,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 25,\n      \"timeSec\": 71.807,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 26,\n      \"timeSec\": 74.68,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 27,\n      \"timeSec\": 77.552,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 28,\n      \"timeSec\": 80.424,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 29,\n      \"timeSec\": 83.297,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    }\n  ],\n  \"timeline\": [\n    {\n      \"timeSec\": 0,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg\"\n    },\n    {\n      \"timeSec\": 0,\n      \"kind\": \"speech\",\n      \"text\": \"兄弟们,这个开源项目能让AI直接拆解爆款视频\"\n    },\n    {\n      \"timeSec\": 2.872,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg\"\n    },\n    {\n      \"timeSec\": 4.12,\n      \"kind\": \"speech\",\n      \"text\": \"再把它复刻成一份完整的Workflow\"\n    },\n    {\n      \"timeSec\": 5.745,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg\"\n    },\n    {\n      \"timeSec\": 6.48,\n      \"kind\": \"speech\",\n      \"text\": \"画面,字幕,Berro,特效\"\n    },\n    {\n      \"timeSec\": 8.617,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg\"\n    },\n    {\n      \"timeSec\": 9.08,\n      \"kind\": \"speech\",\n      \"text\": \"看看这些参考视频不管是动效还是效果\"\n    },\n    {\n      \"timeSec\": 11.489,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg\"\n    },\n    {\n      \"timeSec\": 12.12,\n      \"kind\": \"speech\",\n      \"text\": \"都能最大程度保持原汁原味\"\n    },\n    {\n      \"timeSec\": 14.362,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg\"\n    },\n    {\n      \"timeSec\": 14.6,\n      \"kind\": \"speech\",\n      \"text\": \"GETA不上已经展货1.2万型标\"\n    },\n    {\n      \"timeSec\": 17.16,\n      \"kind\": \"speech\",\n      \"text\": \"安装好这个工具后\"\n    },\n    {\n      \"timeSec\": 17.234,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg\"\n    },\n    {\n      \"timeSec\": 18.44,\n      \"kind\": \"speech\",\n      \"text\": \"你就可以把参考视频交给智能体\"\n    },\n    {\n      \"timeSec\": 20.106,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg\"\n    },\n    {\n      \"timeSec\": 20.72,\n      \"kind\": \"speech\",\n      \"text\": \"再告诉它你想怎么改\"\n    },\n    {\n      \"timeSec\": 22.52,\n      \"kind\": \"speech\",\n      \"text\": \"比如保留这条视频的排行榜形式和揭晓节奏\"\n    },\n    {\n      \"timeSec\": 22.978,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg\"\n    },\n    {\n      \"timeSec\": 25.851,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg\"\n    },\n    {\n      \"timeSec\": 26.48,\n      \"kind\": \"speech\",\n      \"text\": \"但把内容换成我整理的几个AI工具\"\n    },\n    {\n      \"timeSec\": 28.723,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg\"\n    },\n    {\n      \"timeSec\": 29.56,\n      \"kind\": \"speech\",\n      \"text\": \"它会自动根据你的心内容\"\n    },\n    {\n      \"timeSec\": 31.36,\n      \"kind\": \"speech\",\n      \"text\": \"重新安排文案、素材和动效\"\n    },\n    {\n      \"timeSec\": 31.595,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg\"\n    },\n    {\n      \"timeSec\": 33.64,\n      \"kind\": \"speech\",\n      \"text\": \"把这套表达方式做出来\"\n    },\n    {\n      \"timeSec\": 34.468,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg\"\n    },\n    {\n      \"timeSec\": 35.84,\n      \"kind\": \"speech\",\n      \"text\": \"我觉得HIP的最值得关注的\"\n    },\n    {\n      \"timeSec\": 37.34,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg\"\n    },\n    {\n      \"timeSec\": 37.84,\n      \"kind\": \"speech\",\n      \"text\": \"就是它处理时间轴的方式\"\n    },\n    {\n      \"timeSec\": 39.88,\n      \"kind\": \"speech\",\n      \"text\": \"它可以把画面变化\"\n    },\n    {\n      \"timeSec\": 40.212,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg\"\n    },\n    {\n      \"timeSec\": 41.36,\n      \"kind\": \"speech\",\n      \"text\": \"绑定到台词里的词句\"\n    },\n    {\n      \"timeSec\": 43.08,\n      \"kind\": \"speech\",\n      \"text\": \"而不只是固定在第几秒\"\n    },\n    {\n      \"timeSec\": 43.085,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg\"\n    },\n    {\n      \"timeSec\": 45.04,\n      \"kind\": \"speech\",\n      \"text\": \"比如,讲到某个工具的名字\"\n    },\n    {\n      \"timeSec\": 45.957,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg\"\n    },\n    {\n      \"timeSec\": 47.44,\n      \"kind\": \"speech\",\n      \"text\": \"它的图片在出现\"\n    },\n    {\n      \"timeSec\": 48.829,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg\"\n    },\n    {\n      \"timeSec\": 48.92,\n      \"kind\": \"speech\",\n      \"text\": \"说到最终排名排行榜才落位\"\n    },\n    {\n      \"timeSec\": 51.701,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg\"\n    },\n    {\n      \"timeSec\": 52.52,\n      \"kind\": \"speech\",\n      \"text\": \"换了台词配音\"\n    },\n    {\n      \"timeSec\": 53.96,\n      \"kind\": \"speech\",\n      \"text\": \"它也能按照新的口播位置\"\n    },\n    {\n      \"timeSec\": 54.574,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg\"\n    },\n    {\n      \"timeSec\": 55.76,\n      \"kind\": \"speech\",\n      \"text\": \"重新安排这些动作\"\n    },\n    {\n      \"timeSec\": 57.4,\n      \"kind\": \"speech\",\n      \"text\": \"官方商顾就提供了一组很直观的例子\"\n    },\n    {\n      \"timeSec\": 57.446,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg\"\n    },\n    {\n      \"timeSec\": 60.318,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg\"\n    },\n    {\n      \"timeSec\": 60.4,\n      \"kind\": \"speech\",\n      \"text\": \"同样是足球排行榜\"\n    },\n    {\n      \"timeSec\": 61.8,\n      \"kind\": \"speech\",\n      \"text\": \"可以换解说角色\"\n    },\n    {\n      \"timeSec\": 63.12,\n      \"kind\": \"speech\",\n      \"text\": \"也可以调整排名\"\n    },\n    {\n      \"timeSec\": 63.191,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg\"\n    },\n    {\n      \"timeSec\": 64.32,\n      \"kind\": \"speech\",\n      \"text\": \"还可以把球员换成科技公司的创始\"\n    },\n    {\n      \"timeSec\": 66.063,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg\"\n    },\n    {\n      \"timeSec\": 67.44,\n      \"kind\": \"speech\",\n      \"text\": \"这对我这种经常介绍开源工具的主播\"\n    },\n    {\n      \"timeSec\": 68.935,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg\"\n    },\n    {\n      \"timeSec\": 69.96000000000001,\n      \"kind\": \"speech\",\n      \"text\": \"就非常合适\"\n    },\n    {\n      \"timeSec\": 71.16,\n      \"kind\": \"speech\",\n      \"text\": \"而且最绝的是拿到的不只是一条成片\"\n    },\n    {\n      \"timeSec\": 71.807,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg\"\n    },\n    {\n      \"timeSec\": 73.8,\n      \"kind\": \"speech\",\n      \"text\": \"还有可以继续修改重新生成的工程\"\n    },\n    {\n      \"timeSec\": 74.68,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg\"\n    },\n    {\n      \"timeSec\": 76.76,\n      \"kind\": \"speech\",\n      \"text\": \"已经满意的素材还可以复用\"\n    },\n    {\n      \"timeSec\": 77.552,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg\"\n    },\n    {\n      \"timeSec\": 78.8,\n      \"kind\": \"speech\",\n      \"text\": \"需要变化的部分在处理\"\n    },\n    {\n      \"timeSec\": 80.424,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg\"\n    },\n    {\n      \"timeSec\": 81.28,\n      \"kind\": \"speech\",\n      \"text\": \"如果你的收藏家里\"\n    },\n    {\n      \"timeSec\": 82.48,\n      \"kind\": \"speech\",\n      \"text\": \"也躺着一堆一直没动手的参考视频\"\n    },\n    {\n      \"timeSec\": 83.297,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg\"\n    },\n    {\n      \"timeSec\": 84.8,\n      \"kind\": \"speech\",\n      \"text\": \"可以看看这个项目\"\n    }\n  ],\n  \"warnings\": [\n    \"ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment.\"\n  ],\n  \"detail\": \"detailed\",\n  \"elapsedMs\": 5561,\n  \"ocrHitCount\": 0,\n  \"summary\": \"1:26 · 1024×576 · 30fps · has audio\\nSpeech (whisper.cpp, 39 segs): “兄弟们,这个开源项目能让AI直接拆解爆款视频 再把它复刻成一份完整的Workflow 画面,字幕,Berro,特效 看看这些参考视频不管是动效还是效果 都能最大程度保持原汁原味 GETA不上已经展货1.2万型标 安装好这个工具后 你就可以把参考视频交给智能体 再告诉它你想怎么改 比如保留这条视频的排行榜形式和揭晓节奏 但把内容换成我整理的几个AI工具 它会自动根据你的心内容 重新安排文案、素材和动效 把这套表达方式做出来 我觉得HIP的…”\\n30 keyframe(s) extracted\\n1 warning(s)\",\n  \"sidecarPath\": null\n}"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #0 @ 0.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #6 @ 17.23s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #12 @ 34.47s"
+    },
+    {
+      "type": "image",
+      "data": "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J63rJ/8A0nvgH+va7v4nDulNiFnXj9l//dVHwD08az+knvgH+vZ/SSmxB1YfZ/uodD7DPdza6nXr2+2eRDnASOJ9MZPefTEQPMk8ek9yTxOnTs9kRA93N3n0zzJ7zEQPJ5NogaxNogaxNogaxNogaxNogaxNogaxNogaxNtJ5A8iIgJ9Jcp/4fTfix9pnzdPovlXifIU2LeR4Y13qOJ4Txfffox/y/Z1eK6t+SuX9+z7vO7I6d2dZ3TO0buuBn2zX73+l/zpH339L/nSfNctcP7jv6p6qFzH3bX4w/2NIzduMqAbsa424641468RJHXtUJ4JSxuIudC64I2NnXhpxlCzUVa71pUAznJujOe/G2fW+ymP0t3LXGuCW4+465jcp0a4MVkc23bXGBkcB7B9skNYtoIGuJvK6qMce0AgSLVVTU06G2acAsp1FwNoOuQAJj36ipvWh4ttU194XAmM8MYM9HKY/wDW79XPLl9TPLKdO7wl9FdpBauMXW2FdveyDjqDnbnWW5rf81f/ABjfbK1T3r9sfdIjEaZZ930aSMXnd7rsygMzEkDQA9kjhNbTzu64RNde6e+qXKXsTz1R6oHs43PdM6eqcbnumBToiJBpERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERPYCfTnJ/+HUv4sfaZ8xz6V5Rdtry+lBdAfDGhYZ6meH7+b8eP+X7LsO6S3H2AHGSSANcanvPCdFO4A9/r+mY5u2WGC9sjtZT/ObeNa/qW/8AEv758tr4X+nQwqkZayO9n/8AiaQ5MU5sgXPeVty50wB+/pJPU1NOj2Ge8iL4hG/IO0m220nszILerbVi+297N0HJV7ZVgVOuOJUjhPq/aY36H/1U/HljM+Po4VVraRhiwVHb06ASmurVV57WNFXTXHHrO3zFp1u3Huoi7CLdtWBc92790oF6r8CqF2063AQMju7Mz05jZL8VWeWOWattbNFtyo8xwpHGRK//ABrn4Rkk+ZWtuW7jvbtpbztQt5s957O6Re86vddgcgsTLcZXNlrfBwieZjI75arexPMxkQPZxue6Z1zONz3TApsREg0iIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiB7PonlSqaCm0H8Mc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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #17 @ 48.83s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #23 @ 66.06s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #29 @ 83.30s"
+    },
+    {
+      "type": "text",
+      "text": "\n(6 inline thumb(s) evenly sampled; 24 more as paths — use video_get_frame for a moment.)"
+    }
+  ],
+  "structuredContent": {
+    "frames": [
+      {
+        "index": 0,
+        "timeSec": 0,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 1,
+        "timeSec": 2.872,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 2,
+        "timeSec": 5.745,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 3,
+        "timeSec": 8.617,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 4,
+        "timeSec": 11.489,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 5,
+        "timeSec": 14.362,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 6,
+        "timeSec": 17.234,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 7,
+        "timeSec": 20.106,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 8,
+        "timeSec": 22.978,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 9,
+        "timeSec": 25.851,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 10,
+        "timeSec": 28.723,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 11,
+        "timeSec": 31.595,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 12,
+        "timeSec": 34.468,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 13,
+        "timeSec": 37.34,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 14,
+        "timeSec": 40.212,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 15,
+        "timeSec": 43.085,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 16,
+        "timeSec": 45.957,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 17,
+        "timeSec": 48.829,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 18,
+        "timeSec": 51.701,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 19,
+        "timeSec": 54.574,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 20,
+        "timeSec": 57.446,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 21,
+        "timeSec": 60.318,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 22,
+        "timeSec": 63.191,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 23,
+        "timeSec": 66.063,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 24,
+        "timeSec": 68.935,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 25,
+        "timeSec": 71.807,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 26,
+        "timeSec": 74.68,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 27,
+        "timeSec": 77.552,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 28,
+        "timeSec": 80.424,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 29,
+        "timeSec": 83.297,
+        "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "inlineCount": 6,
+    "inlineIndices": [
+      0,
+      6,
+      12,
+      17,
+      23,
+      29
+    ],
+    "summary": "1:26 · 1024×576 · 30fps · has audio\nSpeech (whisper.cpp, 39 segs): “兄弟们,这个开源项目能让AI直接拆解爆款视频 再把它复刻成一份完整的Workflow 画面,字幕,Berro,特效 看看这些参考视频不管是动效还是效果 都能最大程度保持原汁原味 GETA不上已经展货1.2万型标 安装好这个工具后 你就可以把参考视频交给智能体 再告诉它你想怎么改 比如保留这条视频的排行榜形式和揭晓节奏 但把内容换成我整理的几个AI工具 它会自动根据你的心内容 重新安排文案、素材和动效 把这套表达方式做出来 我觉得HIP的…”\n30 keyframe(s) extracted\n1 warning(s)",
+    "info": {
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7688197064089409253.mp4",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/media/7688197064089409253.mp4",
+      "sourceKind": "local",
+      "durationSec": 86.169,
+      "width": 1024,
+      "height": 576,
+      "fps": 30,
+      "videoCodec": "hevc",
+      "audioCodec": "aac",
+      "hasAudio": true,
+      "hasVideo": true,
+      "bitrate": 179402,
+      "sizeBytes": 1932372,
+      "formatName": "mov,mp4 (AVFoundation adapter)"
+    },
+    "ocrHitCount": 0,
+    "ocr": [],
+    "transcript": {
+      "source": "whisper.cpp",
+      "language": "zh",
+      "segmentCount": 39,
+      "fullText": "兄弟们,这个开源项目能让AI直接拆解爆款视频 再把它复刻成一份完整的Workflow 画面,字幕,Berro,特效 看看这些参考视频不管是动效还是效果 都能最大程度保持原汁原味 GETA不上已经展货1.2万型标 安装好这个工具后 你就可以把参考视频交给智能体 再告诉它你想怎么改 比如保留这条视频的排行榜形式和揭晓节奏 但把内容换成我整理的几个AI工具 它会自动根据你的心内容 重新安排文案、素材和动效 把这套表达方式做出来 我觉得HIP的最值得关注的 就是它处理时间轴的方式 它可以把画面变化 绑定到台词里的词句 而不只是固定在第几秒 比如,讲到某个工具的名字 它的图片在出现 说到最终排名排行榜才落位 换了台词配音 它也能按照新的口播位置 重新安排这些动作 官方商顾就提供了一组很直观的例子 同样是足球排行榜 可以换解说角色 也可以调整排名 还可以把球员换成科技公司的创始 这对我这种经常介绍开源工具的主播 就非常合适 而且最绝的是拿到的不只是一条成片 还有可以继续修改重新生成的工程 已经满意的素材还可以复用 需要变化的部分在处理 如果你的收藏家里 也躺着一堆一直没动手的参考视频 可以看看这个项目",
+      "segments": [
+        {
+          "start": 0,
+          "end": 4.12,
+          "text": "兄弟们,这个开源项目能让AI直接拆解爆款视频"
+        },
+        {
+          "start": 4.12,
+          "end": 6.48,
+          "text": "再把它复刻成一份完整的Workflow"
+        },
+        {
+          "start": 6.48,
+          "end": 9.08,
+          "text": "画面,字幕,Berro,特效"
+        },
+        {
+          "start": 9.08,
+          "end": 12.12,
+          "text": "看看这些参考视频不管是动效还是效果"
+        },
+        {
+          "start": 12.12,
+          "end": 14.6,
+          "text": "都能最大程度保持原汁原味"
+        },
+        {
+          "start": 14.6,
+          "end": 17.16,
+          "text": "GETA不上已经展货1.2万型标"
+        },
+        {
+          "start": 17.16,
+          "end": 18.44,
+          "text": "安装好这个工具后"
+        },
+        {
+          "start": 18.44,
+          "end": 20.72,
+          "text": "你就可以把参考视频交给智能体"
+        },
+        {
+          "start": 20.72,
+          "end": 22.52,
+          "text": "再告诉它你想怎么改"
+        },
+        {
+          "start": 22.52,
+          "end": 26.48,
+          "text": "比如保留这条视频的排行榜形式和揭晓节奏"
+        },
+        {
+          "start": 26.48,
+          "end": 29.56,
+          "text": "但把内容换成我整理的几个AI工具"
+        },
+        {
+          "start": 29.56,
+          "end": 31.36,
+          "text": "它会自动根据你的心内容"
+        },
+        {
+          "start": 31.36,
+          "end": 33.64,
+          "text": "重新安排文案、素材和动效"
+        },
+        {
+          "start": 33.64,
+          "end": 35.84,
+          "text": "把这套表达方式做出来"
+        },
+        {
+          "start": 35.84,
+          "end": 37.84,
+          "text": "我觉得HIP的最值得关注的"
+        },
+        {
+          "start": 37.84,
+          "end": 39.88,
+          "text": "就是它处理时间轴的方式"
+        },
+        {
+          "start": 39.88,
+          "end": 41.36,
+          "text": "它可以把画面变化"
+        },
+        {
+          "start": 41.36,
+          "end": 43.08,
+          "text": "绑定到台词里的词句"
+        },
+        {
+          "start": 43.08,
+          "end": 45.04,
+          "text": "而不只是固定在第几秒"
+        },
+        {
+          "start": 45.04,
+          "end": 47.44,
+          "text": "比如,讲到某个工具的名字"
+        },
+        {
+          "start": 47.44,
+          "end": 48.92,
+          "text": "它的图片在出现"
+        },
+        {
+          "start": 48.92,
+          "end": 51.52,
+          "text": "说到最终排名排行榜才落位"
+        },
+        {
+          "start": 52.52,
+          "end": 53.96,
+          "text": "换了台词配音"
+        },
+        {
+          "start": 53.96,
+          "end": 55.76,
+          "text": "它也能按照新的口播位置"
+        },
+        {
+          "start": 55.76,
+          "end": 57.4,
+          "text": "重新安排这些动作"
+        },
+        {
+          "start": 57.4,
+          "end": 60.4,
+          "text": "官方商顾就提供了一组很直观的例子"
+        },
+        {
+          "start": 60.4,
+          "end": 61.8,
+          "text": "同样是足球排行榜"
+        },
+        {
+          "start": 61.8,
+          "end": 63.12,
+          "text": "可以换解说角色"
+        },
+        {
+          "start": 63.12,
+          "end": 64.32,
+          "text": "也可以调整排名"
+        },
+        {
+          "start": 64.32,
+          "end": 67.44,
+          "text": "还可以把球员换成科技公司的创始"
+        },
+        {
+          "start": 67.44,
+          "end": 69.96000000000001,
+          "text": "这对我这种经常介绍开源工具的主播"
+        },
+        {
+          "start": 69.96000000000001,
+          "end": 71.16,
+          "text": "就非常合适"
+        },
+        {
+          "start": 71.16,
+          "end": 73.8,
+          "text": "而且最绝的是拿到的不只是一条成片"
+        },
+        {
+          "start": 73.8,
+          "end": 76.76,
+          "text": "还有可以继续修改重新生成的工程"
+        },
+        {
+          "start": 76.76,
+          "end": 78.8,
+          "text": "已经满意的素材还可以复用"
+        },
+        {
+          "start": 78.8,
+          "end": 81.28,
+          "text": "需要变化的部分在处理"
+        },
+        {
+          "start": 81.28,
+          "end": 82.48,
+          "text": "如果你的收藏家里"
+        },
+        {
+          "start": 82.48,
+          "end": 84.8,
+          "text": "也躺着一堆一直没动手的参考视频"
+        },
+        {
+          "start": 84.8,
+          "end": 86.08,
+          "text": "可以看看这个项目"
+        }
+      ]
+    },
+    "warnings": [
+      "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+    ],
+    "detail": "detailed",
+    "elapsedMs": 5561,
+    "timeline": [
+      {
+        "timeSec": 0,
+        "kind": "frame",
+        "text": "Frame #0 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0001.jpg"
+      },
+      {
+        "timeSec": 0,
+        "kind": "speech",
+        "text": "兄弟们,这个开源项目能让AI直接拆解爆款视频"
+      },
+      {
+        "timeSec": 2.872,
+        "kind": "frame",
+        "text": "Frame #1 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0002.jpg"
+      },
+      {
+        "timeSec": 4.12,
+        "kind": "speech",
+        "text": "再把它复刻成一份完整的Workflow"
+      },
+      {
+        "timeSec": 5.745,
+        "kind": "frame",
+        "text": "Frame #2 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0003.jpg"
+      },
+      {
+        "timeSec": 6.48,
+        "kind": "speech",
+        "text": "画面,字幕,Berro,特效"
+      },
+      {
+        "timeSec": 8.617,
+        "kind": "frame",
+        "text": "Frame #3 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0004.jpg"
+      },
+      {
+        "timeSec": 9.08,
+        "kind": "speech",
+        "text": "看看这些参考视频不管是动效还是效果"
+      },
+      {
+        "timeSec": 11.489,
+        "kind": "frame",
+        "text": "Frame #4 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0005.jpg"
+      },
+      {
+        "timeSec": 12.12,
+        "kind": "speech",
+        "text": "都能最大程度保持原汁原味"
+      },
+      {
+        "timeSec": 14.362,
+        "kind": "frame",
+        "text": "Frame #5 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0006.jpg"
+      },
+      {
+        "timeSec": 14.6,
+        "kind": "speech",
+        "text": "GETA不上已经展货1.2万型标"
+      },
+      {
+        "timeSec": 17.16,
+        "kind": "speech",
+        "text": "安装好这个工具后"
+      },
+      {
+        "timeSec": 17.234,
+        "kind": "frame",
+        "text": "Frame #6 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0007.jpg"
+      },
+      {
+        "timeSec": 18.44,
+        "kind": "speech",
+        "text": "你就可以把参考视频交给智能体"
+      },
+      {
+        "timeSec": 20.106,
+        "kind": "frame",
+        "text": "Frame #7 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0008.jpg"
+      },
+      {
+        "timeSec": 20.72,
+        "kind": "speech",
+        "text": "再告诉它你想怎么改"
+      },
+      {
+        "timeSec": 22.52,
+        "kind": "speech",
+        "text": "比如保留这条视频的排行榜形式和揭晓节奏"
+      },
+      {
+        "timeSec": 22.978,
+        "kind": "frame",
+        "text": "Frame #8 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0009.jpg"
+      },
+      {
+        "timeSec": 25.851,
+        "kind": "frame",
+        "text": "Frame #9 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0010.jpg"
+      },
+      {
+        "timeSec": 26.48,
+        "kind": "speech",
+        "text": "但把内容换成我整理的几个AI工具"
+      },
+      {
+        "timeSec": 28.723,
+        "kind": "frame",
+        "text": "Frame #10 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0011.jpg"
+      },
+      {
+        "timeSec": 29.56,
+        "kind": "speech",
+        "text": "它会自动根据你的心内容"
+      },
+      {
+        "timeSec": 31.36,
+        "kind": "speech",
+        "text": "重新安排文案、素材和动效"
+      },
+      {
+        "timeSec": 31.595,
+        "kind": "frame",
+        "text": "Frame #11 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0012.jpg"
+      },
+      {
+        "timeSec": 33.64,
+        "kind": "speech",
+        "text": "把这套表达方式做出来"
+      },
+      {
+        "timeSec": 34.468,
+        "kind": "frame",
+        "text": "Frame #12 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0013.jpg"
+      },
+      {
+        "timeSec": 35.84,
+        "kind": "speech",
+        "text": "我觉得HIP的最值得关注的"
+      },
+      {
+        "timeSec": 37.34,
+        "kind": "frame",
+        "text": "Frame #13 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0014.jpg"
+      },
+      {
+        "timeSec": 37.84,
+        "kind": "speech",
+        "text": "就是它处理时间轴的方式"
+      },
+      {
+        "timeSec": 39.88,
+        "kind": "speech",
+        "text": "它可以把画面变化"
+      },
+      {
+        "timeSec": 40.212,
+        "kind": "frame",
+        "text": "Frame #14 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0015.jpg"
+      },
+      {
+        "timeSec": 41.36,
+        "kind": "speech",
+        "text": "绑定到台词里的词句"
+      },
+      {
+        "timeSec": 43.08,
+        "kind": "speech",
+        "text": "而不只是固定在第几秒"
+      },
+      {
+        "timeSec": 43.085,
+        "kind": "frame",
+        "text": "Frame #15 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0016.jpg"
+      },
+      {
+        "timeSec": 45.04,
+        "kind": "speech",
+        "text": "比如,讲到某个工具的名字"
+      },
+      {
+        "timeSec": 45.957,
+        "kind": "frame",
+        "text": "Frame #16 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0017.jpg"
+      },
+      {
+        "timeSec": 47.44,
+        "kind": "speech",
+        "text": "它的图片在出现"
+      },
+      {
+        "timeSec": 48.829,
+        "kind": "frame",
+        "text": "Frame #17 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0018.jpg"
+      },
+      {
+        "timeSec": 48.92,
+        "kind": "speech",
+        "text": "说到最终排名排行榜才落位"
+      },
+      {
+        "timeSec": 51.701,
+        "kind": "frame",
+        "text": "Frame #18 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0019.jpg"
+      },
+      {
+        "timeSec": 52.52,
+        "kind": "speech",
+        "text": "换了台词配音"
+      },
+      {
+        "timeSec": 53.96,
+        "kind": "speech",
+        "text": "它也能按照新的口播位置"
+      },
+      {
+        "timeSec": 54.574,
+        "kind": "frame",
+        "text": "Frame #19 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0020.jpg"
+      },
+      {
+        "timeSec": 55.76,
+        "kind": "speech",
+        "text": "重新安排这些动作"
+      },
+      {
+        "timeSec": 57.4,
+        "kind": "speech",
+        "text": "官方商顾就提供了一组很直观的例子"
+      },
+      {
+        "timeSec": 57.446,
+        "kind": "frame",
+        "text": "Frame #20 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0021.jpg"
+      },
+      {
+        "timeSec": 60.318,
+        "kind": "frame",
+        "text": "Frame #21 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0022.jpg"
+      },
+      {
+        "timeSec": 60.4,
+        "kind": "speech",
+        "text": "同样是足球排行榜"
+      },
+      {
+        "timeSec": 61.8,
+        "kind": "speech",
+        "text": "可以换解说角色"
+      },
+      {
+        "timeSec": 63.12,
+        "kind": "speech",
+        "text": "也可以调整排名"
+      },
+      {
+        "timeSec": 63.191,
+        "kind": "frame",
+        "text": "Frame #22 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0023.jpg"
+      },
+      {
+        "timeSec": 64.32,
+        "kind": "speech",
+        "text": "还可以把球员换成科技公司的创始"
+      },
+      {
+        "timeSec": 66.063,
+        "kind": "frame",
+        "text": "Frame #23 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0024.jpg"
+      },
+      {
+        "timeSec": 67.44,
+        "kind": "speech",
+        "text": "这对我这种经常介绍开源工具的主播"
+      },
+      {
+        "timeSec": 68.935,
+        "kind": "frame",
+        "text": "Frame #24 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0025.jpg"
+      },
+      {
+        "timeSec": 69.96000000000001,
+        "kind": "speech",
+        "text": "就非常合适"
+      },
+      {
+        "timeSec": 71.16,
+        "kind": "speech",
+        "text": "而且最绝的是拿到的不只是一条成片"
+      },
+      {
+        "timeSec": 71.807,
+        "kind": "frame",
+        "text": "Frame #25 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0026.jpg"
+      },
+      {
+        "timeSec": 73.8,
+        "kind": "speech",
+        "text": "还有可以继续修改重新生成的工程"
+      },
+      {
+        "timeSec": 74.68,
+        "kind": "frame",
+        "text": "Frame #26 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0027.jpg"
+      },
+      {
+        "timeSec": 76.76,
+        "kind": "speech",
+        "text": "已经满意的素材还可以复用"
+      },
+      {
+        "timeSec": 77.552,
+        "kind": "frame",
+        "text": "Frame #27 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0028.jpg"
+      },
+      {
+        "timeSec": 78.8,
+        "kind": "speech",
+        "text": "需要变化的部分在处理"
+      },
+      {
+        "timeSec": 80.424,
+        "kind": "frame",
+        "text": "Frame #28 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0029.jpg"
+      },
+      {
+        "timeSec": 81.28,
+        "kind": "speech",
+        "text": "如果你的收藏家里"
+      },
+      {
+        "timeSec": 82.48,
+        "kind": "speech",
+        "text": "也躺着一堆一直没动手的参考视频"
+      },
+      {
+        "timeSec": 83.297,
+        "kind": "frame",
+        "text": "Frame #29 (/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/frames/acdf2aa21794771f/interval/frame_0030.jpg"
+      },
+      {
+        "timeSec": 84.8,
+        "kind": "speech",
+        "text": "可以看看这个项目"
+      }
+    ],
+    "sidecarPath": null
+  }
+}

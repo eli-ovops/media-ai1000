@@ -1,0 +1,1373 @@
+[
+  {
+    "video_id": "7647050455042812243",
+    "url": "https://www.douyin.com/video/7647050455042812243",
+    "directory_text": "置顶\n1632\n\nAI 做 PPT，别再一键生成了 这期讲一个更靠谱的 AI 做 PPT 工作流：不是让 AI 一键生成整套 PPT，而是把流程拆成 4 步：先用 Codex 生成页面大纲，再用 image2 做整套视觉风格预览，然后用 Presentations 把参考图还原成可编辑 PPTX，最后逐页检查标题、卡片、形状、层级和协作交付。 核心不是“做一张好看的图”，而是做一套真正能修改、能交付、能给团队继续迭代的专业 PPT。 #AI做PPT #Codex #image2 #PPT教程 #可编辑PPT",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7647050455042812243",
+        "url": "https://www.douyin.com/video/7647050455042812243",
+        "video_id": "7647050455042812243"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9958,
+        "call_id": "call_4436e20530034a64b59de4ba7174132d",
+        "timestamp": "2026-10-09T05:56:13.313Z"
+      }
+    }
+  },
+  {
+    "video_id": "7644875181336617962",
+    "url": "https://www.douyin.com/video/7644875181336617962",
+    "directory_text": "置顶\n5501\n\nObsidian 保姆级教程：从零入门到搭建 AI 知识库 这条视频从零讲清楚 Obsidian 的核心用法：Vault、Markdown、双向链接、文件夹、标签、模板、插件、同步备份，以及如何结合 AI 搭建可长期维护的个人知识库。适合第一次接触 Obsidian 的新手，也适合想把零散资料整理成系统知识资产的人。 你会看到一条完整学习路线：先看懂界面，再掌握 Markdown 和双链，再建立稳定的笔记结构，最后把网页、PDF、会议记录和 AI 工作流接入 Obsidian。 #Obsidian #Obsidian教程 #知识管理 #AI知识库 #个人知识库",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7644875181336617962",
+        "url": "https://www.douyin.com/video/7644875181336617962",
+        "video_id": "7644875181336617962"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9958,
+        "call_id": "call_4436e20530034a64b59de4ba7174132d",
+        "timestamp": "2026-10-09T05:56:13.313Z"
+      }
+    }
+  },
+  {
+    "video_id": "7634733913260248360",
+    "url": "https://www.douyin.com/video/7634733913260248360",
+    "directory_text": "置顶\n1744\n\nHermes真正难是怎么组织一支多Agent团队 很多人理解 OPC，还停在“一人公司 = 一个人配很多 AI 工具”。但真正把 Hermes 用进长期工作流以后，你会发现问题根本不在开几个 Agent，而在你有没有给它们建立角色边界，以及有没有一层共享记忆把它们接起来。这条视频我想讲清楚：OPC 的核心不是多开，而是组织一支 Agent 团队。 #Hermes #多agent #Agent协作 #opc #hermesagent",
+    "published_at": "2026-05-01 09:46",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-01 09:46",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 9977,
+      "call_id": "call_265010b01ac541e7b55b312f42811150",
+      "timestamp": "2026-10-09T05:58:17.942Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7634733913260248360",
+        "raw_date_text": "发布时间：2026-05-01 09:46",
+        "url": "https://www.douyin.com/video/7634733913260248360",
+        "video_id": "7634733913260248360"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9977,
+        "call_id": "call_265010b01ac541e7b55b312f42811150",
+        "timestamp": "2026-10-09T05:58:17.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7694280596605052005",
+    "url": "https://www.douyin.com/video/7694280596605052005",
+    "directory_text": "13\n\nOpenAI联创教我定义AI目标 假设世界上最好的程序员，今天已经在你公司上班，你会让他做什么？ 这期视频深度拆解 OpenAI 联合创始人 Greg Brockman 的一次访谈。AI 正在抹平能力差距，但真正拉开差距的，可能是你的野心上限、你离真实问题有多近，以及你的产品能不能扛住模型再强十倍。 最后还会讲清：为什么真正高级的自动化，不是立刻拿掉人，而是先把流程手工跑上 3—5 遍。 #人工智能 #AI创业 #OpenAI #产品思维 #商业思维",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7694280596605052005",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7694280596605052005 in tab 4. Browser reported: net::ERR_ABORTED"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9977,
+        "call_id": "call_265010b01ac541e7b55b312f42811150",
+        "timestamp": "2026-10-09T05:58:17.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7674270516333062330",
+    "url": "https://www.douyin.com/video/7674270516333062330",
+    "directory_text": "121\n\nAgent 真正的护城河，可能从来都不是模型 DeepSeek 最近新发布了 V4 Pro 和 DeepSeek Harness。 两者一个是模型，另一个是模型之外的 Agent 执行系统。好多人很容易把这俩混为一谈，甚至觉得只要装上 Harness，模型的代码能力就会自动变强。 🔬 我自己在本地做了个对照实验 让 Agent 写入文件，再通过 Shell 验证结果，同步测试了只读权限、执行轨迹和错误反馈。整个跑下来，我发现了几个挺关键的问题： ❓ 几个值得琢磨的疑问 模型为什么只会“提出调用工具”，真正执行工具的是谁？ 权限明明能阻止写文件，为什么却拦不住模型自己宣布“任务完成”？ Harness 和 Codex、WorkBuddy 的区别，到底是功能数量的差异，还是产品边界本身就不一样？ 企业要是想用它做 Agent，还需要补齐安全、状态和验收这些层面的哪些能力？ #deepseekv4 #通用大模型 #deepseekharness #deepseek #harness",
+    "published_at": "2026-08-15 22:49",
+    "window": "IN_WINDOW",
+    "ai_relevance": "ACTUAL_CONTENT_CONFIRMED_AI",
+    "content_read": "V2_READ_PENDING_PMO",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-08-15 22:49",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8979,
+      "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+      "timestamp": "2026-10-09T02:36:17.102Z"
+    },
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "coverage": "evidence/7674270516333062330/coverage.json",
+    "latest_media_attempt": {
+      "kind": "AI_MEDIA_RECEIPT",
+      "data": {
+        "requested_id": "7674270516333062330",
+        "url": "https://www.douyin.com/video/7674270516333062330",
+        "path": "/Users/USER/Downloads/download (1).mp4"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9029,
+        "call_id": "call_8c4ef804097445e9b32dfb70e8a97908",
+        "timestamp": "2026-10-09T02:37:06.758Z"
+      }
+    },
+    "date_precision": "minute",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7674270516333062330",
+        "duration": 632.788005,
+        "raw_date_text": "发布时间：2026-08-15 22:49",
+        "status": null,
+        "title": "Agent 真正的护城河，可能从来都不是模型 DeepSeek 最近新发布了 V4 Pro 和 DeepSeek Harness。两者一个是模型，另一个是模型之外的 Agent 执行系统。好多人很容易把这俩混为一谈，甚至觉得只要装上 Harness，模型的代码能力就会自动变强。  我自己在本地做了个对照实验让 Agent 写入文件，再通过 Shell 验证结果，同步测试了只读权限、执行轨迹和错误反馈。整个跑下来，我发现了几个挺关键的问题：  几个值得琢磨的疑问模型为什么只会“提出调用工具”，真正执行工具的是谁？权限明明能阻止写文件，为什么却拦不住模型自己宣布“任务完成”？Harness 和 Codex、WorkBuddy 的区别，到底是功能数量的差异，还是产品边界本身就不一样？企业要是想用它做 Agent，还需要补齐安全、状态和验收这些层面的哪些能力？ #deepseekv4 #通用大模型 #deepseekharness #deepseek #harness",
+        "url": "https://www.douyin.com/video/7674270516333062330",
+        "video_id": "7674270516333062330"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 8979,
+        "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+        "timestamp": "2026-10-09T02:36:17.102Z"
+      }
+    }
+  },
+  {
+    "video_id": "7673800813513022867",
+    "url": "https://www.douyin.com/video/7673800813513022867",
+    "directory_text": "18\n\n用TraeWork做商业应用的4个步骤📝。✨我最近的实操项目 我用 TraeWork 做了一套德州酒馆商业应用，包含一个经营后台、三个小程序，再加一块赛事电视大屏。 📽️内容安排 视频开头先展示成品效果，后面再一步步拆解我的实操过程。 🔧分步实操说明 先用Design模块梳理业务边界和多端原型，进入Code环节后，再分析真实项目、识别技术栈并拆分开发任务。 最后还会讲解多端应用怎么联调，以及最终的验收方法。 💡实用参考提示 如果你也在做小程序、后台或多端产品，这套思路可以直接参考。 #TraeWork #TRAE #AI编程 #产品设计 #小程序开发",
+    "published_at": "2026-08-14 16:26",
+    "window": "IN_WINDOW",
+    "ai_relevance": "ACTUAL_CONTENT_CONFIRMED_AI",
+    "content_read": "V2_READ_PENDING_PMO",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-08-14 16:26",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8979,
+      "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+      "timestamp": "2026-10-09T02:36:17.102Z"
+    },
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "coverage": "evidence/7673800813513022867/coverage.json",
+    "latest_media_attempt": {
+      "kind": "AI_MEDIA_RECEIPT",
+      "data": {
+        "requested_id": "7673800813513022867",
+        "url": "https://www.douyin.com/video/7673800813513022867",
+        "path": "/Users/USER/Downloads/download (2).mp4"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9029,
+        "call_id": "call_8c4ef804097445e9b32dfb70e8a97908",
+        "timestamp": "2026-10-09T02:37:06.758Z"
+      }
+    },
+    "date_precision": "minute",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7673800813513022867",
+        "duration": 436.417007,
+        "raw_date_text": "发布时间：2026-08-14 16:26",
+        "status": null,
+        "title": "用TraeWork做商业应用的4个步骤。我最近的实操项目我用 TraeWork 做了一套德州酒馆商业应用，包含一个经营后台、三个小程序，再加一块赛事电视大屏。 内容安排视频开头先展示成品效果，后面再一步步拆解我的实操过程。 分步实操说明先用Design模块梳理业务边界和多端原型，进入Code环节后，再分析真实项目、识别技术栈并拆分开发任务。最后还会讲解多端应用怎么联调，以及最终的验收方法。 实用参考提示如果你也在做小程序、后台或多端产品，这套思路可以直接参考。 #TraeWork #TRAE #AI编程 #产品设计 #小程序开发",
+        "url": "https://www.douyin.com/video/7673800813513022867",
+        "video_id": "7673800813513022867"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 8979,
+        "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+        "timestamp": "2026-10-09T02:36:17.102Z"
+      }
+    }
+  },
+  {
+    "video_id": "7659056187624152531",
+    "url": "https://www.douyin.com/video/7659056187624152531",
+    "directory_text": "33\n\nAI 时代真正的瓶颈，不是工具，而是人的理解力 AI 越来越会写代码、做方案、跑流程，但真正决定结果的，仍然是人能不能理解问题、设计任务、判断输出。这期聊聊：为什么 AI 时代更需要人参与，而不是把一切交给机器。 #AI时代 #人工智能 #认知升级 #AI工具 #个人成长",
+    "published_at": "2026-07-05 22:49",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-07-05 22:49",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8979,
+      "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+      "timestamp": "2026-10-09T02:36:17.102Z"
+    },
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "date_precision": "minute",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7659056187624152531",
+        "duration": 254.675986,
+        "raw_date_text": "发布时间：2026-07-05 22:49",
+        "status": [
+          "服务异常，刷新拉取数据",
+          "服务异常，请刷新重试"
+        ],
+        "title": "AI 时代真正的瓶颈，不是工具，而是人的理解力 AI 越来越会写代码、做方案、跑流程，但真正决定结果的，仍然是人能不能理解问题、设计任务、判断输出。这期聊聊：为什么 AI 时代更需要人参与，而不是把一切交给机器。 #AI时代 #人工智能 #认知升级 #AI工具 #个人成长",
+        "url": "https://www.douyin.com/video/7659056187624152531",
+        "video_id": "7659056187624152531"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 8979,
+        "call_id": "call_8a651108dcb04490ab9c13271d121c99",
+        "timestamp": "2026-10-09T02:36:17.102Z"
+      }
+    }
+  },
+  {
+    "video_id": "7658605336069621675",
+    "url": "https://www.douyin.com/video/7658605336069621675",
+    "directory_text": "16\n\n一个人开公司，固定成本能多低？ 以前开公司要团队、服务器、后端、支付、邮件、监控。 现在一个人可以用一组 SaaS 先拼出最小闭环。 但真正贵的不是工具。 是判断力。 #一人公司 #独立开发者 #AI创业 #SaaS工具 #低成本创业",
+    "published_at": "2026-07-04 17:40",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-07-04 17:40",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 9977,
+      "call_id": "call_265010b01ac541e7b55b312f42811150",
+      "timestamp": "2026-10-09T05:58:17.942Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7658605336069621675",
+        "raw_date_text": "发布时间：2026-07-04 17:40",
+        "url": "https://www.douyin.com/video/7658605336069621675",
+        "video_id": "7658605336069621675"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9977,
+        "call_id": "call_265010b01ac541e7b55b312f42811150",
+        "timestamp": "2026-10-09T05:58:17.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7658193589624888746",
+    "url": "https://www.douyin.com/video/7658193589624888746",
+    "directory_text": "62\n\n我把 WorkBuddy 从安装到远程控制完整跑了一遍 这不是概念介绍，而是一次真实上手测试：从下载安装到微信登录，再到工作区、专家、技能、提示词、办公任务、开发任务和远程控制，完整看一遍 WorkBuddy 到底适合谁、能做什么、哪些地方必须谨慎。 #WorkBuddy #AI办公 #AI工具 #Agent #效率工具",
+    "published_at": "2026-07-03 15:02",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-07-03 15:02",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 9988,
+      "call_id": "call_c6fd2519628f49229c1390405b30b451",
+      "timestamp": "2026-10-09T06:00:03.459Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7658193589624888746",
+        "raw_date_text": "发布时间：2026-07-03 15:02",
+        "url": "https://www.douyin.com/video/7658193589624888746",
+        "video_id": "7658193589624888746"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9988,
+        "call_id": "call_c6fd2519628f49229c1390405b30b451",
+        "timestamp": "2026-10-09T06:00:03.459Z"
+      }
+    }
+  },
+  {
+    "video_id": "7657574988794993875",
+    "url": "https://www.douyin.com/video/7657574988794993875",
+    "directory_text": "17\n\n别把 WorkBuddy 当聊天框，它其实是一个需要训练的 WorkBuddy 不只是更会聊天的 AI。真正有价值的用法，是让它接住你的本地文件、工具链、工作目录和重复流程。先从低风险任务开始，把输入、过程、输出和验收标准固定下来；跑通三次，再沉淀成提示词、自动化，甚至 Skill。你越会训练流程，它越像一个靠谱同事。 #WorkBuddy #AI同事 #桌面Agent #AI工作流 #效率工具",
+    "published_at": "2026-07-01 23:01",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-07-01 23:01",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 9988,
+      "call_id": "call_c6fd2519628f49229c1390405b30b451",
+      "timestamp": "2026-10-09T06:00:03.459Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7657574988794993875",
+        "raw_date_text": "发布时间：2026-07-01 23:01",
+        "url": "https://www.douyin.com/video/7657574988794993875",
+        "video_id": "7657574988794993875"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9988,
+        "call_id": "call_c6fd2519628f49229c1390405b30b451",
+        "timestamp": "2026-10-09T06:00:03.459Z"
+      }
+    }
+  },
+  {
+    "video_id": "7656116985949266870",
+    "url": "https://www.douyin.com/video/7656116985949266870",
+    "directory_text": "58\n\n这个项目，让 AI 先学会少写代码 Ponytail 最近在程序员圈刷屏。它反着来，不是让 AI 写更多代码，而是让 AI 在动手前先判断：这个需求真的要写吗？能不能复用现有能力？有没有更简单的方案？老程序员都懂，最好的代码，往往是少写的代码。 #AI编程 #Ponytail #程序员 #开源项目 #AI工具",
+    "published_at": "2026-06-28 00:44",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-28 00:44",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 9988,
+      "call_id": "call_c6fd2519628f49229c1390405b30b451",
+      "timestamp": "2026-10-09T06:00:03.459Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7656116985949266870",
+        "raw_date_text": "发布时间：2026-06-28 00:44",
+        "url": "https://www.douyin.com/video/7656116985949266870",
+        "video_id": "7656116985949266870"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 9988,
+        "call_id": "call_c6fd2519628f49229c1390405b30b451",
+        "timestamp": "2026-10-09T06:00:03.459Z"
+      }
+    }
+  },
+  {
+    "video_id": "7655116042356659387",
+    "url": "https://www.douyin.com/video/7655116042356659387",
+    "directory_text": "22\n\nAI 大规模替代来了，普通人怎么活下来？ 最近 Dan Koe 关于《如何在 AI 大规模替代中活下来》的文章很火。这期视频用更直白的方式拆解：未来真正重要的不是抵抗 AI，而是把 AI 变成杠杆，训练判断力、表达力、产品化能力和持续学习能力。 #AI时代 #个人成长 #DanKoe #AI替代 #知识变现",
+    "published_at": "2026-06-25 07:59",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-25 07:59",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10001,
+      "call_id": "call_e00997f46ac84791baed33d9e884f0ac",
+      "timestamp": "2026-10-09T06:02:00.198Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7655116042356659387",
+        "raw_date_text": "发布时间：2026-06-25 07:59",
+        "url": "https://www.douyin.com/video/7655116042356659387",
+        "video_id": "7655116042356659387"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10001,
+        "call_id": "call_e00997f46ac84791baed33d9e884f0ac",
+        "timestamp": "2026-10-09T06:02:00.198Z"
+      }
+    }
+  },
+  {
+    "video_id": "7654460351987801427",
+    "url": "https://www.douyin.com/video/7654460351987801427",
+    "directory_text": "1633\n\n腾讯开源 WeKnora：会自己生长的企业知识库 腾讯悄悄开源了企业级知识平台 WeKnora。它不只是做文档检索，还支持 RAG 智能问答、ReAct 自主 Agent、自维护 Wiki 和知识图谱，适合企业知识管理、内部培训、智能客服和自建知识库场景。 #WeKnora #腾讯开源 #企业知识库 #RAG #AI工具",
+    "published_at": "2026-06-23 13:35",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-23 13:35",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10001,
+      "call_id": "call_e00997f46ac84791baed33d9e884f0ac",
+      "timestamp": "2026-10-09T06:02:00.198Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7654460351987801427",
+        "raw_date_text": "发布时间：2026-06-23 13:35",
+        "url": "https://www.douyin.com/video/7654460351987801427",
+        "video_id": "7654460351987801427"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10001,
+        "call_id": "call_e00997f46ac84791baed33d9e884f0ac",
+        "timestamp": "2026-10-09T06:02:00.198Z"
+      }
+    }
+  },
+  {
+    "video_id": "7653793713131877011",
+    "url": "https://www.douyin.com/video/7653793713131877011",
+    "directory_text": "266\n\n用 Cowart 做视觉稿，不是让 AI 替你设计，而是把 用 Cowart 做视觉稿，不是让 AI 替你设计，而是把“生成初稿、圈出问题、按批注改版”这轮沟通变快。这个视频用一个实际案例演示 Cowart + Codex 的完整工作流，适合想用 AI 提高设计沟通效率的人。 #Cowart #AI设计 #Codex #AI改图 #设计工作流",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7653793713131877011",
+        "url": "https://www.douyin.com/video/7653793713131877011",
+        "video_id": "7653793713131877011"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10001,
+        "call_id": "call_e00997f46ac84791baed33d9e884f0ac",
+        "timestamp": "2026-10-09T06:02:00.198Z"
+      }
+    }
+  },
+  {
+    "video_id": "7652958659153415039",
+    "url": "https://www.douyin.com/video/7652958659153415039",
+    "directory_text": "123\n\n别把 Skill 写成长 Prompt 很多人写不好 Skill，不是工具问题，而是流程没跑通。这条视频用一个更实用的方式讲清楚：什么工作值得沉淀成 Skill，怎么从手工流程一步步变成可复用能力。 #ClaudeCode #Skill #AI工作流 #AI效率工具 #agent",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7652958659153415039",
+        "url": "https://www.douyin.com/video/7652958659153415039",
+        "video_id": "7652958659153415039"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10016,
+        "call_id": "call_0a409a0edef14cc7a235c894f0addc48",
+        "timestamp": "2026-10-09T06:04:11.096Z"
+      }
+    }
+  },
+  {
+    "video_id": "7652755499552771305",
+    "url": "https://www.douyin.com/video/7652755499552771305",
+    "directory_text": "4\n\nGemini 让我的抖音头像从屏幕跳出来了 最近 Jerry 从屏幕里跳出来的视频很火，我也用 Gemini 试了一下，把自己的抖音头像做成 3D 小人，从屏幕里跳出来，最后站到手掌上。制作其实不复杂：准备一张清晰参考图，上传到 Gemini Video，再用提示词说明“从屏幕跳出、变成 3D、落到手上”就可以开始生成。 #Gemini #AI视频 #抖音头像 #Jerry跳出屏幕 #AI教程",
+    "published_at": "2026-06-18 23:19",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-18 23:19",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10016,
+      "call_id": "call_0a409a0edef14cc7a235c894f0addc48",
+      "timestamp": "2026-10-09T06:04:11.096Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7652755499552771305",
+        "raw_date_text": "发布时间：2026-06-18 23:19",
+        "url": "https://www.douyin.com/video/7652755499552771305",
+        "video_id": "7652755499552771305"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10016,
+        "call_id": "call_0a409a0edef14cc7a235c894f0addc48",
+        "timestamp": "2026-10-09T06:04:11.096Z"
+      }
+    }
+  },
+  {
+    "video_id": "7651951515419152747",
+    "url": "https://www.douyin.com/video/7651951515419152747",
+    "directory_text": "22\n\nAI 落地不是买工具，而是搭建企业数字员工团队 这条视频讲清楚企业做 AI 落地时，为什么不能只停留在“买工具、写提示词”，而要把 AI 接入真实管理链路：从统一入口、任务流转、项目协作，到能力沉淀和复用，最终让 AI 从个人助手升级为企业级数字员工团队。 #AI智能体 #企业AI落地 #数字员工 #AI工作流 #Agent协作",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7651951515419152747",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7651951515419152747 in tab 4. Browser reported: net::ERR_ABORTED"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10016,
+        "call_id": "call_0a409a0edef14cc7a235c894f0addc48",
+        "timestamp": "2026-10-09T06:04:11.096Z"
+      }
+    }
+  },
+  {
+    "video_id": "7651176262590313066",
+    "url": "https://www.douyin.com/video/7651176262590313066",
+    "directory_text": "944\n\n4 步“复活”Claude Fable 5？系统提示词玩法实 用 4 个步骤演示如何通过系统提示词文件，在 Claude Code 里模拟 Fable 5 风格的工作流。注意：--dangerously-skip-permissions 属于高风险启动参数，建议只在隔离项目里测试，不要直接用于生产目录。 #ClaudeCode #ClaudeFable5 #AI编程 #系统提示词 #AI工具教程",
+    "published_at": "2026-06-14 17:11",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-14 17:11",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10031,
+      "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+      "timestamp": "2026-10-09T06:06:23.310Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7651176262590313066",
+        "raw_date_text": "发布时间：2026-06-14 17:11",
+        "url": "https://www.douyin.com/video/7651176262590313066",
+        "video_id": "7651176262590313066"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10031,
+        "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+        "timestamp": "2026-10-09T06:06:23.310Z"
+      }
+    }
+  },
+  {
+    "video_id": "7650887632989854820",
+    "url": "https://www.douyin.com/video/7650887632989854820",
+    "directory_text": "126\n\n我用 Codex 最多的 8 个真实场景：不是炫技，是提效 这期不讲概念，直接拆我日常使用 Codex 的 8 个高频场景：写代码、改 Bug、做文档、生成配图、整理信息、重构流程、辅助决策和长期任务推进。真正有价值的不是“会不会用工具”，而是能不能把 AI 放进你的真实工作流里，让它帮你把重复、琐碎、消耗人的部分接过去。 #Codex #AI编程 #AI工作流 #程序员效率 #AI工具使用",
+    "published_at": "2026-06-13 22:31",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-13 22:31",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10031,
+      "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+      "timestamp": "2026-10-09T06:06:23.310Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7650887632989854820",
+        "raw_date_text": "发布时间：2026-06-13 22:31",
+        "url": "https://www.douyin.com/video/7650887632989854820",
+        "video_id": "7650887632989854820"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10031,
+        "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+        "timestamp": "2026-10-09T06:06:23.310Z"
+      }
+    }
+  },
+  {
+    "video_id": "7650415918162702437",
+    "url": "https://www.douyin.com/video/7650415918162702437",
+    "directory_text": "54\n\nSkill 不是提示词，是 Agent 时代的能力商品 很多人还把 Skill 当成高级提示词，但真正的 Skill，是把专家经验、工作流、品味、工具调用和失败边界，封装成 Agent 可以反复调用的能力资产。这期我用一条完整主线讲清楚：为什么 Agent 会放大人与人的差距，为什么好 Skill 的核心是经验外化，以及个人创作者如何把文章、案例和产品沉淀成自己的能力复利。 #Skill #Agent #AI工具 #AI创作者 #codex",
+    "published_at": "2026-06-12 16:01",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-12 16:01",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10031,
+      "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+      "timestamp": "2026-10-09T06:06:23.310Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7650415918162702437",
+        "raw_date_text": "发布时间：2026-06-12 16:01",
+        "url": "https://www.douyin.com/video/7650415918162702437",
+        "video_id": "7650415918162702437"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10031,
+        "call_id": "call_62a2418e6ea04c9d8bbb7e29fb5a5053",
+        "timestamp": "2026-10-09T06:06:23.310Z"
+      }
+    }
+  },
+  {
+    "video_id": "7650080126685142214",
+    "url": "https://www.douyin.com/video/7650080126685142214",
+    "directory_text": "21\n\n把 AI 从一次性回答，变成可持续工作的系统 这期从 0 到 1 讲清楚 Loop Engineering：它不是更复杂的 Prompt，而是围绕目标、状态、反馈、工具和停止条件搭建的闭环工程方法。真正重要的不是让 AI 自动跑起来，而是让它在可控边界内持续改进、验证结果，并把经验沉淀成可复用的工作系统。 #LoopEngineering #AI工程化 #Agent工作流 #提示词工程 #AI自动化",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7650080126685142214",
+        "url": "https://www.douyin.com/video/7650080126685142214",
+        "video_id": "7650080126685142214"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10059,
+        "call_id": "call_4a518e144cdf4e8a9735d2305f1f6ec9",
+        "timestamp": "2026-10-09T06:10:30.522Z"
+      }
+    }
+  },
+  {
+    "video_id": "7649594310300753131",
+    "url": "https://www.douyin.com/video/7649594310300753131",
+    "directory_text": "2\n\nClaude Fable 5 正式发布：这次升级，到底强在哪 Claude Fable 5 正式发布后，很多人第一反应是看跑分、看参数、看谁又被超了。但真正值得关注的，不只是模型变强了，而是它正在改变我们使用 AI 的方式：从简单问答，走向更稳定的协作、执行和生产。 这期视频我会用更接地气的方式，拆解 Claude Fable 5 的核心变化、适合的使用场景，以及普通人和技术人应该怎么看这次发布。 #ClaudeFable5 #Claude #AI工具 #AI编程 #Fable5",
+    "published_at": "2026-06-10 10:52",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-10 10:52",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10059,
+      "call_id": "call_4a518e144cdf4e8a9735d2305f1f6ec9",
+      "timestamp": "2026-10-09T06:10:30.522Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7649594310300753131",
+        "raw_date_text": "发布时间：2026-06-10 10:52",
+        "url": "https://www.douyin.com/video/7649594310300753131",
+        "video_id": "7649594310300753131"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10059,
+        "call_id": "call_4a518e144cdf4e8a9735d2305f1f6ec9",
+        "timestamp": "2026-10-09T06:10:30.522Z"
+      }
+    }
+  },
+  {
+    "video_id": "7649333470477757163",
+    "url": "https://www.douyin.com/video/7649333470477757163",
+    "directory_text": "172\n\nCodex 接入国产大模型：DeepSeek 和 Kimi 这期视频演示如何通过 CC Switch，把 DeepSeek 和 Kimi 接入 Codex。主线先用 DeepSeek 跑通文字和代码任务，再补 Kimi 的截图、多模态场景。重点不是替代某个模型，而是让 Codex 多几条可切换的模型线路。 #Codex #AI编程 #国产大模型 #DeepSeek #Kimi",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7649333470477757163",
+        "url": "https://www.douyin.com/video/7649333470477757163",
+        "video_id": "7649333470477757163"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10059,
+        "call_id": "call_4a518e144cdf4e8a9735d2305f1f6ec9",
+        "timestamp": "2026-10-09T06:10:30.522Z"
+      }
+    }
+  },
+  {
+    "video_id": "7649221367888331242",
+    "url": "https://www.douyin.com/video/7649221367888331242",
+    "directory_text": "52\n\nOpenAI Codex 官网 60 个 Use Cases 很多人还把 Codex 当成一个代码助手，但 OpenAI 官网列出的 60 个 use cases，其实透露了一个更大的变化：Codex 正在从聊天框里的编程工具，变成能进入真实工作流的 AI Agent。 这期视频我会用普通人能听懂的方式，把这些场景拆成几类：协作知识工作、数据表格、前端原型、工程开发、质量安全、移动端、科研场景，以及长期自动化任务。你会发现，未来真正重要的不是“会不会问 AI”，而是能不能把一个模糊需求，变成 AI 可以理解、执行、验证的工作流程。 #Codex #OpenAI #AI编程 #AIAgent #CodexApp",
+    "published_at": "2026-06-09 10:45",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-09 10:45",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10106,
+      "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+      "timestamp": "2026-10-09T06:15:45.860Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7649221367888331242",
+        "raw_date_text": "发布时间：2026-06-09 10:45",
+        "url": "https://www.douyin.com/video/7649221367888331242",
+        "video_id": "7649221367888331242"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10106,
+        "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+        "timestamp": "2026-10-09T06:15:45.860Z"
+      }
+    }
+  },
+  {
+    "video_id": "7648682185503209892",
+    "url": "https://www.douyin.com/video/7648682185503209892",
+    "directory_text": "18\n\n技术人学 AI，真正难的不是工具，而是找不到业务场景 很多人已经很熟练 Codex、Claude Code、OpenClaw 这些 AI 工具，但真正卡住他们的，往往不是不会用，而是没有一个真实的生产环境。 没有业务场景，AI 工具就只是玩具；有了真实问题，它才会变成生产力。 这期聊的不是工具教程，而是技术人在 AI 时代真正会遇到的问题：会写代码还不够，能不能把 AI 放进业务流程里，才是更关键的能力。 我是沐晨，在西安做 AI。如果你的业务场景需要转 AI，欢迎找我沟通交流。 #AI工具 #Codex #ClaudeCode #OpenClaw #AI编程",
+    "published_at": "2026-06-07 23:53",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-07 23:53",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10106,
+      "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+      "timestamp": "2026-10-09T06:15:45.860Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7648682185503209892",
+        "raw_date_text": "发布时间：2026-06-07 23:53",
+        "url": "https://www.douyin.com/video/7648682185503209892",
+        "video_id": "7648682185503209892"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10106,
+        "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+        "timestamp": "2026-10-09T06:15:45.860Z"
+      }
+    }
+  },
+  {
+    "video_id": "7648525244890746003",
+    "url": "https://www.douyin.com/video/7648525244890746003",
+    "directory_text": "30\n\n为什么我把日常开发从 Codex CLI 搬到了 Codex 很多人第一次使用 Codex，都是从 CLI 开始：打开终端、敲命令、读代码、改文件、跑测试。CLI 依然轻、快、可组合，很适合脚本、CI 和小修小补。 但当 Codex 不只是帮你改一段代码，而是参与设计、调试、审查、长任务、UI 迭代和多线程协作时，真正重要的就不只是命令行，而是一个能承载完整工作现场的界面。 这一期聊聊为什么 Codex App 不是 CLI 的套壳，而是一个 AI 开发工作台：Appshots、远程控制、内建浏览器、Chrome、Computer Use、语音输入、Steering、Queuing、Thread、Fork、Automations、侧边面板、图像生成和 Goals，分别适合什么场景，以及如何把 CLI 和 App 分层使用。 #codex #codexcli #codexapp #codex插件 #codex组件",
+    "published_at": "2026-06-07 13:44",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-07 13:44",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10106,
+      "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+      "timestamp": "2026-10-09T06:15:45.860Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7648525244890746003",
+        "raw_date_text": "发布时间：2026-06-07 13:44",
+        "url": "https://www.douyin.com/video/7648525244890746003",
+        "video_id": "7648525244890746003"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10106,
+        "call_id": "call_e4bacdaa749d46b4a1d4d486551dec8a",
+        "timestamp": "2026-10-09T06:15:45.860Z"
+      }
+    }
+  },
+  {
+    "video_id": "7647936420153650148",
+    "url": "https://www.douyin.com/video/7647936420153650148",
+    "directory_text": "50\n\n《丧尸清道夫》是怎么做出来的？ 这期不聊“神级提示词”，而是拆解《丧尸清道夫》背后的完整制作流程：从作品气质、提示词结构、关键资产、自由画布，到图生视频、抽卡筛选、动作分镜、后期剪辑和调色统一。 真正值得学的不是复制提示词，而是 Mx-Shell 如何像导演一样使用 AI：让 AI 生成可能性，再由创作者判断、筛选、连接和完成作品。 #AI短剧 #丧尸清道夫 #Mx-Shell #AI视频制作 #AI工作流",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7647936420153650148",
+        "url": "https://www.douyin.com/video/7647936420153650148",
+        "video_id": "7647936420153650148"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10122,
+        "call_id": "call_5494e57c852b47eb8dade334f68be0be",
+        "timestamp": "2026-10-09T06:19:18.520Z"
+      }
+    }
+  },
+  {
+    "video_id": "7647447927753620842",
+    "url": "https://www.douyin.com/video/7647447927753620842",
+    "directory_text": "44\n\nClaude+Codex协作流，写代码效率拉满✨ 很多人用AI写代码，总习惯在Claude Code和Codex里二选一。其实把它们搭成一套工作流，效率才是真的高！ Claude Code负责啃项目、拆方案、推进实现；Codex则从不同视角做审查，专门盯bug、漏测的边界情况，还有那些没必要的改动。 这期视频会说清楚：什么时候让Claude当主力，什么时候用Codex做二次审查，还会分享一套能直接用的五步闭环流程——规划、实现、审查、判断、复审。 适合正在用AI做真实项目、想提升代码质量、减少线上风险的同学试试～ #ClaudeCode #Codex #AI编程 #AI写代码 #代码审查",
+    "published_at": "2026-06-04 16:03",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-04 16:03",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10122,
+      "call_id": "call_5494e57c852b47eb8dade334f68be0be",
+      "timestamp": "2026-10-09T06:19:18.520Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7647447927753620842",
+        "raw_date_text": "发布时间：2026-06-04 16:03",
+        "url": "https://www.douyin.com/video/7647447927753620842",
+        "video_id": "7647447927753620842"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10122,
+        "call_id": "call_5494e57c852b47eb8dade334f68be0be",
+        "timestamp": "2026-10-09T06:19:18.520Z"
+      }
+    }
+  },
+  {
+    "video_id": "7646725740021440182",
+    "url": "https://www.douyin.com/video/7646725740021440182",
+    "directory_text": "46\n\n创作者必看：10 个让 Codex 真正干活的 Skill 这期不是简单罗列 10 个 Codex Skills，而是按中文内容创作者的完整工作流来讲：选题诊断、资料研究、初稿生成、去 AI 味、文章配图、封面制作、多平台分发。看完你会知道每个 Skill 适合解决什么问题、该放在创作流程的哪一步，以及如何把 Codex 从“聊天工具”变成真正能交付内容资产的创作工作台。 #Codex #CodexSkills #AI写作 #中文内容创作 #自媒体工具",
+    "published_at": "2026-06-02 17:21",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-02 17:21",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10122,
+      "call_id": "call_5494e57c852b47eb8dade334f68be0be",
+      "timestamp": "2026-10-09T06:19:18.520Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7646725740021440182",
+        "raw_date_text": "发布时间：2026-06-02 17:21",
+        "url": "https://www.douyin.com/video/7646725740021440182",
+        "video_id": "7646725740021440182"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10122,
+        "call_id": "call_5494e57c852b47eb8dade334f68be0be",
+        "timestamp": "2026-10-09T06:19:18.520Z"
+      }
+    }
+  },
+  {
+    "video_id": "7646425124149053062",
+    "url": "https://www.douyin.com/video/7646425124149053062",
+    "directory_text": "1551\n\n10 个让 Codex 强 10 倍的插件：从视频生成到电脑 这期不是简单罗列插件清单，而是把 10 个 Codex 插件按真实交付场景拆成三类：视频动画、产品开发、办公自动化。你会看到 HyperFrames、Remotion、Figma、Web App、移动端、Spreadsheet、PPT、Computer Use、Browser Use 等插件分别适合什么任务，怎么组合成工作流，以及高权限插件该如何设置安全边界。 看完你会明白：插件不是越多越好，真正有价值的是按交付物选择插件，把它们串成能稳定产出视频、网页、报告、自动化流程的 AI 工作台。 #Codex #AI插件 #AI工具 #AI工作流 #效率工具",
+    "published_at": "2026-06-01 21:54",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-06-01 21:54",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10181,
+      "call_id": "call_8edba346c89c42cdadea8b5ab5a411e3",
+      "timestamp": "2026-10-09T06:26:15.942Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7646425124149053062",
+        "raw_date_text": "发布时间：2026-06-01 21:54",
+        "url": "https://www.douyin.com/video/7646425124149053062",
+        "video_id": "7646425124149053062"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10181,
+        "call_id": "call_8edba346c89c42cdadea8b5ab5a411e3",
+        "timestamp": "2026-10-09T06:26:15.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7646057903589618411",
+    "url": "https://www.douyin.com/video/7646057903589618411",
+    "directory_text": "561\n\n用好 Codex 的 8 个命令：权限、计划、上下文、验收一 很多人装了 Codex，却还是把它当成普通聊天机器人用。其实 Codex 真正好用的关键，不是多写几句提示词，而是学会用命令管理它的工作方式。 这期视频会系统讲清 8 个最常用的 Codex 命令：/permissions、/model、/plan、/mention、/ide、/diff、/review、/init。从权限边界、模型选择、任务计划、文件上下文，到最终 diff 和 review 验收，帮你把 Codex 从“会回答问题”变成“能参与交付”的 AI 工作台。 适合 Codex 新手、AI 编程工具用户、独立开发者、内容创作者和想提高 Agent 工作效率的人反复观看。 #Codex #AI工具 #AI编程 #编程效率 #AI工作流",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7646057903589618411",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7646057903589618411 in tab 4. Browser reported: net::ERR_ABORTED"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10181,
+        "call_id": "call_8edba346c89c42cdadea8b5ab5a411e3",
+        "timestamp": "2026-10-09T06:26:15.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7645594803866385862",
+    "url": "https://www.douyin.com/video/7645594803866385862",
+    "directory_text": "6\n\nNotebookLM 保姆级教程：从资料整理到省 Token 这期给大家整理了NotebookLM的保姆级教程～从第一次创建notebook、添加资料源、提问保存笔记开始，一步步讲到怎么用它先消化PDF、网页、YouTube转录稿和文档，再把结构化结果传给Claude、Codex这些Agent完成交付。 视频里还会拆解省Token的核心逻辑、资料源准备方法、视频批量拆解流程，还有总结、对比、生成SOP这些高质量Prompt模板。不管是用AI做学习、研究、内容创作，还是资料整理和办公自动化，都能参考～ #NotebookLM #AI工具 #AI教程 #资料整理 #知识管理",
+    "published_at": "UNKNOWN",
+    "window": "UNKNOWN",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7645594803866385862",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7645594803866385862 in tab 4. Browser reported: net::ERR_ABORTED"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10181,
+        "call_id": "call_8edba346c89c42cdadea8b5ab5a411e3",
+        "timestamp": "2026-10-09T06:26:15.942Z"
+      }
+    }
+  },
+  {
+    "video_id": "7644383556672395242",
+    "url": "https://www.douyin.com/video/7644383556672395242",
+    "directory_text": "96\n\n从 0 到能参与团队项目：Git 与 GitHub 实战指南 这期从零开始系统讲解 Git 与 GitHub：先建立版本控制的心智模型，再依次讲清工作区、暂存区、commit、branch、HEAD、远程仓库、clone、fetch、pull、push、merge、冲突解决、Pull Request、Review、Release、rebase、revert、stash、reflog 等核心概念和实战流程。 如果你之前学 Git 只是在背命令，这条视频会帮你把命令背后的协作逻辑串起来：什么时候提交、怎么同步远程、为什么要开分支、冲突怎么处理、团队里为什么要用 PR 和分支保护。 #Git #GitHub #版本控制 #程序员入门 #编程教程",
+    "published_at": "2026-05-27 09:52",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-27 09:52",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10217,
+      "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+      "timestamp": "2026-10-09T06:32:22.793Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7644383556672395242",
+        "raw_date_text": "发布时间：2026-05-27 09:52",
+        "url": "https://www.douyin.com/video/7644383556672395242",
+        "video_id": "7644383556672395242"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10217,
+        "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+        "timestamp": "2026-10-09T06:32:22.793Z"
+      }
+    }
+  },
+  {
+    "video_id": "7644029408294680575",
+    "url": "https://www.douyin.com/video/7644029408294680575",
+    "directory_text": "37\n\nAI时代最缺的不是模型工程师，而是FDE 很多人以为 FDE 是一个新岗位，其实它更像一种能力：站在业务现场，理解真实流程、真实阻力和真实交付，把 AI 从“能演示”推进到“能解决问题”。这期视频会从 FDE 的定义、工作链路、典型案例、能力结构和入门路径，讲清楚为什么未来最稀缺的人，不只是会调模型的人，而是能把 AI 带进业务现场的人。 #FDE #AI落地 #AI应用 #业务现场 #AI工作流",
+    "published_at": "2026-05-26 10:58",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-26 10:58",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10217,
+      "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+      "timestamp": "2026-10-09T06:32:22.793Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7644029408294680575",
+        "raw_date_text": "发布时间：2026-05-26 10:58",
+        "url": "https://www.douyin.com/video/7644029408294680575",
+        "video_id": "7644029408294680575"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10217,
+        "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+        "timestamp": "2026-10-09T06:32:22.793Z"
+      }
+    }
+  },
+  {
+    "video_id": "7643715190286626694",
+    "url": "https://www.douyin.com/video/7643715190286626694",
+    "directory_text": "54\n\n6 个场景，把 Codex 用成工作台 这是一条给打工人的 Codex 入门视频。 不是教你和 AI 聊天，而是教你把 Codex 用成真正的工作台：写周报、整理表格、批量处理文件、生成报告、浏览器代办、每日自动化。 核心方法很简单：给任务、给素材、设边界、看证据、验交付。 #打工人 #Codex #AI办公 #AI工具 #职场效率",
+    "published_at": "2026-05-25 14:38",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-25 14:38",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10217,
+      "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+      "timestamp": "2026-10-09T06:32:22.793Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7643715190286626694",
+        "raw_date_text": "发布时间：2026-05-25 14:38",
+        "url": "https://www.douyin.com/video/7643715190286626694",
+        "video_id": "7643715190286626694"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10217,
+        "call_id": "call_57df1699f2c945b9aedd1606adab3e91",
+        "timestamp": "2026-10-09T06:32:22.793Z"
+      }
+    }
+  },
+  {
+    "video_id": "7643276058934065043",
+    "url": "https://www.douyin.com/video/7643276058934065043",
+    "directory_text": "129\n\n让 AI 真干活的 7 个技巧 很多人装了 Codex、Cursor、Claude Code，却还是只会把 AI 当聊天框。 这条视频讲 7 个真正让 AI 干活的方法：文件整理、项目管理、Skill、插件 CLI、记忆偏好、图片生成和自动化。核心只有一句：先规划，再执行。 #Codex #AI工具 #AIAgent #效率工具 #AI工作流",
+    "published_at": "2026-05-24 10:14",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-24 10:14",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10234,
+      "call_id": "call_5d44435b47e64dddabb105bfb48d7f0b",
+      "timestamp": "2026-10-09T06:34:41.343Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7643276058934065043",
+        "raw_date_text": "发布时间：2026-05-24 10:14",
+        "url": "https://www.douyin.com/video/7643276058934065043",
+        "video_id": "7643276058934065043"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10234,
+        "call_id": "call_5d44435b47e64dddabb105bfb48d7f0b",
+        "timestamp": "2026-10-09T06:34:41.343Z"
+      }
+    }
+  },
+  {
+    "video_id": "7643007691849663657",
+    "url": "https://www.douyin.com/video/7643007691849663657",
+    "directory_text": "53\n\nHarness把Agent变成可管理的工程执行系统 这期系统讲解 Harness Engineering：为什么强模型和好 Prompt 仍然不足以保证 Agent 稳定交付，以及如何用指令、工具、环境、状态和反馈，把 AI 编程 Agent 从“聊天助手”升级成可管理、可恢复、可验证的工程执行系统。 内容包括 12 讲核心路线、6 个实战项目、状态机、验证反馈、上下文恢复、工具调用、运行信号和会话清理，适合正在使用 AI 编程工具、搭建 Agent 工作流、或想把 AI 落地到真实工程团队的人。 #AI编程 #Agent #HarnessEngineering #Prompt工程 #AI工程化",
+    "published_at": "2026-05-23 16:53",
+    "window": "OUTSIDE_WINDOW",
+    "ai_relevance": "TITLE_SCREEN_ONLY",
+    "content_read": "NOT_READ",
+    "receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 8850,
+      "call_id": "call_44c79622d67c4a29bd32ad60a9b36527",
+      "timestamp": "2026-10-09T02:33:01.098Z"
+    },
+    "raw_date_text": "发布时间：2026-05-23 16:53",
+    "date_receipt": {
+      "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+      "line": 10234,
+      "call_id": "call_5d44435b47e64dddabb105bfb48d7f0b",
+      "timestamp": "2026-10-09T06:34:41.343Z"
+    },
+    "date_precision": "minute",
+    "timezone": "UNKNOWN: page does not explicitly label timezone",
+    "latest_date_attempt": {
+      "kind": "WINDOW_DATE",
+      "data": {
+        "requested_id": "7643007691849663657",
+        "raw_date_text": "发布时间：2026-05-23 16:53",
+        "url": "https://www.douyin.com/video/7643007691849663657",
+        "video_id": "7643007691849663657"
+      },
+      "receipt": {
+        "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "line": 10234,
+        "call_id": "call_5d44435b47e64dddabb105bfb48d7f0b",
+        "timestamp": "2026-10-09T06:34:41.343Z"
+      }
+    }
+  }
+]

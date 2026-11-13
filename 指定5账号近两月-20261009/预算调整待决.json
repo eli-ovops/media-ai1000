@@ -1,0 +1,17 @@
+{
+  "status": "APPROVED",
+  "effective_cache_limit_bytes": 3221225472,
+  "proposed_cache_limit_bytes": 3221225472,
+  "effective_limit_source": "current human approval on 2026-10-09; original task cap overridden only to 3GiB",
+  "last_measured_total_bytes": 2097260962,
+  "last_measured_remaining_bytes": 50222686,
+  "next_video_id": "7689826710635678986",
+  "next_video_page_duration_sec": 765.145011,
+  "next_audio_and_frames_reserved_bytes": 45456161,
+  "next_media_export_and_copy_allowance_bytes": 4766525,
+  "next_original_media_size": "UNKNOWN: no new download started",
+  "proposal": "仅将原5账号AI研究的缓存上限从2GiB调到3GiB，继续在固定日期窗口内处理已授权素材；不安装、付费、删除、上传私有素材、互动或发布。3GiB仍按实际用量分批核，不承诺无限后台或一定容纳全范围。",
+  "human_approval_received": true,
+  "approval_message": "允许",
+  "cache_cleanup_authorization": "缓存用完提取完信息需要删除缓存"
+}

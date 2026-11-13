@@ -1,0 +1,83 @@
+{
+  "video_id": "7685513042200694050",
+  "asr_fulltext_actually_read": true,
+  "full_track_audio_duration": 1312.091375,
+  "asr_cache": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/audio/9c16948099b8fe0f/transcript.json",
+  "full_segments": 548,
+  "last_segment": {
+    "start": 1308.72,
+    "end": 1312.04,
+    "text": "我杀猪让我们一起在AI朝头冲浪"
+  },
+  "frames_actually_read": 42,
+  "sample_times": [
+    0,
+    43.728899999999996,
+    87.45779999999999,
+    131.1867,
+    174.91559999999998,
+    218.6445,
+    262.3734,
+    306.10229999999996,
+    349.83119999999997,
+    393.5601,
+    437.289,
+    481.01789999999994,
+    524.7468,
+    568.4757,
+    612.2045999999999,
+    655.9335,
+    699.6623999999999,
+    743.3913,
+    787.1202,
+    830.8490999999999,
+    874.578,
+    918.3068999999999,
+    962.0357999999999,
+    1005.7647,
+    1049.4936,
+    1093.2224999999999,
+    1136.9514,
+    1180.6803,
+    1224.4091999999998,
+    1268.1381
+  ],
+  "seen_contact_sheets": [
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/fullspan-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/fullspan-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/fullspan-3.jpg",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/fullspan-4.jpg",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/fullspan-5.jpg"
+  ],
+  "unread_interval_images": 30,
+  "unread_interval_files_currently_retained": 0,
+  "decoded_audio_currently_retained": false,
+  "cleanup_receipt": "缓存清理回执.json",
+  "continuous_audiovisual": "UNKNOWN",
+  "tail_without_frames": [
+    1268.1381,
+    1312.067
+  ],
+  "source_sha256": "96bbe41ada4d192c46a988a6647edf636f26958d8a30f91f8aa197514139944f",
+  "source": "source.json",
+  "card": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/内容卡/7685513042200694050.md",
+  "pmo_acceptance": "PENDING",
+  "extra_sample_times": [
+    730,
+    736.6666666666666,
+    743.3333333333334,
+    750,
+    756.6666666666666,
+    763.3333333333334,
+    770,
+    776.6666666666666,
+    783.3333333333334,
+    790,
+    796.6666666666666,
+    803.3333333333334
+  ],
+  "extra_seen_contact_sheets": [
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/actioncheck-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7685513042200694050/actioncheck-2.jpg"
+  ]
+}

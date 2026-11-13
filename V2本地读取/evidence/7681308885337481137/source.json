@@ -1,0 +1,46 @@
+{
+  "video_id": "7681308885337481137",
+  "url": "https://www.douyin.com/video/7681308885337481137",
+  "source_export": "/Users/USER/Downloads/download (29).mp4",
+  "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7681308885337481137.mp4",
+  "sha256": "25c8dd6e612d7ba306decad660d7113eaa22f96d47de84f95a2bad8f3fad91e9",
+  "bytes": 30150364,
+  "date": "2026-10-07",
+  "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+  "browser_calls": [
+    {
+      "call_id": "call_GaqvxLfnrNyZsyig5pOjjUQG",
+      "input_jsonl_line": 3630,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_PGUbhHMnr0lF98HBSl2WfsoH",
+      "input_jsonl_line": 3645,
+      "tool": "js"
+    },
+    {
+      "call_id": "call_4ca7bed061d14cb0b703bc9e94774376",
+      "input_jsonl_line": 3664,
+      "tool": "js"
+    }
+  ],
+  "page_snapshot": {
+    "author": "森森AI日记",
+    "account_id": "Guuuoooiii",
+    "title": "第17集 | 别找了，让千问创作帮你一条龙搞定AI短剧制作吧！ 以前做一条AI视频，不是抽卡不稳定就是人物太“AI脸”，现在用千问创作平台，有Wan3.0模型以及更高效的Prime版帮你轻松搞定！千问创作平台还汇集了阿里多个实力模型，还有画布工作流+专业Agent帮你安排得明明白白，短剧、广告、MV，一站式制作不在话下！#千问创作上线wan3点0视频生成模型#ai生视频# #wan3点0#ai#千问创作",
+    "published_at": "2026-09-03 23:41",
+    "likes_display": "2.1万",
+    "comments_display": "359",
+    "favorites_display": "4744",
+    "shares_display": "1586"
+  },
+  "original_page_source_receipt": {
+    "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "call_id": "call_c30f5a4f8a0840d1a86021cb1ac00317",
+    "input_jsonl_line": 3231,
+    "output_jsonl_line": 3234,
+    "content_block_index": 1,
+    "text_offset": 607,
+    "timestamp_utc": "2026-10-07T05:55:57.903Z"
+  }
+}

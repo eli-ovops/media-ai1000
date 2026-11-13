@@ -1,0 +1,606 @@
+{
+  "video_id": "7684228240709274931",
+  "standard": "V2",
+  "status": "ACCEPTED_PMO_CONTENT",
+  "source": {
+    "video_id": "7684228240709274931",
+    "url": "https://www.douyin.com/video/7684228240709274931",
+    "source_export": "/Users/USER/Downloads/download (11).mp4",
+    "local_path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7684228240709274931.mp4",
+    "sha256": "2c9925b067cfc5c41ceadcb34bc76e52cff379c54adaa0591e09e0e9595ff32f",
+    "bytes": 7881542,
+    "date": "2026-10-07",
+    "page_snapshot": {
+      "author": "AI超能力老马",
+      "account_id": "87440545928",
+      "title": "AI写工作总结，第一句话千万别这么说 完整8类AI写材料指令已经整理好了。",
+      "published_at": "2026-09-11 18:50",
+      "likes": 2077,
+      "comments": 468,
+      "favorites": 2779,
+      "shares": 368,
+      "plays": "UNKNOWN",
+      "verified_date": "2026-10-07",
+      "catalog_like_rank": 5,
+      "catalog_scope": 49
+    },
+    "source_session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+    "browser_calls": [],
+    "page_read_evidence": {
+      "tool": "mcp__cua_repl.js",
+      "date": "2026-10-07",
+      "browser_id": "2",
+      "tab_id": "30",
+      "current_ax_read": true,
+      "call_id": "UNKNOWN",
+      "trace_limit": "CUA tool call outputs visible in current conversation; exact call ID absent from local session response_item records. No invented call ID."
+    },
+    "original_browser_source_receipts": [
+      {
+        "kind": "page",
+        "call_id": "call_ZpknkeIX0h4Qdac2yjRSxgVY",
+        "input_jsonl_line": 1744,
+        "output_jsonl_line": 1747,
+        "timestamp_utc": "2026-10-07T04:04:23.774Z",
+        "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "output_has_expected_video_id": true
+      },
+      {
+        "kind": "download",
+        "call_id": "call_ElRxA3AURqbmWr9pqSylYD4k",
+        "input_jsonl_line": 1763,
+        "output_jsonl_line": 1766,
+        "timestamp_utc": "2026-10-07T04:04:53.968Z",
+        "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+        "output_has_expected_video_id": true
+      }
+    ],
+    "exact_browser_call_id_gap_resolved": true
+  },
+  "info": {
+    "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7684228240709274931.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/media/7684228240709274931.mp4",
+    "sourceKind": "local",
+    "durationSec": 63.234,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "videoCodec": "hevc",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 997127,
+    "sizeBytes": 7881542,
+    "formatName": "mov,mp4 (AVFoundation adapter)"
+  },
+  "audio": {
+    "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/audio/2866f3a8754b035e/audio.wav",
+    "rate": 16000,
+    "channels": 1,
+    "samples": 1011670,
+    "duration_sec": 63.229375,
+    "full_track_extraction": true
+  },
+  "asr": {
+    "source": "whisper.cpp",
+    "language": "zh",
+    "segmentCount": 44,
+    "fullText": "为什么AI寫出来的工作总结 一眼就是AI寫的 因为你的第一句话就问错了 我刚刚试了一遍 只跟AI说一句帮我寫一份工作总结 结果看着很难整 试一看全是套话 其实AI不是不会寫 是你的指令太模糊 想让AI寫得像个人话 你至少要把六个要素交代清楚 写给谁 什么场景 写什么 什么组织 什么语气 最后要什么格式 比如工作总结 别只说帮我寫一份 你可以直接这样说 请根据我提供的真实工作内容 写一份阶段信工的总结 结构包括完成的内容 取得的结果 目前存在的问题 下一步计划 不要写空话套话 不要编造没有提供的数据 语言简洁物实 每部分三到四个点 控制在八百字以内 我刚才用这条重新跑了一遍 出来的内容就具体多了 至少可以进入修改环节 我有把工作总结 工作汇报 会议记要 工作发案等等 这些常用场景 整理成了 八套可以直接套用的 AI指令 需要完整门网的 请门区达指令",
+    "segments": [
+      {
+        "start": 0,
+        "end": 2.26,
+        "text": "为什么AI寫出来的工作总结"
+      },
+      {
+        "start": 2.26,
+        "end": 3.68,
+        "text": "一眼就是AI寫的"
+      },
+      {
+        "start": 3.68,
+        "end": 5.58,
+        "text": "因为你的第一句话就问错了"
+      },
+      {
+        "start": 5.58,
+        "end": 6.88,
+        "text": "我刚刚试了一遍"
+      },
+      {
+        "start": 6.88,
+        "end": 9.52,
+        "text": "只跟AI说一句帮我寫一份工作总结"
+      },
+      {
+        "start": 9.52,
+        "end": 10.92,
+        "text": "结果看着很难整"
+      },
+      {
+        "start": 10.92,
+        "end": 12.48,
+        "text": "试一看全是套话"
+      },
+      {
+        "start": 12.48,
+        "end": 13.96,
+        "text": "其实AI不是不会寫"
+      },
+      {
+        "start": 13.96,
+        "end": 15.68,
+        "text": "是你的指令太模糊"
+      },
+      {
+        "start": 15.68,
+        "end": 17.16,
+        "text": "想让AI寫得像个人话"
+      },
+      {
+        "start": 17.16,
+        "end": 19.52,
+        "text": "你至少要把六个要素交代清楚"
+      },
+      {
+        "start": 19.52,
+        "end": 20.36,
+        "text": "写给谁"
+      },
+      {
+        "start": 20.36,
+        "end": 21.16,
+        "text": "什么场景"
+      },
+      {
+        "start": 21.16,
+        "end": 21.88,
+        "text": "写什么"
+      },
+      {
+        "start": 21.88,
+        "end": 22.64,
+        "text": "什么组织"
+      },
+      {
+        "start": 22.64,
+        "end": 23.4,
+        "text": "什么语气"
+      },
+      {
+        "start": 23.4,
+        "end": 24.8,
+        "text": "最后要什么格式"
+      },
+      {
+        "start": 24.8,
+        "end": 25.88,
+        "text": "比如工作总结"
+      },
+      {
+        "start": 25.88,
+        "end": 27.64,
+        "text": "别只说帮我寫一份"
+      },
+      {
+        "start": 27.64,
+        "end": 28.88,
+        "text": "你可以直接这样说"
+      },
+      {
+        "start": 28.88,
+        "end": 31.24,
+        "text": "请根据我提供的真实工作内容"
+      },
+      {
+        "start": 31.24,
+        "end": 33.52,
+        "text": "写一份阶段信工的总结"
+      },
+      {
+        "start": 33.52,
+        "end": 35.24,
+        "text": "结构包括完成的内容"
+      },
+      {
+        "start": 35.24,
+        "end": 36.24,
+        "text": "取得的结果"
+      },
+      {
+        "start": 36.24,
+        "end": 37.68,
+        "text": "目前存在的问题"
+      },
+      {
+        "start": 37.68,
+        "end": 38.84,
+        "text": "下一步计划"
+      },
+      {
+        "start": 38.84,
+        "end": 40.16,
+        "text": "不要写空话套话"
+      },
+      {
+        "start": 40.16,
+        "end": 42.2,
+        "text": "不要编造没有提供的数据"
+      },
+      {
+        "start": 42.2,
+        "end": 43.72,
+        "text": "语言简洁物实"
+      },
+      {
+        "start": 43.72,
+        "end": 45.08,
+        "text": "每部分三到四个点"
+      },
+      {
+        "start": 45.08,
+        "end": 46.84,
+        "text": "控制在八百字以内"
+      },
+      {
+        "start": 46.84,
+        "end": 48.84,
+        "text": "我刚才用这条重新跑了一遍"
+      },
+      {
+        "start": 48.84,
+        "end": 50.68,
+        "text": "出来的内容就具体多了"
+      },
+      {
+        "start": 50.68,
+        "end": 52.36,
+        "text": "至少可以进入修改环节"
+      },
+      {
+        "start": 52.36,
+        "end": 53.6,
+        "text": "我有把工作总结"
+      },
+      {
+        "start": 53.6,
+        "end": 54.44,
+        "text": "工作汇报"
+      },
+      {
+        "start": 54.44,
+        "end": 55.2,
+        "text": "会议记要"
+      },
+      {
+        "start": 55.2,
+        "end": 56.12,
+        "text": "工作发案等等"
+      },
+      {
+        "start": 56.12,
+        "end": 57.32,
+        "text": "这些常用场景"
+      },
+      {
+        "start": 57.32,
+        "end": 58.16,
+        "text": "整理成了"
+      },
+      {
+        "start": 58.16,
+        "end": 59.88,
+        "text": "八套可以直接套用的"
+      },
+      {
+        "start": 59.88,
+        "end": 60.76,
+        "text": "AI指令"
+      },
+      {
+        "start": 60.76,
+        "end": 61.88,
+        "text": "需要完整门网的"
+      },
+      {
+        "start": 61.88,
+        "end": 63.16,
+        "text": "请门区达指令"
+      }
+    ]
+  },
+  "asr_full_text_actually_read": true,
+  "asr_tail_unlabelled_sec": 0.074,
+  "asr_tail_silence": "UNKNOWN",
+  "frames_generated": 30,
+  "frames_actually_read": 30,
+  "frames": [
+    {
+      "index": 0,
+      "timeSec": 0,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0001.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 1,
+      "timeSec": 2.108,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0002.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 2,
+      "timeSec": 4.216,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0003.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 3,
+      "timeSec": 6.323,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0004.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 4,
+      "timeSec": 8.431,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0005.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 5,
+      "timeSec": 10.539,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0006.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-1.jpg"
+    },
+    {
+      "index": 6,
+      "timeSec": 12.647,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0007.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 7,
+      "timeSec": 14.755,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0008.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 8,
+      "timeSec": 16.862,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0009.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 9,
+      "timeSec": 18.97,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0010.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 10,
+      "timeSec": 21.078,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0011.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 11,
+      "timeSec": 23.186,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0012.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-2.jpg"
+    },
+    {
+      "index": 12,
+      "timeSec": 25.294,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0013.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 13,
+      "timeSec": 27.401,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0014.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 14,
+      "timeSec": 29.509,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0015.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 15,
+      "timeSec": 31.617,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0016.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 16,
+      "timeSec": 33.725,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0017.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 17,
+      "timeSec": 35.833,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0018.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-3.jpg"
+    },
+    {
+      "index": 18,
+      "timeSec": 37.94,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0019.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 19,
+      "timeSec": 40.048,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0020.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 20,
+      "timeSec": 42.156,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0021.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 21,
+      "timeSec": 44.264,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0022.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 22,
+      "timeSec": 46.372,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0023.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 23,
+      "timeSec": 48.479,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0024.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-4.jpg"
+    },
+    {
+      "index": 24,
+      "timeSec": 50.587,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0025.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    },
+    {
+      "index": 25,
+      "timeSec": 52.695,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0026.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    },
+    {
+      "index": 26,
+      "timeSec": 54.803,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0027.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    },
+    {
+      "index": 27,
+      "timeSec": 56.911,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0028.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    },
+    {
+      "index": 28,
+      "timeSec": 59.018,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0029.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    },
+    {
+      "index": 29,
+      "timeSec": 61.126,
+      "path": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/cache/frames/456d77ac045edd47/interval/frame_0030.jpg",
+      "mimeType": "image/jpeg",
+      "set": "interval",
+      "actually_read": true,
+      "read_via": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取/evidence/7684228240709274931/samples-5.jpg"
+    }
+  ],
+  "sampling_interval_sec": 2.108,
+  "source_and_image_read_calls": [
+    {
+      "call_id": "call_rLuFHiu6tNM17GH0yduAuRrx",
+      "input_jsonl_line": 1824,
+      "tool": "exec"
+    }
+  ],
+  "direct_complete_audiovisual": false,
+  "original_media_sha_unchanged": true,
+  "warnings": [
+    "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+  ],
+  "v2_content_analysis_complete": true,
+  "final_top10_eligibility": "PENDING",
+  "final_qualified": false,
+  "pmo_acceptance_source": "PMO验收-20261007.md cumulative23 / PMO source thread 01a11194-c40d-7bf0-8396-5bb5d6449444 message 2026-10-07"
+}

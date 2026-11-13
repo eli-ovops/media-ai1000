@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-09",
+  "primary_web_sources": [
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "read": true,
+      "local_execution": "NONE"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/main/references/workbench.md",
+      "read": true,
+      "local_execution": "NONE"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/main/references/jianying-export.md",
+      "read": true,
+      "local_execution": "NONE"
+    },
+    {
+      "url": "https://github.com/hypit-ai/hypit",
+      "read": true,
+      "local_execution": "NONE"
+    },
+    {
+      "url": "https://www.remotion.dev/docs/interpolate",
+      "read": true,
+      "local_execution": "NONE"
+    },
+    {
+      "url": "https://www.remotion.dev/docs/captions/displaying",
+      "read": true,
+      "local_execution": "NONE"
+    }
+  ],
+  "reused_evidence_roots": [
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/自动剪辑工作流研究-20261008",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2本地读取",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/30账号内容地图-20261008",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2欠项",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/柱子哥TzFilm全量专项-20261007",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/V2内容分析",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009"
+  ],
+  "errors": {
+    "agent-reach check-update": "GitHub API rate limit; tool internal retries=3; no manual retry or upgrade",
+    "ffmpeg-filters.html": "Internal Error; not read this turn",
+    "Adobe scripting": "navigation only; not sufficiently read, excluded from verified sources"
+  }
+}

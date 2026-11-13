@@ -1,0 +1,730 @@
+{
+  "six_media": [
+    {
+      "video_id": "7680177709267340553",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_ZpknkeIX0h4Qdac2yjRSxgVY",
+          "input_jsonl_line": 1744,
+          "output_jsonl_line": 1747,
+          "timestamp_utc": "2026-10-07T04:04:23.774Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_Oct0sH4bVg2VmtnHwTOWm1sY",
+          "input_jsonl_line": 1751,
+          "output_jsonl_line": 1754,
+          "timestamp_utc": "2026-10-07T04:04:31.600Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    },
+    {
+      "video_id": "7684228240709274931",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_ZpknkeIX0h4Qdac2yjRSxgVY",
+          "input_jsonl_line": 1744,
+          "output_jsonl_line": 1747,
+          "timestamp_utc": "2026-10-07T04:04:23.774Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_ElRxA3AURqbmWr9pqSylYD4k",
+          "input_jsonl_line": 1763,
+          "output_jsonl_line": 1766,
+          "timestamp_utc": "2026-10-07T04:04:53.968Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    },
+    {
+      "video_id": "7676081471161093403",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_ElRxA3AURqbmWr9pqSylYD4k",
+          "input_jsonl_line": 1763,
+          "output_jsonl_line": 1766,
+          "timestamp_utc": "2026-10-07T04:04:53.968Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_5hsU32GJK6tj90fx8YYpd7u1",
+          "input_jsonl_line": 1776,
+          "output_jsonl_line": 1779,
+          "timestamp_utc": "2026-10-07T04:05:27.542Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    },
+    {
+      "video_id": "7676814505564818723",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_5hsU32GJK6tj90fx8YYpd7u1",
+          "input_jsonl_line": 1776,
+          "output_jsonl_line": 1779,
+          "timestamp_utc": "2026-10-07T04:05:27.542Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_Xs1M2lJ3hb2HaO6GRJLfhiOf",
+          "input_jsonl_line": 1798,
+          "output_jsonl_line": 1801,
+          "timestamp_utc": "2026-10-07T04:05:54.257Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    },
+    {
+      "video_id": "7678313346587774251",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_Xs1M2lJ3hb2HaO6GRJLfhiOf",
+          "input_jsonl_line": 1798,
+          "output_jsonl_line": 1801,
+          "timestamp_utc": "2026-10-07T04:05:54.257Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_GMXaEcyBYiagVFuAbGaFLQ3t",
+          "input_jsonl_line": 1810,
+          "output_jsonl_line": 1813,
+          "timestamp_utc": "2026-10-07T04:06:14.823Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    },
+    {
+      "video_id": "7692006549526547727",
+      "receipts": [
+        {
+          "kind": "page",
+          "call_id": "call_GMXaEcyBYiagVFuAbGaFLQ3t",
+          "input_jsonl_line": 1810,
+          "output_jsonl_line": 1813,
+          "timestamp_utc": "2026-10-07T04:06:14.823Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        },
+        {
+          "kind": "download",
+          "call_id": "call_hydAuSVNbY8HbNcwTbLAcfnh",
+          "input_jsonl_line": 1847,
+          "output_jsonl_line": 1850,
+          "timestamp_utc": "2026-10-07T04:06:55.670Z",
+          "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "output_has_expected_video_id": true
+        }
+      ]
+    }
+  ],
+  "ranking39": {
+    "7687961830458740003": {
+      "raw": {
+        "video_id": "7687961830458740003",
+        "url": "https://www.douyin.com/video/7687961830458740003",
+        "title": "AI名字越来越多，但其实先分清模型、应用和Agent这三层 #AI模型 #ChatGPT #DeepSeek #豆包 #Agent",
+        "section": "AI名字越来越多，但其实先分清模型、应用和Agent这三层 #AI模型 #ChatGPT #DeepSeek #豆包 #Agent\n100\n1\n84\n14\n举报\n发布时间：2026-09-21 20:18\n"
+      },
+      "call_id": "call_1gqWfE2iBnYSx24DGFTIHnxR",
+      "input_jsonl_line": 2090,
+      "output_jsonl_line": 2093,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:14:50.735Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7674242822328962331": {
+      "raw": {
+        "video_id": "7674242822328962331",
+        "url": "https://www.douyin.com/video/7674242822328962331",
+        "title": "别再盲目换Al模型！2个提示词直接拉满输出质量 #AI #人工智能#Al提效 #Ai指令#Al使用技巧",
+        "section": "别再盲目换Al模型！2个提示词直接拉满输出质量 #AI #人工智能#Al提效 #Ai指令#Al使用技巧\n91\n3\n84\n22\n举报\n发布时间：2026-08-15 21:01\n"
+      },
+      "call_id": "call_1gqWfE2iBnYSx24DGFTIHnxR",
+      "input_jsonl_line": 2090,
+      "output_jsonl_line": 2093,
+      "content_block_index": 1,
+      "text_offset": 290,
+      "timestamp_utc": "2026-10-07T04:14:50.735Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7680510584764239145": {
+      "raw": {
+        "video_id": "7680510584764239145",
+        "url": "https://www.douyin.com/video/7680510584764239145",
+        "title": "不管在哪上班，都要记住这6个手段 #职场 #职场干货 #写材料 #AI工具 #会议",
+        "section": "不管在哪上班，都要记住这6个手段 #职场 #职场干货 #写材料 #AI工具 #会议\n89\n抢首评\n41\n7\n举报\n发布时间：2026-09-01 18:23\n"
+      },
+      "call_id": "call_1gqWfE2iBnYSx24DGFTIHnxR",
+      "input_jsonl_line": 2090,
+      "output_jsonl_line": 2093,
+      "content_block_index": 1,
+      "text_offset": 551,
+      "timestamp_utc": "2026-10-07T04:14:50.735Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7681284402537712950": {
+      "raw": {
+        "video_id": "7681284402537712950",
+        "url": "https://www.douyin.com/video/7681284402537712950",
+        "title": "用AI总没效果？这段提示词直接让AI变专属顾问 #AI提示词 #AI技巧 #AI #效率工具 #职场必备",
+        "section": "用AI总没效果？这段提示词直接让AI变专属顾问 #AI提示词 #AI技巧 #AI #效率工具 #职场必备\n83\n抢首评\n37\n9\n举报\n发布时间：2026-09-03 20:26\n"
+      },
+      "call_id": "call_1gqWfE2iBnYSx24DGFTIHnxR",
+      "input_jsonl_line": 2090,
+      "output_jsonl_line": 2093,
+      "content_block_index": 1,
+      "text_offset": 793,
+      "timestamp_utc": "2026-10-07T04:14:50.735Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7675711697117580582": {
+      "raw": {
+        "video_id": "7675711697117580582",
+        "url": "https://www.douyin.com/video/7675711697117580582",
+        "title": "Ai写材料千万别说“润色一下”了 #Ai #Ai指令 #Ai写作 #知识分享 #真实生活分享计划",
+        "section": "Ai写材料千万别说“润色一下”了 #Ai #Ai指令 #Ai写作 #知识分享 #真实生活分享计划\n76\n3\n77\n13\n举报\n发布时间：2026-08-19 20:01\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7685734364553989419": {
+      "raw": {
+        "video_id": "7685734364553989419",
+        "url": "https://www.douyin.com/video/7685734364553989419",
+        "title": "现在还自己一页一页做PPT，真的太浪费时间了 完整提示词我已经整理好了。#AI #PPT #AI办公 #职场效率 #提示词",
+        "section": "现在还自己一页一页做PPT，真的太浪费时间了 完整提示词我已经整理好了。#AI #PPT #AI办公 #职场效率 #提示词\n70\n36\n92\n16\n举报\n发布时间：2026-09-15 20:14\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 255,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7688371473337027883": {
+      "raw": {
+        "video_id": "7688371473337027883",
+        "url": "https://www.douyin.com/video/7688371473337027883",
+        "title": "当AI真的开始“自己想办法”，问题可能就不只是它有多聪明了。 #AI #人工智能 #Agent #OpenAI #科技",
+        "section": "当AI真的开始“自己想办法”，问题可能就不只是它有多聪明了。 #AI #人工智能 #Agent #OpenAI #科技\n68\n6\n10\n6\n举报\n发布时间：2026-09-22 22:48\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 537,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7679401583641218331": {
+      "raw": {
+        "video_id": "7679401583641218331",
+        "url": "https://www.douyin.com/video/7679401583641218331",
+        "title": "把这四句话发给AI，零基础也能快速入门任意新领域！ #AI提示词 #高效学习 #普通人玩转A I #自我提升 #学习工具",
+        "section": "把这四句话发给AI，零基础也能快速入门任意新领域！ #AI提示词 #高效学习 #普通人玩转A I #自我提升 #学习工具\n63\n1\n51\n21\n举报\n发布时间：2026-08-29 18:40\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 813,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7690926428967144730": {
+      "raw": {
+        "video_id": "7690926428967144730",
+        "url": "https://www.douyin.com/video/7690926428967144730",
+        "title": "AI做PPT，先把汇报逻辑搭出来 #AI #AI做PPT #PPT #AI办公 #职场效率",
+        "section": "AI做PPT，先把汇报逻辑搭出来 #AI #AI做PPT #PPT #AI办公 #职场效率\n47\n4\n36\n8\n举报\n发布时间：2026-09-29 20:02\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 1092,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7686092149917601059": {
+      "raw": {
+        "video_id": "7686092149917601059",
+        "url": "https://www.douyin.com/video/7686092149917601059",
+        "title": "一条提示词，把流水账周报改成成果汇报 #AI办公 #工作周报 #职场干货 #AI提示词 #工作效率",
+        "section": "一条提示词，把流水账周报改成成果汇报 #AI办公 #工作周报 #职场干货 #AI提示词 #工作效率\n45\n2\n15\n1\n举报\n发布时间：2026-09-17 07:50\n"
+      },
+      "call_id": "call_gyNmK50Us9Rp3rtZP1K7WJgN",
+      "input_jsonl_line": 2097,
+      "output_jsonl_line": 2100,
+      "content_block_index": 1,
+      "text_offset": 1340,
+      "timestamp_utc": "2026-10-07T04:15:02.158Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7680924972725980451": {
+      "raw": {
+        "video_id": "7680924972725980451",
+        "url": "https://www.douyin.com/video/7680924972725980451",
+        "title": "一条指令，让AI不再瞎编 #AI工具 #AI使用技巧 #自媒体工具 #办公技巧",
+        "section": "一条指令，让AI不再瞎编 #AI工具 #AI使用技巧 #自媒体工具 #办公技巧\n45\n1\n72\n18\n举报\n发布时间：2026-09-02 21:11\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7679034464034919529": {
+      "raw": {
+        "video_id": "7679034464034919529",
+        "url": "https://www.douyin.com/video/7679034464034919529",
+        "title": "把这四句提示词发给AI，自动补充实例数据、删掉空话套话，长短句优化，改完直接能用，职场人建议收藏。#职场干货 #AI提示词 #打工人必备 #职场干货 #如何用好ai",
+        "section": "把这四句提示词发给AI，自动补充实例数据、删掉空话套话，长短句优化，改完直接能用，职场人建议收藏。#职场干货 #AI提示词 #打工人必备 #职场干货 #如何用好ai\n43\n1\n43\n8\n举报\n发布时间：2026-08-28 18:55\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 237,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7675333317377428736": {
+      "raw": {
+        "video_id": "7675333317377428736",
+        "url": "https://www.douyin.com/video/7675333317377428736",
+        "title": "目前为止用过最惊艳的提示词，让Ai理清背景和需求 #Ai #Ai工具 #人工智能 #知识分享 #ai提示词",
+        "section": "目前为止用过最惊艳的提示词，让Ai理清背景和需求 #Ai #Ai工具 #人工智能 #知识分享 #ai提示词\n40\n2\n24\n6\n举报\n发布时间：2026-08-18 19:33\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 559,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7678677534011149614": {
+      "raw": {
+        "video_id": "7678677534011149614",
+        "url": "https://www.douyin.com/video/7678677534011149614",
+        "title": "用AI做PPT一条指令搞定 #AI工具 #PPT技巧 #职场干货 #AI提示词 #办公效率",
+        "section": "用AI做PPT一条指令搞定 #AI工具 #PPT技巧 #职场干货 #AI提示词 #办公效率\n39\n抢首评\n43\n6\n举报\n发布时间：2026-08-27 19:50\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 823,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7691298708675169563": {
+      "raw": {
+        "video_id": "7691298708675169563",
+        "url": "https://www.douyin.com/video/7691298708675169563",
+        "title": "2026最后3个月，建议把这30个问题认真回答一遍 #个人成长 #人生复盘 #目标管理 #AI #自我提升",
+        "section": "2026最后3个月，建议把这30个问题认真回答一遍 #个人成长 #人生复盘 #目标管理 #AI #自我提升\n37\n1\n22\n4\n举报\n发布时间：2026-09-30 20:07\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 1073,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7681514720217648390": {
+      "raw": {
+        "video_id": "7681514720217648390",
+        "url": "https://www.douyin.com/video/7681514720217648390",
+        "title": "4个AI提示词，搞定你的周报 建议收藏#AI提示词 #办公技巧 #打工人周报 #职场干货",
+        "section": "4个AI提示词，搞定你的周报 建议收藏#AI提示词 #办公技巧 #打工人周报 #职场干货\n37\n抢首评\n18\n1\n举报\n发布时间：2026-09-04 18:20\n"
+      },
+      "call_id": "call_0zVnif38YucNUVmBc3zlmkEo",
+      "input_jsonl_line": 2102,
+      "output_jsonl_line": 2105,
+      "content_block_index": 1,
+      "text_offset": 1337,
+      "timestamp_utc": "2026-10-07T04:15:18.157Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7676454232060398857": {
+      "raw": {
+        "video_id": "7676454232060398857",
+        "url": "https://www.douyin.com/video/7676454232060398857",
+        "title": "做重要决策前，先让AI全力反驳你一次！ #AI提示词 #AI指令 #实用小技巧",
+        "section": "做重要决策前，先让AI全力反驳你一次！ #AI提示词 #AI指令 #实用小技巧\n36\n抢首评\n18\n6\n举报\n发布时间：2026-08-21 20:03\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7681517730649951526": {
+      "raw": {
+        "video_id": "7681517730649951526",
+        "url": "https://www.douyin.com/video/7681517730649951526",
+        "title": "别再自己写提示词了，这句指令就够了 #AI提示词 #AI技巧 #万能指令 #效率工具 #职场必备",
+        "section": "别再自己写提示词了，这句指令就够了 #AI提示词 #AI技巧 #万能指令 #效率工具 #职场必备\n33\n2\n55\n14\n举报\n发布时间：2026-09-05 18:35\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 238,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7686089417747959074": {
+      "raw": {
+        "video_id": "7686089417747959074",
+        "url": "https://www.douyin.com/video/7686089417747959074",
+        "title": "把你的工作经历丢给AI，它可能会发现你没意识到的机会 #人工智能 #AI工具 #职场成长 #副业 #个人成长",
+        "section": "把你的工作经历丢给AI，它可能会发现你没意识到的机会 #人工智能 #AI工具 #职场成长 #副业 #个人成长\n30\n1\n23\n4\n举报\n发布时间：2026-09-16 19:12\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 493,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7692413519664303400": {
+      "raw": {
+        "video_id": "7692413519664303400",
+        "url": "https://www.douyin.com/video/7692413519664303400",
+        "title": "AI整理会议纪要，别只会总结 #AI #AI工具 #AI提示词 #职场效率 #会议纪要",
+        "section": "AI整理会议纪要，别只会总结 #AI #AI工具 #AI提示词 #职场效率 #会议纪要\n26\n2\n18\n7\n举报\n发布时间：2026-10-03 20:13\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 759,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7681519978285223183": {
+      "raw": {
+        "video_id": "7681519978285223183",
+        "url": "https://www.douyin.com/video/7681519978285223183",
+        "title": "5套AI提示词帮你做谷票分析 #AI提示词 #炒股技巧 #AI工具 #理财干货",
+        "section": "5套AI提示词帮你做谷票分析 #AI提示词 #炒股技巧 #AI工具 #理财干货\n24\n抢首评\n36\n11\n举报\n发布时间：2026-09-06 18:40\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 1003,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7691674337455230217": {
+      "raw": {
+        "video_id": "7691674337455230217",
+        "url": "https://www.douyin.com/video/7691674337455230217",
+        "title": "领导让你做方案，先把这4句话丢给AI #AI #人工智能 #AI工具 #AI办公 #职场效率",
+        "section": "领导让你做方案，先把这4句话丢给AI #AI #人工智能 #AI工具 #AI办公 #职场效率\n23\n3\n22\n6\n举报\n发布时间：2026-10-01 20:24\n"
+      },
+      "call_id": "call_mvvxP5Lv5ahIw9Kt4tGBjlUD",
+      "input_jsonl_line": 2107,
+      "output_jsonl_line": 2110,
+      "content_block_index": 1,
+      "text_offset": 1242,
+      "timestamp_utc": "2026-10-07T04:15:34.263Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7689767526577835305": {
+      "raw": {
+        "video_id": "7689767526577835305",
+        "url": "https://www.douyin.com/video/7689767526577835305",
+        "title": "AI改图总是越改越乱？记住这7条指令 #AI改图 #AI指令 #AI工具 #提示词 #AI实用技巧",
+        "section": "AI改图总是越改越乱？记住这7条指令 #AI改图 #AI指令 #AI工具 #提示词 #AI实用技巧\n23\n3\n21\n7\n举报\n发布时间：2026-09-26 19:30\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7679812558240386344": {
+      "raw": {
+        "video_id": "7679812558240386344",
+        "url": "https://www.douyin.com/video/7679812558240386344",
+        "title": "让豆包成为你的搞米高手，5条直接抄的提示词指令 #AI自媒体 #豆包使用技巧 #搞钱思路 #AI提示词 #AI工具",
+        "section": "让豆包成为你的搞米高手，5条直接抄的提示词指令 #AI自媒体 #豆包使用技巧 #搞钱思路 #AI提示词 #AI工具\n22\n抢首评\n27\n5\n举报\n发布时间：2026-08-30 21:15\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 256,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7674990194566729003": {
+      "raw": {
+        "video_id": "7674990194566729003",
+        "url": "https://www.douyin.com/video/7674990194566729003",
+        "title": "90%的人都用错AI，吃透这3个思维，从此告别熬夜改材料 #Ai #Ai写作 #职场 #知识分享",
+        "section": "90%的人都用错AI，吃透这3个思维，从此告别熬夜改材料 #Ai #Ai写作 #职场 #知识分享\n21\n1\n20\n6\n举报\n发布时间：2026-08-17 21:21\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 530,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7677614527676042511": {
+      "raw": {
+        "video_id": "7677614527676042511",
+        "url": "https://www.douyin.com/video/7677614527676042511",
+        "title": "用AI写材料，90%的人都用错了 AI不是全自动写手，是你的文字秘书，教你人机协作写材料的正确思路。#AI #AI指令 #AI办公 #职场 #知识分享",
+        "section": "用AI写材料，90%的人都用错了 AI不是全自动写手，是你的文字秘书，教你人机协作写材料的正确思路。#AI #AI指令 #AI办公 #职场 #知识分享\n20\n5\n18\n5\n举报\n发布时间：2026-08-24 23:05\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 784,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7692779502711180595": {
+      "raw": {
+        "video_id": "7692779502711180595",
+        "url": "https://www.douyin.com/video/7692779502711180595",
+        "title": "让AI读资料，别只会让它总结 #AI #AI工具 #AI提示词 #职场效率 #办公效率",
+        "section": "让AI读资料，别只会让它总结 #AI #AI工具 #AI提示词 #职场效率 #办公效率\n18\n6\n10\n1\n举报\n发布时间：2026-10-04 19:53\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 1092,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7677944215208332590": {
+      "raw": {
+        "video_id": "7677944215208332590",
+        "url": "https://www.douyin.com/video/7677944215208332590",
+        "title": "AI客服成\"拦路墙\"！喊破喉咙也转不了人工，是谁的问题？ #AI客服 #AI客服为何挡路 #科技吐槽 #人工智能 #社会热点",
+        "section": "AI客服成\"拦路墙\"！喊破喉咙也转不了人工，是谁的问题？ #AI客服 #AI客服为何挡路 #科技吐槽 #人工智能 #社会热点\n17\n4\n1\n分享\n举报\n发布时间：2026-08-25 20:25\n"
+      },
+      "call_id": "call_Tpqis1oJkzM7UkEilQ4fCL3w",
+      "input_jsonl_line": 2116,
+      "output_jsonl_line": 2119,
+      "content_block_index": 1,
+      "text_offset": 1336,
+      "timestamp_utc": "2026-10-07T04:15:52.055Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7690544610229161242": {
+      "raw": {
+        "video_id": "7690544610229161242",
+        "url": "https://www.douyin.com/video/7690544610229161242",
+        "title": "AI反向提问法，把AI变成你的战略顾问 #AI #提示词 #AI指令 #ChatGPT #职场效率",
+        "section": "AI反向提问法，把AI变成你的战略顾问 #AI #提示词 #AI指令 #ChatGPT #职场效率\n16\n4\n11\n2\n举报\n发布时间：2026-09-28 19:21\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7686506064203894062": {
+      "raw": {
+        "video_id": "7686506064203894062",
+        "url": "https://www.douyin.com/video/7686506064203894062",
+        "title": "写周报，别一上来就让AI直接写 #AI办公 #工作周报 #AI提示词 #职场干货 #工作效率",
+        "section": "写周报，别一上来就让AI直接写 #AI办公 #工作周报 #AI提示词 #职场干货 #工作效率\n11\n1\n7\n3\n举报\n发布时间：2026-09-18 08:00\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 256,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7683889655497968939": {
+      "raw": {
+        "video_id": "7683889655497968939",
+        "url": "https://www.douyin.com/video/7683889655497968939",
+        "title": "开完会别只让AI总结 昨天开了一个多小时的会，导出来28页会议记录。飞书总结已经不错，但我发现真正有用的是：把自己的身份、目标、当前问题一起告诉AI，让它直接筛出“这场会对我有什么用、下一步该干什么”。我把这次实测过的提示词也放在视频里了，需要的暂停截图就行#AI #会议纪要 #AI办公 #职场效率 #人工智能",
+        "section": "开完会别只让AI总结 昨天开了一个多小时的会，导出来28页会议记录。飞书总结已经不错，但我发现真正有用的是：把自己的身份、目标、当前问题一起告诉AI，让它直接筛出“这场会对我有什么用、下一步该干什么”。我把这次实测过的提示词也放在视频里了，需要的暂停截图就行#AI #会议纪要 #AI办公 #职场效率 #人工智能\n11\n抢首评\n9\n1\n举报\n发布时间：2026-09-10 20:56\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 505,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7689382819998485801": {
+      "raw": {
+        "video_id": "7689382819998485801",
+        "url": "https://www.douyin.com/video/7689382819998485801",
+        "title": "当人人都有一个聪明的AI以后，人与人的差距还剩什么？ #人工智能 #AI #黄仁勋 #AI时代 #认知提升",
+        "section": "当人人都有一个聪明的AI以后，人与人的差距还剩什么？ #人工智能 #AI #黄仁勋 #AI时代 #认知提升\n10\n1\n6\n2\n举报\n发布时间：2026-09-25 16:12\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 976,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7688661808160279817": {
+      "raw": {
+        "video_id": "7688661808160279817",
+        "url": "https://www.douyin.com/video/7688661808160279817",
+        "title": "AI为什么会一本正经地瞎编？这就是“AI幻觉” #AI #AI幻觉#人工智能#AI工具#ChatGPT",
+        "section": "AI为什么会一本正经地瞎编？这就是“AI幻觉” #AI #AI幻觉#人工智能#AI工具#ChatGPT\n10\n抢首评\n6\n1\n举报\n发布时间：2026-09-23 17:34\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 1239,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7673835835849985289": {
+      "raw": {
+        "video_id": "7673835835849985289",
+        "url": "https://www.douyin.com/video/7673835835849985289",
+        "title": "33岁辞职在家，我决定用AI把自己重养一遍 #AI重养自己 #普通人学AI #辞职后的生活 #超级个体OPC",
+        "section": "33岁辞职在家，我决定用AI把自己重养一遍 #AI重养自己 #普通人学AI #辞职后的生活 #超级个体OPC\n10\n1\n1\n1\n举报\n发布时间：2026-08-14 18:42\n"
+      },
+      "call_id": "call_ArDO5x80gGSvyqDkL85iqxCy",
+      "input_jsonl_line": 2121,
+      "output_jsonl_line": 2124,
+      "content_block_index": 1,
+      "text_offset": 1500,
+      "timestamp_utc": "2026-10-07T04:16:10.559Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7689111016508050742": {
+      "raw": {
+        "video_id": "7689111016508050742",
+        "url": "https://www.douyin.com/video/7689111016508050742",
+        "title": "现在做漫剧这么简单了吗 #AI漫剧 #AI",
+        "section": "现在做漫剧这么简单了吗 #AI漫剧 #AI\n9\n1\n12\n1\n举报\n发布时间：2026-09-24 22:37\n"
+      },
+      "call_id": "call_VZEEOXQkTmwUC5TUypYE4qOC",
+      "input_jsonl_line": 2126,
+      "output_jsonl_line": 2129,
+      "content_block_index": 1,
+      "text_offset": 0,
+      "timestamp_utc": "2026-10-07T04:16:33.662Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7683103713891831092": {
+      "raw": {
+        "video_id": "7683103713891831092",
+        "url": "https://www.douyin.com/video/7683103713891831092",
+        "title": "做AI账号快一个月，我决定换一种方式了 #AI #人工智能 #个人IP #自媒体 #超级个体",
+        "section": "做AI账号快一个月，我决定换一种方式了 #AI #人工智能 #个人IP #自媒体 #超级个体\n9\n抢首评\n3\n1\n举报\n发布时间：2026-09-08 18:06\n"
+      },
+      "call_id": "call_VZEEOXQkTmwUC5TUypYE4qOC",
+      "input_jsonl_line": 2126,
+      "output_jsonl_line": 2129,
+      "content_block_index": 1,
+      "text_offset": 199,
+      "timestamp_utc": "2026-10-07T04:16:33.662Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7677193736392117555": {
+      "raw": {
+        "video_id": "7677193736392117555",
+        "url": "https://www.douyin.com/video/7677193736392117555",
+        "title": "AI老板开除真人员工，你愿意让AI当你老板吗 #AI #大模型 #人工智能 #科技改变生活",
+        "section": "AI老板开除真人员工，你愿意让AI当你老板吗 #AI #大模型 #人工智能 #科技改变生活\n7\n抢首评\n1\n2\n举报\n发布时间：2026-08-23 19:52\n"
+      },
+      "call_id": "call_VZEEOXQkTmwUC5TUypYE4qOC",
+      "input_jsonl_line": 2126,
+      "output_jsonl_line": 2129,
+      "content_block_index": 1,
+      "text_offset": 449,
+      "timestamp_utc": "2026-10-07T04:16:33.662Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7693156653553683763": {
+      "raw": {
+        "video_id": "7693156653553683763",
+        "url": "https://www.douyin.com/video/7693156653553683763",
+        "title": "AI写口播稿，4步去掉“念稿感” #AI写作 #AI办公 #口播文案 #自媒体 #AI提效",
+        "section": "AI写口播稿，4步去掉“念稿感” #AI写作 #AI办公 #口播文案 #自媒体 #AI提效\n4\n抢首评\n5\n分享\n举报\n发布时间：2026-10-05 20:17\n"
+      },
+      "call_id": "call_VZEEOXQkTmwUC5TUypYE4qOC",
+      "input_jsonl_line": 2126,
+      "output_jsonl_line": 2129,
+      "content_block_index": 1,
+      "text_offset": 697,
+      "timestamp_utc": "2026-10-07T04:16:33.662Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    },
+    "7686459514798886184": {
+      "raw": {
+        "video_id": "7686459514798886184",
+        "url": "https://www.douyin.com/video/7686459514798886184",
+        "title": "AI下一阶段，可能不再拼谁更聪明，而是谁更能干活 #人工智能 #AI趋势 #Agent #AI工具 #工作效率",
+        "section": "AI下一阶段，可能不再拼谁更聪明，而是谁更能干活 #人工智能 #AI趋势 #Agent #AI工具 #工作效率\n3\n抢首评\n1\n1\n举报\n发布时间：2026-09-17 19:08\n"
+      },
+      "call_id": "call_VZEEOXQkTmwUC5TUypYE4qOC",
+      "input_jsonl_line": 2126,
+      "output_jsonl_line": 2129,
+      "content_block_index": 1,
+      "text_offset": 946,
+      "timestamp_utc": "2026-10-07T04:16:33.662Z",
+      "session_path": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl"
+    }
+  },
+  "validation": "39 exact first four metric fields and dates match saved ranking; no rerun"
+}

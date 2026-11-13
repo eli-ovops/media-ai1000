@@ -1,0 +1,14 @@
+{
+  "directory_ids": 209,
+  "sample_ids": 10,
+  "directory_like_checks_passed": 209,
+  "directory_full_title_normalized_match": 207,
+  "shortened_title_prefix_ids": [
+    "7690812098695751345",
+    "7656765884686497765"
+  ],
+  "sample_metadata_checks_passed": 10,
+  "raw_source_session_read": "one exact session only; no full log copied",
+  "normalization": "strip episode prefix/hashtags and ignore punctuation/whitespace only; numerical facts unchanged; two shortened titles explicitly labeled",
+  "full_audiovisual": 0
+}

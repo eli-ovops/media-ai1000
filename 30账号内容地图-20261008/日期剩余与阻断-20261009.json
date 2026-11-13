@@ -1,0 +1,184 @@
+[
+  {
+    "video_id": "7684470051759541531",
+    "status": "ATTEMPTED_UNRESOLVED",
+    "attempts": [
+      {
+        "requested_id": "7684470051759541531",
+        "video_id": "7684470051759541531",
+        "navigation_error": "Error: Timed out waiting for tab 109 to navigate to https://www.douyin.com/video/7684470051759541531.",
+        "url": "https://www.douyin.com/video/7684470051759541531",
+        "load_wait_error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector ",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8033,
+          "call_id": "call_043484084ed5493fac60905f832cb387",
+          "timestamp": "2026-10-09T01:24:13.504Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T01:24:13.504Z"
+      },
+      {
+        "requested_id": "7684470051759541531",
+        "navigation_error": "Error: Browser Use cannot open https://www.douyin.com/video/7684470051759541531 in tab 274. Browser reported: net::ERR_ABORTED",
+        "url": "about:blank",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8608,
+          "call_id": "call_83ad37cded824284806af822badd8c2b",
+          "timestamp": "2026-10-09T02:07:59.188Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T02:07:59.188Z"
+      },
+      {
+        "requested_id": "7684470051759541531",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7684470051759541531 in tab 4. Browser reported: net::ERR_ABORTED",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 9772,
+          "call_id": "call_9a71099c852941049ccbe60f3f933508",
+          "timestamp": "2026-10-09T05:40:49.666Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T05:40:49.666Z"
+      }
+    ]
+  },
+  {
+    "video_id": "7675332702165339446",
+    "status": "ATTEMPTED_UNRESOLVED",
+    "attempts": [
+      {
+        "requested_id": "7675332702165339446",
+        "url": "https://www.douyin.com/jingxuan?modal_id=7692318852517117369",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8047,
+          "call_id": "call_2742a9d545704f0e9f063e56593c4eec",
+          "timestamp": "2026-10-09T01:25:33.792Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T01:25:33.792Z"
+      },
+      {
+        "requested_id": "7675332702165339446",
+        "navigation_error": "Error: Browser Use cannot open https://www.douyin.com/video/7675332702165339446 in tab 275. Browser reported: net::ERR_ABORTED",
+        "url": "about:blank",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8608,
+          "call_id": "call_83ad37cded824284806af822badd8c2b",
+          "timestamp": "2026-10-09T02:07:59.188Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T02:07:59.188Z"
+      },
+      {
+        "requested_id": "7675332702165339446",
+        "url": "https://www.douyin.com/video/7675332702165339446",
+        "video_id": "7675332702165339446",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 9772,
+          "call_id": "call_9a71099c852941049ccbe60f3f933508",
+          "timestamp": "2026-10-09T05:40:49.666Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T05:40:49.666Z"
+      }
+    ]
+  },
+  {
+    "video_id": "7688377427998854450",
+    "status": "ATTEMPTED_UNRESOLVED",
+    "attempts": [
+      {
+        "requested_id": "7688377427998854450",
+        "navigation_error": "Error: Browser Use cannot open https://www.douyin.com/video/7688377427998854450 in tab 137. Browser reported: net::ERR_ABORTED",
+        "url": "about:blank",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8151,
+          "call_id": "call_01d3eb241f534a87980a747a3ce67b52",
+          "timestamp": "2026-10-09T01:34:44.059Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T01:34:44.059Z"
+      },
+      {
+        "requested_id": "7688377427998854450",
+        "navigation_error": "Error: Browser Use cannot open https://www.douyin.com/video/7688377427998854450 in tab 280. Browser reported: net::ERR_ABORTED",
+        "url": "about:blank",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8620,
+          "call_id": "call_c6dd28f5010c46bda5646ecedec95d03",
+          "timestamp": "2026-10-09T02:08:47.495Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T02:08:47.495Z"
+      },
+      {
+        "requested_id": "7688377427998854450",
+        "url": "https://www.douyin.com/video/7688377427998854450",
+        "video_id": "7688377427998854450",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 9786,
+          "call_id": "call_3aee9fe04c8344f0bebe24a3af408626",
+          "timestamp": "2026-10-09T05:42:11.816Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T05:42:11.816Z"
+      }
+    ]
+  },
+  {
+    "video_id": "7686419309731548470",
+    "status": "ATTEMPTED_UNRESOLVED",
+    "attempts": [
+      {
+        "requested_id": "7686419309731548470",
+        "video_id": "7686419309731548470",
+        "url": "https://www.douyin.com/video/7686419309731548470",
+        "load_wait_error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector ",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8391,
+          "call_id": "call_c0f6708dd75a4299ab8b488a4fb7771f",
+          "timestamp": "2026-10-09T01:52:31.425Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T01:52:31.425Z"
+      },
+      {
+        "requested_id": "7686419309731548470",
+        "video_id": "7686419309731548470",
+        "navigation_error": "Error: Timed out waiting for tab 299 to navigate to https://www.douyin.com/video/7686419309731548470.",
+        "url": "https://www.douyin.com/video/7686419309731548470",
+        "load_wait_error": "Error: Error: Timed out after 3000ms waiting for selector internal:text=/发布时间/ >> nth=0: Browser Use",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 8684,
+          "call_id": "call_6e7debec60a643bbb70626d34ae2301a",
+          "timestamp": "2026-10-09T02:13:35.873Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T02:13:35.873Z"
+      },
+      {
+        "requested_id": "7686419309731548470",
+        "error": "Error: Browser Use cannot open https://www.douyin.com/video/7686419309731548470 in tab 4. Browser reported: net::ERR_ABORTED",
+        "receipt": {
+          "session": "/Users/USER/.codex/sessions/2026/10/07/rollout-2026-10-07T10-47-54-01a11442-a6d9-7413-88b3-191ce5cb037b.jsonl",
+          "line": 9800,
+          "call_id": "call_f2d90cb0e3b8441b8026af99557de07f",
+          "timestamp": "2026-10-09T05:43:13.733Z",
+          "tool": "mcp__cua_repl.js"
+        },
+        "checked_at_utc": "2026-10-09T05:43:13.733Z"
+      }
+    ]
+  }
+]
